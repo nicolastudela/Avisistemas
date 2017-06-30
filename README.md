@@ -1,2 +1,2 @@
 # Avisistemas
-avisistemas main repository
+avisistemas repository
