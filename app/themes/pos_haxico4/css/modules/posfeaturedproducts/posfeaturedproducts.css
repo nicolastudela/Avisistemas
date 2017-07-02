@@ -1,0 +1,7 @@
+.pos_featured_product { background: #f5f5f5; }
+@media (min-width: 992px) { .pos_featured_product { padding-left: 30px; } }
+@media (max-width: 991px) { .pos_featured_product .container-inner { max-width: 750px; padding-left: 15px; padding-right: 15px; margin: 0 auto; } }
+.pos_featured_product .pos-title { text-align: right; }
+.pos_featured_product .pos-title h2:before { right: 0; left: auto; }
+.pos_featured_product .owl-buttons { left: 10px; right: auto; background: #f5f5f5; }
+.pos_featured_product .featured_product { padding-top: 30px; padding-bottom: 30px; }

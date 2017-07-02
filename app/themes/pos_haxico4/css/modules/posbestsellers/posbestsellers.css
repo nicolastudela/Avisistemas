@@ -1,0 +1,24 @@
+.pos-bestsellers { margin-bottom: 50px; }
+.pos-bestsellers .pos-title { position: relative; }
+.pos-bestsellers .pos-title h2 { font-size: 22px; }
+.pos-bestsellers .item-product { display: inline-block; width: 100%; padding: 0 20px; margin-bottom: 30px; }
+.pos-bestsellers .item-product:last-child { margin: 0; }
+.pos-bestsellers .item-product .products-inner { float: left; width: 90px; padding: 0; margin-top: 20px; margin-right: 20px; }
+@media (max-width: 359px) { .pos-bestsellers .item-product .products-inner { width: 75px; } }
+.pos-bestsellers .item-product .products-inner:before { display: none; }
+.pos-bestsellers .item-product .product-contents { background: transparent; overflow: hidden; display: block; width: auto; position: relative; min-height: 120px; }
+.pos-bestsellers .item-product .product-contents .actions { bottom: -15px; }
+.pos-bestsellers .item-product .product-contents .product-desc, .pos-bestsellers .item-product .product-contents .price-percent-reduction { display: none; }
+.pos-bestsellers .owl-buttons { margin-top: -70px; height: 30px; }
+.pos-bestsellers .owl-buttons > div { text-align: center; width: 30px; height: 30px; line-height: 30px; }
+.pos-bestsellers .owl-buttons > div:before { font-size: 24px; }
+
+.pos-bestsellers-product .title_block:after { display: none; }
+.pos-bestsellers-product .item-product { border: 0; border-bottom: 1px solid rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 10px 0; border-radius: 0; }
+.pos-bestsellers-product .item-product:before { display: none; }
+.pos-bestsellers-product .item-product:last-child { margin: 0; }
+.pos-bestsellers-product .item-product .products-inner { float: left; width: 90px; margin-right: 20px; }
+.pos-bestsellers-product .item-product .product-contents { overflow: hidden; width: auto; display: block; padding: 0; text-align: left; }
+@media (min-width: 768px) and (max-width: 991px) { .pos-bestsellers-product .item-product .product-contents { display: inline-block; width: 100%; overflow: visible; padding-top: 10px; } }
+.pos-bestsellers-product .item-product .product-contents .price-box .price-percent-reduction { display: none; }
+.pos-bestsellers-product .item-product .product-contents h5.product-name a { font-size: 13px; }

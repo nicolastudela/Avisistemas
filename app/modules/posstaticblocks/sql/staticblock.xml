@@ -1,0 +1,208 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>1</id_posstaticblock>
+		<identify>static_info</identify>
+		<hook_position>bannerSlide</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>2</id_posstaticblock>
+		<identify>home_banner </identify>
+		<hook_position>blockPosition1</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+<!-- block lang configuration -->
+<!-- language1 -->
+	<block_lang>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Static Info</title>
+		<description>
+			<![CDATA[
+			<div class="Static_info">
+			<div class="wellcome">
+			<h2>Welcome <span>Ha</span><span class="last-text">xico!</span></h2>
+			<p>We are a team of designers and developers that create high quality Magento, Prestashop, Opencart themes and provide premium and dedicated support to our products.</p>
+			</div>
+			<div class="row">
+			<div class=" col-xs-12 col-sm-4 col-md-4">
+			<div class="info box1">
+			<div class="icont_static"></div>
+			<div class="static_info">
+			<h4>Free Shipping</h4>
+			<p>on orders over $100</p>
+			<a href="#">Learn more!</a></div>
+			</div>
+			</div>
+			<div class=" col-xs-12 col-sm-4 col-md-4">
+			<div class="info box2">
+			<div class="icont_static"></div>
+			<div class="static_info">
+			<h4>Money Guarantee</h4>
+			<p>30 days money back</p>
+			<a href="#">Learn more!</a></div>
+			</div>
+			</div>
+			<div class=" col-xs-12 col-sm-4 col-md-4">
+			<div class="info box3">
+			<div class="icont_static"></div>
+			<div class="static_info">
+			<h4>Online Support</h4>
+			<p>online 24/24 on day</p>
+			<a href="#">Learn more!</a></div>
+			</div>
+			</div>
+			</div>
+			</div>
+			]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Home Banner</title>
+		<description>
+			<![CDATA[
+			<div class="banner-home">
+			<div class=" container">
+			<div class="row">
+			<div class="col  col-sm-7 col-md-7 col-xs-12">
+			<div class="banner-static box1">
+			<div class="banner-box"><a href="#"><img src="/pos_haxico/img/cms/1_4.jpg" alt="" /></a></div>
+			<div class="banner-content">
+			<h2>Nikon <span>D5100</span> DSLR Camera</h2>
+			<p class="info">With 18-55mm f/3.5-5.6 Auto Focus-S Nikkor Zoom Lens</p>
+			<p class="desc">The D5100 has a very similar 16.2MP CMOS sensor to the excellent one seen in the D7000 but, understandably, loses out on that camera high-end build and feature-set. So there is no wireless</p>
+			<a href="#">Shop now</a></div>
+			</div>
+			</div>
+			<div class="col col-sm-5 col-md-5 col-xs-12">
+			<div class="banner-static box2">
+			<div class="banner-box"><a href="#"><img src="/pos_haxico/img/cms/2_4.jpg" alt="" /></a></div>
+			<div class="banner-content">
+			<h2>iPhone S6</h2>
+			<p class="desc">iOS 9, upgradable to iOS 9.3.3, planned upgrade to iOS 10</p>
+			<a href="#">Shop now</a></div>
+			</div>
+			<div class="banner-static box3">
+			<div class="font-icon"></div>
+			<div class="banner-content">
+			<h2>Mega Sale</h2>
+			<h3>up to70% off</h3>
+			<a href="#">Shop now</a></div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			]]>
+		</description>
+	</block_lang>
+<!-- language2 -->	
+	<block_lang>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Static Info</title>
+		<description>
+			<![CDATA[
+			<div class="Static_info">
+			<div class="wellcome">
+			<h2>Welcome <span>Ha</span><span class="last-text">xico!</span></h2>
+			<p>We are a team of designers and developers that create high quality Magento, Prestashop, Opencart themes and provide premium and dedicated support to our products.</p>
+			</div>
+			<div class="row">
+			<div class=" col-xs-12 col-sm-4 col-md-4">
+			<div class="info box1">
+			<div class="icont_static"></div>
+			<div class="static_info">
+			<h4>Free Shipping</h4>
+			<p>on orders over $100</p>
+			<a href="#">Learn more!</a></div>
+			</div>
+			</div>
+			<div class=" col-xs-12 col-sm-4 col-md-4">
+			<div class="info box2">
+			<div class="icont_static"></div>
+			<div class="static_info">
+			<h4>Money Guarantee</h4>
+			<p>30 days money back</p>
+			<a href="#">Learn more!</a></div>
+			</div>
+			</div>
+			<div class=" col-xs-12 col-sm-4 col-md-4">
+			<div class="info box3">
+			<div class="icont_static"></div>
+			<div class="static_info">
+			<h4>Online Support</h4>
+			<p>online 24/24 on day</p>
+			<a href="#">Learn more!</a></div>
+			</div>
+			</div>
+			</div>
+			</div>
+			]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Home Banner</title>
+		<description>
+			<![CDATA[
+			<div class="banner-home">
+			<div class=" container">
+			<div class="row">
+			<div class="col  col-sm-7 col-md-7 col-xs-12">
+			<div class="banner-static box1">
+			<div class="banner-box"><a href="#"><img src="/pos_haxico/img/cms/1_4.jpg" alt="" /></a></div>
+			<div class="banner-content">
+			<h2>Nikon <span>D5100</span> DSLR Camera</h2>
+			<p class="info">With 18-55mm f/3.5-5.6 Auto Focus-S Nikkor Zoom Lens</p>
+			<p class="desc">The D5100 has a very similar 16.2MP CMOS sensor to the excellent one seen in the D7000 but, understandably, loses out on that camera high-end build and feature-set. So there is no wireless</p>
+			<a href="#">Shop now</a></div>
+			</div>
+			</div>
+			<div class="col col-sm-5 col-md-5 col-xs-12">
+			<div class="banner-static box2">
+			<div class="banner-box"><a href="#"><img src="/pos_haxico/img/cms/2_4.jpg" alt="" /></a></div>
+			<div class="banner-content">
+			<h2>iPhone S6</h2>
+			<p class="desc">iOS 9, upgradable to iOS 9.3.3, planned upgrade to iOS 10</p>
+			<a href="#">Shop now</a></div>
+			</div>
+			<div class="banner-static box3">
+			<div class="font-icon"></div>
+			<div class="banner-content">
+			<h2>Mega Sale</h2>
+			<h3>up to70% off</h3>
+			<a href="#">Shop now</a></div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			]]>
+		</description>
+	</block_lang>
+<!-- block shop configuration -->
+
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+</pos_static_blocks>

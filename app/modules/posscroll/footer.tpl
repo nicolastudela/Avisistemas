@@ -1,0 +1,1 @@
+<div class="back-top"><a href= "#" class="mypresta_scrollup hidden-phone">{l s='back to top' mod='posscroll'}</a></div>

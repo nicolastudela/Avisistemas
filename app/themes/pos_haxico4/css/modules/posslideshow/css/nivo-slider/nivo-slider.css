@@ -1,0 +1,93 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400,700&subset=latin-ext);
+.ma-nivoslider .pos-loading { background: #ECECEC; position: relative; width: 100%; }
+.ma-nivoslider .pos-loading span { width: 32px; height: 32px; position: absolute; z-index: 99; background: url("loader.gif") no-repeat center white; top: 50%; left: 50%; right: 50%; bottom: 50%; margin: -16px 0 0 -16px; }
+
+.nivoSlider { position: relative; width: 100%; border-bottom: 7px solid #313131; /* If an image is wrapped in a link */ }
+.nivoSlider img { position: absolute; top: 0px; left: 0px; max-width: none; }
+.nivoSlider a.nivo-imageLink { position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; z-index: 6; display: none; background: white; filter: alpha(opacity=0); opacity: 0; }
+
+.nivo-main-image { display: block !important; position: relative !important; width: 100% !important; }
+
+/* The slices and boxes in the Slider */
+.nivo-slice { display: block; position: absolute; z-index: 5; height: 100%; top: 0; }
+
+.nivo-box { display: block; position: absolute; z-index: 5; overflow: hidden; }
+.nivo-box img { display: block; }
+
+/* Caption styles */
+.nivo-html-caption { display: none; }
+
+@-webkit-keyframes myfirst { from { width: 0; }
+  to { width: 100%; } }
+
+@keyframes myfirst { from { width: 0; }
+  to { width: 100%; } }
+
+.timethai.pos_hover { -webkit-animation-play-state: paused; animation-play-state: paused; }
+
+/* slideshow edit */
+.pos-slideshow { position: relative; margin-bottom: 30px; }
+.pos-slideshow:hover .nivo-directionNav a { opacity: 1; -webkit-transition: all 300ms linear; -moz-transition: all 300ms linear; -ms-transition: all 300ms linear; -o-transition: all 300ms linear; transition: all 300ms linear; }
+.pos-slideshow .nivo-directionNav a { display: block; width: 50px; height: 50px; line-height: 50px; border-radius: 0; color: #313131; text-align: center; font-size: 40px; position: absolute; z-index: 8; cursor: pointer; top: 50%; -moz-transform: translateY(-50%); -webkit-transform: translateY(-50%); -o-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%); opacity: 0; -webkit-transition: all 300ms linear; -moz-transition: all 300ms linear; -ms-transition: all 300ms linear; -o-transition: all 300ms linear; transition: all 300ms linear; }
+@media (max-width: 1199px) { .pos-slideshow .nivo-directionNav a { width: 4.88281vw; height: 4.88281vw; line-height: 4.88281vw; font-size: 2.92969vw; } }
+@media (max-width: 767px) { .pos-slideshow .nivo-directionNav a { display: none; } }
+.pos-slideshow .nivo-directionNav a.nivo-prevNav { left: -50px; }
+@media (max-width: 1199px) { .pos-slideshow .nivo-directionNav a.nivo-prevNav { left: -50px; } }
+@media (max-width: 991px) { .pos-slideshow .nivo-directionNav a.nivo-prevNav { left: -30px; } }
+.pos-slideshow .nivo-directionNav a.nivo-nextNav { right: -50px; }
+@media (max-width: 1199px) { .pos-slideshow .nivo-directionNav a.nivo-nextNav { right: -50px; } }
+@media (max-width: 1199px) { .pos-slideshow .nivo-directionNav a.nivo-nextNav { right: -30px; } }
+.pos-slideshow .nivo-directionNav a:hover { color: #92c234; }
+.pos-slideshow .nivo-controlNav { position: absolute; bottom: 30px; left: 0; right: 0; text-align: center; z-index: 8; }
+@media (max-width: 1199px) { .pos-slideshow .nivo-controlNav { bottom: 2.92969vw; } }
+@media (max-width: 767px) { .pos-slideshow .nivo-controlNav { display: none; } }
+.pos-slideshow .nivo-controlNav a { display: inline-block; height: 10px; border-radius: 100%; font-size: 0; width: 10px; margin: 0 4px; text-align: center; cursor: pointer; position: relative; z-index: 8; background: #48475a; -webkit-transition: all 300ms linear; -moz-transition: all 300ms linear; -ms-transition: all 300ms linear; -o-transition: all 300ms linear; transition: all 300ms linear; }
+.pos-slideshow .nivo-controlNav a.active, .pos-slideshow .nivo-controlNav a:hover { background: #92c234; }
+
+.pos-slideshow-content { position: absolute; top: 50%; left: 60px; right: 0; z-index: 6; text-align: left; direction: ltr; line-height: 1; font-weight: 400; -moz-transform: translateY(-50%); -webkit-transform: translateY(-50%); -o-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%); font-family: 'Oswald', sans-serif; }
+@media (max-width: 1199px) { .pos-slideshow-content { left: 5.85938vw; } }
+.pos-slideshow-content p { margin: 0; }
+
+.desc1 .title1 { font-size: 50px; color: #333333; font-weight: normal; text-transform: capitalize; -webkit-animation-delay: 0s; animation-delay: 0s; -webkit-animation-duration: 0.9s; animation-duration: 0.9s; }
+.desc1 .title2 { font-size: 50px; color: #333333; font-weight: normal; margin-bottom: 20px; -webkit-animation-delay: 0.5s; animation-delay: 0.5s; -webkit-animation-duration: 0.9s; animation-duration: 0.9s; }
+.desc1 .title2 span { color: #92c234; }
+.desc1 .title3 { position: relative; margin: 0 0 20px 0; font-size: 14px; max-width: 40%; color: #777777; line-height: 25px; -webkit-animation-delay: 1s; animation-delay: 1s; -webkit-animation-duration: 0.9s; animation-duration: 0.9s; font-family: Poppins; }
+.desc1 .title4 { position: relative; margin: 0 0 20px 0; font-size: 24px; color: #777777; font-weight: 500; line-height: 25px; -webkit-animation-delay: 1.5s; animation-delay: 1.5s; -webkit-animation-duration: 0.9s; animation-duration: 0.9s; font-family: Poppins , sans-serif; }
+.desc1 .title4 span { color: #4cb6c2; font-size: 34px; text-decoration: underline; font-family: 'Oswald', sans-serif; font-weight: normal; }
+.desc1 .readmore { -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-animation-duration: 0.9s; animation-duration: 0.9s; }
+.desc1 .readmore a { -webkit-transition: all 300ms linear; -moz-transition: all 300ms linear; -ms-transition: all 300ms linear; -o-transition: all 300ms linear; transition: all 300ms linear; position: relative; font-size: 18px; color: white; line-height: 50px; padding: 0 20px; text-transform: uppercase; background: #c90000; -webkit-border-radius: 5px 5px 5px 5px; border-radius: 5px 5px 5px 5px; font-weight: 600; display: inline-block; }
+.desc1 .readmore a:before { font-family: 'Material-Design-Iconic-Font'; display: inline-block; font-size: 22px; content: "\f1c9"; margin-right: 10px; vertical-align: middle; color: white; }
+.desc1 .readmore a:hover { background: #92c234; -webkit-transition: all 300ms linear; -moz-transition: all 300ms linear; -ms-transition: all 300ms linear; -o-transition: all 300ms linear; transition: all 300ms linear; }
+
+.desc2 .title1 { font-size: 50px; color: white; font-weight: normal; text-transform: capitalize; -webkit-animation-delay: 0s; animation-delay: 0s; -webkit-animation-duration: 0.9s; animation-duration: 0.9s; }
+.desc2 .title2 { font-size: 50px; color: white; font-weight: normal; margin-bottom: 20px; -webkit-animation-delay: 0.5s; animation-delay: 0.5s; -webkit-animation-duration: 0.9s; animation-duration: 0.9s; }
+.desc2 .title2 span { color: #92c234; }
+.desc2 .title3 { position: relative; margin: 0 0 20px 0; font-size: 14px; max-width: 40%; color: white; line-height: 25px; -webkit-animation-delay: 1s; animation-delay: 1s; -webkit-animation-duration: 0.9s; animation-duration: 0.9s; font-family: Poppins; }
+.desc2 .title4 { position: relative; margin: 0 0 20px 0; font-size: 24px; color: #777777; font-weight: 500; line-height: 25px; -webkit-animation-delay: 1.5s; animation-delay: 1.5s; -webkit-animation-duration: 0.9s; animation-duration: 0.9s; font-family: Poppins , sans-serif; }
+.desc2 .title4 span { color: white; font-size: 34px; text-decoration: underline; font-family: 'Oswald', sans-serif; font-weight: normal; }
+.desc2 .readmore { -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-animation-duration: 0.9s; animation-duration: 0.9s; }
+.desc2 .readmore a { -webkit-transition: all 300ms linear; -moz-transition: all 300ms linear; -ms-transition: all 300ms linear; -o-transition: all 300ms linear; transition: all 300ms linear; position: relative; font-size: 18px; color: white; line-height: 50px; padding: 0 20px; text-transform: uppercase; background: #c90000; -webkit-border-radius: 5px 5px 5px 5px; border-radius: 5px 5px 5px 5px; font-weight: 600; display: inline-block; }
+.desc2 .readmore a:before { font-family: 'Material-Design-Iconic-Font'; display: inline-block; font-size: 22px; content: "\f1c9"; margin-right: 10px; vertical-align: middle; color: white; }
+.desc2 .readmore a:hover { background: #92c234; -webkit-transition: all 300ms linear; -moz-transition: all 300ms linear; -ms-transition: all 300ms linear; -o-transition: all 300ms linear; transition: all 300ms linear; }
+
+@media (max-width: 1199px) { .desc1 .title1, .desc2 .title1 { font-size: 3.41797vw; }
+  .desc1 .title2, .desc2 .title2 { font-size: 3.41797vw; margin: 0 0 0.97656vw 0; }
+  .desc1 .title3, .desc2 .title3 { font-size: 1.36719vw; margin: 0 0 0.97656vw 0; line-height: 2.44141vw; max-width: 50%; }
+  .desc1 .title4, .desc2 .title4 { position: relative; margin: 0 0 0.97656vw 0; font-size: 1.36719vw; line-height: 2.44141vw; }
+  .desc1 .title4 span, .desc2 .title4 span { font-size: 1.95313vw; }
+  .desc1 .readmore a, .desc2 .readmore a { font-size: 1.36719vw; line-height: 3.41797vw; padding: 0 1.46484vw; }
+  .desc1 .readmore a:before, .desc2 .readmore a:before { font-size: 1.95313vw; } }
+@media (max-width: 767px) { .desc1 .title1, .desc2 .title1 { font-size: 3.25945vw; }
+  .desc1 .title2, .desc2 .title2 { font-size: 3.25945vw; margin: 0 0 1.30378vw 0; }
+  .desc1 .title3, .desc2 .title3 { font-size: 1.82529vw; margin: 0 0 1.30378vw 0; line-height: 3.25945vw; max-width: 85%; }
+  .desc1 .title4, .desc2 .title4 { position: relative; margin: 0 0 1.30378vw 0; font-size: 1.82529vw; line-height: 3.25945vw; }
+  .desc1 .title4 span, .desc2 .title4 span { font-size: 2.60756vw; }
+  .desc1 .readmore a, .desc2 .readmore a { font-size: 1.82529vw; line-height: 4.56323vw; padding: 0 1.95567vw; }
+  .desc1 .readmore a:before, .desc2 .readmore a:before { font-size: 2.60756vw; } }
+@media (max-width: 480px) { .desc1 .title1, .desc2 .title1 { font-size: 2.91667vw; }
+  .desc1 .title2, .desc2 .title2 { font-size: 2.91667vw; margin: 0 0 1.04167vw 0; }
+  .desc1 .title3, .desc2 .title3 { font-size: 2.91667vw; margin: 0 0 1.04167vw 0; line-height: 5.20833vw; max-width: 85%; display: none; }
+  .desc1 .title4, .desc2 .title4 { position: relative; margin: 0 0 1.04167vw 0; font-size: 2.91667vw; line-height: 5.20833vw; }
+  .desc1 .title4 span, .desc2 .title4 span { font-size: 3.33333vw; }
+  .desc1 .readmore a, .desc2 .readmore a { font-size: 2.5vw; line-height: 5.20833vw; padding: 0 2.08333vw; }
+  .desc1 .readmore a:before, .desc2 .readmore a:before { font-size: 2.08333vw; } }

@@ -1,0 +1,93 @@
+<pos_slideshow>
+<!-- slideshow  configuration -->
+	<slideshow>
+		<id_pos_slideshow>1</id_pos_slideshow>
+		<porder>1</porder>
+		<active>1</active>
+	</slideshow>
+	<slideshow>
+		<id_pos_slideshow>2</id_pos_slideshow>
+		<porder>1</porder>
+		<active>1</active>
+	</slideshow>
+<!-- language 1 -->
+	<slideshow_lang>
+		<id_pos_slideshow>1</id_pos_slideshow>
+		<id_lang>1</id_lang>
+		<title>Slideshow1</title>
+		<link></link>
+		<description>
+		<![CDATA[
+		<div class="info desc1">
+		<p class="title1" data-animation="animated blurFadeInDown">The New Canon</p>
+		<p class="title2" data-animation="animated blurFadeInDown">PowerShot SX240 HS</p>
+		<p class="title3" data-animation="animated blurFadeInDown">The Canon PowerShot SX240 HS camera is a new travel-zoom camera that replaces the SX230 HS model.</p>
+		<p class="title4" data-animation="animated blurFadeInDown">for only: <span>£561.00</span></p>
+		<p class="readmore" data-animation="animated blurFadeInDown"><a href="#"><span>Shop now</span></a></p>
+		</div>
+		]]>
+		</description>
+	</slideshow_lang>
+	<slideshow_lang>
+		<id_pos_slideshow>2</id_pos_slideshow>
+		<id_lang>1</id_lang>
+		<title>Slideshow2</title>
+		<link></link>
+		<description>
+		<![CDATA[
+		<div class="info desc2">
+		<p class="title1" data-animation="animated blurFadeInDown">Personalization</p>
+		<p class="title2" data-animation="animated blurFadeInDown">Watch for men</p>
+		<p class="title3" data-animation="animated blurFadeInDown">If he doesn see the need to wear a watch these days, then he hasnt seen our Stealth Watch. The distinctive combination of ionic plating and stainless.</p>
+		<p class="title4" data-animation="animated blurFadeInDown">for only: <span>£561.00</span></p>
+		<p class="readmore" data-animation="animated blurFadeInDown"><a href="#"><span>Shop now</span></a></p>
+		</div>
+		]]>
+		</description>
+	</slideshow_lang>
+<!--  language 2  -->
+	<slideshow_lang>
+		<id_pos_slideshow>1</id_pos_slideshow>
+		<id_lang>2</id_lang>
+		<title>Slideshow1</title>
+		<link></link>
+		<description>
+		<![CDATA[
+		<div class="info desc1">
+		<p class="title1" data-animation="animated blurFadeInDown">The New Canon</p>
+		<p class="title2" data-animation="animated blurFadeInDown">PowerShot SX240 HS</p>
+		<p class="title3" data-animation="animated blurFadeInDown">The Canon PowerShot SX240 HS camera is a new travel-zoom camera that replaces the SX230 HS model.</p>
+		<p class="title4" data-animation="animated blurFadeInDown">for only: <span>£561.00</span></p>
+		<p class="readmore" data-animation="animated blurFadeInDown"><a href="#"><span>Shop now</span></a></p>
+		</div>
+		]]>
+		</description>
+	</slideshow_lang>
+	<slideshow_lang>
+		<id_pos_slideshow>2</id_pos_slideshow>
+		<id_lang>2</id_lang>
+		<title>Slideshow2</title>
+		<link></link>
+		<description>
+		<![CDATA[
+		<div class="info desc2">
+		<p class="title1" data-animation="animated blurFadeInDown">Personalization</p>
+		<p class="title2" data-animation="animated blurFadeInDown">Watch for men</p>
+		<p class="title3" data-animation="animated blurFadeInDown">If he doesn see the need to wear a watch these days, then he hasnt seen our Stealth Watch. The distinctive combination of ionic plating and stainless.</p>
+		<p class="title4" data-animation="animated blurFadeInDown">for only: <span>£561.00</span></p>
+		<p class="readmore" data-animation="animated blurFadeInDown"><a href="#"><span>Shop now</span></a></p>
+		</div>
+		]]>
+		</description>
+	</slideshow_lang>
+
+<!-- slideshop configuration -->
+	<slideshow_shop>
+		<id_pos_slideshow>1</id_pos_slideshow>
+		<id_shop>1</id_shop>
+	</slideshow_shop>
+    <slideshow_shop>
+		<id_pos_slideshow>2</id_pos_slideshow>
+		<id_shop>1</id_shop>
+	</slideshow_shop>		  
+</pos_slideshow>
