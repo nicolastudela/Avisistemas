@@ -24,6 +24,6 @@ app/modules/*/config*.xml
 # Site content
 # The following folders contain product images, virtual products, CSV's, etc.
 
-download/
-app/img/tmp*
-
+app/download/
+app/img/*
+app/upload/
