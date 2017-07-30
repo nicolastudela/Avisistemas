@@ -114,6 +114,7 @@
 		<module name="watermark"/>
 	</modules>
 	<modules type="partner">
+		<module name="adroll"/>
 		<module name="alipay"/>
 		<module name="amzpayments"/>
 		<module name="apiway"/>
