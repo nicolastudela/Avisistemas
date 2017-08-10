@@ -16,10 +16,10 @@
         <additional_description>
             <![CDATA[Configuraci&oacute;n gratuita y r&aacute;pidaAcceso a m&aacute;s de 100 soluciones de pago locales con una sola integraci&oacute;n sencillaConexi&oacute;n con m&aacute;s de 30 millones de titulares de cuentas de SkrillLos m&aacute;s altos niveles de seguridad y tecnolog&iacute;a antifraudeExperiencia de pago sin complicaciones para tel&eacute;fono m&oacute;vil, tableta y computadora]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[1.0.31]]></version>
+        <version><![CDATA[1.0.32]]></version>
         <compatibility>
-            <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <from><![CDATA[1.6.0.14]]></from>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -85,7 +85,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -113,7 +113,7 @@
         <version><![CDATA[1.1.7]]></version>
         <compatibility>
             <from><![CDATA[1.5.2.0]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -143,7 +143,7 @@
         <version><![CDATA[1.6.7]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -177,7 +177,7 @@
         <version><![CDATA[1.12.3]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -206,7 +206,7 @@
         <version><![CDATA[3.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.4.1]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -238,10 +238,10 @@
         <additional_description>
             <![CDATA[Con SendinBlue, podrá :Sincronizar automáticamente sus contactos en SendinBlue e importar las ventasCrear y enviar hermosos boletinesOptimizar las recepciones en la bandeja de entrega de sus correos electrónicos transaccionales (confirmación de registro, control, etc.)Seguir los resultados de sus envíos en tiempo realDisfrutar de un servicio al cliente por teléfono o correo electrónico Vea nuestro tutorial : https://resources.sendinblue.com/es/plugin-prestashop/]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[2.6.4]]></version>
+        <version><![CDATA[2.6.7]]></version>
         <compatibility>
-            <from><![CDATA[1.4.8.2]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <from><![CDATA[1.4.9.0]]></from>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -269,7 +269,7 @@
         <version><![CDATA[1.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -297,7 +297,7 @@
         <version><![CDATA[1.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -325,7 +325,7 @@
         <version><![CDATA[2.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -353,7 +353,7 @@
         <version><![CDATA[2.7.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -381,7 +381,7 @@
         <version><![CDATA[1.8.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.1]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -410,7 +410,7 @@
         <version><![CDATA[2.6.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -439,7 +439,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.1]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -467,7 +467,7 @@
         <version><![CDATA[0.7.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -495,7 +495,7 @@
         <version><![CDATA[1.7.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -525,7 +525,7 @@
         <version><![CDATA[1.2.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -554,7 +554,7 @@
         <version><![CDATA[1.2.9]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -583,7 +583,7 @@
         <version><![CDATA[3.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -611,7 +611,7 @@
         <version><![CDATA[2.5.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -641,7 +641,7 @@
         <version><![CDATA[3.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -699,7 +699,7 @@
         <version><![CDATA[1.7.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -728,7 +728,7 @@
         <version><![CDATA[1.9.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -756,7 +756,7 @@
         <version><![CDATA[1.1.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -786,7 +786,7 @@
         <version><![CDATA[0.10.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -814,7 +814,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -842,7 +842,7 @@
         <version><![CDATA[1.8.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -870,7 +870,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -898,7 +898,7 @@
         <version><![CDATA[2.9.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -926,7 +926,7 @@
         <version><![CDATA[2.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -954,7 +954,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -982,7 +982,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1012,7 +1012,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1040,7 +1040,7 @@
         <version><![CDATA[0.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1068,7 +1068,7 @@
         <version><![CDATA[2.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1097,7 +1097,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1125,7 +1125,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1153,7 +1153,7 @@
         <version><![CDATA[2.2.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1181,7 +1181,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1209,7 +1209,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1237,7 +1237,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1265,7 +1265,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1293,7 +1293,7 @@
         <version><![CDATA[1.10.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1321,7 +1321,7 @@
         <version><![CDATA[2.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1349,7 +1349,7 @@
         <version><![CDATA[0.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1377,7 +1377,7 @@
         <version><![CDATA[0.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1405,7 +1405,7 @@
         <version><![CDATA[1.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1433,7 +1433,7 @@
         <version><![CDATA[1.7.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1461,7 +1461,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1489,7 +1489,7 @@
         <version><![CDATA[1.2.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1517,7 +1517,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1545,7 +1545,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1573,7 +1573,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1601,7 +1601,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1629,7 +1629,7 @@
         <version><![CDATA[2.2.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1657,7 +1657,7 @@
         <version><![CDATA[0.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1685,7 +1685,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1715,7 +1715,7 @@
         <version><![CDATA[1.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.1]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1928,7 +1928,7 @@
         <version><![CDATA[1.8.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1958,7 +1958,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2023,7 +2023,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2053,7 +2053,7 @@
         <version><![CDATA[1.8.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2083,7 +2083,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2141,7 +2141,7 @@
         <version><![CDATA[1.4.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2231,7 +2231,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2829,7 +2829,7 @@
         <version><![CDATA[2.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2859,7 +2859,7 @@
         <version><![CDATA[2.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2888,7 +2888,7 @@
         <version><![CDATA[1.4.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.17]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2918,7 +2918,7 @@
         <version><![CDATA[1.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2983,7 +2983,7 @@
         <version><![CDATA[2.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3013,7 +3013,7 @@
         <version><![CDATA[1.1.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.11]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3043,7 +3043,7 @@
         <version><![CDATA[1.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.4.11.0]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.16]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3172,7 +3172,7 @@
         <additional_description>
             <![CDATA[Carts Guru te ayudar&aacute; a convertir tus &quot;casi compradores&quot; en ventas.&nbsp;Retargeting multicanal con Correos Electr&oacute;nicos, Facebook Ads, Instagram, SMS y Llamadas Autom&aacute;ticasConvierte m&aacute;s del 20% de tus cestas de compra abandonadasSugerencias autom&aacute;ticas para mejorar siempre tus reglas de campa&ntilde;a&nbsp;Carts Guru es tu soluci&oacute;n integral de retargeting.&nbsp;Pru&eacute;balo gratis durante 14 d&iacute;as. No hace falta tarjeta de cr&eacute;dito.&nbsp;Solo pagas comisi&oacute;n cuando Carts Guru convierte tus carros de compra en ventas.&nbsp;Visita nuestra p&aacute;gina web: https://carts.guru/es/prestashop]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.4.0]]></version>
+        <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
             <to><![CDATA[1.6.1.15]]></to>
@@ -3274,10 +3274,10 @@
         <additional_description>
             <![CDATA[Reach new customers globally in a matter of minutes &amp; increase salesManually edit translations, replace images, fix style issues with just a click in our visual editorImmediately compete with the big guys using your fully localized PrestaShop store]]></additional_description>
         <tab><![CDATA[i18n_localization]]></tab>
-        <version><![CDATA[1.0.7]]></version>
+        <version><![CDATA[1.0.8]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3308,7 +3308,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
