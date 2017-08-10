@@ -3511,10 +3511,12 @@ table#product_comparison .button.lnk_view span, .button.button-small span, .butt
 .footer-container #footer .footer-about-us a:hover { color: #92c234; }
 @media (max-width: 767px) { .footer-container #footer .footer-contact { margin-top: 20px; } }
 .footer-container #footer .footer-contact .add { position: relative; overflow: visible; padding-left: 50px; margin-bottom: 5px; color: #777777; }
+/* look for icon code names  used as icon-content here -> http://zavoloklom.github.io/material-design-iconic-font/cheatsheet.html#social */
 .footer-container #footer .footer-contact .add:before { font-family: 'Material-Design-Iconic-Font'; width: 38px; height: 38px; text-align: center; line-height: 38px; font-size: 20px; -webkit-border-radius: 100%; border-radius: 100%; display: inline-block; position: absolute; left: 0; top: 50%; margin-top: -19px; color: white; background: #92c234; }
 .footer-container #footer .footer-contact .add.address:before { content: "\f1ab"; }
 .footer-container #footer .footer-contact .add.phone:before { content: "\f2d4"; }
 .footer-container #footer .footer-contact .add.email:before { content: "\f15a"; }
+.footer-container #footer .footer-contact .add.face:before { content: "\f342"; }
 .footer-container #footer .footer-contact .add.skype:before { content: "\f3ff"; }
 .footer-container #footer .footer-contact a { color: #777777; display: block; }
 .footer-container #footer .footer-contact a:hover { color: #92c234; }
