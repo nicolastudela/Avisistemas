@@ -19,7 +19,7 @@
         <version><![CDATA[1.0.32]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.14]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -31,8 +31,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias2.prestastore.com/731719-pprod/skrill.jpg]]></small>
-            <big><![CDATA[http://medias1.prestastore.com/731719-pbig/skrill.jpg]]></big>
+            <small><![CDATA[https://medias2.prestastore.com/731719-pprod/skrill.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/731719-pbig/skrill.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -65,8 +65,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias3.prestastore.com/836622-pprod/paypal.jpg]]></small>
-            <big><![CDATA[http://medias3.prestastore.com/836622-pbig/paypal.jpg]]></big>
+            <small><![CDATA[https://medias3.prestastore.com/836622-pprod/paypal.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/836622-pbig/paypal.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -85,7 +85,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -113,7 +113,7 @@
         <version><![CDATA[1.1.7]]></version>
         <compatibility>
             <from><![CDATA[1.5.2.0]]></from>
-            <to><![CDATA[1.7.2.0]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -140,10 +140,10 @@
             <![CDATA[Upgrade your shop to the latest version of PrestaShop in a few clicks, thanks to this automated method.  By running the most recent version of PrestaShop, you will benefit from the latest features and improvements available. For this reason (and for your shop security) it is always recommended to use an up-to-date version. &nbsp;]]></description_full>
         <additional_description><![CDATA[The easiest way to upgrade your PrestaShop store!]]></additional_description>
         <tab><![CDATA[migration_tools]]></tab>
-        <version><![CDATA[1.6.7]]></version>
+        <version><![CDATA[1.6.8]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -155,8 +155,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias3.prestastore.com/823192-pprod/.jpg]]></small>
-            <big><![CDATA[http://medias1.prestastore.com/823192-pbig/.jpg]]></big>
+            <small><![CDATA[https://medias3.prestastore.com/823192-pprod/.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/823192-pbig/.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -174,10 +174,10 @@
             <![CDATA[&iexcl; Convi&eacute;rtase en un experto en e-commerce en un abrir y cerrar de ojos!]]></description_full>
         <additional_description><![CDATA[]]></additional_description>
         <tab><![CDATA[]]></tab>
-        <version><![CDATA[1.12.3]]></version>
+        <version><![CDATA[1.13.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.0]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -206,7 +206,7 @@
         <version><![CDATA[3.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.4.1]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -218,8 +218,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias3.prestastore.com/835346-pprod/.jpg]]></small>
-            <big><![CDATA[http://medias3.prestastore.com/835346-pbig/.jpg]]></big>
+            <small><![CDATA[https://medias3.prestastore.com/835346-pprod/.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/835346-pbig/.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -241,7 +241,7 @@
         <version><![CDATA[2.6.7]]></version>
         <compatibility>
             <from><![CDATA[1.4.9.0]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -269,7 +269,7 @@
         <version><![CDATA[1.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -297,7 +297,7 @@
         <version><![CDATA[1.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -325,7 +325,7 @@
         <version><![CDATA[2.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -353,7 +353,7 @@
         <version><![CDATA[2.7.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -381,36 +381,7 @@
         <version><![CDATA[1.8.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.1]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Made by PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
-        </badges>
-    </module>
-    <module>
-        <id><![CDATA[9135]]></id>
-        <name><![CDATA[editorial]]></name>
-        <displayName><![CDATA[Home text editor]]></displayName>
-        <categoryName><![CDATA[Natif]]></categoryName>
-        <description><![CDATA[Un m&oacute;dulo de editor de texto para su p&aacute;gina de inicio]]></description>
-        <author><![CDATA[PrestaShop]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/product.php?id_product=9135?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/9135.jpg]]></img>
-        <description_full>
-            <![CDATA[Un m&oacute;dulo de editor de texto para su p&aacute;gina de inicio]]></description_full>
-        <additional_description><![CDATA[]]></additional_description>
-        <tab><![CDATA[]]></tab>
-        <version><![CDATA[2.6.0]]></version>
-        <compatibility>
-            <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -439,7 +410,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.1]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -467,7 +438,7 @@
         <version><![CDATA[0.7.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -495,7 +466,7 @@
         <version><![CDATA[1.7.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -525,36 +496,7 @@
         <version><![CDATA[1.2.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Made by PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
-        </badges>
-    </module>
-    <module>
-        <id><![CDATA[9140]]></id>
-        <name><![CDATA[loyalty]]></name>
-        <displayName><![CDATA[Customer loyalty and rewards]]></displayName>
-        <categoryName><![CDATA[Natif]]></categoryName>
-        <description><![CDATA[Proporciona un programa de fidelizaci&oacute;n para sus clientes]]></description>
-        <author><![CDATA[PrestaShop]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/product.php?id_product=9140?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/9140.jpg]]></img>
-        <description_full>
-            <![CDATA[Proporciona un programa de fidelizaci&oacute;n para sus clientes.]]></description_full>
-        <additional_description><![CDATA[]]></additional_description>
-        <tab><![CDATA[]]></tab>
-        <version><![CDATA[1.2.9]]></version>
-        <compatibility>
-            <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -583,7 +525,7 @@
         <version><![CDATA[3.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -611,7 +553,7 @@
         <version><![CDATA[2.5.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -641,7 +583,7 @@
         <version><![CDATA[3.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -671,7 +613,7 @@
         <version><![CDATA[1.9.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -699,7 +641,7 @@
         <version><![CDATA[1.7.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -728,7 +670,7 @@
         <version><![CDATA[1.9.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -756,7 +698,7 @@
         <version><![CDATA[1.1.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -786,7 +728,7 @@
         <version><![CDATA[0.10.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -814,7 +756,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -842,7 +784,7 @@
         <version><![CDATA[1.8.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -870,7 +812,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -898,7 +840,7 @@
         <version><![CDATA[2.9.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -926,7 +868,7 @@
         <version><![CDATA[2.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -954,7 +896,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -982,7 +924,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1012,7 +954,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1040,7 +982,7 @@
         <version><![CDATA[0.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1068,7 +1010,7 @@
         <version><![CDATA[2.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1097,7 +1039,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1125,7 +1067,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1153,7 +1095,7 @@
         <version><![CDATA[2.2.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1181,7 +1123,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1209,7 +1151,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1237,7 +1179,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1265,7 +1207,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1293,7 +1235,7 @@
         <version><![CDATA[1.10.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1321,7 +1263,7 @@
         <version><![CDATA[2.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1349,7 +1291,7 @@
         <version><![CDATA[0.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1377,7 +1319,7 @@
         <version><![CDATA[0.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1405,7 +1347,7 @@
         <version><![CDATA[1.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1433,7 +1375,7 @@
         <version><![CDATA[1.7.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1461,7 +1403,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1489,7 +1431,7 @@
         <version><![CDATA[1.2.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1517,7 +1459,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1545,7 +1487,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1573,7 +1515,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1601,7 +1543,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1629,7 +1571,7 @@
         <version><![CDATA[2.2.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1657,7 +1599,7 @@
         <version><![CDATA[0.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1685,7 +1627,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1715,7 +1657,7 @@
         <version><![CDATA[1.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.1]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1743,7 +1685,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1771,7 +1713,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1801,7 +1743,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1831,7 +1773,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1861,7 +1803,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1873,8 +1815,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias3.prestastore.com/835345-pprod/.jpg]]></small>
-            <big><![CDATA[http://medias2.prestastore.com/835345-pbig/.jpg]]></big>
+            <small><![CDATA[https://medias3.prestastore.com/835345-pprod/.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/835345-pbig/.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1895,7 +1837,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1907,8 +1849,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias1.prestastore.com/835344-pprod/.jpg]]></small>
-            <big><![CDATA[http://medias1.prestastore.com/835344-pbig/.jpg]]></big>
+            <small><![CDATA[https://medias1.prestastore.com/835344-pprod/.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/835344-pbig/.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1928,7 +1870,7 @@
         <version><![CDATA[1.8.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1958,7 +1900,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1989,7 +1931,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2001,8 +1943,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias1.prestastore.com/835359-pprod/.jpg]]></small>
-            <big><![CDATA[http://medias2.prestastore.com/835359-pbig/.jpg]]></big>
+            <small><![CDATA[https://medias1.prestastore.com/835359-pprod/.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/835359-pbig/.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2023,7 +1965,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2053,7 +1995,7 @@
         <version><![CDATA[1.8.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2083,7 +2025,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2111,7 +2053,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2141,7 +2083,7 @@
         <version><![CDATA[1.4.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2171,7 +2113,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2201,7 +2143,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2231,7 +2173,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2261,7 +2203,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2291,7 +2233,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2321,7 +2263,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2351,7 +2293,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2381,7 +2323,7 @@
         <version><![CDATA[1.4.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2411,7 +2353,7 @@
         <version><![CDATA[1.5.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2441,7 +2383,7 @@
         <version><![CDATA[1.6.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2471,7 +2413,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2501,7 +2443,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2531,7 +2473,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2561,7 +2503,7 @@
         <version><![CDATA[1.4.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2591,7 +2533,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2621,7 +2563,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2651,7 +2593,7 @@
         <version><![CDATA[1.5.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2681,7 +2623,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2711,7 +2653,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2741,7 +2683,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2771,7 +2713,7 @@
         <version><![CDATA[1.6.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2801,7 +2743,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2829,7 +2771,7 @@
         <version><![CDATA[2.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2859,7 +2801,7 @@
         <version><![CDATA[2.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.0]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2888,7 +2830,7 @@
         <version><![CDATA[1.4.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.17]]></from>
-            <to><![CDATA[1.7.2.0]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2918,7 +2860,7 @@
         <version><![CDATA[1.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2961,99 +2903,9 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias1.prestastore.com/744943-pprod/nostotagging.jpg]]></small>
-            <big><![CDATA[http://medias2.prestastore.com/744943-pbig/nostotagging.jpg]]></big>
+            <small><![CDATA[https://medias1.prestastore.com/744943-pprod/nostotagging.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/744943-pbig/nostotagging.jpg]]></big>
         </cover>
-    </module>
-    <module>
-        <id><![CDATA[19879]]></id>
-        <name><![CDATA[advancedeucompliance]]></name>
-        <displayName><![CDATA[Advanced EU Compliance]]></displayName>
-        <categoryName><![CDATA[Natif]]></categoryName>
-        <description>
-            <![CDATA[Este m&oacute;dulo ayuda a los comerciante europeos a cumplir con las leyes del comercio electr&oacute;nico aplicables]]></description>
-        <author><![CDATA[PrestaShop]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/product.php?id_product=19879?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/19879.jpg]]></img>
-        <description_full>
-            <![CDATA[Este m&oacute;dulo ayuda a los comerciante europeos a cumplir con las leyes del comercio electr&oacute;nico aplicables.]]></description_full>
-        <additional_description><![CDATA[]]></additional_description>
-        <tab><![CDATA[]]></tab>
-        <version><![CDATA[2.0.2]]></version>
-        <compatibility>
-            <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Made by PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
-        </badges>
-    </module>
-    <module>
-        <id><![CDATA[19919]]></id>
-        <name><![CDATA[eurovatgenerator]]></name>
-        <displayName><![CDATA[Europe VAT Generator]]></displayName>
-        <categoryName><![CDATA[Natif]]></categoryName>
-        <description>
-            <![CDATA[Cumpla f&aacute;cilmente con la nueva directiva europea sobre el IVA para productos virtuales]]></description>
-        <author><![CDATA[PrestaShop]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/product.php?id_product=19919?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/19919.jpg]]></img>
-        <description_full>
-            <![CDATA[Cumpla f&aacute;cilmente con la nueva directiva europea sobre el IVA para productos virtuales.]]></description_full>
-        <additional_description><![CDATA[]]></additional_description>
-        <tab><![CDATA[]]></tab>
-        <version><![CDATA[1.1.1]]></version>
-        <compatibility>
-            <from><![CDATA[1.6.0.11]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Made by PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
-        </badges>
-    </module>
-    <module>
-        <id><![CDATA[20255]]></id>
-        <name><![CDATA[securitypatch]]></name>
-        <displayName><![CDATA[Security Patch]]></displayName>
-        <categoryName><![CDATA[Natif]]></categoryName>
-        <description>
-            <![CDATA[This module improves your shop&#39;s safety by applying the latest security patches from PrestaShop]]></description>
-        <author><![CDATA[PrestaShop]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/product.php?id_product=20255?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/20255.jpg]]></img>
-        <description_full>
-            <![CDATA[This module improves your shop&#39;s safety by applying the latest security patches from PrestaShop.]]></description_full>
-        <additional_description><![CDATA[]]></additional_description>
-        <tab><![CDATA[]]></tab>
-        <version><![CDATA[1.0.2]]></version>
-        <compatibility>
-            <from><![CDATA[1.4.11.0]]></from>
-            <to><![CDATA[1.6.1.16]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Made by PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
-        </badges>
     </module>
     <module>
         <id><![CDATA[20550]]></id>
@@ -3082,8 +2934,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias3.prestastore.com/704495-pprod/.jpg]]></small>
-            <big><![CDATA[http://medias1.prestastore.com/704495-pbig/.jpg]]></big>
+            <small><![CDATA[https://medias3.prestastore.com/704495-pprod/.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/704495-pbig/.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3117,8 +2969,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias3.prestastore.com/781301-pprod/smartsupp-chat-en-vivo-gratis.jpg]]></small>
-            <big><![CDATA[http://medias1.prestastore.com/781301-pbig/smartsupp-chat-en-vivo-gratis.jpg]]></big>
+            <small><![CDATA[https://medias3.prestastore.com/781301-pprod/smartsupp-chat-en-vivo-gratis.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/781301-pbig/smartsupp-chat-en-vivo-gratis.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3152,8 +3004,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias2.prestastore.com/827121-pprod/g2a-pay.jpg]]></small>
-            <big><![CDATA[http://medias2.prestastore.com/827121-pbig/g2a-pay.jpg]]></big>
+            <small><![CDATA[https://medias2.prestastore.com/827121-pprod/g2a-pay.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/827121-pbig/g2a-pay.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3172,10 +3024,10 @@
         <additional_description>
             <![CDATA[Carts Guru te ayudar&aacute; a convertir tus &quot;casi compradores&quot; en ventas.&nbsp;Retargeting multicanal con Correos Electr&oacute;nicos, Facebook Ads, Instagram, SMS y Llamadas Autom&aacute;ticasConvierte m&aacute;s del 20% de tus cestas de compra abandonadasSugerencias autom&aacute;ticas para mejorar siempre tus reglas de campa&ntilde;a&nbsp;Carts Guru es tu soluci&oacute;n integral de retargeting.&nbsp;Pru&eacute;balo gratis durante 14 d&iacute;as. No hace falta tarjeta de cr&eacute;dito.&nbsp;Solo pagas comisi&oacute;n cuando Carts Guru convierte tus carros de compra en ventas.&nbsp;Visita nuestra p&aacute;gina web: https://carts.guru/es/prestashop]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.4.1]]></version>
+        <version><![CDATA[1.4.4]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3188,9 +3040,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[http://medias3.prestastore.com/813977-pprod/carts-guru-solucion-para-carritos-abandonados.jpg]]></small>
+                <![CDATA[https://medias3.prestastore.com/813977-pprod/carts-guru-solucion-para-carritos-abandonados.jpg]]></small>
             <big>
-                <![CDATA[http://medias3.prestastore.com/813977-pbig/carts-guru-solucion-para-carritos-abandonados.jpg]]></big>
+                <![CDATA[https://medias3.prestastore.com/813977-pbig/carts-guru-solucion-para-carritos-abandonados.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3223,8 +3075,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias1.prestastore.com/798426-pprod/onehop-sms-services.jpg]]></small>
-            <big><![CDATA[http://medias1.prestastore.com/798426-pbig/onehop-sms-services.jpg]]></big>
+            <small><![CDATA[https://medias1.prestastore.com/798426-pprod/onehop-sms-services.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/798426-pbig/onehop-sms-services.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3277,7 +3129,7 @@
         <version><![CDATA[1.0.8]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.0]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3293,7 +3145,7 @@
         <id><![CDATA[25939]]></id>
         <name><![CDATA[ps_emailsmanager]]></name>
         <displayName><![CDATA[Email Templates Manager]]></displayName>
-        <categoryName><![CDATA[Administración]]></categoryName>
+        <categoryName><![CDATA[Herramientas Administrativas]]></categoryName>
         <description>
             <![CDATA[Adapta el dise&ntilde;o de tus correos electr&oacute;nicos a la identidad visual de tu sitio web, a tu actividad o a la &eacute;poca del a&ntilde;o con el m&oacute;dulo nativo Gestor de plantillas de ]]></description>
         <author><![CDATA[PrestaShop]]></author>
@@ -3308,7 +3160,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.0]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3322,20 +3174,20 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias1.prestastore.com/814126-pprod/.jpg]]></small>
-            <big><![CDATA[http://medias3.prestastore.com/814126-pbig/.jpg]]></big>
+            <small><![CDATA[https://medias1.prestastore.com/814126-pprod/.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/814126-pbig/.jpg]]></big>
         </cover>
     </module>
     <module>
         <id><![CDATA[26669]]></id>
         <name><![CDATA[worldcoo]]></name>
         <displayName><![CDATA[Widget solidario | Colabora con ONG reconocidas]]></displayName>
-        <categoryName><![CDATA[Publicidad & Marketing]]></categoryName>
+        <categoryName><![CDATA[Programa de Fidelidad]]></categoryName>
         <description>
             <![CDATA[Fideliza a tus clientes y mejora tu imagen de marca ofreciendo la opci&oacute;n de colaborar con la financiaci&oacute;n de proyectos sociales y de cooperaci&oacute;n sin ning&uacute;n coste]]></description>
         <author><![CDATA[PrestaShop Partners]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/publicidad-marketing-newsletter-modulos/26669-widget-solidario-colabora-con-ong-reconocidas.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/programa-fidelidad/26669-widget-solidario-colabora-con-ong-reconocidas.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26669.jpg]]></img>
         <description_full>
             <![CDATA[Fideliza a tus clientes y mejora tu imagen de marca ofreciendo la opci&oacute;n de colaborar con la financiaci&oacute;n de proyectos sociales y de cooperaci&oacute;n sin ning&uacute;n coste.]]></description_full>
@@ -3358,9 +3210,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[http://medias1.prestastore.com/843227-pprod/widget-solidario-colabora-con-ong-reconocidas.jpg]]></small>
+                <![CDATA[https://medias1.prestastore.com/843227-pprod/widget-solidario-colabora-con-ong-reconocidas.jpg]]></small>
             <big>
-                <![CDATA[http://medias3.prestastore.com/843227-pbig/widget-solidario-colabora-con-ong-reconocidas.jpg]]></big>
+                <![CDATA[https://medias3.prestastore.com/843227-pbig/widget-solidario-colabora-con-ong-reconocidas.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3382,7 +3234,7 @@
         <version><![CDATA[1.0.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.0]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3394,8 +3246,46 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[http://medias3.prestastore.com/861526-pprod/cloudswipe-secure-hosted-payments.jpg]]></small>
-            <big><![CDATA[http://medias3.prestastore.com/861526-pbig/cloudswipe-secure-hosted-payments.jpg]]></big>
+            <small>
+                <![CDATA[https://medias3.prestastore.com/861526-pprod/cloudswipe-secure-hosted-payments.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/861526-pbig/cloudswipe-secure-hosted-payments.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[26742]]></id>
+        <name><![CDATA[cleverreach]]></name>
+        <displayName><![CDATA[CleverReach® - email newsletters for your PrestaShop]]></displayName>
+        <categoryName><![CDATA[Newsletter y SMS]]></categoryName>
+        <description>
+            <![CDATA[CleverReach&reg; is THE Email Marketing Solution for beginners and experienced users alike that lets you easily create newsletters online and send them to target customers]]></description>
+        <author><![CDATA[Community developer]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/newsletter-sms/26742-cleverreach-email-newsletters-for-your-prestashop.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/26742.jpg]]></img>
+        <description_full>
+            <![CDATA[CleverReach&reg; is THE Email Marketing Solution for beginners and experienced users alike that lets you easily create newsletters online and send them to target customers.]]></description_full>
+        <additional_description>
+            <![CDATA[WithCleverReach&reg; you can easily create professional, automated newsletters online and send them to your customers. CleverReach&reg; offers a solution either for SMEs or agencies and online shops. Automatically update contacts from your existing databases in CleverReach&reg; or create workflows when CleverReach&reg; contacts unsubscribe, subscribe or lists are created. Awesome emails, automated. Start today with CleverReach&reg; and sign up for free!]]></additional_description>
+        <tab><![CDATA[emailing]]></tab>
+        <version><![CDATA[1.1.0]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.4]]></from>
+            <to><![CDATA[1.7.2.2]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[https://medias1.prestastore.com/836459-pprod/cleverreach-email-newsletters-for-your-prestashop.jpg]]></small>
+            <big>
+                <![CDATA[https://medias1.prestastore.com/836459-pbig/cleverreach-email-newsletters-for-your-prestashop.jpg]]></big>
         </cover>
     </module>
     <module>

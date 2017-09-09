@@ -197,6 +197,29 @@ class LinkCore
         return $url.Dispatcher::getInstance()->createUrl($rule, $id_lang, $params, $this->allow, '', $id_shop);
     }
 
+    public function getEasyCategoryLink($category, $relative_protocol = false)
+    {
+        $id_lang = Context::getContext()->language->id;
+
+        if (!is_object($category)) {
+            $category = new Category($category['id_category'], $id_lang, $category['id_shop']);
+        }
+        $id_shop = $category->getShopID();
+
+        $url = $this->getBaseLink($id_shop, null, $relative_protocol).$this->getLangLink($id_lang, null, $id_shop);
+
+        // Set available keywords
+        $params = array();
+        $params['id'] = $category->id;
+        $params['rewrite'] = $category->link_rewrite;
+        $params['meta_keywords'] =    Tools::str2url($category->getFieldByLang('meta_keywords'));
+        $params['meta_title'] = Tools::str2url($category->getFieldByLang('meta_title'));
+
+        $rule = 'category_rule';
+
+        return $url.Dispatcher::getInstance()->createUrl($rule, $id_lang, $params, $this->allow, '', $id_shop);
+    }
+
     /**
      * Create a link to a CMS category
      *
