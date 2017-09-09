@@ -3579,3 +3579,84 @@ table#product_comparison .button.lnk_view span, .button.button-small span, .butt
   #currencies-block-top, #languages-block-top, .header_userinfo { text-align: left; } }
 @media (max-width: 767px) { #header .shopping_cart { display: inline-block; text-align: left; float: none !important; }
   .block-cart { display: inline-block; width: 100%; text-align: center; } }
+
+
+.logo-audio {
+  background-image:url(../../../img/1080-positivo.png);
+  width: 100%;
+  height: 100px;
+  background-size: 100% 100%;
+  -webkit-transition:background-image 0.5s;
+  /* Other vendor-prefixed transition properties */
+  transition:background-image 0.5s;
+
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space:nowrap;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.logo-audio:hover {
+  background-image:url(../../../img/1080-negativo.png);
+}
+
+.logo-audio-selected {
+  width: 100%;
+  height: 100px;
+  background-size: 100% 100%;
+  background-image:url(../../../img/1080-negativo.png);
+
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space:nowrap;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.logo-estudio {
+  background-image:url(../../../img/avi-positivo.png);
+  -webkit-transition:background-image 0.5s;
+  width: 100%;
+  height: 100px;
+  background-size: 100% 100%;
+  /* Other vendor-prefixed transition properties */
+  transition:background-image 0.5s;
+  max-width: 350px;
+
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space:nowrap;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.logo-estudio:hover {
+  background-image:url(../../../img/avi-negativo.png);
+}
+
+.logo-estudio-selected {
+  width: 100%;
+  height: 100px;
+  background-size: 100% 100%;
+  background-image:url(../../../img/avi-negativo.png);
+  max-width: 350px;
+
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space:nowrap;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#header {
+  background-color: #6d6a6a;
+}

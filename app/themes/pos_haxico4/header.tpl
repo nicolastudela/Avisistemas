@@ -28,6 +28,9 @@
 <!--[if IE 8]><html class="no-js lt-ie9 ie8"{if isset($language_code) && $language_code} lang="{$language_code|escape:'html':'UTF-8'}"{/if}><![endif]-->
 <!--[if gt IE 8]> <html class="no-js ie9"{if isset($language_code) && $language_code} lang="{$language_code|escape:'html':'UTF-8'}"{/if}><![endif]-->
 <html{if isset($language_code) && $language_code} lang="{$language_code|escape:'html':'UTF-8'}"{/if}>
+	{if isset($category)}
+		{assign var='relevant_category' value=$category->getRelevantCategoryId()}
+	{/if}
 	<head>
 		<meta charset="utf-8" />
 		<title>{$meta_title|escape:'html':'UTF-8'}</title>
@@ -101,13 +104,14 @@
 					<div class="header-middle">	
 						<div class="container">					
 							<div class="row">
-								<div class="pos_logo col-lg-3 col-md-3 col-sm-3 col-xs-12">
-									<a href="{if isset($force_ssl) && $force_ssl}{$base_dir_ssl}{else}{$base_dir}{/if}" title="{$shop_name|escape:'html':'UTF-8'}">
-										<img class="logo img-responsive" src="{$logo_url}" alt="{$shop_name|escape:'html':'UTF-8'}"{if isset($logo_image_width) && $logo_image_width} width="{$logo_image_width}"{/if}{if isset($logo_image_height) && $logo_image_height} height="{$logo_image_height}"{/if}/>
-									</a>
-								</div>					
-								<div class="header-middle-right col-lg-9 col-md-9 col-sm-12 col-xs-12">
-									{if isset($HOOK_TOP)}{$HOOK_TOP}{/if}								
+								<div class="pos_logo col-lg-4 col-md-4 col-sm-7 col-xs-7">
+									<a class="logo img-responsive logo-estudio{if isset($relevant_category) && $relevant_category == $get_estudio['id_category']}-selected{else}{/if}" href="{if isset($force_ssl) && $force_ssl}{$base_dir_ssl}{else}{$link_estudio}{/if}" title="{$shop_name|escape:'html':'UTF-8'}">photo</a>
+								</div>
+								<div class="pos_logo col-lg-3 col-md-3 col-sm-5 col-xs-5 ">
+									<a class="logo img-responsive logo-audio{if isset($relevant_category) && $relevant_category == $get_audio_video['id_category']}-selected{else}{/if}" href="{if isset($force_ssl) && $force_ssl}{$base_dir_ssl}{else}{$link_audio_video}{/if}" title="{$shop_name|escape:'html':'UTF-8'}">photo</a>
+								</div>
+								<div class="header-middle-right col-lg-5 col-md-5 col-sm-12 col-xs-12">
+									{if isset($HOOK_TOP)}{$HOOK_TOP}{/if}
 								</div>
 							</div>
 						</div>	

@@ -86,6 +86,11 @@ class CategoryCore extends ObjectModel
 
     protected static $_links = array();
 
+    public static $estudio_category_name = "El Estudio";
+
+    public static $audio_video_category_name = "Audio - Video";
+
+
     /**
      * @see ObjectModel::$definition
      */
@@ -137,6 +142,42 @@ class CategoryCore extends ObjectModel
         parent::__construct($id_category, $id_lang, $id_shop);
         $this->id_image = ($this->id && file_exists(_PS_CAT_IMG_DIR_.(int)$this->id.'.jpg')) ? (int)$this->id : false;
         $this->image_dir = _PS_CAT_IMG_DIR_;
+    }
+
+    public static function getEstudioCategory($id_lang = null) {
+        $context = Context::getContext();
+        if (is_null($id_lang)) {
+            $id_lang = $context->language->id;
+        }
+
+        return self::searchByName($id_lang, self::$estudio_category_name)[0];
+    }
+
+    public static function getAudioVideoCategory($id_lang = null) {
+        $context = Context::getContext();
+        if (is_null($id_lang)) {
+            $id_lang = $context->language->id;
+        }
+
+        return self::searchByName($id_lang, self::$audio_video_category_name)[0];
+    }
+
+    public function getRelevantCategoryId($id_lang = null) {
+        $context = Context::getContext();
+        if (is_null($id_lang)) {
+            $id_lang = $context->language->id;
+        }
+
+        $elementsFetched = array_filter($this->getParentsCategories($id_lang) , function($var) {
+            return($var['level_depth'] == 2);
+        });
+
+        if (count($elementsFetched) > 0) {
+            $categoryArray = reset($elementsFetched);
+            return (int) $categoryArray['id_category'];
+        } else {
+            return null;
+        }
     }
 
     public static function getDescriptionClean($description)

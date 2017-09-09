@@ -475,6 +475,10 @@ class FrontControllerCore extends Controller
             'currencySign'        => $currency->sign, // backward compat, see global.tpl
             'currencyFormat'      => $currency->format, // backward compat
             'currencyBlank'       => $currency->blank, // backward compat
+            'get_audio_video'           => Category::getAudioVideoCategory(),
+            'get_estudio' => Category::getEstudioCategory(),
+            'link_audio_video' => $link->getEasyCategoryLink(Category::getAudioVideoCategory()),
+            'link_estudio' => $link->getEasyCategoryLink(Category::getEstudioCategory()),
         ));
 
         // Add the tpl files directory for mobile
