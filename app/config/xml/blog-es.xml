@@ -6,6 +6,30 @@
     <language>es</language>
      <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>¿Qué es el error 500 y cómo solucionarlo en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/error-500</link>
+    <description>¿Te han notificado alguna vez los usuarios de tu tienda online que, navegando por tu web, la pantalla de pronto se les quedaba en blanco?</description>
+     <pubDate>Wed, 30 Aug 2017 12:43:19 +0200</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/error-500</guid>
+  </item>
+  <item>
+    <title>¿Qué es el Marketing de Contenidos y cómo aprovecharlo en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/marketing-de-contenidos</link>
+    <description>¿Es importante el marketing de contenidos en el sector del eCommerce?</description>
+     <pubDate>Fri, 18 Aug 2017 15:39:33 +0200</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/marketing-de-contenidos</guid>
+  </item>
+  <item>
+    <title> ¿Cómo crear una página de Facebook para tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/como-crear-pagina-facebook</link>
+    <description>Para cualquier negocio online, crear una página de Facebook es una de las mejores formas de conseguir más visibilidad y atraer tráfico social desde Internet.</description>
+     <pubDate>Mon, 07 Aug 2017 16:27:31 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/como-crear-pagina-facebook</guid>
+  </item>
+  <item>
     <title>¿Cómo crear un Plan de Social Media que funcione de verdad?</title>
     <link>https://www.prestashop.com/es/blog/plan-social-media</link>
     <description>Crear un social media plan o una estrategia en redes sociales requiere tener claros todos los factores que componen dicha estrategia.</description>
@@ -63,31 +87,6 @@ Entrevista con Xavier Budet, Director de Logística de La Sirena, en la que habl
      <pubDate>Fri, 23 Jun 2017 17:16:24 +0200</pubDate>
  <dc:creator>laia.ordonez</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/caso-de-exito/la-sirena-y-la-logistica-online-de-los-congelados</guid>
-  </item>
-  <item>
-    <title>4 Consejos para optimizar tus promociones con PrestaShop</title>
-    <link>https://www.prestashop.com/es/consejos-e-commerce/consejos-optimizar-promociones</link>
-    <description>Realizar promociones especiales en fechas señaladas del año es una de las técnicas más utilizadas por las empresas de e-Commerce.</description>
-     <pubDate>Mon, 19 Jun 2017 11:06:47 +0200</pubDate>
- <dc:creator>Cécile Dubouis</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/consejos-e-commerce/consejos-optimizar-promociones</guid>
-  </item>
-  <item>
-    <title>Descubre más sobre Claudia, Embajadora del mes | Junio 2017	</title>
-    <link>https://www.prestashop.com/es/blog/prestashop-ambassadors/clone-of-meet-claudia-ambassador-of-the-month-june-2017</link>
-    <description>Claudia es nuestra embajadora en Monterrey, México, y organiza eventos frecuentemente en su ciudad, siempre está dispuesta a dar una plática sobre PrestaShop.</description>
-     <pubDate>Fri, 16 Jun 2017 14:12:58 +0200</pubDate>
- <dc:creator>Manon Plommet</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-ambassadors/clone-of-meet-claudia-ambassador-of-the-month-june-2017</guid>
-  </item>
-  <item>
-    <title>Presentamos MailChimp para PrestaShop</title>
-    <link>https://www.prestashop.com/es/blog/actualidad-prestashop/presentamos-mailchimp-para-prestashop-0</link>
-    <description>¡Ya puedes conectar tu tienda PrestaShop a MailChimp!
- </description>
-     <pubDate>Tue, 13 Jun 2017 11:59:45 +0200</pubDate>
- <dc:creator>Mpierrot</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/actualidad-prestashop/presentamos-mailchimp-para-prestashop-0</guid>
   </item>
   </channel>
 </rss>

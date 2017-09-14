@@ -238,9 +238,9 @@
         <additional_description>
             <![CDATA[Con SendinBlue, podrá :Sincronizar automáticamente sus contactos en SendinBlue e importar las ventasCrear y enviar hermosos boletinesOptimizar las recepciones en la bandeja de entrega de sus correos electrónicos transaccionales (confirmación de registro, control, etc.)Seguir los resultados de sus envíos en tiempo realDisfrutar de un servicio al cliente por teléfono o correo electrónico Vea nuestro tutorial : https://resources.sendinblue.com/es/plugin-prestashop/]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[2.6.7]]></version>
+        <version><![CDATA[2.6.9]]></version>
         <compatibility>
-            <from><![CDATA[1.4.9.0]]></from>
+            <from><![CDATA[1.4.11.1]]></from>
             <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
@@ -494,6 +494,35 @@
         <additional_description><![CDATA[]]></additional_description>
         <tab><![CDATA[]]></tab>
         <version><![CDATA[1.2.2]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.4]]></from>
+            <to><![CDATA[1.6.1.17]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Made by PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
+        </badges>
+    </module>
+    <module>
+        <id><![CDATA[9140]]></id>
+        <name><![CDATA[loyalty]]></name>
+        <displayName><![CDATA[Customer loyalty and rewards]]></displayName>
+        <categoryName><![CDATA[Natif]]></categoryName>
+        <description><![CDATA[Proporciona un programa de fidelizaci&oacute;n para sus clientes]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/product.php?id_product=9140?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/9140.jpg]]></img>
+        <description_full>
+            <![CDATA[Proporciona un programa de fidelizaci&oacute;n para sus clientes.]]></description_full>
+        <additional_description><![CDATA[]]></additional_description>
+        <tab><![CDATA[]]></tab>
+        <version><![CDATA[1.2.9]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
             <to><![CDATA[1.6.1.17]]></to>
@@ -2957,7 +2986,7 @@
         <version><![CDATA[2.1.5]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3257,15 +3286,15 @@
         <displayName><![CDATA[CleverReach® - email newsletters for your PrestaShop]]></displayName>
         <categoryName><![CDATA[Newsletter y SMS]]></categoryName>
         <description>
-            <![CDATA[CleverReach&reg; is THE Email Marketing Solution for beginners and experienced users alike that lets you easily create newsletters online and send them to target customers]]></description>
+            <![CDATA[Quickly and easily create, send and optimize promotional newsletters and automated email campaigns for your PrestaShop customers and newsletter subscribers - CleverReach® is the clever choice for emai]]></description>
         <author><![CDATA[Community developer]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/newsletter-sms/26742-cleverreach-email-newsletters-for-your-prestashop.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26742.jpg]]></img>
         <description_full>
-            <![CDATA[CleverReach&reg; is THE Email Marketing Solution for beginners and experienced users alike that lets you easily create newsletters online and send them to target customers.]]></description_full>
+            <![CDATA[Quickly and easily create, send and optimize promotional newsletters and automated email campaigns for your PrestaShop customers and newsletter subscribers - CleverReach® is the clever choice for emails and newsletters.]]></description_full>
         <additional_description>
-            <![CDATA[WithCleverReach&reg; you can easily create professional, automated newsletters online and send them to your customers. CleverReach&reg; offers a solution either for SMEs or agencies and online shops. Automatically update contacts from your existing databases in CleverReach&reg; or create workflows when CleverReach&reg; contacts unsubscribe, subscribe or lists are created. Awesome emails, automated. Start today with CleverReach&reg; and sign up for free!]]></additional_description>
+            <![CDATA[Once the module is set up, all your “PrestaShop data” will automatically be updated and completed in the CleverReach® newsletter tool in real time. That’s how your customers get personalized content they really want. This leads to spending sprees and, consequently, higher profit, profit, profit! Download &amp; install the module especially developed for PrestaShop now to automatically synchronize your online shop data with the CleverReach® newsletter tool. Easily create and send email newsletters with the Drag &amp; Drop EditorResponsive and free templates for various industries and occasionsAnalyze success and optimize your newslettersHighest safety standards, made in GermanyFree support &amp; webinars The right price plan for everyone:Scales for small and big contact lists: prepaid for occasional senders, flat rate for regular senders or high volume for big players Click on the top right „Download “-button now to download the module and install it in the PrestaShop backend. After that you can quickly and easily connect your PrestaShop with CleverReach®, synchronize your shop data and create and send your first email. Exclusively for PrestaShop customers:Get a 10% discount off your CleverReach® rate for 12 months! Just enter the coupon code "prestashop" in the shopping cart.]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
         <version><![CDATA[1.1.0]]></version>
         <compatibility>
@@ -3304,10 +3333,10 @@
         <additional_description>
             <![CDATA[Consulta informes de campa&ntilde;a detallados: desde la participaci&oacute;n al ROI, para que puedas aumentar las ventas.Sincroniza y segmenta tu lista y a continuaci&oacute;n, env&iacute;a campa&ntilde;as espec&iacute;ficas basadas en aspectos como los productos comprados y el importe gastada en un determinado periodo de tiempo.Crea correos electr&oacute;nicos para los art&iacute;culos olvidados en la cesta, env&iacute;a recomendaciones de productos y mucho m&aacute;s.Realiza un seguimiento y vuelve a captar clientes utilizando automatizaciones pre-integradas al ciclo vital del cliente.Dise&ntilde;a y env&iacute;a mensajes de transacciones personalizados, como notificaciones de env&iacute;o, facturas y m&aacute;s, directamente a trav&eacute;s de MailChimp.]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[1.0.1]]></version>
+        <version><![CDATA[1.0.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>

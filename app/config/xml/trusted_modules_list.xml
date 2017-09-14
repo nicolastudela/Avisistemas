@@ -206,12 +206,14 @@
         <module name="pm_cachemanager"/>
         <module name="invoicepayment"/>
         <module name="customfields"/>
+        <module name="totloyaltyadvanced"/>
         <module name="groupinc"/>
         <module name="newsletterpro"/>
         <module name="facebookpsconnect"/>
         <module name="lgcookieslaw"/>
         <module name="dmulistecommandes"/>
         <module name="freedeliverymanager"/>
+        <module name="migrationpro"/>
         <module name="pushoncart"/>
         <module name="hspointofsalepro"/>
         <module name="cartabandonmentpro"/>
