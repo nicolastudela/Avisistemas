@@ -60,8 +60,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[249.99]]></EUR>
-            <USD><![CDATA[309.99]]></USD>
-            <GBP><![CDATA[229.99]]></GBP>
+            <USD><![CDATA[299.99]]></USD>
+            <GBP><![CDATA[224.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
@@ -95,7 +95,7 @@
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[99.99]]></USD>
+            <USD><![CDATA[94.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
         <badges>
@@ -158,7 +158,7 @@
         <additional_description>
             <![CDATA[La mejor m&oacute;dulo de Google Shopping para cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda.&nbsp;La posici&oacute;n de sus productos en los resultados de Google Shopping depende en gran parte de la calidad de su flujo y de la exhaustividad de sus datos. Cuanta m&aacute;s informaci&oacute;n proporcione, mejores ser&aacute;n sus resultados. Este m&oacute;dulo, muy completo, le permitir&aacute; maximizar sus oportunidades de conseguir un buen posicionamiento en Google Shopping, minimizando el tiempo invertido para alcanzar ese resultado.&nbsp;&nbsp;Aumente su tr&aacute;fico al instante! Google Adwords Compras y beneficiar a cientos de millones de clics al mes. Adem&aacute;s, este tr&aacute;fico es muy espec&iacute;fica y le trae visitantes calificados a su tienda&nbsp;Aumente sus ventas y retorno de la inversi&oacute;n: Con un tr&aacute;fico muy espec&iacute;fica, Google Shopping y Google Adwords campa&ntilde;as a compras ofrecen una de la m&aacute;s alta rentabilidad de la inversi&oacute;n europea en comparaci&oacute;n con otros canales de comercializaci&oacute;n y por lo tanto son muy rentables&nbsp;Presente en 37 pa&iacute;ses en la actualidad, Google Shopping le permite iniciar su desarrollo internacional acelerada&nbsp;&nbsp;Con m&aacute;s de 6.000 ejemplares vendidos, m&aacute;s de 460 comentarios de los clientes (cifras de abril de 2017) y una calificaci&oacute;n promedio de 5/5, la versi&oacute;n est&aacute;ndar de nuestro m&oacute;dulo de Google Merchant Center es de lejos el Google Shopping modula el m&aacute;s robusto, preciso, potente y completa&nbsp;Nuestro departamento de soporte tambi&eacute;n tiene una amplia experiencia y un alto nivel de conocimientos en relaci&oacute;n con las solicitudes de restricciones muy estrictas de Google Merchant Center, y estar&aacute; encantado de responder a sus preguntas lo mejor posible !&nbsp;&nbsp;Para usuarios avanzados y las agencias de SEM, para a&uacute;n m&aacute;s grandes caracter&iacute;sticas, incluyendo la gesti&oacute;n avanzada de etiquetas personalizadas, promociones alimentan y piensos r&aacute;pido inventario, que pueden estar interesados en la compra de la versi&oacute;n PRO del m&oacute;dulo sobre&nbsp;https://addons.prestashop.com/es/comparadores-precios/20908-google-merchant-center-pro-google-shopping.html&nbsp;&nbsp;Este m&oacute;dulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 a&ntilde;os, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categor&iacute;a de Mejor m&oacute;dulo. Tiene la seguridad de adquirir un m&oacute;dulo robusto, fiable y de calidad.&nbsp;Ademas, en Business Tech, nosotros disponemos de un servicio de soporte t&eacute;cnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted est&aacute; en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).&nbsp;]]></additional_description>
         <tab><![CDATA[smart_shopping]]></tab>
-        <version><![CDATA[4.7.2]]></version>
+        <version><![CDATA[4.7.3]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
             <to><![CDATA[1.7.2.2]]></to>
@@ -202,8 +202,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
-            <USD><![CDATA[64.99]]></USD>
-            <GBP><![CDATA[49.99]]></GBP>
+            <USD><![CDATA[59.99]]></USD>
+            <GBP><![CDATA[44.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
@@ -217,13 +217,13 @@
     <module>
         <id><![CDATA[2376]]></id>
         <name><![CDATA[prestagiftvouchers]]></name>
-        <displayName><![CDATA[Cupones de descuento]]></displayName>
+        <displayName><![CDATA[Cupones de descuento después de la compra ]]></displayName>
         <categoryName><![CDATA[Programa de Fidelidad]]></categoryName>
         <description>
             <![CDATA[&iexcl;Fideliza a tus clientes registrados regal&aacute;ndoles cupones de descuento que puedan usar en sus pr&oacute;ximos pedidos!  Con este m&oacute;dulo completo y f&aacute;cil de configurar podr&a]]></description>
         <author><![CDATA[PrestaShop]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/programa-fidelidad/2376-cupones-de-descuento.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/programa-fidelidad/2376-cupones-de-descuento-despues-de-la-compra-.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/2376.jpg]]></img>
         <description_full>
             <![CDATA[&iexcl;Fideliza a tus clientes registrados regal&aacute;ndoles cupones de descuento que puedan usar en sus pr&oacute;ximos pedidos!  Con este m&oacute;dulo completo y f&aacute;cil de configurar podr&aacute;s generar cupones de descuento y enviarlos autom&aacute;ticamente a los clientes conectados a su cuenta que hayan hecho un determinado tipo de pedido: importe m&iacute;nimo, compra de un producto espec&iacute;fico o de una categor&iacute;a particular... &iexcl;T&uacute; decides seg&uacute;n tus necesidades!]]></description_full>
@@ -247,8 +247,10 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/708607-pprod/cupones-de-descuento.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/708607-pbig/cupones-de-descuento.jpg]]></big>
+            <small>
+                <![CDATA[https://medias3.prestastore.com/708607-pprod/cupones-de-descuento-despues-de-la-compra-.jpg]]></small>
+            <big>
+                <![CDATA[https://medias2.prestastore.com/708607-pbig/cupones-de-descuento-despues-de-la-compra-.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -274,8 +276,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[244.99]]></USD>
-            <GBP><![CDATA[184.99]]></GBP>
+            <USD><![CDATA[239.99]]></USD>
+            <GBP><![CDATA[179.99]]></GBP>
         </price>
         <badges>
             <badge label="Los favoritos de PrestaShop">
@@ -311,8 +313,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[244.99]]></USD>
-            <GBP><![CDATA[184.99]]></GBP>
+            <USD><![CDATA[239.99]]></USD>
+            <GBP><![CDATA[179.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
@@ -346,8 +348,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
-            <USD><![CDATA[64.99]]></USD>
-            <GBP><![CDATA[49.99]]></GBP>
+            <USD><![CDATA[59.99]]></USD>
+            <GBP><![CDATA[44.99]]></GBP>
         </price>
         <badges>
             <badge label="Agencia asociada con PrestaShop">
@@ -484,8 +486,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[244.99]]></USD>
-            <GBP><![CDATA[184.99]]></GBP>
+            <USD><![CDATA[239.99]]></USD>
+            <GBP><![CDATA[179.99]]></GBP>
         </price>
         <cover>
             <small>
@@ -516,7 +518,7 @@
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[99.99]]></USD>
+            <USD><![CDATA[94.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
         <badges>
@@ -549,8 +551,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[149.99]]></EUR>
-            <USD><![CDATA[184.99]]></USD>
-            <GBP><![CDATA[139.99]]></GBP>
+            <USD><![CDATA[179.99]]></USD>
+            <GBP><![CDATA[134.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
@@ -584,8 +586,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[149.99]]></EUR>
-            <USD><![CDATA[184.99]]></USD>
-            <GBP><![CDATA[139.99]]></GBP>
+            <USD><![CDATA[179.99]]></USD>
+            <GBP><![CDATA[134.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
@@ -621,8 +623,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[129.99]]></EUR>
-            <USD><![CDATA[159.99]]></USD>
-            <GBP><![CDATA[119.99]]></GBP>
+            <USD><![CDATA[154.99]]></USD>
+            <GBP><![CDATA[114.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
@@ -656,8 +658,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
-            <USD><![CDATA[124.99]]></USD>
-            <GBP><![CDATA[94.99]]></GBP>
+            <USD><![CDATA[119.99]]></USD>
+            <GBP><![CDATA[89.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
@@ -693,8 +695,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
-            <USD><![CDATA[64.99]]></USD>
-            <GBP><![CDATA[49.99]]></GBP>
+            <USD><![CDATA[59.99]]></USD>
+            <GBP><![CDATA[44.99]]></GBP>
         </price>
         <cover>
             <small><![CDATA[https://medias3.prestastore.com/101289-pprod/siret-and-customer-group.jpg]]></small>
@@ -762,7 +764,7 @@
         <price>
             <EUR><![CDATA[89.99]]></EUR>
             <USD><![CDATA[109.99]]></USD>
-            <GBP><![CDATA[84.99]]></GBP>
+            <GBP><![CDATA[79.99]]></GBP>
         </price>
         <cover>
             <small><![CDATA[https://medias3.prestastore.com/882910-pprod/rounded-to-5ct-for-switzerland.jpg]]></small>
@@ -825,8 +827,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
-            <USD><![CDATA[124.99]]></USD>
-            <GBP><![CDATA[94.99]]></GBP>
+            <USD><![CDATA[119.99]]></USD>
+            <GBP><![CDATA[89.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
@@ -918,10 +920,10 @@
         <additional_description>
             <![CDATA[Este módulo complementario al módulo gratuito “Programa de Fidelidad” te permite configurar de manera más personal tu acciones de fidelización.   Ya no hace falta atraer clientes, lo que falta es conservarlos. Éste es el alcance del módulo “Programa de Fidelidad Avanzado” que te será de una tremenda utilidad.   Mejora la experiencia de tus clientes y siguelos al personalizar tus acciones de fidelización en relación a ellos, y aprovecha la mejor parte de este módulo.   Fideliza tus clientes de esta manera personalizada y totalmente configurable. Cada sujeto tiene una sensibilidad diferente a las acciones que emprendes para acercarte a ellos y sobretodo para conservarlos como clientes. Este módulo te permite entonces personalizar tu relación con ellos. Accediendo a los detalles de atribución de los puntos de fidelidad de tus clientes, podrás administrarlos automáticamente o manualmente . Podrás así mismo asociar puntos de fidelidad a tus productos e igualmente lanzar acciones temporales a la fidelización.   Mete fácilmente en frente un producto y designa un número de puntos de fidelidad más fuerte.]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.3.6]]></version>
+        <version><![CDATA[1.3.7]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[69.99]]></EUR>
@@ -962,8 +964,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
-            <USD><![CDATA[64.99]]></USD>
-            <GBP><![CDATA[49.99]]></GBP>
+            <USD><![CDATA[59.99]]></USD>
+            <GBP><![CDATA[44.99]]></GBP>
         </price>
         <badges>
             <badge label="Agencia asociada con PrestaShop">
@@ -999,7 +1001,7 @@
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[99.99]]></USD>
+            <USD><![CDATA[94.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
         <badges>
@@ -1066,7 +1068,7 @@
         <version><![CDATA[1.4.10]]></version>
         <compatibility>
             <from><![CDATA[1.4.5.1]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[29.99]]></EUR>
@@ -1143,7 +1145,7 @@
         <price>
             <EUR><![CDATA[89.99]]></EUR>
             <USD><![CDATA[109.99]]></USD>
-            <GBP><![CDATA[84.99]]></GBP>
+            <GBP><![CDATA[79.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
@@ -1200,7 +1202,7 @@
         <description_full>
             <![CDATA[Incremente el valor medio de carrito f&aacute;cilmente ofreciendo descuentos personalizados a sus clientes en el resumen del carrito de compra.]]></description_full>
         <additional_description>
-            <![CDATA[Mediante el m&oacute;dulo Promociones en el carrito podr&aacute;:&nbsp;Incrementar f&aacute;cilmente el valor medio de carrito de sus clientes,&nbsp;Liquidar de su inventario de aquellos productos no vendidos de su elecci&oacute;n,&nbsp;Ayudar a sus clientes a descubrir nuevos productos y crear demanda,&nbsp;Mejorar la satisfacci&oacute;n de sus clientes y su lealtad gracias a los descuentos personalizados en productos selectos. Testimonios de usuarios de Promociones en el carrito:&nbsp; Comentario recibido el 2015-06-27&nbsp; &quot;Your addon helped bring in over a thousand dollars in extra sales. When I updated my website version and design, the module was turned off for a while. I&#39;m glad it&#39;s back on again. Thanks again!&quot; M. Pak  Comentario&nbsp;recibido el 2015-06-12 05:34:12 &quot;muy bueno&quot;&nbsp;J. Ortiz Sojo  Comentario&nbsp;recibido el 2014-08-29 21:55:04 &quot;Good module, maybe could be usefull to have a random product offer&quot; J. S&aacute;nchez*  Comentario&nbsp;recibido el&nbsp;2014-03-18 07:31:35 ​&quot;Good!&quot;&nbsp;T. Aarestrup  *&nbsp;Feature added to the module !]]></additional_description>
+            <![CDATA[Mediante el m&oacute;dulo Promociones en el carrito podr&aacute;:&nbsp;Incrementar f&aacute;cilmente el valor medio de carrito de sus clientes,&nbsp;Liquidar de su inventario de aquellos productos no vendidos de su elecci&oacute;n,&nbsp;Ayudar a sus clientes a descubrir nuevos productos y crear demanda,&nbsp;Mejorar la satisfacci&oacute;n de sus clientes y su lealtad gracias a los descuentos personalizados en productos selectos.]]></additional_description>
         <tab><![CDATA[merchandizing]]></tab>
         <version><![CDATA[2.3.13]]></version>
         <compatibility>
@@ -1245,8 +1247,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[299.99]]></EUR>
-            <USD><![CDATA[369.99]]></USD>
-            <GBP><![CDATA[279.99]]></GBP>
+            <USD><![CDATA[359.99]]></USD>
+            <GBP><![CDATA[269.99]]></GBP>
         </price>
         <cover>
             <small>
@@ -1270,7 +1272,7 @@
         <additional_description>
             <![CDATA[Muy sencillo de configurar, este m&oacute;dulo permite enviar de forma&nbsp;autom&aacute;tica un email de relanza cuando haya pedidos sin finalizar  Recordatorio de carritos abandonados permite a&ntilde;adir f&aacute;cilmente descuentos en el precio o en los gastos de env&iacute;o en los emails de relanza seg&uacute;n el montante del carrito abandonado.&nbsp;  Adem&aacute;s, podr&aacute;s utilizar muchas otras funcionalidades innovadoras:&nbsp;E-mails personalizados para cada cliente&nbsp;&iexcl;Esto har&aacute; que los clientes indecisos se lancen a comprar!&nbsp;Creaci&oacute;n sencilla de plantillas para los emails utilizando la apariencia gr&aacute;fica de tu tienda.Maximiza las ventas enviando hasta 3 relanzas en los momentos que quieras y en los idiomas que necesites.&nbsp;M&oacute;dulo intuitivo y f&aacute;cil de configurar.&nbsp;  &nbsp;]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.7.23]]></version>
+        <version><![CDATA[1.7.25]]></version>
         <compatibility>
             <from><![CDATA[1.5.5.0]]></from>
             <to><![CDATA[1.7.2.2]]></to>
@@ -1286,9 +1288,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/595057-pprod/recordatorio-de-carritos-abandonados-pro.jpg]]></small>
+                <![CDATA[https://medias1.prestastore.com/920927-pprod/recordatorio-de-carritos-abandonados-pro.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/595057-pbig/recordatorio-de-carritos-abandonados-pro.jpg]]></big>
+                <![CDATA[https://medias3.prestastore.com/920927-pbig/recordatorio-de-carritos-abandonados-pro.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1314,8 +1316,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[149.99]]></EUR>
-            <USD><![CDATA[184.99]]></USD>
-            <GBP><![CDATA[139.99]]></GBP>
+            <USD><![CDATA[179.99]]></USD>
+            <GBP><![CDATA[134.99]]></GBP>
         </price>
         <badges>
             <badge label="Made by PrestaShop">
@@ -1412,7 +1414,7 @@
         <description_full>
             <![CDATA[One Page Checkout with Facebook/Google+, MAILCHIMP and Ship2Pay es responsive, compatible, con cualquier plantilla y método de pago. Compatibilidad con 30+ métodos de pago y envío. Si no funciona, lo arreglamos GRATIS.]]></description_full>
         <additional_description>
-            <![CDATA[Muestra y oculta campo: decide cuales son los campos que quieres que aparezcan en nuestro módulo One page Checkout. El módulo tiene la funcionalidad de mostrar/ocultar campos como Compañía, impuestos, dirección, etc.   Personalizar Botones: Cambia el color de los botones para que estén en armonía con el diseño de tu página, utilizando la herramienta de selección de color en nuestro panel de administrador, no necesitas saber de programación.  Mailchimp: Envía directamente el id del correo electrónico a Mailchimp. Si el cliente ingresa mediante los clientes Google+ o Facebook su email, se enviará a Mailchimp también. Cambiar envío / método de pago o imagen: Nuestro modulo te permite administrar los cambios de envío / métodos de pago o imagen sin realizar ningún cambio en el código.  Hacer cualquier campo opcional: tienes la opción donde te permite administrar los campos que quieres que sean obligatorios u opcionales.  Ordenar campos de direcciones:  organizar los campos de dirección con drag and drop. Ejemplo: el número de teléfono puede ser puesto antes del nombre.  Drag and Drop: cambia la posición de todos los campos utilizando drag and drop, también puedes mostrar el método de pago primero y posteriormente el método de envíos. Traducción de idiomas: el modulo tiene la funcionalidad de traducir el módulo de texto en cualquier idioma desde el panel de control.   Ship2pay: Usando esta función el administrador puede deshabilitar los métodos de pago basado en el método de envío seleccionado por el cliente. CSS y JS personalizado: hay una opción en el panel de administración para agregar código personalizado en CSS y JS, el administrador puede usar esta función para realizar cambios sin editar los ficheros principales del módulo. HTML personalizado: el módulo one page Checkout, tiene la opción de agregar múltiples códigos HTML en cualquier lugar, el administrador puede promocionar cualquier producto, publicitar cualquier promoción o mostrar mensajes a los clientes sobre ofertas, envíos o información de métodos de pago. Modo de prueba: el módulo tiene un modo de prueba que el administrador puede realizar pruebas en vivo sin afectar tu negocio, si el modo de prueba está activado, todos los clientes irán directamente al módulo predefinido de PrestaShop, y el administrador puede realizar las pruebas en una URL que será mostrada en el módulo del administrador.   Pestaña de preguntas frecuentes: entendemos el valor de tu tiempo, y por ello hemos decidido añadir las dudas básicas relacionadas con el módulo en el panel de administrador, entonces no necesitaras contactarnos  para pequeños problemas/dudas.]]></additional_description>
+            <![CDATA[Muestra y oculta campo: decide cuales son los campos que quieres que aparezcan en nuestro módulo One page Checkout. El módulo tiene la funcionalidad de mostrar/ocultar campos como Compañía, impuestos, dirección, etc.&nbsp;Personalizar Botones: Cambia el color de los botones para que estén en armonía con el diseño de tu página, utilizando la herramienta de selección de color en nuestro panel de administrador, no necesitas saber de programación. Mailchimp: Envía directamente el id del correo electrónico a Mailchimp. Si el cliente ingresa mediante los clientes Google+ o Facebook su email, se enviará a Mailchimp también.Cambiar envío / método de pago o imagen: Nuestro modulo te permite administrar los cambios de envío / métodos de pago o imagen sin realizar ningún cambio en el código. Hacer cualquier campo opcional: tienes la opción donde te permite administrar los campos que quieres que sean obligatorios u opcionales. Ordenar campos de direcciones: &nbsp;organizar los campos de dirección con drag and drop. Ejemplo: el número de teléfono puede ser puesto antes del nombre. Drag and Drop:&nbsp;cambia la posición de todos los campos utilizando drag and drop, también puedes mostrar el método de pago primero y posteriormente el método de envíos. Ship2pay:&nbsp;Usando esta función el administrador puede deshabilitar los métodos de pago basado en el método de envío seleccionado por el cliente. CSS y JS personalizado: hay una opción en el panel de administración para agregar código personalizado en CSS y JS, el administrador puede usar esta función para realizar cambios sin editar los ficheros principales del módulo. HTML personalizado: el módulo one page Checkout, tiene la opción de agregar múltiples códigos HTML en cualquier lugar, el administrador puede promocionar cualquier producto, publicitar cualquier promoción o mostrar mensajes a los clientes sobre ofertas, envíos o información de métodos de pago. Modo de prueba: el módulo tiene un modo de prueba que el administrador puede realizar pruebas en vivo sin afectar tu negocio, si el modo de prueba está activado, todos los clientes irán directamente al módulo predefinido de PrestaShop, y el administrador puede realizar las pruebas en una URL que será mostrada en el módulo del administrador. Pestaña de preguntas frecuentes: entendemos el valor de tu tiempo, y por ello hemos decidido añadir las dudas básicas relacionadas con el módulo en el panel de administrador, entonces no necesitaras contactarnos &nbsp;para pequeños problemas/dudas.]]></additional_description>
         <tab><![CDATA[checkout]]></tab>
         <version><![CDATA[4.0.5]]></version>
         <compatibility>
@@ -1421,7 +1423,7 @@
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[99.99]]></USD>
+            <USD><![CDATA[94.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
         <cover>
@@ -1447,15 +1449,15 @@
         <additional_description>
             <![CDATA[Elegido mejor m&oacute;dulo de Espa&ntilde;a en los premios Awards 2015 de Addons PrestaShop.  Este m&oacute;dulo permite integrar varios comercios en la misma plataforma econ&oacute;mica y espacio com&uacute;n de venta donde todos los integrantes se pueden beneficiar de la fuerza de venta del resto obteniendo con ello mayor visibilidad y por tanto un aumento en el n&uacute;mero de clientes y ventas potenciales.  La integraci&oacute;n en torno a una plataforma com&uacute;n de venta es actualmente una de las formas m&aacute;s efectivas de competir con las grandes superficies tradicionales y con los grandes operadores de ecommerce (Amazon, Ebay, etc.), que poco a poco est&aacute;n agotando la capacidad competitiva y operativa del peque&ntilde;o y mediano comercio y de los modelos de negocio que operan de forma individual en Internet.  Con este m&oacute;dulo es posible unir en un mercado la fuerza de diversos proveedores con el objetivo de tener m&aacute;s visibilidad y m&aacute;s ventas.]]></additional_description>
         <tab><![CDATA[administration]]></tab>
-        <version><![CDATA[3.8.0]]></version>
+        <version><![CDATA[3.8.9]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
             <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[244.99]]></USD>
-            <GBP><![CDATA[184.99]]></GBP>
+            <USD><![CDATA[239.99]]></USD>
+            <GBP><![CDATA[179.99]]></GBP>
         </price>
         <cover>
             <small><![CDATA[https://medias3.prestastore.com/717058-pprod/ja-marketplace.jpg]]></small>
@@ -1572,12 +1574,12 @@
         <id><![CDATA[19431]]></id>
         <name><![CDATA[prestanotifypro]]></name>
         <displayName><![CDATA[Popup promocionales (Popup)]]></displayName>
-        <categoryName><![CDATA[Pop-in y Pop-up]]></categoryName>
+        <categoryName><![CDATA[Pop-up]]></categoryName>
         <description>
             <![CDATA[&iexcl;Aumenta la efectividad de tus promociones! &nbsp; Gana en visibilidad y ventas mostrando en tu tienda un pop in para atraer a tus clientes hacia una promoci&oacute;n especial, rebajas, ventas r]]></description>
         <author><![CDATA[PrestaShop]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/pop-in-pop-up/19431-popup-promocionales-popup.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/pop-up/19431-popup-promocionales-popup.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/19431.jpg]]></img>
         <description_full>
             <![CDATA[&iexcl;Aumenta la efectividad de tus promociones! &nbsp; Gana en visibilidad y ventas mostrando en tu tienda un pop in para atraer a tus clientes hacia una promoci&oacute;n especial, rebajas, ventas rel&aacute;mpago, novedades&hellip;]]></description_full>
@@ -1626,8 +1628,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[149.99]]></EUR>
-            <USD><![CDATA[184.99]]></USD>
-            <GBP><![CDATA[139.99]]></GBP>
+            <USD><![CDATA[179.99]]></USD>
+            <GBP><![CDATA[134.99]]></GBP>
         </price>
         <badges>
             <badge label="Los favoritos de PrestaShop">
@@ -1733,8 +1735,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[179.99]]></EUR>
-            <USD><![CDATA[219.99]]></USD>
-            <GBP><![CDATA[164.99]]></GBP>
+            <USD><![CDATA[214.99]]></USD>
+            <GBP><![CDATA[159.99]]></GBP>
         </price>
         <badges>
             <badge label="Made by PrestaShop">
@@ -1874,8 +1876,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[244.99]]></USD>
-            <GBP><![CDATA[184.99]]></GBP>
+            <USD><![CDATA[239.99]]></USD>
+            <GBP><![CDATA[179.99]]></GBP>
         </price>
         <cover>
             <small>
@@ -1906,8 +1908,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[149.99]]></EUR>
-            <USD><![CDATA[184.99]]></USD>
-            <GBP><![CDATA[139.99]]></GBP>
+            <USD><![CDATA[179.99]]></USD>
+            <GBP><![CDATA[134.99]]></GBP>
         </price>
         <cover>
             <small><![CDATA[https://medias1.prestastore.com/708501-pprod/sincronizador-linio.jpg]]></small>
@@ -2026,8 +2028,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
-            <USD><![CDATA[64.99]]></USD>
-            <GBP><![CDATA[49.99]]></GBP>
+            <USD><![CDATA[59.99]]></USD>
+            <GBP><![CDATA[44.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
@@ -2063,8 +2065,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
-            <USD><![CDATA[124.99]]></USD>
-            <GBP><![CDATA[94.99]]></GBP>
+            <USD><![CDATA[119.99]]></USD>
+            <GBP><![CDATA[89.99]]></GBP>
         </price>
         <badges>
             <badge label="Agencia asociada con PrestaShop">
@@ -2081,12 +2083,12 @@
         <id><![CDATA[21278]]></id>
         <name><![CDATA[popnewsletter]]></name>
         <displayName><![CDATA[Popup Newsletter]]></displayName>
-        <categoryName><![CDATA[Pop-in y Pop-up]]></categoryName>
+        <categoryName><![CDATA[Pop-up]]></categoryName>
         <description>
             <![CDATA[&iexcl;Adquiere contactos de clientes de la forma m&aacute;s efectiva! Pop Newsletter crea una ventana que invita a tus visitantes a inscribirse a tu newsletter]]></description>
         <author><![CDATA[PrestaShop]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/pop-in-pop-up/21278-popup-newsletter.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/pop-up/21278-popup-newsletter.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/21278.jpg]]></img>
         <description_full>
             <![CDATA[&iexcl;Adquiere contactos de clientes de la forma m&aacute;s efectiva! Pop Newsletter crea una ventana que invita a tus visitantes a inscribirse a tu newsletter. Con este pop-in profesional y completamente personalizable podr&aacute;s atraer nuevos suscriptores y adem&aacute;s fidelizarlos con un descuento en su siguiente compra.&nbsp;]]></description_full>
@@ -2240,7 +2242,7 @@
         <version><![CDATA[1.1.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.17]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -2287,12 +2289,12 @@
         <id><![CDATA[21510]]></id>
         <name><![CDATA[popexit]]></name>
         <displayName><![CDATA[Pop Exit - Redireccionamiento de popups del sitio web]]></displayName>
-        <categoryName><![CDATA[Pop-in y Pop-up]]></categoryName>
+        <categoryName><![CDATA[Pop-up]]></categoryName>
         <description>
             <![CDATA[Muestra un popup a tus visitantes que est&aacute;n a punto de abandonar tu tienda que les motive para terminar su pedido]]></description>
         <author><![CDATA[PrestaShop]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/pop-in-pop-up/21510-pop-exit-redireccionamiento-de-popups-del-sitio-web.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/pop-up/21510-pop-exit-redireccionamiento-de-popups-del-sitio-web.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/21510.jpg]]></img>
         <description_full>
             <![CDATA[Muestra un popup a tus visitantes que est&aacute;n a punto de abandonar tu tienda que les motive para terminar su pedido. Gracias al m&oacute;dulo Pop Exit, podr&aacute;s recuperar 25% de los visitantes que est&aacute;n a punto de irse con una promoci&oacute;n irresistible.]]></description_full>
@@ -2380,8 +2382,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[244.99]]></USD>
-            <GBP><![CDATA[184.99]]></GBP>
+            <USD><![CDATA[239.99]]></USD>
+            <GBP><![CDATA[179.99]]></GBP>
         </price>
         <badges>
             <badge label="Made by PrestaShop">
@@ -2450,8 +2452,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[249.99]]></EUR>
-            <USD><![CDATA[309.99]]></USD>
-            <GBP><![CDATA[229.99]]></GBP>
+            <USD><![CDATA[299.99]]></USD>
+            <GBP><![CDATA[224.99]]></GBP>
         </price>
         <badges>
             <badge label="Agencia asociada con PrestaShop">
@@ -2625,8 +2627,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[129.99]]></EUR>
-            <USD><![CDATA[159.99]]></USD>
-            <GBP><![CDATA[119.99]]></GBP>
+            <USD><![CDATA[154.99]]></USD>
+            <GBP><![CDATA[114.99]]></GBP>
         </price>
         <badges>
             <badge label="Mejor módulo Tráfico">
@@ -2664,7 +2666,7 @@
         <price>
             <EUR><![CDATA[89.99]]></EUR>
             <USD><![CDATA[109.99]]></USD>
-            <GBP><![CDATA[84.99]]></GBP>
+            <GBP><![CDATA[79.99]]></GBP>
         </price>
         <cover>
             <small><![CDATA[https://medias2.prestastore.com/772059-pprod/calculo-del-flete-por-jadlog.jpg]]></small>
@@ -2722,15 +2724,15 @@
         <additional_description>
             <![CDATA[Are you ready for subscription-based e-commerce?This is a business model that combines e-commerce and subscription retail. So what is the concept really all about?&nbsp;Subscription-based e-commerce is an excellent way for brands and retailers to begin a process of getting to know their client&egrave;le and establish customer loyalty: the real strength of this economic system is simply its powerful ability to generate customer loyalty!&nbsp;Another advantage is that subscription-based e-commerce enables you to benefit from recurring monthly revenue without having to rely on the acquisition of new customers. What&#39;s more, subscription-based e-commerce encourages consumers to indulge and to re-purchase your products if they are impressed.It stands to reason that there is no-one more loyal than a customer who pays a subscription, but be careful, there are a few down sides to the subscription nowadays: customers are developing an increasing dislike to being tied in. As a result you have to grant him a great deal of freedom; he must be able to cancel his subscription whenever he sees fit!&nbsp;If at the beginning of the month your customer no longer wishes to receive the product or products for which he has subscribed, it should not have to be delivered nor billed for. Nevertheless, the likelihood that the customer will continue to use the service is much more important than is the case with &quot;traditional&quot; e-commerce! It is the assurance of regular monthly turnover, alongside the ability to manage your stock levels.&nbsp;Our Advanced Subscription module for PrestaShop takes into account all of these precepts and saves you the precious time that would be required to implement them manually.&nbsp;The reason that the paid subscription model is developing so quickly within the area of e-commerce is that retail sites appear to find in it an effective solution by which to counteract one of the main issues that chips away at their profitability: delivery fees&nbsp;Amazon Premium, Fnac Express+, Cdiscount &agrave; volont&eacute;... Many e-commerce retailers are now launching their own paid subscription services. In order to grasp the reason behind the phenomenon, one need only remember the fact that delivery fees remain the leading cause of abandoned shopping carts and that, on average, a subscribing customer is twice as lucrative as a non-subscribing customer.&nbsp;A few figures to quantify the impact of delivery on e-business:&nbsp;87% of online shoppers systematically search for a means by which to avoid having to pay shipping fees (searching for a promotional code, addition of a product to the cart...).44% abandon their purchases purely and simply on account of these fees66% switch to a different retail site in search of delivery conditions that are acceptable to them.&nbsp;Converting customers into subscribers enables online retailers to save time and money compared to traditional methods of recovering customers and generating customer loyalty, as it allows you automate part of the customer relationship. This saving can then be allocated to a free delivery service reserved solely for your subscribers, thus eliminating this purchasing deterrent and in turn achieving much greater conversion rates.&nbsp;&nbsp;Objective: to generate long-term customer loyalty&nbsp;In addition to the appeal of novelty, subscription-based e-commerce represents a formidable double-edged sword for brands that are reliant on distribution networks and that are targeting growth. In actual fact, first and foremost the subscription principle allows retailers to generate recurrent turnover and a stable operating account.&nbsp;Thus, while subscription-based e-commerce may have cut its teeth with samples and travel-sized products, various other products now also appear to lend themselves to the model: in ready-to-wear clothing, cosmetics, culture and leisure, but also products intended for regular consumption such as mineral water or hygiene products (baby nappies for instance).&nbsp;&nbsp;Optimization of supply and of your logisticsThe subscription enables you to achieve an improved rate of re-purchase, thus allowing you to purchase from your suppliers more efficiently. In fact, our module will enable you to accurately predict which products will sell, in which quantity and at which frequency.&nbsp;]]></additional_description>
         <tab><![CDATA[pricing_promotion]]></tab>
-        <version><![CDATA[1.0.3]]></version>
+        <version><![CDATA[1.0.3.1]]></version>
         <compatibility>
-            <from><![CDATA[1.6.0.14]]></from>
+            <from><![CDATA[1.6.0.9]]></from>
             <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[499.99]]></EUR>
-            <USD><![CDATA[619.99]]></USD>
-            <GBP><![CDATA[459.99]]></GBP>
+            <USD><![CDATA[599.99]]></USD>
+            <GBP><![CDATA[449.99]]></GBP>
         </price>
         <badges>
             <badge label="Mejor módulo Fidelidad">
@@ -2804,8 +2806,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
-            <USD><![CDATA[124.99]]></USD>
-            <GBP><![CDATA[94.99]]></GBP>
+            <USD><![CDATA[119.99]]></USD>
+            <GBP><![CDATA[89.99]]></GBP>
         </price>
         <cover>
             <small>
@@ -2902,7 +2904,7 @@
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[99.99]]></USD>
+            <USD><![CDATA[94.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
         <cover>
@@ -2935,8 +2937,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
-            <USD><![CDATA[124.99]]></USD>
-            <GBP><![CDATA[94.99]]></GBP>
+            <USD><![CDATA[119.99]]></USD>
+            <GBP><![CDATA[89.99]]></GBP>
         </price>
         <cover>
             <small><![CDATA[https://medias2.prestastore.com/803735-pprod/club-la-nacion.jpg]]></small>
@@ -3051,6 +3053,42 @@
         </cover>
     </module>
     <module>
+        <id><![CDATA[26586]]></id>
+        <name><![CDATA[cappasity3d]]></name>
+        <displayName><![CDATA[Cappasity 3D and 360 Product Viewer]]></displayName>
+        <categoryName><![CDATA[Fotos de productos]]></categoryName>
+        <description>
+            <![CDATA[Showcase your product in 3D with the most powerful 3D platform on the market]]></description>
+        <author><![CDATA[Community developer]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/fotos-productos/26586-cappasity-3d-and-360-product-viewer.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/26586.jpg]]></img>
+        <description_full>
+            <![CDATA[Showcase your product in 3D with the most powerful 3D platform on the market. Create your own 3D Views with the free Cappasity solution using just a regular camera and embed 3D views into your online store.]]></description_full>
+        <additional_description>
+            <![CDATA[Let your customers interact with your products in 3D exactly the same way as in the physical store. With 3D they can look at your product from all sides to see details and gain confidence in their purchase. Such immersive shopping experience is essential for e-commerce and results in higher conversion and lower returns.&nbsp;3D Views are proven to increase engagement and conversion over static images by up to 30%!&nbsp;Cappasity solution is a powerful tool for capturing reflective or sparkling objects and demonstrating the textures of your products to potential customers.]]></additional_description>
+        <tab><![CDATA[front_office_features]]></tab>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <from><![CDATA[1.5.6.1]]></from>
+            <to><![CDATA[1.6.1.17]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[https://medias1.prestastore.com/832499-pprod/cappasity-3d-and-360-product-viewer.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/832499-pbig/cappasity-3d-and-360-product-viewer.jpg]]></big>
+        </cover>
+    </module>
+    <module>
         <id><![CDATA[26784]]></id>
         <name><![CDATA[todolist]]></name>
         <displayName><![CDATA[Lista de tareas (To Do List in the back office)]]></displayName>
@@ -3147,8 +3185,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
-            <USD><![CDATA[64.99]]></USD>
-            <GBP><![CDATA[49.99]]></GBP>
+            <USD><![CDATA[59.99]]></USD>
+            <GBP><![CDATA[44.99]]></GBP>
         </price>
         <badges>
             <badge label="Los favoritos de PrestaShop">
@@ -3255,8 +3293,8 @@
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
-            <USD><![CDATA[64.99]]></USD>
-            <GBP><![CDATA[49.99]]></GBP>
+            <USD><![CDATA[59.99]]></USD>
+            <GBP><![CDATA[44.99]]></GBP>
         </price>
         <badges>
             <badge label="Made by PrestaShop">
@@ -3266,6 +3304,41 @@
             <small>
                 <![CDATA[https://medias3.prestastore.com/880939-pprod/estadisticas-de-productos-esenciales.jpg]]></small>
             <big><![CDATA[https://medias2.prestastore.com/880939-pbig/estadisticas-de-productos-esenciales.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[27869]]></id>
+        <name><![CDATA[mtarget]]></name>
+        <displayName><![CDATA[MTarget SMS]]></displayName>
+        <categoryName><![CDATA[Newsletter y SMS]]></categoryName>
+        <description>
+            <![CDATA[&iexcl;Usa el poder de los SMS para fidelizar a tus clientes y aumentar tus ventas! &nbsp;El estado del pedido, recordatorios de cestas olvidadas, cumplea&ntilde;os o el env&iacute;o de marketing diri]]></description>
+        <author><![CDATA[PrestaShop Partners]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/newsletter-sms/27869-mtarget-sms.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/27869.jpg]]></img>
+        <description_full>
+            <![CDATA[&iexcl;Usa el poder de los SMS para fidelizar a tus clientes y aumentar tus ventas! &nbsp;El estado del pedido, recordatorios de cestas olvidadas, cumplea&ntilde;os o el env&iacute;o de marketing dirigido, dale un impulso a tu tienda con nuestro paquete de SMS.]]></description_full>
+        <additional_description>
+            <![CDATA[Consolidar sus relaciones con los clientes y aumentar sus ventas con nuestra llave en mano soluci&oacute;n de SMS.&nbsp;Informa a tus clientes en tiempo real de la evoluci&oacute;n de su pedidoRecuerda a tus clientes las cestas de la compra olvidadasComunicar con eficacia todo tipo de eventos (rebajas, ventas privadas ...)Segmenta y sincroniza autom&aacute;ticamente tus contactos en nuestra plataformaRecibe una notificaci&oacute;n por SMS por cada nuevo registro, nuevo pedido o petici&oacute;n de devoluci&oacute;n de productosSigue y analiza los resultados de tus env&iacute;osControla tu presupuesto (sin cuotas mensuales, ni costes ocultos)Servicio de atenci&oacute;n al cliente y soporte en nuestra sede en FranciaPrecio de los m&aacute;s bajos del mercado]]></additional_description>
+        <tab><![CDATA[emailing]]></tab>
+        <version><![CDATA[1.0.2]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.1.0]]></from>
+            <to><![CDATA[1.7.2.2]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
+            <small><![CDATA[https://medias3.prestastore.com/890985-pprod/mtarget-sms.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/890985-pbig/mtarget-sms.jpg]]></big>
         </cover>
     </module>
 </modules>

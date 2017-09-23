@@ -33,6 +33,7 @@
         <module name="feeder"/>
         <module name="followup"/>
         <module name="gapi"/>
+        <module name="loyalty"/>
         <module name="mailalerts"/>
         <module name="newsletter"/>
         <module name="productcomments"/>
@@ -268,11 +269,13 @@
         <module name="seoperformance"/>
         <module name="djtalmundipagg"/>
         <module name="faviconotification"/>
+        <module name="cappasity3d"/>
         <module name="todolist"/>
         <module name="buylater"/>
         <module name="topbanner"/>
         <module name="seoimg"/>
         <module name="pscookiebanner"/>
         <module name="psproductstats"/>
+        <module name="mtarget"/>
     </modules>
 </modules_list>

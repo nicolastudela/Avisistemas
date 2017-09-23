@@ -50,16 +50,6 @@
       "calculation_detail": "2",
       "id_ps_condition": "40"
     },
-    "509": {
-      "name": "Module payulatam installed",
-      "type": "sql",
-      "request": "SELECT COUNT( id_module ) FROM PREFIX_module WHERE `name` like \"%payulatam%\"",
-      "operator": "==",
-      "value": "1",
-      "calculation_type": "hook",
-      "calculation_detail": "actionModuleInstallAfter",
-      "id_ps_condition": "509"
-    },
     "55": {
       "name": "Orders > 100",
       "type": "sql",
@@ -1998,6 +1988,16 @@
       "calculation_detail": "7",
       "id_ps_condition": "508"
     },
+    "509": {
+      "name": "Module payulatam installed",
+      "type": "sql",
+      "request": "SELECT COUNT( id_module ) FROM PREFIX_module WHERE `name` like \"%payulatam%\"",
+      "operator": "==",
+      "value": "1",
+      "calculation_type": "hook",
+      "calculation_detail": "actionModuleInstallAfter",
+      "id_ps_condition": "509"
+    },
     "510": {
       "name": "Module payulatam configured",
       "type": "sql",
@@ -2309,8 +2309,8 @@
       "id_ps_condition": "540"
     }
   },
-  "signature": "NNRXJejAVAFOjKtyiG+mnTiJXwcdp7UIbr9KmX2chCMUQXAp+6VmYC4lna8rP4uFV6OMagv+3MmYgswNoRIbogntuo9AI466KLyxhOsO+FBau9RDx\/TRcW3z2waPC\/0Slh+YCzP2FZCOgAIOLdeJwERpkjlE+zqpUvvBs4ev8BKD\/eIype+deFPqAuD3ci3M7\/WPEJ\/w9g0Qry1rP33vmZkLzlsjveSvmoUH8IRWS8DL0MgNLsSRQQjZHmEE7RuEJwHkgHkrgp075EFpLJwDKF5oCEwa4Zj2cgBnoN5BbW\/teDmqDCF53GF3m1ewwPYVBpu4QFZcIOB92MrYdbpyVQ==",
-  "signature_16": "q+qvYgnxh+teYfVQyPDfj2qUnqERNpH9xUQA4g+oTYnUXCH2co3vTd6+RvHWIfGZ5TeGE4NaruwfZcCtM8Om\/FQ1f\/ovLnxi8y1PztfJsWZ7FXVxbATmpI54qd4BiitOLkXCpfvtxhxHF\/lWrSrmhyxwWwaeJlbHfkaNPMkvcPAgp3W4wOnFAAwQoSwrKWKP7z15geIpQuZCJ8e+aQefi9q4ZKGGyh0tI7Ajfk9bomufMqi85U8tK0Vvvb7lkQx4njkWnsMbPs+VsgsaC0z7Xpy1OVaU6w2qHd72r1WmR+CY8uuISJEXiVjdmSbl3RiKRjh0XT56GYcEU0j9khIJ2Q==",
+  "signature": "hcCb+WlIIZ\/YVTIakdXprgrXMGhDnfwywzsK6Zfj3wjTNYLprGbeq80HfOI4iy3XRofkWOf52PX4YssNiAXki4ekusBO8b7jtoMzgi35JQf4cOHs0ZXNAEjioLEfp6y5AlqhPlv2kOAcHY11LZMTcBNMezARjMbqa3gf7AZgwrqCdbljqrdLm2Ar0WsRu3dQOhWuffdnizvpAgAus2+iWrKKKR1egKDbxZfF\/O8be6g7h1JbZKOSYjkXCPq0IGqBgQP7LaPl7QBmwbkj+irkFIIHVfWwD1IyDgVyQaI5Qy2yvPozSrA2xai+RVV5yJFwEL63KTJqcBTefcRZ78C1WQ==",
+  "signature_16": "nf5bxPaBnSOxAjNs08+L3uLiT5vlRepAbofh1yddQZnEOv6NbGS9+1OblY1\/1Mm8\/LQYlfgfOrx7eOdGclBbalgmIQyb26fAd\/TX+GxHONtymH9z41GCap6kTTy+tdBPexRGC1EXLvhY\/fX7vIgG2ARsOS+CMsX5N5MqVjnbOfPgjJWyhk8JUnVK9UP7Qsam1EIED7nBj3+wbshpQGzrhBD+Hfy1ph2rOdjdnjnZYORNxHH2eUnS4PIAqGrgJiTj1INij7zx+iGNI9arJpO+fg1yXbK9PHqqUArjV8MSS4M9jdHDM5wvIu5SLqlOj3yMgD4pav6FOrteFbrUXkMxHA==",
   "badges": [
     {
       "type": "feature",
@@ -4599,28 +4599,6 @@
       "id_ps_advice": "520"
     },
     {
-      "name": "[Premium] payulatam",
-      "module_name": "",
-      "weight": "1",
-      "location": "after",
-      "selector": "#dashtrends",
-      "active": true,
-      "start_day": "0",
-      "stop_day": "0",
-      "start_date": "0000-00-00 00:00:00",
-      "stop_date": "0000-00-00 00:00:00",
-      "first_online_date": "2015-02-11 17:43:43",
-      "tabs": [
-        "AdminDashboard"
-      ],
-      "tab": "AdminDashboard",
-      "display_conditions": [
-        "509"
-      ],
-      "hide_conditions": [],
-      "id_ps_advice": "527"
-    },
-    {
       "name": "SendinBlue",
       "module_name": null,
       "weight": "1",
@@ -4893,6 +4871,28 @@
       "id_ps_advice": "735"
     },
     {
+      "name": "[Premium] skrill2",
+      "module_name": "skrill2",
+      "weight": "1",
+      "location": "after",
+      "selector": "#dashtrends",
+      "active": true,
+      "start_day": "0",
+      "stop_day": "0",
+      "start_date": "0000-00-00 00:00:00",
+      "stop_date": "0000-00-00 00:00:00",
+      "first_online_date": "2016-08-26 16:03:06",
+      "tabs": [
+        "AdminDashboard"
+      ],
+      "tab": "AdminDashboard",
+      "display_conditions": [
+        "19"
+      ],
+      "hide_conditions": [],
+      "id_ps_advice": "765"
+    },
+    {
       "name": "[Premium] nostotagging",
       "module_name": "nostotagging",
       "weight": "1",
@@ -4935,6 +4935,28 @@
       ],
       "hide_conditions": [],
       "id_ps_advice": "785"
+    },
+    {
+      "name": "[Tips] ecommercecalendar",
+      "module_name": null,
+      "weight": "1",
+      "location": "after",
+      "selector": ".dash_news",
+      "active": true,
+      "start_day": "0",
+      "stop_day": "0",
+      "start_date": "0000-00-00 00:00:00",
+      "stop_date": "0000-00-00 00:00:00",
+      "first_online_date": "2017-07-26 14:40:35",
+      "tabs": [
+        "AdminDashboard"
+      ],
+      "tab": "AdminDashboard",
+      "display_conditions": [
+        "19"
+      ],
+      "hide_conditions": [],
+      "id_ps_advice": "824"
     }
   ],
   "advices_lang_16": [
@@ -4965,10 +4987,6 @@
     {
       "id_ps_advice": "520",
       "html": "<div id=\"wrap_id_advice_520\" >\n\t\t<section id=\"0_sendinblue\" class=\"panel \" style=\"display:none\">\n\t\t\t<header class=\"panel-heading\">\n\t\t\t\t<span class=\"icon-lightbulb\"><\/span> Consejo del d\u00eda<\/header>\n\t\t\t<div class=\"panel-body\" style=\"padding:0\">\n\t\t\t\t<img class=\"img-responsive\" src=\"https:\/\/api.prestashop.com\/partner\/tipsoftheday\/img\/logo-sendinblue.png\" style=\"float:right; margin-left: 5px;\">\n\t\t\t\t<img src=\"https:\/\/gamification.prestashop.com\/api\/getAdviceImg\/520.png\"\/>\n\t\t\t\t<p><b>\u00bfSab\u00edas que fidelizar a un cliente cuesta cinco veces menos que conseguir otro?<\/b><\/p>\n\t\t\t\t<p>\u00bfQuieres mantener a tus clientes informados de las novedades y ofertas de una forma eficaz y asequible? Env\u00edales emails y SMS con SendinBlue. \u00a1Pru\u00e9balo gratis!<\/p>\n\t\t\t\t<span class=\"text-right\" style=\"float:right\">\n\t\t\t\t\t<a class=\"btn btn-default\" target=\"_blank\" href=\"https:\/\/gamification.prestashop.com\/get_advice_link.php?id_advice=520&url=http%3A%2F%2Faddons.prestashop.com%2Fes%2Fpublicidad-marketing-newsletter-modulos%2F8300-mailinblue.html%3Futm_source%3Dback-office%26utm_medium%3Dtipoftheday%26utm_campaign%3Dpartenariats%26utm_content%3Dsendinblue\">\u00bfQuieres saber m\u00e1s?<\/a>\n\t\t\t\t<\/span>\n\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t<script>\n\t\t\t$(document).ready( function () {\n\t\t\t\t$('#'+rand(0)+'_sendinblue').show();\n\t\t\t});\n\n\t\t\tfunction rand(nbr){\n\t\t\t   return Math.floor(Math.random()*(nbr+1));\n\t\t\t}\n\t\t\t<\/script>\n\t\t\t<\/div>"
-    },
-    {
-      "id_ps_advice": "527",
-      "html": "<div id=\"wrap_id_advice_527\" >\n\t<div class=\"col-lg-6\">\n\t\t<section id=\"\" class=\"panel panel-advice\">\n\t\t\t<a href=\"#\" id=\"527\" class=\"close_link gamification_premium_close\">\n\t\t\t\t<i class=\"icon-remove\"><\/i>\n\t\t\t<\/a>\n\t\t\t<span class=\"gamification-close-confirmation hide\">\n\t\t\t\t\u00bfEst\u00e1 seguro?\n\t\t\t\t<button class=\"btn btn-default btn-sm\" data-advice=\"delete\"><i class=\"icon-trash\"><\/i> Eliminar<\/button>\n\t\t\t\t<button class=\"btn btn-default btn-sm\" data-advice=\"cancel\">Cancelar<\/button>\n\t\t\t<\/span>\n\t\t\t<a class=\"preactivationLink row\" rel=\"payulatam\" href=\"{link}AdminModules{\/link}&install=payulatam&module_name=payulatam&redirectconfig\">\n\t\t\t\t<img src=\"https:\/\/api.prestashop.com\/partner\/premium\/images\/payulatam.png\" class=\"advice-img img-thumbnail\">\n\t\t\t\t<img src=\"https:\/\/gamification.prestashop.com\/api\/getAdviceImg\/527.png\"\/ class=\"hide\">\n\t\t\t\t<p class=\"advice-description\">La soluci\u00f3n m\u00e1s f\u00e1cil para recibir pagos en l\u00ednea en Am\u00e9rica Latina<br\/><\/p>\n\t\t\t<\/a>\n\t\t<\/section>\n\t<\/div><\/div>"
     },
     {
       "id_ps_advice": "532",
@@ -5019,12 +5037,20 @@
       "html": "<div id=\"wrap_id_advice_735\" >\n\t\t<section id=\"0_videotraining_suscribe\" class=\"panel \" style=\"display:none\">\n\t\t\t<header class=\"panel-heading\">\n\t\t\t\t<span class=\"icon-lightbulb\"><\/span> Consejo del d\u00eda<\/header>\n\t\t\t<div class=\"panel-body\" style=\"padding:0\">\n\t\t\t\t<img class=\"img-responsive\" src=\"https:\/\/api.prestashop.com\/partner\/tipsoftheday\/img\/logo-videotraining_suscribe.png\" style=\"float:right; margin-left: 5px;\">\n\t\t\t\t<img src=\"https:\/\/gamification.prestashop.com\/api\/getAdviceImg\/735.png\"\/>\n\t\t\t\t<p><b>\u00a1Descubre todos nuestros v\u00eddeos de e-commerce en nuestro canal de YouTube!<\/b><\/p>\n\t\t\t\t<p>Suscr\u00edbete al canal de YouTube de PrestaShop y descubre consejos de nuestros expertos sobre comercio electr\u00f3nico, historias de vendedores y tutoriales PrestaShop.<\/p>\n\t\t\t\t<span class=\"text-right\" style=\"float:right\">\n\t\t\t\t\t<a class=\"btn btn-default\" target=\"_blank\" href=\"https:\/\/gamification.prestashop.com\/get_advice_link.php?id_advice=735&url=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fprestashop%3Futm_source%3Dback+office%26utm_medium%3Dtipoftheday%26utm_campaign%3DYoutube-launch%26utm_content%3Dlaunch\">\u00a1Suscr\u00edbete ahora!<\/a>\n\t\t\t\t<\/span>\n\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t<script>\n\t\t\t$(document).ready( function () {\n\t\t\t\t$('#'+rand(0)+'_videotraining_suscribe').show();\n\t\t\t});\n\n\t\t\tfunction rand(nbr){\n\t\t\t   return Math.floor(Math.random()*(nbr+1));\n\t\t\t}\n\t\t\t<\/script>\n\t\t\t<\/div>"
     },
     {
+      "id_ps_advice": "765",
+      "html": "<div id=\"wrap_id_advice_765\" >\n\t<div class=\"col-lg-6\">\n\t\t<section id=\"\" class=\"panel panel-advice\">\n\t\t\t<a href=\"#\" id=\"749\" class=\"close_link gamification_premium_close\">\n\t\t\t\t<i class=\"icon-remove\"><\/i>\n\t\t\t<\/a>\n\t\t\t<span class=\"gamification-close-confirmation hide\">\n\t\t\t\t\u00bfEst\u00e1 seguro?\n\t\t\t\t<button class=\"btn btn-default btn-sm\" data-advice=\"delete\"><i class=\"icon-trash\"><\/i> Eliminar<\/button>\n\t\t\t\t<button class=\"btn btn-default btn-sm\" data-advice=\"cancel\">Cancelar<\/button>\n\t\t\t<\/span>\n\t\t\t<a class=\"preactivationLink row\" rel=\"skrill\" href=\"{link}AdminModules{\/link}&install=skrill&module_name=skrill&redirectconfig\">\n\t\t\t\t<img src=\"https:\/\/api.prestashop.com\/partner\/premium\/images\/skrill.png\" class=\"advice-img img-thumbnail\">\n\t\t\t\t<img src=\"https:\/\/gamification.prestashop.com\/api\/getAdviceImg\/749.png\"\/ class=\"hide\">\n\t\t\t\t<p class=\"advice-description\">Skrill Checkout \u2013 venda globalmente y crezca<br\/><\/p>\n\t\t\t<\/a>\n\t\t<\/section>\n\t<\/div><\/div>"
+    },
+    {
       "id_ps_advice": "779",
       "html": "<div id=\"wrap_id_advice_779\" >\n\t<div class=\"col-lg-6\">\n\t\t<section id=\"\" class=\"panel panel-advice\">\n\t\t\t<a href=\"#\" id=\"561\" class=\"close_link gamification_premium_close\">\n\t\t\t\t<i class=\"icon-remove\"><\/i>\n\t\t\t<\/a>\n\t\t\t<span class=\"gamification-close-confirmation hide\">\n\t\t\t\t\u00bfEst\u00e1 seguro?\n\t\t\t\t<button class=\"btn btn-default btn-sm\" data-advice=\"delete\"><i class=\"icon-trash\"><\/i> Eliminar<\/button>\n\t\t\t\t<button class=\"btn btn-default btn-sm\" data-advice=\"cancel\">Cancelar<\/button>\n\t\t\t<\/span>\n\t\t\t<a class=\"preactivationLink row\" rel=\"nostotagging\" href=\"{link}AdminModules{\/link}&install=nostotagging&module_name=nostotagging&redirectconfig\">\n\t\t\t\t<img src=\"https:\/\/api.prestashop.com\/partner\/premium\/images\/nosto.png\" class=\"advice-img img-thumbnail\">\n\t\t\t\t<img src=\"https:\/\/gamification.prestashop.com\/api\/getAdviceImg\/561.png\"\/ class=\"hide\">\n\t\t\t\t<p class=\"advice-description\">Ofrece una experiencia de compra personalizada e incrementa ya tu conversi\u00f3n<br\/><\/p>\n\t\t\t<\/a>\n\t\t<\/section>\n\t<\/div><\/div>"
     },
     {
       "id_ps_advice": "785",
       "html": "<div id=\"wrap_id_advice_785\" >\n\t\t<section id=\"0_googleshopping\" class=\"panel \" style=\"display:none\">\n\t\t\t<header class=\"panel-heading\">\n\t\t\t\t<span class=\"icon-lightbulb\"><\/span> Consejo del d\u00eda<\/header>\n\t\t\t<div class=\"panel-body\" style=\"padding:0\">\n\t\t\t\t<img class=\"img-responsive\" src=\"https:\/\/api.prestashop.com\/partner\/tipsoftheday\/img\/logo-googleshopping.png\" style=\"float:right; margin-left: 5px;\">\n\t\t\t\t<img src=\"https:\/\/gamification.prestashop.com\/api\/getAdviceImg\/785.png\"\/>\n\t\t\t\t<p><b>C\u00f3mo optimizar Google Shopping?<\/b><\/p>\n\t\t\t\t<p>Actualiza el flujo de producto para asegurar que los precios, la disponibilidad, promociones y las fechas de entrega son siempre actualizados.<\/p>\n\t\t\t\t<span class=\"text-right\" style=\"float:right\">\n\t\t\t\t\t<a class=\"btn btn-default\" target=\"_blank\" href=\"https:\/\/gamification.prestashop.com\/get_advice_link.php?id_advice=785&url=http%3A%2F%2Faddons.prestashop.com%2Fes%2F23831-google-shopping.html%3Futm_source%3Dback-office%26utm_medium%3Dtipoftheday%26utm_campaign%3Dpartenariats%26utm_content%3Dgoogleshopping\">\u00a1Inicia la campa\u00f1a ya!<\/a>\n\t\t\t\t<\/span>\n\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t<script>\n\t\t\t$(document).ready( function () {\n\t\t\t\t$('#'+rand(0)+'_googleshopping').show();\n\t\t\t});\n\n\t\t\tfunction rand(nbr){\n\t\t\t   return Math.floor(Math.random()*(nbr+1));\n\t\t\t}\n\t\t\t<\/script>\n\t\t\t<\/div>"
+    },
+    {
+      "id_ps_advice": "824",
+      "html": "<div id=\"wrap_id_advice_824\" >\n\t\t<section id=\"0_ecommercecalendar\" class=\"panel \" style=\"display:none\">\n\t\t\t<header class=\"panel-heading\">\n\t\t\t\t<span class=\"icon-lightbulb\"><\/span> Consejo del d\u00eda<\/header>\n\t\t\t<div class=\"panel-body\" style=\"padding:0\">\n\t\t\t\t<img class=\"img-responsive\" src=\"https:\/\/api.prestashop.com\/partner\/tipsoftheday\/img\/logo-ecommercecalendar.png\" style=\"float:right; margin-left: 5px;\">\n\t\t\t\t<img src=\"https:\/\/gamification.prestashop.com\/api\/getAdviceImg\/824.png\"\/>\n\t\t\t\t<p><b>\u00a1Desc\u00e1rgate la gu\u00eda que abarca desde la vuelta al cole hasta Navidad!<\/b><\/p>\n\t\t\t\t<p>En fechas se\u00f1aladas como la Vuelta al cole, el Black Friday y la Navidad, deber\u00edas tener a mano nuestra Gu\u00eda para el eCommerce.<\/p>\n\t\t\t\t<span class=\"text-right\" style=\"float:right\">\n\t\t\t\t\t<a class=\"btn btn-default\" target=\"_blank\" href=\"https:\/\/gamification.prestashop.com\/get_advice_link.php?id_advice=824&url=https%3A%2F%2Faddons.prestashop.com%2Fes%2Fcalendario-e-commerce%2F27662-calendario-de-e-commerce-2017-para-el-ultimo-semestre-del-ano.html%3Futm_source%3Dback-office%26utm_medium%3Dtipoftheday%26utm_campaign%3Dcalendar-ES%26utm_content%3DES\">Descargar la gu\u00eda<\/a>\n\t\t\t\t<\/span>\n\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t<script>\n\t\t\t$(document).ready( function () {\n\t\t\t\t$('#'+rand(0)+'_ecommercecalendar').show();\n\t\t\t});\n\n\t\t\tfunction rand(nbr){\n\t\t\t   return Math.floor(Math.random()*(nbr+1));\n\t\t\t}\n\t\t\t<\/script>\n\t\t\t<\/div>"
     }
   ],
   "badges_only_visible_awb": [

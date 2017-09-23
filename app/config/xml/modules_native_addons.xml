@@ -16,7 +16,7 @@
         <additional_description>
             <![CDATA[A free solution with no need for development, easy to install from your Prestashop back-office.An "iframe" delivery page that is consistent with the site, thus ensuring continuity in the buying process.A wide range of shipping methods to meet the needs of your e-buyers.Increased revenue through the Colissimo service in EuropeAccess to a dedicated customer area in the "Colissimo Box" and a tracking tool for your shipments: ColiView.A mobile version of the module to ensure compatibility and consistent sales throughout the day. This module will help you generate additional sales thanks to your multichannel presence.NB: This module is for traders with a SIRET French business identification number. ]]></additional_description>
         <tab><![CDATA[shipping_logistics]]></tab>
-        <version><![CDATA[3.0.6]]></version>
+        <version><![CDATA[3.0.7]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
             <to><![CDATA[1.6.1.17]]></to>
@@ -1028,6 +1028,35 @@
         </badges>
     </module>
     <module>
+        <id><![CDATA[9140]]></id>
+        <name><![CDATA[loyalty]]></name>
+        <displayName><![CDATA[Customer loyalty and rewards]]></displayName>
+        <categoryName><![CDATA[Natif]]></categoryName>
+        <description><![CDATA[Proporciona un programa de fidelizaci&oacute;n para sus clientes]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/product.php?id_product=9140?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/9140.jpg]]></img>
+        <description_full>
+            <![CDATA[Proporciona un programa de fidelizaci&oacute;n para sus clientes.]]></description_full>
+        <additional_description><![CDATA[]]></additional_description>
+        <tab><![CDATA[]]></tab>
+        <version><![CDATA[1.2.9]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.4]]></from>
+            <to><![CDATA[1.6.1.17]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Made by PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
+        </badges>
+    </module>
+    <module>
         <id><![CDATA[9141]]></id>
         <name><![CDATA[mailalerts]]></name>
         <displayName><![CDATA[Mail alerts]]></displayName>
@@ -1253,7 +1282,7 @@
         <price>
             <EUR><![CDATA[89.99]]></EUR>
             <USD><![CDATA[109.99]]></USD>
-            <GBP><![CDATA[84.99]]></GBP>
+            <GBP><![CDATA[79.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio Oficial de PrestaShop">
@@ -3532,13 +3561,14 @@
         <name><![CDATA[bluesnap]]></name>
         <displayName><![CDATA[BlueSnap]]></displayName>
         <categoryName><![CDATA[Pago con Tarjeta o Carteras digitales]]></categoryName>
-        <description><![CDATA[BlueSnap is a global payment gateway and so much more]]></description>
+        <description>
+            <![CDATA[BlueSnap is an all-in-one payment solution, providing both a merchant account and payment gateway designed to accelerate commerce for merchants selling globally]]></description>
         <author><![CDATA[PrestaShop Partners]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/18136-bluesnap.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/18136.jpg]]></img>
         <description_full>
-            <![CDATA[BlueSnap is a global payment gateway and so much more.&nbsp; We offer the widest global support in the industry plus 110 different payment types including all of Tier 1 credit cards, diner cards, PayPal, E-checks and wire transfers. PrestaShop and BlueSnap help shoppers make purchases easily and securely with the free BlueSnap module.]]></description_full>
+            <![CDATA[BlueSnap is an all-in-one payment solution, providing both a merchant account and payment gateway designed to accelerate commerce for merchants selling globally. &nbsp; By connecting your PrestaShop store with BlueSnap, you can accept payments securely from shoppers anywhere in the world in their local currency. BlueSnap provides analytics and reporting to make it easy to identify opportunities for higher conversions. In addition, PrestaShop merchants process credit and debit card transactions with a secure checkout form, which is displayed directly on your checkout page so shoppers never leave your store.]]></description_full>
         <additional_description>
             <![CDATA[Sell globally with no developmentEasy all-in-one global payment module supportingVISA, MasterCard, Amex, Discover, JCB, Diners Club, Carte BleuePaypal, Alipay, Ukash, Skrill, and more+ 110 of the most preferred alternative payment methods worldwideDon&rsquo;t install more than one module for paymentsReduce cart abandonment with localized checkout pagesModule automatically renders checkout page in shopper&rsquo;s local language, local currency, and preferred local payment typeMore transactions approved because of our intelligent payment routing technologyCompetitive pricing starting at 2.9% + 30C per approved transactionCheckout page optimized for mobile and desktop]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
@@ -4151,7 +4181,7 @@
         <additional_description>
             <![CDATA[Amazon Pay puede ayudarte a:Fomentar la fidelidad de tus clientesAtraer nuevos clientesAumentar la conversi&oacute;nReducir el fraudeOptimizar la experiencia de pago desde m&oacute;viles &iexcl;Reg&iacute;strate ya en Amazon Pay!]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[2.0.62]]></version>
+        <version><![CDATA[2.0.63]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
             <to><![CDATA[1.6.1.17]]></to>
@@ -4945,10 +4975,10 @@
         <additional_description>
             <![CDATA[For Merchants located in United States, Canada, Europe and United KingdomPayments-as-a-Service: all-in-one processing for stores, items and subscriptionsNo credit checksSell to consumers worldwideProvide an international checkout instantlySet-it-and forget-it billing automation&nbsp;Your CCBill Account includes a COMPLETE PACKAGE OF PAYMENT TOOLS:Payment gateway, merchant account, fraud protection, risk management24/7/365 billing support for your shopperssmart, customizable payment forms, mobile checkoutmultiple currencies and languages, geo/browser targeted forms,flexible settlement of funds to anywhere and anyone you choose &ndash; and full accounting suite for settlementsdirect settlements and a menu of tools to automate and expand your online business commerce.Top-level PCI Compliance (Provider level)&nbsp;Your CCBill Account includes a variety of MARKETING AND TRAFFIC TOOLS:Real-time notices and distribution notificationsAffiliate software included with built-in affiliate managementIntegrated one-click cross-sale and upsale networkEasy upsales, multi-purchases, and add-on itemsBuilt-in A|B or split testingFlexible checkout flows to maximize approvalsInstant visual promos and special offers at checkout&nbsp;Your CCBill Account includes everything to EXPAND YOUR SALES GLOBALLY:Reduce cart abandonment with localized checkout pagesSmart checkout page displays automatically in shopper&rsquo;s local language, local currency, and preferred local payment typeIntelligent payment routing technologyCheckout page optimized for any screen &ndash; mobile, tablet, desktop, smart TVControl types of payments accepted on a local level and control gift card abuse]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[4.0.0]]></version>
+        <version><![CDATA[4.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5187,10 +5217,10 @@
         <additional_description>
             <![CDATA[SALESmanago Marketing Automation para eCommerce ¿Qué te ofrece SALESmanago para tu tienda online?·         Convierte a tus visitantes en clientes, monitoriza lo que hacen en tu tienda web·         Segmenta automáticamente a tus visitantes según su comportamiento en la tienda web.·         Crea y envía contenido personalizado sin trabajo manual·         Crea tu propio chat utilizando bots SALESmanago es una plataforma de marketing automation basada en la nube utilizada por más de 6.000 empresas en todo el mundo, principalmente B2C y tiendas online. Utilizando la potencia del análisis en tiempo real del comportamiento en la web y en la aplicación móvil, SALESmanago permite a los clientes personalizar totalmente el email marketing, los contenidos dinámicos en la web, las redes sociales y el marketing móvil. ·         El precio de la licencia va desde 0$ mensuales con el soporte y la implementación incluidas.·         Campañas de email y mensajes enviados ilimitados.·         Sin límite de usuarios ni de acciones de marketing automation·         Preaviso de cancelación de un mes, sin riesgo para tu negocio, pagas si el sistema te funciona.·         Webinars de formación gratuitos.]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.6.0]]></version>
+        <version><![CDATA[1.6.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5368,7 +5398,7 @@
         <additional_description>
             <![CDATA[Que te aporta este m&oacute;dulo&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interact&uacute;a en tiempo real con tus clientes-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Muestra im&aacute;genes y v&iacute;deos de tus productos por el chat o por el tel&eacute;fono-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Predice y detecta el mejor momento para hablar con tus visitantes-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entre el 15 y el 20% de los clientes atendidos mediante Oct8ne terminan comprando-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El 70% de los clientes atendidos vuelven antes de un mes-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reduce el abandono del carro a un 1/3-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aumenta el valora medio de compra un 60%&nbsp;&nbsp;Funcionalidades&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Covisor de im&aacute;genes y v&iacute;deos-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atiende a tus clientes desde tu Smartphone-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Predicci&oacute;n de comportamiento del cliente-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personaliza la caja de chat y todos los mensajes-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Informaci&oacute;n contextual del visitante-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&ntilde;ade productos al carro del cliente-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Integraci&oacute;n con el tel&eacute;fono-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Integraci&oacute;n del&nbsp; cat&aacute;logo en tiempo real-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gesti&oacute;n de departamentos-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frases comunes-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estad&iacute;sticas de sesiones, productos y carros-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soporte a m&uacute;ltiples tiendas o webs]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[1.0.17]]></version>
+        <version><![CDATA[1.0.18]]></version>
         <compatibility>
             <from><![CDATA[1.5.4.1]]></from>
             <to><![CDATA[1.7.2.2]]></to>
@@ -5536,18 +5566,18 @@
     <module>
         <id><![CDATA[26742]]></id>
         <name><![CDATA[cleverreach]]></name>
-        <displayName><![CDATA[CleverReach® - email newsletters for your PrestaShop]]></displayName>
+        <displayName><![CDATA[CleverReach® - publicidad por correo para su PrestaShop]]></displayName>
         <categoryName><![CDATA[Newsletter y SMS]]></categoryName>
         <description>
-            <![CDATA[Quickly and easily create, send and optimize promotional newsletters and automated email campaigns for your PrestaShop customers and newsletter subscribers - CleverReach® is the clever choice for emai]]></description>
-        <author><![CDATA[Community developer]]></author>
+            <![CDATA[Cree, optimize y env&iacute;e publicidad promocional por correo electr&oacute;nico y campa&ntilde;as por email autom&aacute;ticas a sus clientes de PrestaShop y subscriptores &ndash; CleverReach&reg; ]]></description>
+        <author><![CDATA[PrestaShop Partners]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/newsletter-sms/26742-cleverreach-email-newsletters-for-your-prestashop.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/newsletter-sms/26742-cleverreach-publicidad-por-correo-para-su-prestashop.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26742.jpg]]></img>
         <description_full>
-            <![CDATA[Quickly and easily create, send and optimize promotional newsletters and automated email campaigns for your PrestaShop customers and newsletter subscribers - CleverReach® is the clever choice for emails and newsletters.]]></description_full>
+            <![CDATA[Cree, optimize y env&iacute;e publicidad promocional por correo electr&oacute;nico y campa&ntilde;as por email autom&aacute;ticas a sus clientes de PrestaShop y subscriptores &ndash; CleverReach&reg; es la opci&oacute;n inteligente para hacer publicidad por correo.&nbsp; &nbsp;]]></description_full>
         <additional_description>
-            <![CDATA[Once the module is set up, all your “PrestaShop data” will automatically be updated and completed in the CleverReach® newsletter tool in real time. That’s how your customers get personalized content they really want. This leads to spending sprees and, consequently, higher profit, profit, profit! Download &amp; install the module especially developed for PrestaShop now to automatically synchronize your online shop data with the CleverReach® newsletter tool. Easily create and send email newsletters with the Drag &amp; Drop EditorResponsive and free templates for various industries and occasionsAnalyze success and optimize your newslettersHighest safety standards, made in GermanyFree support &amp; webinars The right price plan for everyone:Scales for small and big contact lists: prepaid for occasional senders, flat rate for regular senders or high volume for big players Click on the top right „Download “-button now to download the module and install it in the PrestaShop backend. After that you can quickly and easily connect your PrestaShop with CleverReach®, synchronize your shop data and create and send your first email. Exclusively for PrestaShop customers:Get a 10% discount off your CleverReach® rate for 12 months! Just enter the coupon code "prestashop" in the shopping cart.]]></additional_description>
+            <![CDATA[Una vez que el m&oacute;dulo ha sido configurado, todos sus &ldquo;datos de PrestaShop&rdquo; ser&aacute;n actualizados y completados autom&aacute;ticamente en la herramienta de boletines de CleverReach&reg; en tiempo real.As&iacute; es como sus clientes reciben contenido personalizado que ellos realmente desean. Esto puede conducir a una explosi&oacute;n de gastos y, por consecuencia, a mayores ganancias, ganancias, ganancias!&nbsp;Descargue e instale ahora el m&oacute;dulo especial desarrollado para PrestaShop para autom&aacute;ticamente sincronizar los datos de su tienda en l&iacute;nea con la herramienta de boletines electr&oacute;nicos de CleverReach&reg;.&nbsp;Cree y env&iacute;e publicidad por correo de manera f&aacute;cil con el editor Drag &amp; DropPlantillas adaptables y gratis para variadas industrias y ocaciones.Analize y optimize su &eacute;xito con facilidadLos mas elevados est&aacute;ndares de seguridad, &ldquo;Hecho en Alemania&rdquo;Soporte al cliente y webinars gratis&nbsp;El plan apropidado para cada uno:Escalas para listas de contactos peque&ntilde;as y grandes: prepago para env&iacute;os ocacionales, tarifa plana para env&iacute;os regulares o gran volumen para los jugadores de grandes ligas.&nbsp;Haga clic ahora en el bot&oacute;n &uml;Descargar&uml; en la esquina superior derecha para descargar el m&oacute;dulo e instalarlo en el backend PrestaShop.&nbsp;Posteriormente, usted puede f&aacute;cil y r&aacute;pidamente conectar su PrestaShop con CleverReach&reg;, sincronizar los datos de su tienda y crear y enviar su primer email.&nbsp;Exclusivo para clientes de PrestaShop:Obtenga un descuento del 10% de su tafifa CleverReach&reg; durante 12 meses! Simplemente entre el c&oacute;digo de cup&oacute;n &quot;prestashop&quot; cuando compre su tarifa CleverReach&reg;.]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
         <version><![CDATA[1.1.0]]></version>
         <compatibility>
@@ -5565,9 +5595,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/836459-pprod/cleverreach-email-newsletters-for-your-prestashop.jpg]]></small>
+                <![CDATA[https://medias1.prestastore.com/911944-pprod/cleverreach-publicidad-por-correo-para-su-prestashop.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/836459-pbig/cleverreach-email-newsletters-for-your-prestashop.jpg]]></big>
+                <![CDATA[https://medias2.prestastore.com/911944-pbig/cleverreach-publicidad-por-correo-para-su-prestashop.jpg]]></big>
         </cover>
     </module>
     <module>
