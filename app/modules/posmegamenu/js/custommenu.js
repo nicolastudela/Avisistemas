@@ -91,4 +91,16 @@ $(document).ready(function(){
 		$( this ).hide();
 	  }
 	);
+
+    $('#pt_custommenu .el_estudio').hover(function(){
+        $("a.logo-estudio").addClass("logo-estudio-selected");
+    },function(){
+        $("a.logo-estudio").removeClass("logo-estudio-selected");
+    });
+
+    $('#pt_custommenu .audio_-_video').hover(function(){
+        $("a.logo-audio").addClass("logo-audio-selected");
+    },function(){
+        $("a.logo-audio").removeClass("logo-audio-selected");
+    });
 });

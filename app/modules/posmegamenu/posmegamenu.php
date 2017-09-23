@@ -624,6 +624,7 @@ class Posmegamenu extends Module {
         $blockHtml = '';
         $id_shop = (int) Context::getContext()->shop->id;
         $id = $category;
+
         $blockId = sprintf('pt_menu_idcat_%d', $id);
         $staticBlock = $this->getStaticBlockContent($blockId);
         $blockIdRight = sprintf('pt_menu_idcat_%d_right', $id);
@@ -640,19 +641,21 @@ class Posmegamenu extends Module {
         $activeChildren = $this->getCategoryByLevelMax($activeChildren);
         // --- class for active category ---
         $active = '';
-        if (isset($cateCurrent[0]) && in_array($category, array($cateCurrent[0])))
+        $id_lang =  (int)Context::getContext()->language->id;
+        $currentCategoryObj = isset($cateCurrent[0]) ? new Category((int)$cateCurrent[0], $id_lang, $id_shop) : null;
+        if (isset($cateCurrent[0]) && (in_array($category, array($cateCurrent[0])) || $currentCategoryObj->getRelevantCategoryId() == $category ))
             $active = ' act';
         // --- Popup functions for show ---
         $drawPopup = ($blockHtml || count($activeChildren));
+        $cate = new Category((int)$category, $id_lang, $id_shop);
+        $relevantCategoryName = str_replace(' ', '_',strtolower($cate->name));
         if ($drawPopup) {
-            $html[] = '<div id="pt_menu' . $id . '" class="pt_menu' . $active . ' nav-' . $item . '">';
+            $html[] = '<div id="pt_menu' . $id . '" class="' . $relevantCategoryName . ' pt_menu' . $active . ' nav-' . $item . '">';
         } else {
-            $html[] = '<div id="pt_menu' . $id . '" class="pt_menu' . $active . ' nav-' . $item . ' pt_menu_no_child">';
+            $html[] = '<div id="pt_menu' . $id . '" class="' . $relevantCategoryName . ' pt_menu' . $active . ' nav-' . $item . ' pt_menu_no_child">';
         }
 		//echo $category;
         //$cate = new Category((int) $category);
-		$id_lang =  (int)Context::getContext()->language->id;
-		$cate = new Category((int)$category,$id_lang,$id_shop);
         //$link = $categoryObject->getLinkRewrite($category, $lang_id);
         $parameters = "";
         $link = Context::getContext()->link->getCategoryLink((int) $category, null, null, ltrim($parameters, '/'));
