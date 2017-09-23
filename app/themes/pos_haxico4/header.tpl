@@ -101,7 +101,7 @@
 							</div>
 						</div>
 					{/if}
-					<div class="header-middle">	
+					<div class="header-middle">	 `
 						<div class="container">					
 							<div class="row">
 								<div class="pos_logo col-lg-4 col-md-4 col-sm-7 col-xs-7">
@@ -137,7 +137,7 @@
 						</div>							
 					</div>	
 				</header>
-			
+
 				{if $page_name =="index"}
 					<div class=" pos_bannerslide">
 						<div class="container">

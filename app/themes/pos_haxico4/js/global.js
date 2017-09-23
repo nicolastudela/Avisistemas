@@ -109,6 +109,18 @@ $(document).ready(function(){
 		if (e.offsetX >= 16 && e.offsetX <= 39 && e.offsetY >= 16 && e.offsetY <= 34)
 			$(this).fadeOut();
 	});
+
+	$('a.logo-estudio').hover(function(){
+		$('#pt_custommenu .el_estudio').addClass("active");
+	},function(){
+		$('#pt_custommenu .el_estudio').removeClass("active");
+	});
+
+	$('a.logo-audio').hover(function(){
+		$('#pt_custommenu .audio_-_video').addClass("active");
+	},function(){
+		$('#pt_custommenu .audio_-_video').removeClass("active");
+	});
 });
 
 function highdpiInit()

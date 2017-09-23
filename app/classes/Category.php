@@ -168,6 +168,13 @@ class CategoryCore extends ObjectModel
             $id_lang = $context->language->id;
         }
 
+        $depth = $this->level_depth;
+        if ($depth < 2) {
+            return null;
+        } else if ($depth == 2) {
+            return $this->id;
+        }
+
         $elementsFetched = array_filter($this->getParentsCategories($id_lang) , function($var) {
             return($var['level_depth'] == 2);
         });
