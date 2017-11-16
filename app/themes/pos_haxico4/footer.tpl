@@ -23,6 +23,18 @@
 *  International Registered Trademark & Property of PrestaShop SA
 *}
 {if !isset($content_only) || !$content_only}
+	{if isset($category) && !empty($category->getRelevantCategoryId())}
+		{assign var='relevant_category' value=$category->getRelevantCategoryId()}
+		{if $relevant_category == $get_estudio['id_category']}
+			{assign var='brandCaptureName' value='BrandSlider2'}
+		{elseif $relevant_category == $get_audio_video['id_category']}
+			{assign var='brandCaptureName' value='BrandSlider3'}
+		{else}
+			{assign var='brandCaptureName' value='BrandSlider'}
+		{/if}
+	{else}
+		{assign var='brandCaptureName' value='BrandSlider'}
+	{/if}
 					</div><!-- #center_column -->
 					{if isset($right_column_size) && !empty($right_column_size)}
 						<div id="right_column" class="col-xs-12 col-sm-{$right_column_size|intval} column">{$HOOK_RIGHT_COLUMN}</div>
@@ -32,9 +44,9 @@
 				
 				<div class="BrandSlider">
 					<div class="container">
-					{capture name='BrandSlider'}{hook h='BrandSlider'}{/capture}
+					{capture name='BrandSlider'}{hook h=$brandCaptureName}{/capture}
 					{if $smarty.capture.BrandSlider}
-					{$smarty.capture.BrandSlider}
+						{$smarty.capture.BrandSlider}
 					{/if}
 					</div>
 				</div>

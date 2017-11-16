@@ -98,14 +98,6 @@
 		</div>
         {/if}
 		{/if}  -->
-		<div class="BrandSlider">
-			<div class="container">
-				{capture name='BrandSlider2'}{hook h='BrandSlider2'}{/capture}
-				{if $smarty.capture.BrandSlider2}
-					{$smarty.capture.BrandSlider2}
-				{/if}
-			</div>
-		</div>
 		{if $products}
 			<div class="content_sortPagiBar clearfix">
             	<div class="sortPagiBar clearfix">
