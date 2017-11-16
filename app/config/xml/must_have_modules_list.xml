@@ -19,7 +19,7 @@
         <version><![CDATA[1.2.6]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -32,9 +32,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/611425-pprod/audiovisuales-del-producto-audio-y-video.jpg]]></small>
+                <![CDATA[http://medias1.prestastore.com/611425-pprod/audiovisuales-del-producto-audio-y-video.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/611425-pbig/audiovisuales-del-producto-audio-y-video.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/611425-pbig/audiovisuales-del-producto-audio-y-video.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -56,7 +56,7 @@
         <version><![CDATA[5.2.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[249.99]]></EUR>
@@ -68,8 +68,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/616235-pprod/advanced-pack-5.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/616235-pbig/advanced-pack-5.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/616235-pprod/advanced-pack-5.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/616235-pbig/advanced-pack-5.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -88,10 +88,10 @@
         <additional_description>
             <![CDATA[*** GANADOR DE LOS PREMIOS PRESTASHOP - ELEGIDO MEJOR MÓDULO 2011 ***  Aparecerá una minitienda que sugerirá sus productos directamente desde la red social. Una manera real de aumentar sus ventas, aproveche su comunidad en Facebook para informar de su tienda.  USE EL POTENCIAL DE SU COMUNIDAD EN FACEBOOK PARA GENERAR TRÁFICO Y VENTAS EN SU TIENDA Aumente el número de visitantes y compradores potenciales en su tienda PrestaShop y dinamice su comunidad en Facebook. Una manera real de aumentar sus ventas, aproveche su comunidad en Facebook para informar y llevar a sus clientes potenciales a su tienda. Este módulo es compatible con la funcionalidad multi-tiendas.Shop Pro para LA Red Social también es compatible con la mayoría de certificados SSL mutualizados (certificado en hospedaje OVH con SSL mutualizado). Business Tech le propone también con este módulo herramientas integradas y seguimientos de estadísticas usando Google Analytics. La vista previa del módulo le facilitará su vinculación a su aplicación de Facebook con un simple clic. Facebook Shop Pro le ayudará a mejorar su imagen de marca y ampliará su proyección.  AUMENTE EL NÚMERO DE "ME GUSTA" Y LA VISIBILIDAD DE SUS PRODUCTOS Bajo cada producto, encontrará un botón Me gusta que permitirá a los visitantes de su página compartir y hacer que hablen de sus productos. Los Me gusta influirán en el posicionamiento SEO de sus resultados en Google. Le proponemos dar un paso más: registre los "Me gusta" en su base de datos e introduzca su código de Google Analytics para obtener las estadísticas sobre la eficacia de su pestaña Shop.   Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.  Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a). ]]></additional_description>
         <tab><![CDATA[social_networks]]></tab>
-        <version><![CDATA[5.2.1]]></version>
+        <version><![CDATA[5.2.3]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
@@ -103,8 +103,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/835133-pprod/shop-pro-para-la-red-social.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/835133-pbig/shop-pro-para-la-red-social.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/835133-pprod/shop-pro-para-la-red-social.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/835133-pbig/shop-pro-para-la-red-social.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -126,7 +126,7 @@
         <version><![CDATA[2.0.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
@@ -138,8 +138,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/611439-pprod/ups-delivery-status.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/611439-pbig/ups-delivery-status.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/611439-pprod/ups-delivery-status.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/611439-pbig/ups-delivery-status.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -148,20 +148,20 @@
         <displayName><![CDATA[Google Merchant Center (Google Shopping)]]></displayName>
         <categoryName><![CDATA[Comparadores de Precios]]></categoryName>
         <description>
-            <![CDATA[La mejor m&oacute;dulo de Google Shopping para cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda]]></description>
+            <![CDATA[La mejor módulo de Google Shopping para cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda]]></description>
         <author><![CDATA[Business Tech]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/comparadores-precios/1768-google-merchant-center-google-shopping.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/1768.jpg]]></img>
         <description_full>
-            <![CDATA[La mejor m&oacute;dulo de Google Shopping para cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda.]]></description_full>
+            <![CDATA[La mejor módulo de Google Shopping para cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda.]]></description_full>
         <additional_description>
-            <![CDATA[La mejor m&oacute;dulo de Google Shopping para cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda.&nbsp;La posici&oacute;n de sus productos en los resultados de Google Shopping depende en gran parte de la calidad de su flujo y de la exhaustividad de sus datos. Cuanta m&aacute;s informaci&oacute;n proporcione, mejores ser&aacute;n sus resultados. Este m&oacute;dulo, muy completo, le permitir&aacute; maximizar sus oportunidades de conseguir un buen posicionamiento en Google Shopping, minimizando el tiempo invertido para alcanzar ese resultado.&nbsp;&nbsp;Aumente su tr&aacute;fico al instante! Google Adwords Compras y beneficiar a cientos de millones de clics al mes. Adem&aacute;s, este tr&aacute;fico es muy espec&iacute;fica y le trae visitantes calificados a su tienda&nbsp;Aumente sus ventas y retorno de la inversi&oacute;n: Con un tr&aacute;fico muy espec&iacute;fica, Google Shopping y Google Adwords campa&ntilde;as a compras ofrecen una de la m&aacute;s alta rentabilidad de la inversi&oacute;n europea en comparaci&oacute;n con otros canales de comercializaci&oacute;n y por lo tanto son muy rentables&nbsp;Presente en 37 pa&iacute;ses en la actualidad, Google Shopping le permite iniciar su desarrollo internacional acelerada&nbsp;&nbsp;Con m&aacute;s de 6.000 ejemplares vendidos, m&aacute;s de 460 comentarios de los clientes (cifras de abril de 2017) y una calificaci&oacute;n promedio de 5/5, la versi&oacute;n est&aacute;ndar de nuestro m&oacute;dulo de Google Merchant Center es de lejos el Google Shopping modula el m&aacute;s robusto, preciso, potente y completa&nbsp;Nuestro departamento de soporte tambi&eacute;n tiene una amplia experiencia y un alto nivel de conocimientos en relaci&oacute;n con las solicitudes de restricciones muy estrictas de Google Merchant Center, y estar&aacute; encantado de responder a sus preguntas lo mejor posible !&nbsp;&nbsp;Para usuarios avanzados y las agencias de SEM, para a&uacute;n m&aacute;s grandes caracter&iacute;sticas, incluyendo la gesti&oacute;n avanzada de etiquetas personalizadas, promociones alimentan y piensos r&aacute;pido inventario, que pueden estar interesados en la compra de la versi&oacute;n PRO del m&oacute;dulo sobre&nbsp;https://addons.prestashop.com/es/comparadores-precios/20908-google-merchant-center-pro-google-shopping.html&nbsp;&nbsp;Este m&oacute;dulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 a&ntilde;os, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categor&iacute;a de Mejor m&oacute;dulo. Tiene la seguridad de adquirir un m&oacute;dulo robusto, fiable y de calidad.&nbsp;Ademas, en Business Tech, nosotros disponemos de un servicio de soporte t&eacute;cnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted est&aacute; en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).&nbsp;]]></additional_description>
+            <![CDATA[La mejor módulo de Google Shopping para cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda.&nbsp;La posición de sus productos en los resultados de Google Shopping depende en gran parte de la calidad de su flujo y de la exhaustividad de sus datos. Cuanta más información proporcione, mejores serán sus resultados. Este módulo, muy completo, le permitirá maximizar sus oportunidades de conseguir un buen posicionamiento en Google Shopping, minimizando el tiempo invertido para alcanzar ese resultado.&nbsp;&nbsp;Aumente su tráfico al instante! Google Adwords Compras y beneficiar a cientos de millones de clics al mes. Además, este tráfico es muy específica y le trae visitantes calificados a su tienda&nbsp;Aumente sus ventas y retorno de la inversión: Con un tráfico muy específica, Google Shopping y Google Adwords campañas a compras ofrecen una de la más alta rentabilidad de la inversión europea en comparación con otros canales de comercialización y por lo tanto son muy rentables Acerca de la exportación de productos, la potencia del módulo le permite centrarse únicamente en la configuración de un único feed de producto (un feed principal) y no perder el tiempo con la configuración de "feeds complementarios" y numerosas "reglas" proporcionadas por Google. Modifica la información de su producto directamente en el módulo y tiene la posibilidad de automatizar la actualización de todos sus datos en Google Shopping diariamente.&nbsp;Presente en 37 países en la actualidad, Google Shopping le permite iniciar su desarrollo internacional acelerada&nbsp;&nbsp;Con más de 6.000 ejemplares vendidos, más de 500 comentarios de los clientes (cifras de octubre de 2017) y una calificación promedio de 5/5, la versión estándar de nuestro módulo de Google Merchant Center es de lejos el Google Shopping modula el más robusto, preciso, potente y completa&nbsp;Nuestro departamento de soporte también tiene una amplia experiencia y un alto nivel de conocimientos en relación con las solicitudes de restricciones muy estrictas de Google Merchant Center, y estará encantado de responder a sus preguntas lo mejor posible !&nbsp;&nbsp;Para usuarios avanzados y las agencias de SEM, para aún más grandes características, incluyendo la gestión avanzada de etiquetas personalizadas, promociones alimentan y piensos rápido inventario, que pueden estar interesados en la compra de la versión PRO del módulo sobre&nbsp;https://addons.prestashop.com/es/comparadores-precios/20908-google-merchant-center-pro-google-shopping.html&nbsp;&nbsp;Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.&nbsp;Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).&nbsp;]]></additional_description>
         <tab><![CDATA[smart_shopping]]></tab>
-        <version><![CDATA[4.7.3]]></version>
+        <version><![CDATA[4.7.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[119.99]]></EUR>
@@ -174,9 +174,8 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/749677-pprod/google-merchant-center-google-shopping.jpg]]></small>
-            <big>
-                <![CDATA[https://medias3.prestastore.com/749677-pbig/google-merchant-center-google-shopping.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/749677-pprod/google-merchant-center-google-shopping.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/749677-pbig/google-merchant-center-google-shopping.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -198,7 +197,7 @@
         <version><![CDATA[1.12.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
@@ -210,8 +209,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/573526-pprod/advanced-top-menu-responsive.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/573526-pbig/advanced-top-menu-responsive.jpg]]></big>
+            <small><![CDATA[http://medias2.prestastore.com/573526-pprod/advanced-top-menu-responsive.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/573526-pbig/advanced-top-menu-responsive.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -233,7 +232,7 @@
         <version><![CDATA[2.3.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[59.99]]></EUR>
@@ -248,9 +247,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/708607-pprod/cupones-de-descuento-despues-de-la-compra-.jpg]]></small>
+                <![CDATA[http://medias3.prestastore.com/708607-pprod/cupones-de-descuento-despues-de-la-compra-.jpg]]></small>
             <big>
-                <![CDATA[https://medias2.prestastore.com/708607-pbig/cupones-de-descuento-despues-de-la-compra-.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/708607-pbig/cupones-de-descuento-despues-de-la-compra-.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -272,11 +271,11 @@
         <version><![CDATA[4.2.204]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[239.99]]></USD>
+            <USD><![CDATA[234.99]]></USD>
             <GBP><![CDATA[179.99]]></GBP>
         </price>
         <badges>
@@ -286,8 +285,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/686436-pprod/amazon-market-place.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/686436-pbig/amazon-market-place.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/686436-pprod/amazon-market-place.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/686436-pbig/amazon-market-place.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -306,14 +305,14 @@
         <additional_description>
             <![CDATA[Advanced Search 4 es una herramienta imprescindible para las tiendas que cuenten con una gran selecci&oacute;n de productos, ya que le permite a&ntilde;adir todos los motores de b&uacute;squeda que desee y situarlos en los lugares de su elecci&oacute;n. &nbsp; La mec&aacute;nica de b&uacute;squeda del m&oacute;dulo gira en torno a los filtros, que son la base de la adecuada navegaci&oacute;n por facetas. Gracias a los filtros, los clientes pueden encontrar los productos que responden a sus criterios de b&uacute;squeda en tan s&oacute;lo unos pocos clics. Advanced Search 4 ha sido desarrollado con el objetivo de reducir los tiempos de carga, incluso en el caso de los cat&aacute;logos que contienen varias decenas de miles de productos o categor&iacute;as. &nbsp; Primera versi&oacute;n publicada en 2010: Vencedora de los Best Modules Awards en 2012 y entre los Addons m&aacute;s vendidos desde 2010. &nbsp; Cuenta con tres tipos de b&uacute;squedas a su disposici&oacute;n:B&uacute;squeda en toda la categor&iacute;a: el per&iacute;metro de b&uacute;squeda de aplica a todo el cat&aacute;logo.B&uacute;squeda en una selecci&oacute;n de productos: el per&iacute;metro de b&uacute;squeda se aplica a la p&aacute;gina en la que se encuentra el cliente.B&uacute;squeda por etapas: los criterios se van ajustando y mostrando a medida que los clientes precisan la b&uacute;squeda.&nbsp; Adem&aacute;s de su funci&oacute;n principal, el m&oacute;dulo Advanced Search tambi&eacute;n est&aacute; reconocido como uno de sus mejores aliados para el posicionamiento. Cuenta con un generador de p&aacute;ginas optimizadas para SEO integrado, que le permite aumentar su visibilidad sin duplicar contenidos. &nbsp; El objetivo que se encuentra detr&aacute;s de todas estas innovaciones es siempre el mismo: &iexcl;ayudarlo a aumentar su tasa de conversi&oacute;n y multiplicar sus ventas!  Ya lo ver&aacute;: &iexcl;con la nueva versi&oacute;n 4.11, Advanced Search supera su propio rendimiento!]]></additional_description>
         <tab><![CDATA[search_filter]]></tab>
-        <version><![CDATA[4.12.1]]></version>
+        <version><![CDATA[4.12.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.7.2.1]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[239.99]]></USD>
+            <USD><![CDATA[234.99]]></USD>
             <GBP><![CDATA[179.99]]></GBP>
         </price>
         <badges>
@@ -321,8 +320,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/766622-pprod/advanced-search-4.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/766622-pbig/advanced-search-4.jpg]]></big>
+            <small><![CDATA[http://medias2.prestastore.com/766622-pprod/advanced-search-4.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/766622-pbig/advanced-search-4.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -344,7 +343,7 @@
         <version><![CDATA[2.0.5]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
@@ -357,9 +356,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/741974-pprod/dmu-association-flash-products-categories.jpg]]></small>
+                <![CDATA[http://medias1.prestastore.com/741974-pprod/dmu-association-flash-products-categories.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/741974-pbig/dmu-association-flash-products-categories.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/741974-pbig/dmu-association-flash-products-categories.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -378,10 +377,10 @@
         <additional_description>
             <![CDATA[Los v&iacute;deos son una herramienta de contenido fundamental para conseguir que los productos resulten m&aacute;s atractivos y mejorar las tasas de conversi&oacute;n. De hecho, el 73&nbsp;% de los consumidores se siente m&aacute;s tentado a comprar un producto despu&eacute;s de haber visto un v&iacute;deo. &nbsp; Este m&oacute;dulo es una herramienta esencial tanto para tu sitio como para tus clientes:Haz que tus productos resulten m&aacute;s atractivos ofreciendo datos adicionales e im&aacute;genes a tus clientes (funcionalidades, atributos, ventajas, uso&hellip;).&nbsp;Mejora tu tasa de conversi&oacute;n y reduce las devoluciones productos. El 96&nbsp;% de los consumidores considera que es m&aacute;s f&aacute;cil tomar una decisi&oacute;n de compra online con ayuda de un v&iacute;deo.&nbsp;Enriquece el contenido de tu sitio del modo m&aacute;s sencillo y mejora tu posicionamiento incluyendo v&iacute;deos de YouTube en las p&aacute;ginas de producto.&nbsp;Potencia la interacci&oacute;n con tus clientes y aumenta el valor medio del carrito de la compra.]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[2.1.10]]></version>
+        <version><![CDATA[2.1.12]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -393,8 +392,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/625269-pprod/videos-de-productos-youtube.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/625269-pbig/videos-de-productos-youtube.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/625269-pprod/videos-de-productos-youtube.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/625269-pbig/videos-de-productos-youtube.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -424,8 +423,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/572842-pprod/store-manager-para-prestashop.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/572842-pbig/store-manager-para-prestashop.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/572842-pprod/store-manager-para-prestashop.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/572842-pbig/store-manager-para-prestashop.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -447,7 +446,7 @@
         <version><![CDATA[2.2.11]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -459,8 +458,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/595260-pprod/print-labels.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/595260-pbig/print-labels.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/595260-pprod/print-labels.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/595260-pbig/print-labels.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -482,18 +481,18 @@
         <version><![CDATA[4.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[239.99]]></USD>
+            <USD><![CDATA[234.99]]></USD>
             <GBP><![CDATA[179.99]]></GBP>
         </price>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/617761-pprod/all-in-one-rewards-fidelidad-padrinaje-afiliacion.jpg]]></small>
+                <![CDATA[http://medias3.prestastore.com/617761-pprod/all-in-one-rewards-fidelidad-padrinaje-afiliacion.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/617761-pbig/all-in-one-rewards-fidelidad-padrinaje-afiliacion.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/617761-pbig/all-in-one-rewards-fidelidad-padrinaje-afiliacion.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -511,9 +510,9 @@
         <additional_description>
             <![CDATA[Ponerse en contacto con los clientes a trav&eacute;s de un blog es cada vez m&aacute;s com&uacute;n &nbsp;para compa&ntilde;&iacute;as que quieren fidelizar a los clientes.&iexcl;No necesitas instalar un segundo CMS para obtener todas las funciones que necesitas, este blog desarrollado por la agencia de web HDClic es todo lo que necesitas!&nbsp;Search Engine optimisation (SEO)SEO ha sido una de las partes m&aacute;s importantes del desarrollo de este m&oacute;dulo y ser&aacute; una herramienta perfecta e infalible para aumentar tu visibilidad en la web.&nbsp;Responsive DesignNuestro equipo de dise&ntilde;o ha desarrollado una plantilla que se integra perfectamente en todo tipo de plantillas, sean responsive o no.&nbsp;Soporte r&aacute;pido&nbsp;100% de nuestros clientes obtienen una respuesta entre 1 y 12 horas m&aacute;ximo (d&iacute;as laborales) para ayudarte lo m&aacute;s pronto posible para implementar tu proyecto]]></additional_description>
         <tab><![CDATA[content_management]]></tab>
-        <version><![CDATA[3.7.2]]></version>
+        <version><![CDATA[3.7.4]]></version>
         <compatibility>
-            <from><![CDATA[1.5.0.0]]></from>
+            <from><![CDATA[1.6.0.4]]></from>
             <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
@@ -526,8 +525,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/730685-pprod/professional-blog.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/730685-pbig/professional-blog.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/730685-pprod/professional-blog.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/730685-pbig/professional-blog.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -547,7 +546,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.1]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[149.99]]></EUR>
@@ -559,8 +558,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/573343-pprod/seo-internal-linking.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/573343-pbig/seo-internal-linking.jpg]]></big>
+            <small><![CDATA[http://medias2.prestastore.com/573343-pprod/seo-internal-linking.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/573343-pbig/seo-internal-linking.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -582,7 +581,7 @@
         <version><![CDATA[2.10.5]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[149.99]]></EUR>
@@ -595,9 +594,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/767436-pprod/informes-avanzado-de-ventas-iva-beneficios-y-margenes.jpg]]></small>
+                <![CDATA[http://medias2.prestastore.com/767436-pprod/informes-avanzado-de-ventas-iva-beneficios-y-margenes.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/767436-pbig/informes-avanzado-de-ventas-iva-beneficios-y-margenes.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/767436-pbig/informes-avanzado-de-ventas-iva-beneficios-y-margenes.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -606,33 +605,33 @@
         <displayName><![CDATA[Cdiscount Marketplace]]></displayName>
         <categoryName><![CDATA[Marketplaces]]></categoryName>
         <description>
-            <![CDATA[Venda sus productos en el la plataforma de comercio de Cdiscount: exportaci&oacute;n del cat&aacute;logo, actualizaci&oacute;n autom&aacute;tica de precios y stocks, recepci&oacute;n y gesti&oacute;n ]]></description>
+            <![CDATA[Venda sus productos en el la plataforma de comercio de Cdiscount: exportación del catálogo, actualización automática de precios y stocks, recepción y gestión de los pedidos]]></description>
         <author><![CDATA[Common-Services]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/marketplaces/6059-cdiscount-marketplace.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/6059.jpg]]></img>
         <description_full>
-            <![CDATA[Venda sus productos en el la plataforma de comercio de Cdiscount: exportaci&oacute;n del cat&aacute;logo, actualizaci&oacute;n autom&aacute;tica de precios y stocks, recepci&oacute;n y gesti&oacute;n de los pedidos.]]></description_full>
+            <![CDATA[Venda sus productos en el la plataforma de comercio de Cdiscount: exportación del catálogo, actualización automática de precios y stocks, recepción y gestión de los pedidos.]]></description_full>
         <additional_description>
-            <![CDATA[C Le March&eacute; es uno de los l&iacute;deres del comercio electr&oacute;nico franceses.  &iexcl;Impulse sus ventas! Aproveche el tr&aacute;fico generado por Cdiscount para vender sus productos y gozar de las numerosas ventajas que hacen que Cdiscount tenga &eacute;xito, por ejemplo: - el pago en 4 veces (totalmente asumido por Cdiscount) - las m&uacute;ltiples formas de entrega&hellip;  &iexcl;Cdiscount se ocupa de todo! Ofrezca sus productos en la plataforma de comercio y gestione sus pedidos, Cdiscount se ocupa del resto: tr&aacute;fico, facilidad y seguridad de pago, marketing...  &iexcl;1 solo back-office! Gracias al m&oacute;dulo para Prestashop, ya no necesita gestionar varios back-offices. En unos clics, conecte su sitio web Prestashop a su tienda Cdiscount y publique sus ofertas de forma sencilla: - Las fichas de los productos se exportar&aacute;n directamente a la plataforma de comercio de Cdiscount, - Los precios y los stocks se actualizar&aacute;n autom&aacute;ticamente, - Sus pedidos se importar&aacute;n y se a&ntilde;adir&aacute;n directamente a su tienda Prestashop.  &iexcl;Configuraci&oacute;n pr&aacute;ctica y f&aacute;cil! Configure su m&oacute;dulo, su exportaci&oacute;n se hace de forma autom&aacute;tica, de ese modo ya no tendr&aacute; que manipular ning&uacute;n dato.  &iexcl;Un m&oacute;dulo desarrollado por un profesional del comercio electr&oacute;nico, para los profesionales del comercio electr&oacute;nico! La creaci&oacute;n del m&oacute;dulo est&aacute; basada en la experiencia inicial de profesionales del comercio electr&oacute;nico, el m&oacute;dulo lo elabora un profesional del comercio electr&oacute;nico al servicio de sus colegas y lo desarrolla un equipo de programadores profesionales, lo que le confiere facilidad de uso y una m&aacute;xima eficacia.  &iexcl;Asistencia t&eacute;cnica gratuita! Su compra est&aacute; garantizada por una asistencia t&eacute;cnica gratuita disponible de forma incondicional hasta la puesta en l&iacute;nea de los productos y la importaci&oacute;n de sus primeros pedidos.   *​Esta oferta es v&aacute;lida para los comerciantes ya registrados en CleMarch&eacute; mercado y no se puede utilizar en combinaci&oacute;n con ninguna otra oferta Cdiscount.com curso.]]></additional_description>
+            <![CDATA[C Le Marché es uno de los líderes del comercio electrónico franceses.  ¡Impulse sus ventas! Aproveche el tráfico generado por Cdiscount para vender sus productos y gozar de las numerosas ventajas que hacen que Cdiscount tenga éxito, por ejemplo: - el pago en 4 veces (totalmente asumido por Cdiscount) - las múltiples formas de entrega…  ¡Cdiscount se ocupa de todo! Ofrezca sus productos en la plataforma de comercio y gestione sus pedidos, Cdiscount se ocupa del resto: tráfico, facilidad y seguridad de pago, marketing...  ¡1 solo back-office! Gracias al módulo para Prestashop, ya no necesita gestionar varios back-offices. En unos clics, conecte su sitio web Prestashop a su tienda Cdiscount y publique sus ofertas de forma sencilla: - Las fichas de los productos se exportarán directamente a la plataforma de comercio de Cdiscount, - Los precios y los stocks se actualizarán automáticamente, - Sus pedidos se importarán y se añadirán directamente a su tienda Prestashop.  ¡Configuración práctica y fácil! Configure su módulo, su exportación se hace de forma automática, de ese modo ya no tendrá que manipular ningún dato.  ¡Un módulo desarrollado por un profesional del comercio electrónico, para los profesionales del comercio electrónico! La creación del módulo está basada en la experiencia inicial de profesionales del comercio electrónico, el módulo lo elabora un profesional del comercio electrónico al servicio de sus colegas y lo desarrolla un equipo de programadores profesionales, lo que le confiere facilidad de uso y una máxima eficacia.  ¡Asistencia técnica gratuita! Su compra está garantizada por una asistencia técnica gratuita disponible de forma incondicional hasta la puesta en línea de los productos y la importación de sus primeros pedidos.   *​Esta oferta es válida para los comerciantes ya registrados en CleMarché mercado y no se puede utilizar en combinación con ninguna otra oferta Cdiscount.com curso.]]></additional_description>
         <tab><![CDATA[market_place]]></tab>
         <version><![CDATA[4.0.96]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
-            <EUR><![CDATA[129.99]]></EUR>
-            <USD><![CDATA[154.99]]></USD>
-            <GBP><![CDATA[114.99]]></GBP>
+            <EUR><![CDATA[179.99]]></EUR>
+            <USD><![CDATA[214.99]]></USD>
+            <GBP><![CDATA[164.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/822598-pprod/cdiscount-marketplace.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/822598-pbig/cdiscount-marketplace.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/822598-pprod/cdiscount-marketplace.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/822598-pbig/cdiscount-marketplace.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -651,10 +650,10 @@
         <additional_description>
             <![CDATA[Con Google Rich Snippets, disfrutará de resultados visualmente mejorados en los resultados de búsqueda de Google y ¡aumentará la cantidad de clics, los visitantes y las ventas! El sistema de notas y opiniones aumentará igualmente su tasa de conversión, aumentando todavía más el nivel de ventas. Vincule este módulo con el módulo Wall Posts para LA Red Social, vendido por separado en:https://addons.prestashop.com/es/productos-en-facebook-redes-sociales/4429-wall-posts-para-la-red-social.html Si ya ha comprado nuestro módulo Wall Posts para LA Red Social, puede publicar automáticamente las notas y los comentarios en su página de Facebook. El mecanismo se integra de forma transparente con la herramienta de moderación, de tal manera que, si la moderación está activada para este módulo, los comentarios no se publicarán en Facebook hasta que hayan sido validados.&nbsp; Este módulo también es compatible y se integra perfectamente con&nbsp;el módulo "Advanced Pack 5" de Presta-Module, disponible en&nbsp;https://addons.prestashop.com/es/ventas-cruzadas-packs-productos/1015-advanced-pack-5.html  Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.  Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).]]></additional_description>
         <tab><![CDATA[seo]]></tab>
-        <version><![CDATA[4.3.4]]></version>
+        <version><![CDATA[4.3.5]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
@@ -667,9 +666,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/761381-pprod/customer-ratings-and-reviews-pro-google-rich-snippets.jpg]]></small>
+                <![CDATA[http://medias1.prestastore.com/761381-pprod/customer-ratings-and-reviews-pro-google-rich-snippets.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/761381-pbig/customer-ratings-and-reviews-pro-google-rich-snippets.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/761381-pbig/customer-ratings-and-reviews-pro-google-rich-snippets.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -691,7 +690,7 @@
         <version><![CDATA[1.6]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
@@ -699,8 +698,45 @@
             <GBP><![CDATA[44.99]]></GBP>
         </price>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/101289-pprod/siret-and-customer-group.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/101289-pbig/siret-and-customer-group.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/101289-pprod/siret-and-customer-group.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/101289-pbig/siret-and-customer-group.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[6321]]></id>
+        <name><![CDATA[totmailtosupplier]]></name>
+        <displayName><![CDATA[Dropshipping Advanced: Send Mail to Supplier & Carrier]]></displayName>
+        <categoryName><![CDATA[Dropshipping]]></categoryName>
+        <description>
+            <![CDATA[The best solution for drop-shipping logistics which allows you to send automatic e-mails to your suppliers and/or carriers when one of products is ordered on your shop]]></description>
+        <author><![CDATA[202 ecommerce]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/dropshipping/6321-dropshipping-advanced-send-mail-to-supplier-carrier.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/6321.jpg]]></img>
+        <description_full>
+            <![CDATA[The best solution for drop-shipping logistics which allows you to send automatic e-mails to your suppliers and/or carriers when one of products is ordered on your shop.]]></description_full>
+        <additional_description>
+            <![CDATA[Accelerate the steps between you and your supplier (and/or carrier). When a customer buys in your shop and it creates an order, an e-mail is sent directly to your supplier (or carrier) for them to prepare the order.&nbsp; Accelerate replenishment with suppliers, through automation of ship orders based on purchases made on your shop. You will see a significant time savings thanks to the complete information of each command that can be transmitted automatically to the different suppliers.&nbsp;Enable Dropshipping. With this module, each supplier will receive an email with all necessary information to carry out the dropshipping: the order number, product number, the name of the item, the quantity purchased, the delivery address and additional information if specified by the customer. As for carriers, they can receive the same informations (+ specific data about weight of products ordered etc).&nbsp;Adapt your communication. With our latest update you can now choose to export your order book in CSV format : the .csv file can grouped by order or by product. NB : All configurations must be done separately for&nbsp;suppliers and carriers.]]></additional_description>
+        <tab><![CDATA[shipping_logistics]]></tab>
+        <version><![CDATA[3.0.0]]></version>
+        <compatibility>
+            <from><![CDATA[1.5.2.0]]></from>
+            <to><![CDATA[1.7.2.4]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[69.99]]></EUR>
+            <USD><![CDATA[84.99]]></USD>
+            <GBP><![CDATA[64.99]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio creador de módulos">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[http://medias2.prestastore.com/843555-pprod/dropshipping-advanced-send-mail-to-supplier-carrier.jpg]]></small>
+            <big>
+                <![CDATA[http://medias3.prestastore.com/843555-pbig/dropshipping-advanced-send-mail-to-supplier-carrier.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -719,10 +755,10 @@
         <additional_description>
             <![CDATA[MÓDULO INDISPENSABLE! Este módulo va a aumentar tus ventas y podrás compensar el sobrecoste de este método de envío imputándole una comisión al cliente. El método de pago contrareembolso permite a los clientes pagar el pedido en el momento de recibirlo. Este método de pago es la solución perfecta para los clientes que no confían en la seguridad de otros métodos de pago como el pago con tarjeta de crédito o Paypal y prefieren realizar el pago al recibir su pedido. Con este método puedes compensar los gastos adicionales que normalmente supone el envío contrareembolso cobrándoles una comisión a los clientes que escojan este método de pago. Este módulo permite añadir la forma de pago contra reembolso con la posibilidad de aplicar una comisión extra. ¡Compatible con pedidos de back office! ¡Además, puedes configurar este método como pago a la recogida del pedido! Los clientes dispondrán de una de las opciones de pago más utilizadas y preferidas por ellos. Este módulo NO requiere una cuota mensual o cualquier otro cargo, lo compra una vez y lo usa sin ninguna restricción. Nuestras garantías ✪ Somos agencia certificada por PrestaShop. Todos nuestros desarrolladores están certificados por PrestaShop✔ Podemos personalizarte el módulo o hacer las modificaciones que necesites. Contacta con nosotros para solicitar un presupuesto. Tienes alguna duda? Envíanos un mensaje! Estaremos encantando de responderte.]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[3.1.8]]></version>
+        <version><![CDATA[3.2.0]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -735,9 +771,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/812425-pprod/pago-contra-reembolso-con-comision-recargo-plus.jpg]]></small>
+                <![CDATA[http://medias3.prestastore.com/812425-pprod/pago-contra-reembolso-con-comision-recargo-plus.jpg]]></small>
             <big>
-                <![CDATA[https://medias3.prestastore.com/812425-pbig/pago-contra-reembolso-con-comision-recargo-plus.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/812425-pbig/pago-contra-reembolso-con-comision-recargo-plus.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -759,16 +795,16 @@
         <version><![CDATA[1.9.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.5]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[89.99]]></EUR>
             <USD><![CDATA[109.99]]></USD>
-            <GBP><![CDATA[79.99]]></GBP>
+            <GBP><![CDATA[84.99]]></GBP>
         </price>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/882910-pprod/rounded-to-5ct-for-switzerland.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/882910-pbig/rounded-to-5ct-for-switzerland.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/882910-pprod/rounded-to-5ct-for-switzerland.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/882910-pbig/rounded-to-5ct-for-switzerland.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -785,10 +821,10 @@
         <additional_description>
             <![CDATA[¡Añada innumerables características!  Avec Multiple Features, podrá asignar tantos valores como necesite para un mismo producto y para la misma característica. Así se deshará de la limitación de PrestaShop y tendrá la posibilidad de utilizar todas las funcionalidades  Por otra parte, si utiliza Advanced Search 4 (Vencedor del trofeo PrestaShop Best Module Awards 2012), le podrá ofrecer a sus visitantes una búsqueda en su catálogo aún más relevante.  Para clientes :  Ocarat.com: "Algunas joyas pueden tener una composición distinta y una aleación de diversos metales. Back Office de PrestaShop le ofrece la posibilidad de asociar cierta característica a un producto. O si lo deseo, puedo introducir en mi tienda un anillo de oro con diamantes y esmeraldas. Actualmente, las características de la pestaña no me permiten hacerlo. No puedo asignar varios valores a un mismo objeto. Así que tengo que elegir entre el oro, los diamantes o las esmeraldas. Multiple Features ha eliminado esta limitación"]]></additional_description>
         <tab><![CDATA[search_filter]]></tab>
-        <version><![CDATA[1.4.1]]></version>
+        <version><![CDATA[1.4.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.1]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -801,9 +837,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/573403-pprod/multiple-features-anada-innumerables-caracteristicas.jpg]]></small>
+                <![CDATA[http://medias2.prestastore.com/573403-pprod/multiple-features-anada-innumerables-caracteristicas.jpg]]></small>
             <big>
-                <![CDATA[https://medias3.prestastore.com/573403-pbig/multiple-features-anada-innumerables-caracteristicas.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/573403-pbig/multiple-features-anada-innumerables-caracteristicas.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -823,7 +859,7 @@
         <version><![CDATA[1.2.14]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
@@ -835,8 +871,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/573569-pprod/cache-manager.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/573569-pbig/cache-manager.jpg]]></big>
+            <small><![CDATA[http://medias2.prestastore.com/573569-pprod/cache-manager.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/573569-pbig/cache-manager.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -857,20 +893,20 @@
         <version><![CDATA[2.3.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.5]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[29.99]]></EUR>
-            <USD><![CDATA[39.99]]></USD>
+            <USD><![CDATA[34.99]]></USD>
             <GBP><![CDATA[27.99]]></GBP>
         </price>
         <badges>
-            <badge label="Agencia asociada con PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-partner-agency.png]]></badge>
+            <badge label="Socio creador de módulos">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/689390-pprod/pago-con-factura.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/689390-pbig/pago-con-factura.jpg]]></big>
+            <small><![CDATA[http://medias2.prestastore.com/689390-pprod/pago-con-factura.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/689390-pbig/pago-con-factura.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -892,7 +928,7 @@
         <version><![CDATA[1.3.9]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -900,45 +936,8 @@
             <GBP><![CDATA[39.99]]></GBP>
         </price>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/582276-pprod/custom-fields.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/582276-pbig/custom-fields.jpg]]></big>
-        </cover>
-    </module>
-    <module>
-        <id><![CDATA[7301]]></id>
-        <name><![CDATA[totloyaltyadvanced]]></name>
-        <displayName><![CDATA[Programa de fidelidad avanzado - 1.5, 1.6 & 1.7]]></displayName>
-        <categoryName><![CDATA[Programa de Fidelidad]]></categoryName>
-        <description>
-            <![CDATA[La mejor solución para personalizar la fidelidad de tus clientes. Construye programas de fidelidad personalizados y especialmente atribuye puntos de fidelidad a cada producto]]></description>
-        <author><![CDATA[202 ecommerce]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/es/programa-fidelidad/7301-programa-de-fidelidad-avanzado-15-16-17.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/7301.jpg]]></img>
-        <description_full>
-            <![CDATA[La mejor solución para personalizar la fidelidad de tus clientes. Construye programas de fidelidad personalizados y especialmente atribuye puntos de fidelidad a cada producto. Puede añadir, editar o eliminar puntos de fidelidad en 1 minuto.]]></description_full>
-        <additional_description>
-            <![CDATA[Este módulo complementario al módulo gratuito “Programa de Fidelidad” te permite configurar de manera más personal tu acciones de fidelización.   Ya no hace falta atraer clientes, lo que falta es conservarlos. Éste es el alcance del módulo “Programa de Fidelidad Avanzado” que te será de una tremenda utilidad.   Mejora la experiencia de tus clientes y siguelos al personalizar tus acciones de fidelización en relación a ellos, y aprovecha la mejor parte de este módulo.   Fideliza tus clientes de esta manera personalizada y totalmente configurable. Cada sujeto tiene una sensibilidad diferente a las acciones que emprendes para acercarte a ellos y sobretodo para conservarlos como clientes. Este módulo te permite entonces personalizar tu relación con ellos. Accediendo a los detalles de atribución de los puntos de fidelidad de tus clientes, podrás administrarlos automáticamente o manualmente . Podrás así mismo asociar puntos de fidelidad a tus productos e igualmente lanzar acciones temporales a la fidelización.   Mete fácilmente en frente un producto y designa un número de puntos de fidelidad más fuerte.]]></additional_description>
-        <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.3.7]]></version>
-        <compatibility>
-            <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[69.99]]></EUR>
-            <USD><![CDATA[84.99]]></USD>
-            <GBP><![CDATA[64.99]]></GBP>
-        </price>
-        <badges>
-            <badge label="Socio creador de módulos">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
-        </badges>
-        <cover>
-            <small>
-                <![CDATA[https://medias3.prestastore.com/836669-pprod/programa-de-fidelidad-avanzado-15-16-17.jpg]]></small>
-            <big>
-                <![CDATA[https://medias1.prestastore.com/836669-pbig/programa-de-fidelidad-avanzado-15-16-17.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/582276-pprod/custom-fields.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/582276-pbig/custom-fields.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -960,7 +959,7 @@
         <version><![CDATA[1.4.0]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
@@ -973,9 +972,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/812413-pprod/incremento-descuento-de-precio-por-grupo-categoria.jpg]]></small>
+                <![CDATA[http://medias3.prestastore.com/812413-pprod/incremento-descuento-de-precio-por-grupo-categoria.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/812413-pbig/incremento-descuento-de-precio-por-grupo-categoria.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/812413-pbig/incremento-descuento-de-precio-por-grupo-categoria.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -997,7 +996,7 @@
         <version><![CDATA[4.5.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
@@ -1009,8 +1008,45 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-partner-agency.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/724699-pprod/newsletter-pro.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/724699-pbig/newsletter-pro.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/724699-pprod/newsletter-pro.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/724699-pbig/newsletter-pro.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[7507]]></id>
+        <name><![CDATA[lgsitemaps]]></name>
+        <displayName><![CDATA[Sitemaps Pro Multi-Idiomas y Multi-Tiendas - SEO]]></displayName>
+        <categoryName><![CDATA[SEO (Posicionamiento en buscadores)]]></categoryName>
+        <description>
+            <![CDATA[Genera sitemaps para todas las URLs de tu tienda automáticamente (cron), en todos los idiomas de tu tienda, para todas las tiendas (multi-tiendas) e incluyendo las imágenes]]></description>
+        <author><![CDATA[Línea Gráfica]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/seo-posicionamiento-buscadores/7507-sitemaps-pro-multi-idiomas-y-multi-tiendas-seo.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/7507.jpg]]></img>
+        <description_full>
+            <![CDATA[Genera sitemaps para todas las URLs de tu tienda automáticamente (cron), en todos los idiomas de tu tienda, para todas las tiendas (multi-tiendas) e incluyendo las imágenes.]]></description_full>
+        <additional_description>
+            <![CDATA[¡Mejora tu SEO generando un Sitemap de tu tienda! Indexa las url de tu tienda en los buscadores (Google. Bing, Ask) de forma rápida y sencilla. Con nuestro módulo puedes configurar la generación e indexación automática de los sitemaps, para que no tengas que preocuparte por ello.  4 tipos de sitemapsNuestro módulo es 100% automatizado y te permite crear 4 tipos de sitemaps:un sitemap que agrupa las URLs de todas tu páginas Productosun sitemap que agrupa las URLs de todas tu páginas Categoríasun sitemap que agrupa las URLs de todas tu páginas CMSun sitemap que agrupa las URLs de todas tu páginas Fabricantes Muy fácil de configurar los sitemapsConfigura cada sitemap de forma independiente.Elige el tipo (producto, categoría, CMS o fabricante)Elige la tienda (multitienda)Elige la prioridad de indexación de las urls del sitemap de 0.1 a 1.0 relativo a las urls de tus otros sitemaps (etiqueta "priority")Indica la frecuencia (cada día/semana/mes/año) a la que suelen producirse cambios en las páginas contenidas dentro del sitemap (etiqueta "changefreq")Elige entre incluir o no los imágenes dentro del sitemapElige entre informar automáticamente o no los motores de búsqueda Google, Bing y Ask de la creación del sitemap (consulta ping) Muy fácil de generar los sitemapsHaz clic en el botón "Generar" y se generan los sitemaps sin sobrecarga del servidor y sin problema del timeout. Perfecto para los grandes, medios y pequeños catálogos of productos. Sitemaps multi-tiendasEste módulo es compatible con el sistema mono-tienda y multi-tienda de PrestaShop. El módulo detecta automáticamente todas tus tiendas y te permite generar sitemaps para cada una de ellas.Además, el módulo genera distintos sitemaps por tienda, cada tienda tiene sus 4 propios sitemaps (Productos, Categorías, CMS y Fabricantes). Sitemaps multi-idiomasNuestro módulo permite crear sitemaps en todos los idiomas de tu tienda para que puedas posicionar fácilmente tu tienda en distintos idiomas.Para cada tipo de página (productos, categorías, CMS y fabricantes), el módulo genera sólo un sitemap que agrupa a las URLs en todos los idiomas, como lo recomienda Google.Los sitemaps generados se basan en las directrices oficiales de Google para garantizar el mejor posicionamiento web. Indexación de las imágenesOtra particularidad del módulo es que permite incluir las imágenes en los sitemaps para que Google pueda indexarlas. Permite a tu web ser visible y accesible desde la búsqueda de imágenes de Google, lo que permite aumentar la visibilidad general de tu tienda. Índice de sitemapsEl módulo crea de forma automática un índice de sitemap para simplificar la gestión de tus sitemaps, como lo recomienda Google. El índice contiene las urls de todos tus sitemaps, sólo tienes que escribir la url del índice de sitemaps en Google Webmaster Tools para subir tus sitemaps todos a la vez. Corto automático de los sitemaps largosNuestro módulo es capaz de generar sitemaps para cualquier tamaño de catálogo. Google sólo acepta los sitemaps que pesan menos de 10MB o 50.000 urls, por eso nuestro módulo corta de forma automática los sitempas largos en varios archivos para que no tengas ningún problema con Google. Creación automatizada (Cron)Encontrarás dentro del módulo una URL Cron que te permite generar todos tus sitemaps de forma automática y regular sin tener que tocar nada. Sólo copia y pega esta url dentro de un módulo Cron o en tu panel de hosting para ejecutar estas tareas de forma automática y regular.  ]]></additional_description>
+        <tab><![CDATA[seo]]></tab>
+        <version><![CDATA[1.5.6]]></version>
+        <compatibility>
+            <from><![CDATA[1.5.0.17]]></from>
+            <to><![CDATA[1.7.2.4]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[69.99]]></EUR>
+            <USD><![CDATA[84.99]]></USD>
+            <GBP><![CDATA[64.99]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio creador de módulos">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[http://medias2.prestastore.com/689571-pprod/sitemaps-pro-multi-idiomas-y-multi-tiendas-seo.jpg]]></small>
+            <big>
+                <![CDATA[http://medias3.prestastore.com/689571-pbig/sitemaps-pro-multi-idiomas-y-multi-tiendas-seo.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1029,10 +1065,10 @@
         <additional_description>
             <![CDATA[Aumente la tasa de conversión y las ventas de su tienda haciendo que la inscripción y acceso a su tienda sean lo más simples y rápidos posible.   ¡AUMENTE LA TASA DE CONVERSIÓN DE SU TIENDA Y SUS VENTAS! Sus clientes podrán registrarse y acceder a su tienda con un solo clic a través de Facebook, PayPal Login, Amazon, Google y/o Twitter, haciendo que el proceso de compra sea mucho más rápido y sencillo. Se trata de un hecho muy conocido en el mundo del comercio electrónico : cuanto más fácil sea el proceso, mayores son las posibilidades de que el cliente complete su compra, reduciendo considerablemente la tasa de carritos abandonados. Nosotros le recomendamos instalar al menos los botones de Facebook, PayPal y Amazon. Facebook cuenta con el mayor número de usuarios y, como se explica más abajo, con Facebook, este módulo puede hacer mucho más que proporcionar un método de identificación simple y rápido para sus clientes. Y con PayPal Login, puede beneficiarse de una auténtica suscripción en un clic, ya que PayPal registrará automáticamente la dirección de facturación/entrega del cliente.   EL MÓDULO DE BOTONES DE REGISTRO E IDENTIFICACIÓN DE REDES SOCIALES MÁS ESTABLE Y CON GRÁFICOS MÁS CUIDADOS PARA PRESTASHOP El módulo Connect para Redes Sociales, Amazon y Paypal, a la vanguardia de la tecnología e implementado de acuerdo con los últimos estándares proporcionados por Facebook, PayPal, Amazon, Google y Twitter, le garantiza un altísimo nivel de calidad y estabilidad. Igualmente, nos hemos esforzado en proporcionar a los botones una impresionante presentación visual para que se integren perfectamente en PrestaShop.  OFRECE UN VALE DE DESCUENTO POR UN CLIC SOBRE LOS BOTONES DE CONEXION RAPIDA Puede optar por ofrecer un vale de descuento para cualquier nuevo abonado que decide ir a través de una rápida botones de conexión. Todas las opciones de configuración de vales, tales como la elección de los productos a los que se aplica, están disponibles en el "código de promoción" ficha.  Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.  Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).]]></additional_description>
         <tab><![CDATA[social_networks]]></tab>
-        <version><![CDATA[2.3.0]]></version>
+        <version><![CDATA[2.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[69.99]]></EUR>
@@ -1045,9 +1081,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/835082-pprod/connect-para-redes-sociales-amazon-y-paypal.jpg]]></small>
+                <![CDATA[http://medias1.prestastore.com/835082-pprod/connect-para-redes-sociales-amazon-y-paypal.jpg]]></small>
             <big>
-                <![CDATA[https://medias3.prestastore.com/835082-pbig/connect-para-redes-sociales-amazon-y-paypal.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/835082-pbig/connect-para-redes-sociales-amazon-y-paypal.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1068,11 +1104,11 @@
         <version><![CDATA[1.4.10]]></version>
         <compatibility>
             <from><![CDATA[1.4.5.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[29.99]]></EUR>
-            <USD><![CDATA[39.99]]></USD>
+            <USD><![CDATA[34.99]]></USD>
             <GBP><![CDATA[27.99]]></GBP>
         </price>
         <badges>
@@ -1081,9 +1117,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/689395-pprod/ley-europea-de-cookies-aviso-bloqueador-de-cookie.jpg]]></small>
+                <![CDATA[http://medias2.prestastore.com/689395-pprod/ley-europea-de-cookies-aviso-bloqueador-de-cookie.jpg]]></small>
             <big>
-                <![CDATA[https://medias2.prestastore.com/689395-pbig/ley-europea-de-cookies-aviso-bloqueador-de-cookie.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/689395-pbig/ley-europea-de-cookies-aviso-bloqueador-de-cookie.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1105,7 +1141,7 @@
         <version><![CDATA[3.1.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[69.99]]></EUR>
@@ -1117,8 +1153,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-partner-agency.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/740079-pprod/dmu-improved-order-list.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/740079-pbig/dmu-improved-order-list.jpg]]></big>
+            <small><![CDATA[http://medias2.prestastore.com/740079-pprod/dmu-improved-order-list.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/740079-pbig/dmu-improved-order-list.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1135,25 +1171,25 @@
         <description_full>
             <![CDATA[This is an ideal solution for increasing the amount of the average sales transaction. According to the rules you have chosen, you encourage customers to increase the value of their purchases in order to take advantage of free delivery.]]></description_full>
         <additional_description>
-            <![CDATA[Developing your sales by increasing the value of transactions has never been an easy thing to implement. The “Free Delivery Manager” module is actually the perfect solution for offering your respected customers free shipping through objective rules. It is the promise of a rise in the amount of orders with total control of delivery costs.  The module allows you to calculate in advance, with the help of precise rules, the necessary conditions for unlocking free delivery. The management and monitoring are done according to carriers, delivery area, price, weight, or any other criteria you term as important for your business.  The “Free Delivery Manager” module offers control of delivery costs by releasing delivery available as a function of criteria you have chosen. All the carriers have their own price list. You may, for example, indicate a minimum order amount by carrier In presenting to the customer, in their order summary, the amount remaining before delivery is available, so you definitely encourage them to order more.  Highly detailed statistics visually present two types of reports together. The first one presents the number of orders that have benefited from free delivery, as well as the total and per-order amount that this cost you. You really control the impact of delivery costs. The second report displays the detail of costs caused by free postage and the orders where the rules for free shipping are applied. Thus, the “Free Delivery Manager” module increases the value of transactions as well as the number of orders!  This module has been constantly evolving, many thanks to user feedback. TimActive, in fact, grants great importance to your perception of our solutions and of the improvements that can be added. ]]></additional_description>
+            <![CDATA[Developing your sales by increasing the value of transactions has never been an easy thing to implement. The &ldquo;Free Delivery Manager&rdquo; module is actually the perfect solution for offering your respected customers free shipping through objective rules. It is the promise of a rise in the amount of orders with total control of delivery costs.  The module allows you to calculate in advance, with the help of precise rules, the necessary conditions for unlocking free delivery. The management and monitoring are done according to carriers, delivery area, price, weight, or any other criteria you term as important for your business.  The &ldquo;Free Delivery Manager&rdquo; module offers control of delivery costs by releasing delivery available as a function of criteria you have chosen. All the carriers have their own price list. You may, for example, indicate a minimum order amount by carrier In presenting to the customer, in their order summary, the amount remaining before delivery is available, so you definitely encourage them to order more.  Highly detailed statistics visually present two types of reports together. The first one presents the number of orders that have benefited from free delivery, as well as the total and per-order amount that this cost you. You really control the impact of delivery costs. The second report displays the detail of costs caused by free postage and the orders where the rules for free shipping are applied. Thus, the &ldquo;Free Delivery Manager&rdquo; module increases the value of transactions as well as the number of orders!  This module has been constantly evolving, many thanks to user feedback. TimActive, in fact, grants great importance to your perception of our solutions and of the improvements that can be added.&nbsp;]]></additional_description>
         <tab><![CDATA[shipping_logistics]]></tab>
         <version><![CDATA[1.6.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[89.99]]></EUR>
             <USD><![CDATA[109.99]]></USD>
-            <GBP><![CDATA[79.99]]></GBP>
+            <GBP><![CDATA[84.99]]></GBP>
         </price>
         <badges>
             <badge label="Socio creador de módulos">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/691962-pprod/free-delivery-manager.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/691962-pbig/free-delivery-manager.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/691962-pprod/free-delivery-manager.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/691962-pbig/free-delivery-manager.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1171,21 +1207,21 @@
         <additional_description>
             <![CDATA[Ya se migraron más de 4500+ tiendas PrestaShopSoporte técnico personalizado 24/7 No requiere ningún conocimiento técnico para utilizar este móduloAhorra tiempo para hacer otros trabajos en tu tiendaGuarda tu antiguo PrestaShopDocumentación y video tutoriales incluidos]]></additional_description>
         <tab><![CDATA[migration_tools]]></tab>
-        <version><![CDATA[3.1.2]]></version>
+        <version><![CDATA[3.2.0]]></version>
         <compatibility>
             <from><![CDATA[1.3.0.1]]></from>
             <to><![CDATA[1.7.2.2]]></to>
         </compatibility>
         <price>
-            <EUR><![CDATA[69.99]]></EUR>
-            <USD><![CDATA[84.99]]></USD>
-            <GBP><![CDATA[64.99]]></GBP>
+            <EUR><![CDATA[79.99]]></EUR>
+            <USD><![CDATA[94.99]]></USD>
+            <GBP><![CDATA[74.99]]></GBP>
         </price>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/797205-pprod/migration-data-from-prestashop-to-prestashop-tool.jpg]]></small>
+                <![CDATA[http://medias1.prestastore.com/917724-pprod/migration-data-from-prestashop-to-prestashop-tool.jpg]]></small>
             <big>
-                <![CDATA[https://medias2.prestastore.com/797205-pbig/migration-data-from-prestashop-to-prestashop-tool.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/917724-pbig/migration-data-from-prestashop-to-prestashop-tool.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1204,10 +1240,10 @@
         <additional_description>
             <![CDATA[Mediante el m&oacute;dulo Promociones en el carrito podr&aacute;:&nbsp;Incrementar f&aacute;cilmente el valor medio de carrito de sus clientes,&nbsp;Liquidar de su inventario de aquellos productos no vendidos de su elecci&oacute;n,&nbsp;Ayudar a sus clientes a descubrir nuevos productos y crear demanda,&nbsp;Mejorar la satisfacci&oacute;n de sus clientes y su lealtad gracias a los descuentos personalizados en productos selectos.]]></additional_description>
         <tab><![CDATA[merchandizing]]></tab>
-        <version><![CDATA[2.3.13]]></version>
+        <version><![CDATA[2.3.14]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
@@ -1220,8 +1256,8 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/595049-pprod/promociones-en-el-carrito-upselling.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/595049-pbig/promociones-en-el-carrito-upselling.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/595049-pprod/promociones-en-el-carrito-upselling.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/595049-pbig/promociones-en-el-carrito-upselling.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1243,7 +1279,7 @@
         <version><![CDATA[4.1.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[299.99]]></EUR>
@@ -1252,8 +1288,8 @@
         </price>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/884358-pprod/rockpos-punto-de-venta-y-omnicanal.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/884358-pbig/rockpos-punto-de-venta-y-omnicanal.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/884358-pprod/rockpos-punto-de-venta-y-omnicanal.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/884358-pbig/rockpos-punto-de-venta-y-omnicanal.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1272,10 +1308,10 @@
         <additional_description>
             <![CDATA[Muy sencillo de configurar, este m&oacute;dulo permite enviar de forma&nbsp;autom&aacute;tica un email de relanza cuando haya pedidos sin finalizar  Recordatorio de carritos abandonados permite a&ntilde;adir f&aacute;cilmente descuentos en el precio o en los gastos de env&iacute;o en los emails de relanza seg&uacute;n el montante del carrito abandonado.&nbsp;  Adem&aacute;s, podr&aacute;s utilizar muchas otras funcionalidades innovadoras:&nbsp;E-mails personalizados para cada cliente&nbsp;&iexcl;Esto har&aacute; que los clientes indecisos se lancen a comprar!&nbsp;Creaci&oacute;n sencilla de plantillas para los emails utilizando la apariencia gr&aacute;fica de tu tienda.Maximiza las ventas enviando hasta 3 relanzas en los momentos que quieras y en los idiomas que necesites.&nbsp;M&oacute;dulo intuitivo y f&aacute;cil de configurar.&nbsp;  &nbsp;]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.7.25]]></version>
+        <version><![CDATA[1.7.26]]></version>
         <compatibility>
             <from><![CDATA[1.5.5.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[119.99]]></EUR>
@@ -1288,9 +1324,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/920927-pprod/recordatorio-de-carritos-abandonados-pro.jpg]]></small>
+                <![CDATA[http://medias1.prestastore.com/920927-pprod/recordatorio-de-carritos-abandonados-pro.jpg]]></small>
             <big>
-                <![CDATA[https://medias3.prestastore.com/920927-pbig/recordatorio-de-carritos-abandonados-pro.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/920927-pbig/recordatorio-de-carritos-abandonados-pro.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1309,10 +1345,10 @@
         <additional_description>
             <![CDATA[&iexcl;Ahorra m&aacute;s de 40 horas de trabajo gracias a la automatizaci&oacute;n de la creaci&oacute;n de las etiquetas necesarias para el SEO!  Gracias al m&oacute;dulo SEO Expert: - Aparece en los primeros puestos de los buscadores como Google, Bing, Yahoo, Yandex&hellip; - Multiplica el tr&aacute;fico y las ventas aumentando la visibilidad de tu tienda, &iexcl;en todos los idiomas que necesites! - Aumenta la tasa de conversi&oacute;n obteniendo un tr&aacute;fico m&aacute;s cualificado - Optimiza tu reputaci&oacute;n en Facebook y Twitter con los enlaces para compartir posts de tus productos - Destaca entre la competencia con URL y etiquetas diferentes para cada una de tus p&aacute;ginas producto y de publicaciones en redes sociales  Y todo esto&hellip; &iexcl;sin necesidad de conocimientos en inform&aacute;tica!  &nbsp;]]></additional_description>
         <tab><![CDATA[seo]]></tab>
-        <version><![CDATA[3.2.4]]></version>
+        <version><![CDATA[3.2.6]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[149.99]]></EUR>
@@ -1324,20 +1360,20 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/595316-pprod/seo-expert.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/595316-pbig/seo-expert.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/595316-pprod/seo-expert.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/595316-pbig/seo-expert.jpg]]></big>
         </cover>
     </module>
     <module>
         <id><![CDATA[17452]]></id>
         <name><![CDATA[giftcards]]></name>
-        <displayName><![CDATA[Tarjeta regalo]]></displayName>
+        <displayName><![CDATA[Tarjeta regalo  1.6]]></displayName>
         <categoryName><![CDATA[Lista de deseos y Tarjeta regalo]]></categoryName>
         <description>
             <![CDATA[&iexcl;Prop&oacute;n a tus clientes la posibilidad de hacer el regalo perfecto y sin riesgo de equivocarse!&nbsp;Aumenta tus ventas y obt&eacute;n nuevos clientes con el m&oacute;dulo de Tarjeta regal]]></description>
         <author><![CDATA[PrestaShop]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/lista-deseos-tarjeta-regalo/17452-gift-card.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/lista-deseos-tarjeta-regalo/17452-tarjeta-regalo-16.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/17452.jpg]]></img>
         <description_full>
             <![CDATA[&iexcl;Prop&oacute;n a tus clientes la posibilidad de hacer el regalo perfecto y sin riesgo de equivocarse!&nbsp;Aumenta tus ventas y obt&eacute;n nuevos clientes con el m&oacute;dulo de Tarjeta regalo desarrollado por PrestaShop.&nbsp;Pr&aacute;ctico y eficaz, &iexcl;las tarjetas regalo est&aacute;n a la cabeza de los regalos mejor valorados!]]></description_full>
@@ -1359,8 +1395,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/597595-pprod/gift-card.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/597595-pbig/gift-card.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/597595-pprod/tarjeta-regalo-16.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/597595-pbig/tarjeta-regalo-16.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1382,7 +1418,7 @@
         <version><![CDATA[17.1.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1395,9 +1431,8 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/783997-pprod/ve-convierte-abandonos-en-conversiones.jpg]]></small>
-            <big>
-                <![CDATA[https://medias1.prestastore.com/783997-pbig/ve-convierte-abandonos-en-conversiones.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/783997-pprod/ve-convierte-abandonos-en-conversiones.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/783997-pbig/ve-convierte-abandonos-en-conversiones.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1407,14 +1442,14 @@
         <categoryName><![CDATA[Proceso rápido de compra]]></categoryName>
         <description>
             <![CDATA[One Page Checkout with Facebook/Google+, MAILCHIMP and Ship2Pay es responsive, compatible, con cualquier plantilla y método de pago. Compatibilidad con 30+ métodos de pago y envío]]></description>
-        <author><![CDATA[Community developer]]></author>
+        <author><![CDATA[Knowband]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/proceso-rapido-compra/18016-knowband-one-page-checkout-social-login-mailchimp.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/18016.jpg]]></img>
         <description_full>
             <![CDATA[One Page Checkout with Facebook/Google+, MAILCHIMP and Ship2Pay es responsive, compatible, con cualquier plantilla y método de pago. Compatibilidad con 30+ métodos de pago y envío. Si no funciona, lo arreglamos GRATIS.]]></description_full>
         <additional_description>
-            <![CDATA[Muestra y oculta campo: decide cuales son los campos que quieres que aparezcan en nuestro módulo One page Checkout. El módulo tiene la funcionalidad de mostrar/ocultar campos como Compañía, impuestos, dirección, etc.&nbsp;Personalizar Botones: Cambia el color de los botones para que estén en armonía con el diseño de tu página, utilizando la herramienta de selección de color en nuestro panel de administrador, no necesitas saber de programación. Mailchimp: Envía directamente el id del correo electrónico a Mailchimp. Si el cliente ingresa mediante los clientes Google+ o Facebook su email, se enviará a Mailchimp también.Cambiar envío / método de pago o imagen: Nuestro modulo te permite administrar los cambios de envío / métodos de pago o imagen sin realizar ningún cambio en el código. Hacer cualquier campo opcional: tienes la opción donde te permite administrar los campos que quieres que sean obligatorios u opcionales. Ordenar campos de direcciones: &nbsp;organizar los campos de dirección con drag and drop. Ejemplo: el número de teléfono puede ser puesto antes del nombre. Drag and Drop:&nbsp;cambia la posición de todos los campos utilizando drag and drop, también puedes mostrar el método de pago primero y posteriormente el método de envíos. Ship2pay:&nbsp;Usando esta función el administrador puede deshabilitar los métodos de pago basado en el método de envío seleccionado por el cliente. CSS y JS personalizado: hay una opción en el panel de administración para agregar código personalizado en CSS y JS, el administrador puede usar esta función para realizar cambios sin editar los ficheros principales del módulo. HTML personalizado: el módulo one page Checkout, tiene la opción de agregar múltiples códigos HTML en cualquier lugar, el administrador puede promocionar cualquier producto, publicitar cualquier promoción o mostrar mensajes a los clientes sobre ofertas, envíos o información de métodos de pago. Modo de prueba: el módulo tiene un modo de prueba que el administrador puede realizar pruebas en vivo sin afectar tu negocio, si el modo de prueba está activado, todos los clientes irán directamente al módulo predefinido de PrestaShop, y el administrador puede realizar las pruebas en una URL que será mostrada en el módulo del administrador. Pestaña de preguntas frecuentes: entendemos el valor de tu tiempo, y por ello hemos decidido añadir las dudas básicas relacionadas con el módulo en el panel de administrador, entonces no necesitaras contactarnos &nbsp;para pequeños problemas/dudas.]]></additional_description>
+            <![CDATA[Muestra y oculta campo: decide cuales son los campos que quieres que aparezcan en nuestro módulo One page Checkout. El módulo tiene la funcionalidad de mostrar/ocultar campos como Compañía, impuestos, dirección, etc. Personalizar Botones: Cambia el color de los botones para que estén en armonía con el diseño de tu página, utilizando la herramienta de selección de color en nuestro panel de administrador, no necesitas saber de programación. Mailchimp: Envía directamente el id del correo electrónico a Mailchimp. Si el cliente ingresa mediante los clientes Google+ o Facebook su email, se enviará a Mailchimp también.Cambiar envío / método de pago o imagen: Nuestro modulo te permite administrar los cambios de envío / métodos de pago o imagen sin realizar ningún cambio en el código. Hacer cualquier campo opcional: tienes la opción donde te permite administrar los campos que quieres que sean obligatorios u opcionales. Ordenar campos de direcciones:  organizar los campos de dirección con drag and drop. Ejemplo: el número de teléfono puede ser puesto antes del nombre. Drag and Drop: cambia la posición de todos los campos utilizando drag and drop, también puedes mostrar el método de pago primero y posteriormente el método de envíos. Ship2pay: Usando esta función el administrador puede deshabilitar los métodos de pago basado en el método de envío seleccionado por el cliente. CSS y JS personalizado: hay una opción en el panel de administración para agregar código personalizado en CSS y JS, el administrador puede usar esta función para realizar cambios sin editar los ficheros principales del módulo. HTML personalizado: el módulo one page Checkout, tiene la opción de agregar múltiples códigos HTML en cualquier lugar, el administrador puede promocionar cualquier producto, publicitar cualquier promoción o mostrar mensajes a los clientes sobre ofertas, envíos o información de métodos de pago. Modo de prueba: el módulo tiene un modo de prueba que el administrador puede realizar pruebas en vivo sin afectar tu negocio, si el modo de prueba está activado, todos los clientes irán directamente al módulo predefinido de PrestaShop, y el administrador puede realizar las pruebas en una URL que será mostrada en el módulo del administrador. Pestaña de preguntas frecuentes: entendemos el valor de tu tiempo, y por ello hemos decidido añadir las dudas básicas relacionadas con el módulo en el panel de administrador, entonces no necesitaras contactarnos  para pequeños problemas/dudas.]]></additional_description>
         <tab><![CDATA[checkout]]></tab>
         <version><![CDATA[4.0.5]]></version>
         <compatibility>
@@ -1426,11 +1461,15 @@
             <USD><![CDATA[94.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
+        <badges>
+            <badge label="Agencia asociada con PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-partner-agency.png]]></badge>
+        </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/882987-pprod/knowband-one-page-checkout-social-login-mailchimp.jpg]]></small>
+                <![CDATA[http://medias3.prestastore.com/882987-pprod/knowband-one-page-checkout-social-login-mailchimp.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/882987-pbig/knowband-one-page-checkout-social-login-mailchimp.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/882987-pbig/knowband-one-page-checkout-social-login-mailchimp.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1449,19 +1488,19 @@
         <additional_description>
             <![CDATA[Elegido mejor m&oacute;dulo de Espa&ntilde;a en los premios Awards 2015 de Addons PrestaShop.  Este m&oacute;dulo permite integrar varios comercios en la misma plataforma econ&oacute;mica y espacio com&uacute;n de venta donde todos los integrantes se pueden beneficiar de la fuerza de venta del resto obteniendo con ello mayor visibilidad y por tanto un aumento en el n&uacute;mero de clientes y ventas potenciales.  La integraci&oacute;n en torno a una plataforma com&uacute;n de venta es actualmente una de las formas m&aacute;s efectivas de competir con las grandes superficies tradicionales y con los grandes operadores de ecommerce (Amazon, Ebay, etc.), que poco a poco est&aacute;n agotando la capacidad competitiva y operativa del peque&ntilde;o y mediano comercio y de los modelos de negocio que operan de forma individual en Internet.  Con este m&oacute;dulo es posible unir en un mercado la fuerza de diversos proveedores con el objetivo de tener m&aacute;s visibilidad y m&aacute;s ventas.]]></additional_description>
         <tab><![CDATA[administration]]></tab>
-        <version><![CDATA[3.8.9]]></version>
+        <version><![CDATA[3.9.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[239.99]]></USD>
+            <USD><![CDATA[234.99]]></USD>
             <GBP><![CDATA[179.99]]></GBP>
         </price>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/717058-pprod/ja-marketplace.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/717058-pbig/ja-marketplace.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/717058-pprod/ja-marketplace.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/717058-pbig/ja-marketplace.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1480,10 +1519,10 @@
         <additional_description>
             <![CDATA[Artículos de la información, la información del envío, los pagos y descuentos puede ser modificado. Por favor, consulte las pantallas, el video, la DEMOSHOP, o póngase en contacto con nosotros directamente para obtener más información sobre cómo funciona el módulo.  ]]></additional_description>
         <tab><![CDATA[administration]]></tab>
-        <version><![CDATA[1.3.8]]></version>
+        <version><![CDATA[1.3.11]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[59.99]]></EUR>
@@ -1491,14 +1530,14 @@
             <GBP><![CDATA[54.99]]></GBP>
         </price>
         <badges>
-            <badge label="Agencia asociada con PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-partner-agency.png]]></badge>
+            <badge label="Socio creador de módulos">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/714564-pprod/order-edit-cambiar-y-modificar-la-orden-existente.jpg]]></small>
+                <![CDATA[http://medias3.prestastore.com/714564-pprod/order-edit-cambiar-y-modificar-la-orden-existente.jpg]]></small>
             <big>
-                <![CDATA[https://medias2.prestastore.com/714564-pbig/order-edit-cambiar-y-modificar-la-orden-existente.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/714564-pbig/order-edit-cambiar-y-modificar-la-orden-existente.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1517,10 +1556,10 @@
         <additional_description>
             <![CDATA[Con Mailchimp oficial para PrestaShop, podr&aacute;s:Crear newsletters completamente personalizadas con la misma apariencia de tu tienda.A&ntilde;adir productos y programar tus newsletters en un solo clic.Fidelizar a tus clientes importando las listas de clientes creadas con Mailchimp y envi&aacute;ndoles tus promociones y otras novedades.Actualizarlas r&aacute;pidamente con los nuevos inscritos a tu tienda.Maximizar las tasas de lectura y apertura gracias a la segmentaci&oacute;n de clientes (env&iacute;os a clientes que han abierto o hecho clic en una newsletter anterior, etc)Ver los reportings y estad&iacute;sticas completas incluidas directamente en tu back office PrestaShop.Facil&iacute;tate la vida: &iexcl;todo el m&oacute;dulo est&aacute; traducido en espa&ntilde;ol!&iexcl;Desde ahora, benef&iacute;ciate del plan gratis de Mailchimp que te permite enviar hasta 12,000 correos electr&oacute;nicos por mes y tener hasta 2,000 suscriptores gratuitamente! M&aacute;s de 7 millones de usuarios conf&iacute;an en Mailchimp, &iexcl;pru&eacute;balo ya! &nbsp;]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[4.0.5]]></version>
+        <version><![CDATA[4.0.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[89.99]]></EUR>
@@ -1533,31 +1572,31 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/645020-pprod/newsletter-estadisticas-mailchimp-16-17.jpg]]></small>
+                <![CDATA[http://medias1.prestastore.com/645020-pprod/newsletter-estadisticas-mailchimp-16-17.jpg]]></small>
             <big>
-                <![CDATA[https://medias2.prestastore.com/645020-pbig/newsletter-estadisticas-mailchimp-16-17.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/645020-pbig/newsletter-estadisticas-mailchimp-16-17.jpg]]></big>
         </cover>
     </module>
     <module>
         <id><![CDATA[19062]]></id>
         <name><![CDATA[layerslider]]></name>
-        <displayName><![CDATA[Layer Slider - Responsive SlideShow]]></displayName>
+        <displayName><![CDATA[Creative Slider - Responsive Slideshow]]></displayName>
         <categoryName><![CDATA[Sliders y Galerías de imágenes]]></categoryName>
         <description>
-            <![CDATA[Layerslider es un slider de multiprop&oacute;sito para crear galer&iacute;as de im&aacute;genes, contenidos slider, y presentaciones con efectos especiales que no te puedes perder! Emplea tecnolog&iac]]></description>
+            <![CDATA[CreativeSlider es un slider de multipropósito para crear galerías de imágenes, contenidos slider, y diapositivas con efectos especiales que no te puedes perder! Emplea tecnología de punta para facilit]]></description>
         <author><![CDATA[Community developer]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/sliders-galerias/19062-layer-slider-responsive-slideshow.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/sliders-galerias/19062-creative-slider-responsive-slideshow.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/19062.jpg]]></img>
         <description_full>
-            <![CDATA[Layerslider es un slider de multiprop&oacute;sito para crear galer&iacute;as de im&aacute;genes, contenidos slider, y presentaciones con efectos especiales que no te puedes perder! Emplea tecnolog&iacute;a de punta para facilitar una experiencia de usuario ligera y agradable.]]></description_full>
+            <![CDATA[CreativeSlider es un slider de multipropósito para crear galerías de imágenes, contenidos slider, y diapositivas con efectos especiales que no te puedes perder! Emplea tecnología de punta para facilitar una experiencia de usuario ligera y agradable.]]></description_full>
         <additional_description>
-            <![CDATA[Viene con m&aacute;s de 200 transiciones de slide&nbsp;pre-establecidas en 2D y 3D. Tiene una interface agradable, atractiva y f&aacute;cil de administrar, con caracter&iacute;sticas de soporte modernas como drag &#39;n&rsquo; drop WYSIWYG slider builder, pre visualizaci&oacute;n en tiempo real, l&iacute;nea de tiempo, Google Fonts, y transition builder para animaciones a medida. Es responsive en dispositivos m&oacute;viles ya que tiene modos de respuesta simples, con m&uacute;ltiples vistas, gestos de tacto y utiliza t&eacute;cnicas como lazy load&nbsp;y conditional script loading para mejorar su rendimiento &oacute;ptimo. Se puede a&ntilde;adir cualquier contenido en los sliders, tanto im&aacute;genes como texto HTML a medida, YouTube, Vimeo, contenido multimedia en HTML5 o videos. Es apto y amigable para el posicionamiento SEO permitiendo hacer marcas sem&aacute;nticas con atributos que los motores de b&uacute;squeda pueden identificar f&aacute;cilmente. LayerSlider viene con 13 pieles incluidas y tiene diferentes opciones configurables para modificar hasta el &uacute;ltimo detalle de la apariencia y el comportamiento de los sliders.&nbsp; &nbsp;&nbsp;]]></additional_description>
+            <![CDATA[Viene con más de 200 transiciones de slide&nbsp;pre-establecidas en 2D y 3D. Tiene una interface agradable, atractiva y fácil de administrar, con características de soporte modernas como drag 'n’ drop WYSIWYG slider builder, pre visualización en tiempo real, línea de tiempo, Google Fonts, y transition builder para animaciones a medida. Es responsive en dispositivos móviles ya que tiene modos de respuesta simples, con múltiples vistas, gestos de tacto y utiliza técnicas como lazy load&nbsp;y conditional script loading para mejorar su rendimiento óptimo. Se puede añadir cualquier contenido en los sliders, tanto imágenes como texto HTML a medida, YouTube, Vimeo, contenido multimedia en HTML5 o videos. Es apto y amigable para el posicionamiento SEO permitiendo hacer marcas semánticas con atributos que los motores de búsqueda pueden identificar fácilmente. Creative Slider viene con 13 pieles incluidas y tiene diferentes opciones configurables para modificar hasta el último detalle de la apariencia y el comportamiento de los sliders.&nbsp; &nbsp;&nbsp;]]></additional_description>
         <tab><![CDATA[slideshows]]></tab>
-        <version><![CDATA[6.1.9]]></version>
+        <version><![CDATA[6.1.10]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.17]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -1566,8 +1605,8 @@
         </price>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/726345-pprod/layer-slider-responsive-slideshow.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/726345-pbig/layer-slider-responsive-slideshow.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/726345-pprod/creative-slider-responsive-slideshow.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/726345-pbig/creative-slider-responsive-slideshow.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1589,7 +1628,7 @@
         <version><![CDATA[1.2.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -1601,8 +1640,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/663202-pprod/popup-promocionales-popup.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/663202-pbig/popup-promocionales-popup.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/926172-pprod/popup-promocionales-popup.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/926172-pbig/popup-promocionales-popup.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1621,10 +1660,10 @@
         <additional_description>
             <![CDATA[According to the abandoned cart content, and information about the customers, the Smart Cart Reminder module is the advanced solution that allows you to remind your abandoned carts in an autonomous and focused way.  « The only module of the cart reminder without subscription offering as many features »  ** EMAILS OF REMINDER AND OFFERS ABOUT MARKETING ADAPTED TO EACH CART ** Indeed, the module allows you to create "Reminder rules" according to:Customer information (country, age, gender, group, etc.)Cart contents (amount, products, product categories, stock remaining, etc.)Time of year (Christmas, New Year’s, Valentine’s Day, Mothers’ Day, etc.) « No more untimely and inappropriate promotions which let you feel that you are desperate ! »  With the reminder rules, create easily your own algorithms, for example:  Rule 1 : For the cart that exceeds $90, which still contain available items in my stock, the customer is in USA. Then create a discount coupon to obtain the shipping costs for free. Reminder1: Send the « Free shipping costs » email. Reminder2: Send the « Only a few days to benefit from the offer» email. ------------ Rule 2: For the new customers, create a 5% Off Your Order. Reminder1: 1H after the dropped cart: send the «To celebrate your arrival 5% Off Your First Order » email. Reminder2: 24H after Reminder 1: send the « Only one day left to take advantage of this offer» email. ------------ Rule 3: From 15/11/2015 to 25/12/2015(Christmas time), create a coupon to obtain a gift on the order. Reminder 1: Send the « Surprise Gift» email. Reminder 2: Send the « Only a few days to benefit from the offer» email. ------------ Rule 4: For the cart > €900, the customer is professional Reminder 1: Send the « More information about our catalog dedicated to professional» email. Reminder 2: Contact the customer by phone  My interest through Smart Cart Reminder module and the reminder rules: →  I increase my sales →  I control the cost of my marketing offers according to the cart →  I approach as close as possible to the desire of my customers →  I gain credibility by creating an intelligent and autonomous system which is no longer seen by my customers as an automatic emails or promotion distributor.   ** MANY KINDS OF REMINDER « STANDARD» or «MANUAL» ** Two kinds of reminders to adapt a little more to your reminder process:«Standard»: Sending an automatic email with a custom content of the cart to the customer.« Manual»: The module notifies you by email to communicate with the customer.You can even set the type of reminder that will suit your cart.   ** AN INTERFACE DEDICATED TO  « MANUAL » REMINDERS (PHONE) ** In one page, the module includes all the information of your customers; and includes many features dedicated for your manual reminders.  My interest through my module « Smart Cart Reminder » and its page dedicated for manual reminders: →  I don’t lose anymore my customers information enabling me converting ( phone number, address, page visited, number of orders placed, current cart …) → I win in reactivity through the features present in this unique page: Sending a Pre-formatted email with the link of the complete order, creation of good (s) reduction (s) → I comment all my telephone conversations   ** ADVANCED STATISTICS **  The module provides a group of advanced reports easy-to-understand:The evolution of the generated sales according to cart remindersReports about the opened/clicked emailsCart reminder rule conversion reportsReports on employees manually remind customers. This report contains the number of orders made, the number of manual reminder processed for each employee. My interest through statistics is to improve me reminder system: →  I improve my reminder emails to convert the maximum of cart →  I improve my rules to build an autonomous system →  I motivate my employees to increase my sales   ** AN INTUITIVE AND EASY MODULE TO TAKE IN CHARGE **  « A quick start: Coming from a study conducted in the comb to a Committee of a dozen merchants, the module provides a clear and pleasant interface to use. Because we are committed to place the e-trader at the center of the process when we design our modules»  The module provides a range of features allowing you to act directly on the abandoned cart, you can manually raise without even that the countdown is finished, see explicit details of the choice of a rule for a cart...  My interest through its intuitive and transparent interface    I spot in one glance: → The rules applied on the cart on each abandoned cart → The time left before the next reminder through the countdown → The list of reminders applied on the cart → If the reminder email was been seen and clicked → If the order was completed →  ...   ** AN OPERATIONAL MODULE IN SOME CLICKS! **  1 Installation in 1 click and intuitive setting in 2 steps:1. I created my reminder emails, it’s easy and fast! Several templates of emails delivered with the module, customize easily and quickly, select an example, edit the colors, edit the text, and here we go! 2- I create my cart reminder rules and I indicate for each rule the reminder emails to send.  ** A SUPPORT AT YOUR SERVICE **«Because your time is precious and that we want your full satisfaction! »  You have particular difficulty for the integration, you have some questions. Our team will be glad to support you. We are very sensitive about the responsiveness and the quality of our responses.   Source « addons.prestashop.com »:  From 09/2013 to 08/2015  Tickets received: 362 Handled: 362 Our overall service quality: 99.7% ** THEY BOUGHT THE MODULE AND YOU?**  20/08/2015 «Your module is terrific!!! »  15/08/2015 - 5/5 «Great module and great support! »  28/07/2015 - 5/5 Lots of options to help increase sales. Very friendly and responsive customer service. Highly recommended!  15/07/2015 - 5/5 Very good quality, congratulation.  « I tried the challenge and I am pleased, congratulations to the developers of this module.  I like your system customizing email, this is top! » Cathy  « I'm a merchant since 8 years ago, and I gave some ideas. In fact I wanted a new condition to treat new customers differently and according to my stock. A module that I don’t leave no more! What flexibility! I paid the purchase in the first week. » Audrey« Don’t hesitate to share with us your comments!»]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.0.22]]></version>
+        <version><![CDATA[1.0.38]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[149.99]]></EUR>
@@ -1638,8 +1677,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/668257-pprod/smart-cart-reminder.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/668257-pbig/smart-cart-reminder.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/668257-pprod/smart-cart-reminder.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/668257-pbig/smart-cart-reminder.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1658,10 +1697,10 @@
         <additional_description>
             <![CDATA[Ventas Flash muestra un reloj con una cuenta atr&aacute;s al lado de los productos en rebajas lo que apremia al cliente a realizar su compra gracias a la duraci&oacute;n limitada en el tiempo de la oferta. &nbsp; Adem&aacute;s, la venta flash se mostrar&aacute; en distintas partes de tu tienda online (p&aacute;gina de inicio, columnas, fichas producto, etc.) con banners y sliders atrayentes y profesionales con una perfecta integraci&oacute;n en tu tienda y sin ser percibida como publicidad externa &iexcl;tus clientes no podr&aacute;n pasarla por alto! &nbsp; Las ventas flash es la herramienta que necesitas para vender m&aacute;s: una campa&ntilde;a de este tipo muestra una tasa de conversi&oacute;n de +59%. &nbsp; &nbsp; Nuestro consejo: Env&iacute;a una newsletter para informar a tus clientes de tus reducciones con el m&oacute;dulo Mailchimp Oficial (56% de las empresas dicen tener una tasa de apertura de la newsletter m&aacute;s importante durante los per&iacute;odos de ventas flash) o bien a trav&eacute;s de un pop up con Pop Promo para reforzar la visibilidad.   Comentario recibido el 2015-11-05&nbsp;09:51:48: &quot;Great! Works perfectly&quot; F. CASOLARI]]></additional_description>
         <tab><![CDATA[pricing_promotion]]></tab>
-        <version><![CDATA[3.2.2]]></version>
+        <version><![CDATA[3.2.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
@@ -1673,8 +1712,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/905699-pprod/ventas-flash-premium.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/905699-pbig/ventas-flash-premium.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/905699-pprod/ventas-flash-premium.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/905699-pbig/ventas-flash-premium.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1696,7 +1735,7 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
@@ -1708,8 +1747,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-partner-agency.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/674401-pprod/pago-por-boleto-bancario.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/674401-pbig/pago-por-boleto-bancario.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/674401-pprod/pago-por-boleto-bancario.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/674401-pbig/pago-por-boleto-bancario.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1736,15 +1775,15 @@
         <price>
             <EUR><![CDATA[179.99]]></EUR>
             <USD><![CDATA[214.99]]></USD>
-            <GBP><![CDATA[159.99]]></GBP>
+            <GBP><![CDATA[164.99]]></GBP>
         </price>
         <badges>
             <badge label="Made by PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/676340-pprod/presupuesto-online-16.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/676340-pbig/presupuesto-online-16.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/676340-pprod/presupuesto-online-16.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/676340-pbig/presupuesto-online-16.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1766,11 +1805,11 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[29.99]]></EUR>
-            <USD><![CDATA[39.99]]></USD>
+            <USD><![CDATA[34.99]]></USD>
             <GBP><![CDATA[27.99]]></GBP>
         </price>
         <badges>
@@ -1778,8 +1817,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/742768-pprod/liveperson.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/742768-pbig/liveperson.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/742768-pprod/liveperson.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/742768-pbig/liveperson.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1814,8 +1853,8 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/691041-pprod/bridge-connector-for-store-manager.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/691041-pbig/bridge-connector-for-store-manager.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/691041-pprod/bridge-connector-for-store-manager.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/691041-pbig/bridge-connector-for-store-manager.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1837,11 +1876,11 @@
         <version><![CDATA[1.0.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[29.99]]></EUR>
-            <USD><![CDATA[39.99]]></USD>
+            <USD><![CDATA[34.99]]></USD>
             <GBP><![CDATA[27.99]]></GBP>
         </price>
         <badges>
@@ -1849,8 +1888,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-partner-agency.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/704295-pprod/registro-brasilena.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/704295-pbig/registro-brasilena.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/704295-pprod/registro-brasilena.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/704295-pbig/registro-brasilena.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1876,44 +1915,13 @@
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[239.99]]></USD>
+            <USD><![CDATA[234.99]]></USD>
             <GBP><![CDATA[179.99]]></GBP>
         </price>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/704780-pprod/prestafip-electronic-invoice-for-afip.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/704780-pbig/prestafip-electronic-invoice-for-afip.jpg]]></big>
-        </cover>
-    </module>
-    <module>
-        <id><![CDATA[20644]]></id>
-        <name><![CDATA[linio]]></name>
-        <displayName><![CDATA[Sincronizador Linio]]></displayName>
-        <categoryName><![CDATA[Marketplaces]]></categoryName>
-        <description>
-            <![CDATA[&iquest;Ya tienes tu tienda Prestashop pero quieres vender tus productos tambi&eacute;n en Linio?&nbsp;&iquest;Te resulta tedioso sincronizar los productos en ambas tiendas? Este m&oacute;dulo te perm]]></description>
-        <author><![CDATA[Community developer]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/es/marketplaces/20644-sincronizador-linio.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/20644.jpg]]></img>
-        <description_full>
-            <![CDATA[&iquest;Ya tienes tu tienda Prestashop pero quieres vender tus productos tambi&eacute;n en Linio?&nbsp;&iquest;Te resulta tedioso sincronizar los productos en ambas tiendas? Este m&oacute;dulo te permitir&aacute; exportar tus productos autom&aacute;ticamente a Linio en el pa&iacute;s de tu preferencia.]]></description_full>
-        <additional_description>
-            <![CDATA[Te permitir&aacute; exportar tus productos autom&aacute;ticamente a Linio en el pa&iacute;s de tu preferencia, incluyendo las combinaciones de producto, im&aacute;genes, existencias y fabricantes. Solo tendr&aacute;s que seleccionar de cuales categor&iacute;as quieres exportar los productos. Cuando elimines un producto o combinaci&oacute;n, tambi&eacute;n se eliminar&aacute; en Linio.Importar&aacute; todos los pedidos generados en Linio con tus productos. As&iacute; podr&aacute;s hacer tu gesti&oacute;n desde Prestashop y cuando cambies el estado de un pedido, tambi&eacute;n se modificar&aacute; en Linio.Llevar&aacute; un registro de todos los errores generados durante los procesos anteriores, incluyendo la creaci&oacute;n, actualizaci&oacute;n y eliminaci&oacute;n de productos, combinaciones e im&aacute;genes.&nbsp;El m&oacute;dulo no garantiza que los productos exportados no sean rechazados por Linio por no cumplir las normativas de calidad con respecto a los datos como la descripci&oacute;n del producto.]]></additional_description>
-        <tab><![CDATA[market_place]]></tab>
-        <version><![CDATA[1.0.5]]></version>
-        <compatibility>
-            <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[149.99]]></EUR>
-            <USD><![CDATA[179.99]]></USD>
-            <GBP><![CDATA[134.99]]></GBP>
-        </price>
-        <cover>
-            <small><![CDATA[https://medias1.prestastore.com/708501-pprod/sincronizador-linio.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/708501-pbig/sincronizador-linio.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/704780-pprod/prestafip-electronic-invoice-for-afip.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/704780-pbig/prestafip-electronic-invoice-for-afip.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2001,8 +2009,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/715640-pprod/etiquetas-de-producto.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/715640-pbig/etiquetas-de-producto.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/715640-pprod/etiquetas-de-producto.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/715640-pbig/etiquetas-de-producto.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2021,9 +2029,9 @@
         <additional_description>
             <![CDATA[  Updated in real time with the latest published pages, fully customizable (you can block specific pages), it will load (for scheduled task) to prevent search engines at desired intervals. This module is multi-language and multishop: All your pages are indexed and listed in the languages ​​defined for each store/.  You can also include images or not, as you can turn off   Sitemap of or remove a link of it. It will also prevent robots (Google among others) the presence of it. It requires no special set-up action and adapts to any environment. Once installed, it's over, it works! No need to think about it! Easily customize the frequency of pages contained in the Sitemap. Automatic priority management is performed, calculated based on website updates.  It's necessary to stabilize a SEO / proper referencing in the ruthless world of the web, it will be an ideal and discreet companion, easy to implement. Simple, effective and very useful, this module is what all modules should do : a good job.  Sitemaps identified all sections of PrestaShop (products, categories, modules, CMS, rewrited URL's and suppliers). Implementation of Blogging modules within separates (for posts and categories) sitemaps too. Optimized SEO / SEO (Google / Bing / Yandex ) to make rapid progress your site to the top. Plug & Play : Once installed, it's ready ! Images included Separate Sitemaps for each shop and each containing selected languages ​​(multi-shop & multi-language) Support 24/7 to your every needs !]]></additional_description>
         <tab><![CDATA[seo]]></tab>
-        <version><![CDATA[1.2.2]]></version>
+        <version><![CDATA[1.2.3]]></version>
         <compatibility>
-            <from><![CDATA[1.5.0.0]]></from>
+            <from><![CDATA[1.5.2.0]]></from>
             <to><![CDATA[1.7.2.0]]></to>
         </compatibility>
         <price>
@@ -2037,9 +2045,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/716855-pprod/sitemap-simple-multishop-multilang-blogs.jpg]]></small>
+                <![CDATA[http://medias2.prestastore.com/716855-pprod/sitemap-simple-multishop-multilang-blogs.jpg]]></small>
             <big>
-                <![CDATA[https://medias3.prestastore.com/716855-pbig/sitemap-simple-multishop-multilang-blogs.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/716855-pbig/sitemap-simple-multishop-multilang-blogs.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2061,7 +2069,7 @@
         <version><![CDATA[1.6.3]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
@@ -2074,9 +2082,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/726515-pprod/easy-post-pro-dhl-gls-dpd-colissimo-royalmail-etc.jpg]]></small>
+                <![CDATA[http://medias3.prestastore.com/726515-pprod/easy-post-pro-dhl-gls-dpd-colissimo-royalmail-etc.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/726515-pbig/easy-post-pro-dhl-gls-dpd-colissimo-royalmail-etc.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/726515-pbig/easy-post-pro-dhl-gls-dpd-colissimo-royalmail-etc.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2098,7 +2106,7 @@
         <version><![CDATA[1.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[59.99]]></EUR>
@@ -2110,8 +2118,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/722395-pprod/popup-newsletter.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/722395-pbig/popup-newsletter.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/722395-pprod/popup-newsletter.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/722395-pbig/popup-newsletter.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2133,7 +2141,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[59.99]]></EUR>
@@ -2146,8 +2154,8 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/722882-pprod/pagos-brasileno-por-rede-card-komerci.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/722882-pbig/pagos-brasileno-por-rede-card-komerci.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/722882-pprod/pagos-brasileno-por-rede-card-komerci.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/722882-pbig/pagos-brasileno-por-rede-card-komerci.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2166,10 +2174,10 @@
         <additional_description>
             <![CDATA[Magic Redirect saves you valuable time by doing for you most actions concerning your redirections (301) and your pages not found (404):Automaticly redirect any disabled/deleted object (products, manufacturers, suppliers, categories, cms pages and categories) to natural parent page.Be warned each new error, but is not intrusive.The module attempts to find internal links that could address these issues. You then have to activate them on the fly.Lead your customers more easily to the right pages.Create rules in the event of major changes on your shop.Lost pages are pre-filled to facilitate your work.Improve your SEO everyday. Google grants a bonus to websites regulating their 404!]]></additional_description>
         <tab><![CDATA[seo]]></tab>
-        <version><![CDATA[1.2.8]]></version>
+        <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.2.0]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
+            <to><![CDATA[1.7.2.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -2182,9 +2190,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/723026-pprod/redirections-url-301-auto-fixing-multishop-seo.jpg]]></small>
+                <![CDATA[http://medias2.prestastore.com/723026-pprod/redirections-url-301-auto-fixing-multishop-seo.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/723026-pbig/redirections-url-301-auto-fixing-multishop-seo.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/723026-pbig/redirections-url-301-auto-fixing-multishop-seo.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2206,7 +2214,7 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[29.99]]></EUR>
@@ -2219,8 +2227,8 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/723224-pprod/seguimiento-brasileno-por-correios.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/723224-pbig/seguimiento-brasileno-por-correios.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/723224-pprod/seguimiento-brasileno-por-correios.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/723224-pbig/seguimiento-brasileno-por-correios.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2242,7 +2250,7 @@
         <version><![CDATA[1.1.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.17]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -2269,7 +2277,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
@@ -2281,8 +2289,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-partner-agency.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/724625-pprod/antifraude-clearsale-start.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/724625-pbig/antifraude-clearsale-start.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/724625-pprod/antifraude-clearsale-start.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/724625-pbig/antifraude-clearsale-start.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2304,7 +2312,7 @@
         <version><![CDATA[1.1.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[69.99]]></EUR>
@@ -2317,9 +2325,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/727469-pprod/pop-exit-redireccionamiento-de-popups-del-sitio-web.jpg]]></small>
+                <![CDATA[http://medias2.prestastore.com/727469-pprod/pop-exit-redireccionamiento-de-popups-del-sitio-web.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/727469-pbig/pop-exit-redireccionamiento-de-popups-del-sitio-web.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/727469-pbig/pop-exit-redireccionamiento-de-popups-del-sitio-web.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2341,7 +2349,7 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[119.99]]></EUR>
@@ -2354,9 +2362,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/732590-pprod/calculo-del-flete-por-los-correios-brasilenos.jpg]]></small>
+                <![CDATA[http://medias3.prestastore.com/732590-pprod/calculo-del-flete-por-los-correios-brasilenos.jpg]]></small>
             <big>
-                <![CDATA[https://medias2.prestastore.com/732590-pbig/calculo-del-flete-por-los-correios-brasilenos.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/732590-pbig/calculo-del-flete-por-los-correios-brasilenos.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2382,7 +2390,7 @@
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
-            <USD><![CDATA[239.99]]></USD>
+            <USD><![CDATA[234.99]]></USD>
             <GBP><![CDATA[179.99]]></GBP>
         </price>
         <badges>
@@ -2390,8 +2398,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/733505-pprod/adyen-payment.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/733505-pbig/adyen-payment.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/733505-pprod/adyen-payment.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/733505-pbig/adyen-payment.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2425,8 +2433,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/742057-pprod/carrusel-de-productos.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/742057-pbig/carrusel-de-productos.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/742057-pprod/carrusel-de-productos.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/742057-pbig/carrusel-de-productos.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2448,7 +2456,7 @@
         <version><![CDATA[5.5.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.4.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[249.99]]></EUR>
@@ -2461,9 +2469,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/748180-pprod/fastbay-ebay-marketplace-synchronization.jpg]]></small>
+                <![CDATA[http://medias1.prestastore.com/748180-pprod/fastbay-ebay-marketplace-synchronization.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/748180-pbig/fastbay-ebay-marketplace-synchronization.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/748180-pbig/fastbay-ebay-marketplace-synchronization.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2482,10 +2490,10 @@
         <additional_description>
             <![CDATA[Un m&oacute;dulo que no requiere suscripci&oacute;n y con el que, en unos pocos clics, podr&aacute;s empezar a charlar con tus clientes online.&nbsp;Disfrutar&aacute;s de una interfaz muy f&aacute;cil de usar y de un dise&ntilde;o perfectamente adaptado a tu sitio, tanto por el lado de la administraci&oacute;n como en la tienda.&nbsp;Gracias a las conversaciones online forjar&aacute;s v&iacute;nculos m&aacute;s fuertes y humanizados con tus clientes y mejorar&aacute;s la fidelidad a tu marca.&nbsp;Reducir&aacute;s el n&uacute;mero de carritos abandonados respondiendo directamente a las preguntas de los visitantes.&nbsp;Ahorrar&aacute;s tiempo en la gesti&oacute;n del servicio posventa al poder resolver los problemas y peticiones en tiempo real.]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[1.3.4]]></version>
+        <version><![CDATA[1.3.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
@@ -2499,8 +2507,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/752296-pprod/chat-online.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/752296-pbig/chat-online.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/752296-pprod/chat-online.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/752296-pbig/chat-online.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2522,7 +2530,7 @@
         <version><![CDATA[1.1.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[59.99]]></EUR>
@@ -2534,8 +2542,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/755429-pprod/guia-de-tallas.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/755429-pbig/guia-de-tallas.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/755429-pprod/guia-de-tallas.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/755429-pbig/guia-de-tallas.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2557,7 +2565,7 @@
         <version><![CDATA[1.0.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.17]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -2569,8 +2577,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/766068-pprod/easy-places.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/766068-pbig/easy-places.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/766068-pprod/easy-places.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/766068-pbig/easy-places.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2589,10 +2597,10 @@
         <additional_description>
             <![CDATA[&nbsp;This integration will save customer support agents time and contextualize interactions as they no longer need to switch between Prestashop and Zendesk&#39;s interfaces to link a ticket to customer orders.]]></additional_description>
         <tab><![CDATA[administration]]></tab>
-        <version><![CDATA[1.0.2]]></version>
+        <version><![CDATA[1.0.3]]></version>
         <compatibility>
             <from><![CDATA[1.5.1.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2610,25 +2618,25 @@
         <displayName><![CDATA[Product Ads + Pixel para LA Red Social]]></displayName>
         <categoryName><![CDATA[Remarketing y Carritos abandonados]]></categoryName>
         <description>
-            <![CDATA[Aproveche la focalización y un Índice del Rendimiento de la Inversión (ROI) sin igual en Facebook con la Publicidad de Productos Dinámicos y el Remarketing]]></description>
+            <![CDATA[Aproveche la focalizaci&oacute;n y un &Iacute;ndice del Rendimiento de la Inversi&oacute;n (ROI) sin igual en Facebook con la Publicidad de Productos Din&aacute;micos y el Remarketing]]></description>
         <author><![CDATA[Business Tech]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/remarketing-carritos-abandonados/23671-product-ads-pixel-para-la-red-social.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/23671.jpg]]></img>
         <description_full>
-            <![CDATA[Aproveche la focalización y un Índice del Rendimiento de la Inversión (ROI) sin igual en Facebook con la Publicidad de Productos Dinámicos y el Remarketing]]></description_full>
+            <![CDATA[Aproveche la focalizaci&oacute;n y un &Iacute;ndice del Rendimiento de la Inversi&oacute;n (ROI) sin igual en Facebook con la Publicidad de Productos Din&aacute;micos y el Remarketing]]></description_full>
         <additional_description>
-            <![CDATA[Aumente su tasa de conversión y su índice de fidelización: exporte muy fácilmente su catálogo de productos y cree en unos pocos clics sus anuncios publicitarios en Facebook.  *** GANADOR DE LOS PREMIOS PRESTASHOP - ELIGIDO MEJOR MÓDULO 2017 ***  Se trata del equivalente para Facebook de «Google Shopping» (Merchant Center) pero con una herramienta de focalización muy potente que Google no tiene: una multitud de opciones le permite focalizar sus anuncios en función de la edad, el sexo, la situación familiar, el lugar geográfico exacto, intereses, grupos, páginas y productos preferidos, y toda la información de la que Facebook dispone sobre sus clientes y clientes potenciales. Además, el coste de estas campañas suele ser inferior al de la publicidad de Google, beneficiándose también de un mejor Rendimiento de la Inversión. En resumen: ¡el sueño para todos los vendedores!Como Google, Facebook ha desarrollado una plataforma de audiencia personalizadas y de reorientación que le permite mostrar a sus clientes y visitantes anuncios publicitarios adaptados a lo que han visto en su página web o en su blog, gracias a una herramienta de segmentación de alto rendimiento. La potencia de Facebook le permite igualmente adquirir nuevos clientes cuyos intereses se acercan a los de sus clientes actuales. Las informaciones personales de estos futuros compradores, que tiene Facebook, se comparan con las de sus clientes existentes.Todo se hace sencillamente a través de su código Píxel Facebook, que sirve también para seguir las compras / conversiones en su tienda PrestaShop. Combinando el catálogo de productos de Facebook y el Píxel de Facebook, puede crear anuncios dinámicos en sus productos: tiene la capacidad de dirigir exactamente los productos ya consultados por sus clientes o visitantes, o los que podrían completarlos. Aprovéchese de la indiscutible eficacia de la reorientación dinámica y dé un gran impulso a su tasa de conversión y a su Índice del Rendimiento de la Inversión (ROI)  Este módulo todo en uno aporta todo lo que usted necesita para iniciarse inmediatamente en la tecnología publicitaria más avanzada del mundo. ¡No deje pasar esta oportunidad y empiece HOY!  Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.  Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a). ]]></additional_description>
+            <![CDATA[Aumente su tasa de conversi&oacute;n y su &iacute;ndice de fidelizaci&oacute;n: exporte muy f&aacute;cilmente su cat&aacute;logo de productos y cree en unos pocos clics sus anuncios publicitarios en Facebook.&nbsp;&nbsp;*** GANADOR DE LOS PREMIOS PRESTASHOP - ELIGIDO MEJOR M&Oacute;DULO 2017 ***&nbsp;&nbsp;Se trata del equivalente para Facebook de &laquo;Google Shopping&raquo; (Merchant Center) pero con una herramienta de focalizaci&oacute;n muy potente que Google no tiene: una multitud de opciones le permite focalizar sus anuncios en funci&oacute;n de la edad, el sexo, la situaci&oacute;n familiar, el lugar geogr&aacute;fico exacto, intereses, grupos, p&aacute;ginas y productos preferidos, y toda la informaci&oacute;n de la que Facebook dispone sobre sus clientes y clientes potenciales. Adem&aacute;s, el coste de estas campa&ntilde;as suele ser inferior al de la publicidad de Google, benefici&aacute;ndose tambi&eacute;n de un mejor Rendimiento de la Inversi&oacute;n. En resumen: &iexcl;el sue&ntilde;o para todos los vendedores!Como Google, Facebook ha desarrollado una plataforma de audiencia personalizadas y de reorientaci&oacute;n que le permite mostrar a sus clientes y visitantes anuncios publicitarios adaptados a lo que han visto en su p&aacute;gina web o en su blog, gracias a una herramienta de segmentaci&oacute;n de alto rendimiento. La potencia de Facebook le permite igualmente adquirir nuevos clientes cuyos intereses se acercan a los de sus clientes actuales. Las informaciones personales de estos futuros compradores, que tiene Facebook, se comparan con las de sus clientes existentes.Todo se hace sencillamente a trav&eacute;s de su c&oacute;digo P&iacute;xel Facebook, que sirve tambi&eacute;n para seguir las compras / conversiones en su tienda PrestaShop.&nbsp;Combinando el cat&aacute;logo de productos de Facebook y el P&iacute;xel de Facebook, puede crear anuncios din&aacute;micos en sus productos: tiene la capacidad de dirigir exactamente los productos ya consultados por sus clientes o visitantes, o los que podr&iacute;an completarlos. Aprov&eacute;chese de la indiscutible eficacia de la reorientaci&oacute;n din&aacute;mica y d&eacute; un gran impulso a su tasa de conversi&oacute;n y a su &Iacute;ndice del Rendimiento de la Inversi&oacute;n (ROI)&nbsp;&nbsp;Este m&oacute;dulo todo en uno aporta todo lo que usted necesita para iniciarse inmediatamente en la tecnolog&iacute;a publicitaria m&aacute;s avanzada del mundo. &iexcl;No deje pasar esta oportunidad y empiece HOY!&nbsp;&nbsp;Este m&oacute;dulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 a&ntilde;os, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categor&iacute;a de Mejor m&oacute;dulo. Tiene la seguridad de adquirir un m&oacute;dulo robusto, fiable y de calidad.&nbsp;&nbsp;Ademas, en Business Tech, nosotros disponemos de un servicio de soporte t&eacute;cnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted est&aacute; en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).&nbsp;]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.2.6]]></version>
+        <version><![CDATA[1.2.7]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[129.99]]></EUR>
             <USD><![CDATA[154.99]]></USD>
-            <GBP><![CDATA[114.99]]></GBP>
+            <GBP><![CDATA[119.99]]></GBP>
         </price>
         <badges>
             <badge label="Mejor módulo Tráfico">
@@ -2638,8 +2646,8 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/835119-pprod/product-ads-pixel-para-la-red-social.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/835119-pbig/product-ads-pixel-para-la-red-social.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/835119-pprod/product-ads-pixel-para-la-red-social.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/835119-pbig/product-ads-pixel-para-la-red-social.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2661,16 +2669,16 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[89.99]]></EUR>
             <USD><![CDATA[109.99]]></USD>
-            <GBP><![CDATA[79.99]]></GBP>
+            <GBP><![CDATA[84.99]]></GBP>
         </price>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/772059-pprod/calculo-del-flete-por-jadlog.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/772059-pbig/calculo-del-flete-por-jadlog.jpg]]></big>
+            <small><![CDATA[http://medias2.prestastore.com/772059-pprod/calculo-del-flete-por-jadlog.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/772059-pbig/calculo-del-flete-por-jadlog.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2692,20 +2700,20 @@
         <version><![CDATA[1.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
-            <EUR><![CDATA[29.99]]></EUR>
-            <USD><![CDATA[39.99]]></USD>
-            <GBP><![CDATA[27.99]]></GBP>
+            <EUR><![CDATA[19.99]]></EUR>
+            <USD><![CDATA[23.99]]></USD>
+            <GBP><![CDATA[17.99]]></GBP>
         </price>
         <badges>
             <badge label="Made by PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/772289-pprod/panel-de-control-por-categoria.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/772289-pbig/panel-de-control-por-categoria.jpg]]></big>
+            <small><![CDATA[http://medias2.prestastore.com/772289-pprod/panel-de-control-por-categoria.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/772289-pbig/panel-de-control-por-categoria.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2727,7 +2735,7 @@
         <version><![CDATA[1.0.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.9]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[499.99]]></EUR>
@@ -2742,9 +2750,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/783025-pprod/advanced-subscription-with-automatic-recurring-payments.jpg]]></small>
+                <![CDATA[http://medias1.prestastore.com/783025-pprod/advanced-subscription-with-automatic-recurring-payments.jpg]]></small>
             <big>
-                <![CDATA[https://medias2.prestastore.com/783025-pbig/advanced-subscription-with-automatic-recurring-payments.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/783025-pbig/advanced-subscription-with-automatic-recurring-payments.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2766,12 +2774,12 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
-            <EUR><![CDATA[29.99]]></EUR>
-            <USD><![CDATA[39.99]]></USD>
-            <GBP><![CDATA[27.99]]></GBP>
+            <EUR><![CDATA[19.99]]></EUR>
+            <USD><![CDATA[23.99]]></USD>
+            <GBP><![CDATA[17.99]]></GBP>
         </price>
         <badges>
             <badge label="Made by PrestaShop">
@@ -2779,8 +2787,8 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/784999-pprod/panel-de-control-por-medios-de-pago.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/784999-pbig/panel-de-control-por-medios-de-pago.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/784999-pprod/panel-de-control-por-medios-de-pago.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/784999-pbig/panel-de-control-por-medios-de-pago.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2802,7 +2810,7 @@
         <version><![CDATA[0.0.7]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
@@ -2811,9 +2819,9 @@
         </price>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/812060-pprod/sincronizacion-marketplace-dafiti-de-pedidos-y-stock.jpg]]></small>
+                <![CDATA[http://medias2.prestastore.com/812060-pprod/sincronizacion-marketplace-dafiti-de-pedidos-y-stock.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/812060-pbig/sincronizacion-marketplace-dafiti-de-pedidos-y-stock.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/812060-pbig/sincronizacion-marketplace-dafiti-de-pedidos-y-stock.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2843,8 +2851,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/794929-pprod/currencies-direct.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/794929-pbig/currencies-direct.jpg]]></big>
+            <small><![CDATA[http://medias1.prestastore.com/794929-pprod/currencies-direct.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/794929-pbig/currencies-direct.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2859,18 +2867,18 @@
             <![CDATA[https://addons.prestashop.com/es/inscripcion-proceso-del-pedido/24894-google-address-autocomplete.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/24894.jpg]]></img>
         <description_full>
-            <![CDATA[This module makes it possible to fill, quickly and without any errors, the address field when yours clients are ordering. It automatically suggests the right address, and so improve yours customer&#39;s browsing comfort.&nbsp;An easy way to save time !]]></description_full>
+            <![CDATA[This module makes it possible to fill, quickly and without any errors, the address field when yours clients are ordering. It automatically suggests the right address, and so improve yours customer's browsing comfort. An easy way to save time !]]></description_full>
         <additional_description>
-            <![CDATA[This module uses Google Map&#39;s API for automatically fill your clients adresses when they register.Increase your turnover, reducing errors and delivery problems.Decrease product returns&#39; number.Improve your user&#39;s experience.]]></additional_description>
+            <![CDATA[This module uses Google Map's API for automatically fill your clients adresses when they register.Increase your turnover, reducing errors and delivery problems.Decrease product returns' number.Improve your user's experience.]]></additional_description>
         <tab><![CDATA[checkout]]></tab>
         <version><![CDATA[1.2.5]]></version>
         <compatibility>
             <from><![CDATA[1.5.2.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[29.99]]></EUR>
-            <USD><![CDATA[39.99]]></USD>
+            <USD><![CDATA[34.99]]></USD>
             <GBP><![CDATA[27.99]]></GBP>
         </price>
         <badges>
@@ -2878,8 +2886,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/798639-pprod/google-address-autocomplete.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/798639-pbig/google-address-autocomplete.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/798639-pprod/google-address-autocomplete.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/798639-pbig/google-address-autocomplete.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2900,7 +2908,7 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
@@ -2909,9 +2917,9 @@
         </price>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/800689-pprod/checkout-cielo-transparente-e-integrado.jpg]]></small>
+                <![CDATA[http://medias2.prestastore.com/800689-pprod/checkout-cielo-transparente-e-integrado.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/800689-pbig/checkout-cielo-transparente-e-integrado.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/800689-pbig/checkout-cielo-transparente-e-integrado.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2933,7 +2941,7 @@
         <version><![CDATA[1.1.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.17]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[99.99]]></EUR>
@@ -2941,8 +2949,8 @@
             <GBP><![CDATA[89.99]]></GBP>
         </price>
         <cover>
-            <small><![CDATA[https://medias2.prestastore.com/803735-pprod/club-la-nacion.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/803735-pbig/club-la-nacion.jpg]]></big>
+            <small><![CDATA[http://medias2.prestastore.com/803735-pprod/club-la-nacion.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/803735-pbig/club-la-nacion.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2961,10 +2969,10 @@
         <additional_description>
             <![CDATA[El m&oacute;dulo SEO performance - URL Cleaner elimina autom&aacute;ticamente las ID y las URL de tus p&aacute;ginas de categor&iacute;as, productos y CMS que PrestaShop establece por defecto. Asimismo, crea redirecciones definitivas m&aacute;s cortas y din&aacute;micas para tus nuevas URL, que te permitir&aacute;n aprovechar al m&aacute;ximo el posicionamiento de tu tienda. &nbsp; &nbsp; &bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aumenta la visibilidad de tu tienda en los motores de b&uacute;squeda  Escala puestos en los resultados de b&uacute;squedas mejorando el esquema URL de las p&aacute;ginas de tus productos, categor&iacute;as y CMS. &nbsp; &nbsp; &bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ahorra tiempo &nbsp; &iexcl;Gracias a nuestro m&oacute;dulo, r&aacute;pido, intuitivo y ultrasencillo, podr&aacute;s mejorar tus URL en tan solo unos clics! &nbsp; &nbsp; &bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cambia tus URL con total seguridad &nbsp; Crea copias de seguridad de tus URL antiguas c&oacute;modamente antes de modificar de forma definitiva las URL de tu tienda.  &nbsp;]]></additional_description>
         <tab><![CDATA[seo]]></tab>
-        <version><![CDATA[1.1.0]]></version>
+        <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[59.99]]></EUR>
@@ -2978,8 +2986,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/810412-pprod/seo-performance-limpiador-de-url.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/810412-pbig/seo-performance-limpiador-de-url.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/810412-pprod/seo-performance-limpiador-de-url.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/810412-pbig/seo-performance-limpiador-de-url.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3001,7 +3009,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[59.99]]></EUR>
@@ -3009,8 +3017,8 @@
             <GBP><![CDATA[54.99]]></GBP>
         </price>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/823477-pprod/mundipagg.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/823477-pbig/mundipagg.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/823477-pprod/mundipagg.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/823477-pbig/mundipagg.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3029,14 +3037,14 @@
         <additional_description>
             <![CDATA[El m&oacute;dulo Notificaci&oacute;n Pesta&ntilde;a Navegador te permitir&aacute;: &nbsp;Reducir el n&uacute;mero de carritos abandonados en tu tienda a&ntilde;adiendo directamente una notificaci&oacute;n a la pesta&ntilde;a de su navegador,&nbsp;Aumentar la tasa de conversi&oacute;n de tu tienda sin esfuerzo: el m&oacute;dulo se activa en tu tienda en un solo clic y &iexcl;no modifica el tema, el dise&ntilde;o ni la navegaci&oacute;n de tu sitio web!]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[1.0.5]]></version>
+        <version><![CDATA[1.0.6]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[29.99]]></EUR>
-            <USD><![CDATA[39.99]]></USD>
+            <USD><![CDATA[34.99]]></USD>
             <GBP><![CDATA[27.99]]></GBP>
         </price>
         <badges>
@@ -3047,9 +3055,8 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/824350-pprod/notificacion-pestana-navegador-favicon.jpg]]></small>
-            <big>
-                <![CDATA[https://medias1.prestastore.com/824350-pbig/notificacion-pestana-navegador-favicon.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/824350-pprod/notificacion-pestana-navegador-favicon.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/824350-pbig/notificacion-pestana-navegador-favicon.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3068,7 +3075,7 @@
         <additional_description>
             <![CDATA[Let your customers interact with your products in 3D exactly the same way as in the physical store. With 3D they can look at your product from all sides to see details and gain confidence in their purchase. Such immersive shopping experience is essential for e-commerce and results in higher conversion and lower returns.&nbsp;3D Views are proven to increase engagement and conversion over static images by up to 30%!&nbsp;Cappasity solution is a powerful tool for capturing reflective or sparkling objects and demonstrating the textures of your products to potential customers.]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[1.0.0]]></version>
+        <version><![CDATA[1.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.1]]></from>
             <to><![CDATA[1.6.1.17]]></to>
@@ -3084,20 +3091,20 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/832499-pprod/cappasity-3d-and-360-product-viewer.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/832499-pbig/cappasity-3d-and-360-product-viewer.jpg]]></big>
+                <![CDATA[http://medias1.prestastore.com/832499-pprod/cappasity-3d-and-360-product-viewer.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/832499-pbig/cappasity-3d-and-360-product-viewer.jpg]]></big>
         </cover>
     </module>
     <module>
         <id><![CDATA[26784]]></id>
         <name><![CDATA[todolist]]></name>
         <displayName><![CDATA[Lista de tareas (To Do List in the back office)]]></displayName>
-        <categoryName><![CDATA[Herramientas Administrativas]]></categoryName>
+        <categoryName><![CDATA[Panel de control]]></categoryName>
         <description>
             <![CDATA[&iexcl;Accede a todas tus tareas directamente desde el panel de control de tu tienda!   A partir de ahora, ya no necesitar&aacute;s utilizar varios programas: el m&oacute;dulo To Do List se incluye en]]></description>
         <author><![CDATA[PrestaShop]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/herramientas-administrativas/26784-lista-de-tareas-to-do-list-in-the-back-office.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/panel-de-control/26784-lista-de-tareas-to-do-list-in-the-back-office.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26784.jpg]]></img>
         <description_full>
             <![CDATA[&iexcl;Accede a todas tus tareas directamente desde el panel de control de tu tienda!   A partir de ahora, ya no necesitar&aacute;s utilizar varios programas: el m&oacute;dulo To Do List se incluye en tu back-office y te permite crear, editar, priorizar y clasificar todas tus tareas para ayudarte a ahorrar tiempo cada d&iacute;a.]]></description_full>
@@ -3107,11 +3114,11 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[29.99]]></EUR>
-            <USD><![CDATA[39.99]]></USD>
+            <USD><![CDATA[34.99]]></USD>
             <GBP><![CDATA[27.99]]></GBP>
         </price>
         <badges>
@@ -3120,21 +3127,21 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/838558-pprod/lista-de-tareas-to-do-list-in-the-back-office.jpg]]></small>
+                <![CDATA[http://medias2.prestastore.com/838558-pprod/lista-de-tareas-to-do-list-in-the-back-office.jpg]]></small>
             <big>
-                <![CDATA[https://medias2.prestastore.com/838558-pbig/lista-de-tareas-to-do-list-in-the-back-office.jpg]]></big>
+                <![CDATA[http://medias2.prestastore.com/838558-pbig/lista-de-tareas-to-do-list-in-the-back-office.jpg]]></big>
         </cover>
     </module>
     <module>
         <id><![CDATA[26835]]></id>
         <name><![CDATA[buylater]]></name>
-        <displayName><![CDATA[Buy Later (Guardar para más tarde)]]></displayName>
+        <displayName><![CDATA[Guardar para más tarde (Wishlist Buy Later)]]></displayName>
         <categoryName><![CDATA[Lista de deseos y Tarjeta regalo]]></categoryName>
         <description>
             <![CDATA[A&ntilde;adir en el resumen del carrito una opci&oacute;n &ldquo;Buy Later&rdquo; (guardar un producto para m&aacute;s adelante) es la funcionalidad estrella de los principales sitios web de e-commerc]]></description>
         <author><![CDATA[PrestaShop]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/lista-deseos-tarjeta-regalo/26835-buy-later-guardar-para-mas-tarde.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/lista-deseos-tarjeta-regalo/26835-guardar-para-mas-tarde-wishlist-buy-later.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26835.jpg]]></img>
         <description_full>
             <![CDATA[A&ntilde;adir en el resumen del carrito una opci&oacute;n &ldquo;Buy Later&rdquo; (guardar un producto para m&aacute;s adelante) es la funcionalidad estrella de los principales sitios web de e-commerce y un m&eacute;todo esencial para mejorar tus ventas y tu tasa de conversi&oacute;n.  &nbsp; Con un solo clic (mucho m&aacute;s r&aacute;pido que una lista de deseos), tus clientes podr&aacute;n apartar sus productos favoritos y comprarlos m&aacute;s adelante.]]></description_full>
@@ -3144,7 +3151,7 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.7]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[69.99]]></EUR>
@@ -3158,8 +3165,10 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/839317-pprod/buy-later-guardar-para-mas-tarde.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/839317-pbig/buy-later-guardar-para-mas-tarde.jpg]]></big>
+            <small>
+                <![CDATA[http://medias1.prestastore.com/839317-pprod/guardar-para-mas-tarde-wishlist-buy-later.jpg]]></small>
+            <big>
+                <![CDATA[http://medias3.prestastore.com/839317-pbig/guardar-para-mas-tarde-wishlist-buy-later.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3178,10 +3187,10 @@
         <additional_description>
             <![CDATA[Destaca tus c&oacute;digos promocionales y consigue que tus promociones, rebajas y ventas flash sean todo un &eacute;xito.Casi el 60 % de los internautas abandona el proceso de compra cuando no encuentra ning&uacute;n c&oacute;digo promocional (estudio de Mailorama). Gracias a los banners publicitarios, tus clientes no se perder&aacute;n ninguna de tus promociones y mejorar&aacute; su experiencia de compra en general. &nbsp;Interact&uacute;a con tus visitantes y clientes de una forma m&aacute;s sencilla y eficaz.Los banners son la mejor forma de anunciar a tus clientes el lanzamiento de una nueva colecci&oacute;n, una oferta especial o la proximidad de un evento importante (Navidad, Black Friday, etc.). &nbsp;Dispara tus conversiones y tu cifra de negocio.Al garantizar la m&aacute;xima visibilidad de tus mensajes e incentivos (c&oacute;digo promocional, temporizador con cuenta atr&aacute;s, etc.) con el banner que aparecer&aacute; constantemente en tu sitio web, incitar&aacute;s a tus clientes a finalizar sus compras antes de que termine la promoci&oacute;n en cuesti&oacute;n.]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[1.0.5]]></version>
+        <version><![CDATA[1.0.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
@@ -3195,8 +3204,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/896453-pprod/banner-publicitario.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/896453-pbig/banner-publicitario.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/896453-pprod/banner-publicitario.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/896453-pbig/banner-publicitario.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3218,7 +3227,7 @@
         <version><![CDATA[1.0.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[59.99]]></EUR>
@@ -3230,8 +3239,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/840258-pprod/seo-imagenes-etiquetas-alt.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/840258-pbig/seo-imagenes-etiquetas-alt.jpg]]></big>
+            <small><![CDATA[http://medias3.prestastore.com/840258-pprod/seo-imagenes-etiquetas-alt.jpg]]></small>
+            <big><![CDATA[http://medias1.prestastore.com/840258-pbig/seo-imagenes-etiquetas-alt.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3250,10 +3259,10 @@
         <additional_description>
             <![CDATA[Este m&oacute;dulo te permite cumplir la pol&iacute;tica europea de gesti&oacute;n de cookies e informar a tus clientes habituales y potenciales sobre el uso de cookies en tu sitio web&nbsp;Cuando un visitante entra en tu tienda se abre este banner de advertencia que presenta un dise&ntilde;o adaptable y totalmente personalizable: puedes modificar lo que quieras para adaptarlo a tu tienda, desde el formato al texto.&nbsp;Contar&aacute;s con asesoramiento a la hora de crear y redactar tu pol&iacute;tica de gesti&oacute;n de cookies, que agrupa la informaci&oacute;n m&aacute;s importante sobre el uso de cookies en tu sitio web. Recibir&aacute;s un documento con enlaces &uacute;tiles que te ayudar&aacute;n a elaborar el contenido de esta p&aacute;gina.&nbsp;]]></additional_description>
         <tab><![CDATA[administration]]></tab>
-        <version><![CDATA[1.0.2]]></version>
+        <version><![CDATA[1.0.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[39.99]]></EUR>
@@ -3265,9 +3274,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
-            <small>
-                <![CDATA[https://medias2.prestastore.com/873820-pprod/banner-de-politica-de-cookies-cms.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/873820-pbig/banner-de-politica-de-cookies-cms.jpg]]></big>
+            <small><![CDATA[http://medias2.prestastore.com/873820-pprod/banner-de-politica-de-cookies-cms.jpg]]></small>
+            <big><![CDATA[http://medias3.prestastore.com/873820-pbig/banner-de-politica-de-cookies-cms.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3286,10 +3294,10 @@
         <additional_description>
             <![CDATA[Gracias al m&oacute;dulo Estad&iacute;sticas de producto&nbsp;desarrollado por PrestaShop, dispondr&aacute;s para cada producto y en el periodo que selecciones: &nbsp; Los datos relativos a las ventas y los ingresos generados por el producto:la curva de ventas realizadasla cifra de negocios generadalos ingresos netos generadosel perfil de los compradores por:g&eacute;neroedadpa&iacute;spreferencias de pagopreferencias de entrega&nbsp; La comparaci&oacute;n de los resultados de este producto con otros productos de la misma categor&iacute;a durante el periodo seleccionado, en t&eacute;rminos de:n&uacute;mero de ventascifra de negociostasa de conversi&oacute;nabandonos del carritotasa de reembolso]]></additional_description>
         <tab><![CDATA[analytics_stats]]></tab>
-        <version><![CDATA[1.0.0]]></version>
+        <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.1]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[49.99]]></EUR>
@@ -3302,43 +3310,8 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/880939-pprod/estadisticas-de-productos-esenciales.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/880939-pbig/estadisticas-de-productos-esenciales.jpg]]></big>
-        </cover>
-    </module>
-    <module>
-        <id><![CDATA[27869]]></id>
-        <name><![CDATA[mtarget]]></name>
-        <displayName><![CDATA[MTarget SMS]]></displayName>
-        <categoryName><![CDATA[Newsletter y SMS]]></categoryName>
-        <description>
-            <![CDATA[&iexcl;Usa el poder de los SMS para fidelizar a tus clientes y aumentar tus ventas! &nbsp;El estado del pedido, recordatorios de cestas olvidadas, cumplea&ntilde;os o el env&iacute;o de marketing diri]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/es/newsletter-sms/27869-mtarget-sms.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/27869.jpg]]></img>
-        <description_full>
-            <![CDATA[&iexcl;Usa el poder de los SMS para fidelizar a tus clientes y aumentar tus ventas! &nbsp;El estado del pedido, recordatorios de cestas olvidadas, cumplea&ntilde;os o el env&iacute;o de marketing dirigido, dale un impulso a tu tienda con nuestro paquete de SMS.]]></description_full>
-        <additional_description>
-            <![CDATA[Consolidar sus relaciones con los clientes y aumentar sus ventas con nuestra llave en mano soluci&oacute;n de SMS.&nbsp;Informa a tus clientes en tiempo real de la evoluci&oacute;n de su pedidoRecuerda a tus clientes las cestas de la compra olvidadasComunicar con eficacia todo tipo de eventos (rebajas, ventas privadas ...)Segmenta y sincroniza autom&aacute;ticamente tus contactos en nuestra plataformaRecibe una notificaci&oacute;n por SMS por cada nuevo registro, nuevo pedido o petici&oacute;n de devoluci&oacute;n de productosSigue y analiza los resultados de tus env&iacute;osControla tu presupuesto (sin cuotas mensuales, ni costes ocultos)Servicio de atenci&oacute;n al cliente y soporte en nuestra sede en FranciaPrecio de los m&aacute;s bajos del mercado]]></additional_description>
-        <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[1.0.2]]></version>
-        <compatibility>
-            <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Socio Oficial de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
-        </badges>
-        <cover>
-            <small><![CDATA[https://medias3.prestastore.com/890985-pprod/mtarget-sms.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/890985-pbig/mtarget-sms.jpg]]></big>
+                <![CDATA[http://medias3.prestastore.com/880939-pprod/estadisticas-de-productos-esenciales.jpg]]></small>
+            <big><![CDATA[http://medias2.prestastore.com/880939-pbig/estadisticas-de-productos-esenciales.jpg]]></big>
         </cover>
     </module>
 </modules>
