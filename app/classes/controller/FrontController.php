@@ -425,6 +425,9 @@ class FrontControllerCore extends Controller
             $compared_products = CompareProduct::getCompareProducts($this->context->cookie->id_compare);
         }
 
+        $estudioCategory = Category::getEstudioCategory();
+        $audioVideoCategory = Category::getAudioVideoCategory();
+
         $this->context->smarty->assign(array(
             // Useful for layout.tpl
             'mobile_device'       => $this->context->getMobileDevice(),
@@ -475,10 +478,10 @@ class FrontControllerCore extends Controller
             'currencySign'        => $currency->sign, // backward compat, see global.tpl
             'currencyFormat'      => $currency->format, // backward compat
             'currencyBlank'       => $currency->blank, // backward compat
-            'get_audio_video'           => Category::getAudioVideoCategory(),
-            'get_estudio' => Category::getEstudioCategory(),
-            'link_audio_video' => $link->getEasyCategoryLink(Category::getAudioVideoCategory()),
-            'link_estudio' => $link->getEasyCategoryLink(Category::getEstudioCategory()),
+            'get_audio_video'           => $audioVideoCategory,
+            'get_estudio' => $estudioCategory,
+            'link_audio_video' => $link->getEasyCategoryLink($audioVideoCategory),
+            'link_estudio' => $link->getEasyCategoryLink($estudioCategory),
         ));
 
         // Add the tpl files directory for mobile
