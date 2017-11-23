@@ -16,7 +16,7 @@
         <additional_description>
             <![CDATA[Configuraci&oacute;n gratuita y r&aacute;pidaAcceso a m&aacute;s de 100 soluciones de pago locales con una sola integraci&oacute;n sencillaConexi&oacute;n con m&aacute;s de 30 millones de titulares de cuentas de SkrillLos m&aacute;s altos niveles de seguridad y tecnolog&iacute;a antifraudeExperiencia de pago sin complicaciones para tel&eacute;fono m&oacute;vil, tableta y computadora]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[1.0.32]]></version>
+        <version><![CDATA[1.0.35]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.14]]></from>
             <to><![CDATA[1.6.1.17]]></to>
@@ -53,7 +53,7 @@
         <version><![CDATA[3.11.4]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -113,7 +113,7 @@
         <version><![CDATA[1.1.7]]></version>
         <compatibility>
             <from><![CDATA[1.5.2.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -177,7 +177,7 @@
         <version><![CDATA[1.13.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -238,9 +238,9 @@
         <additional_description>
             <![CDATA[Con SendinBlue, podrá :Sincronizar automáticamente sus contactos en SendinBlue e importar las ventasCrear y enviar hermosos boletinesOptimizar las recepciones en la bandeja de entrega de sus correos electrónicos transaccionales (confirmación de registro, control, etc.)Seguir los resultados de sus envíos en tiempo realDisfrutar de un servicio al cliente por teléfono o correo electrónico Vea nuestro tutorial : https://resources.sendinblue.com/es/plugin-prestashop/]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[2.6.9]]></version>
+        <version><![CDATA[2.7.0]]></version>
         <compatibility>
-            <from><![CDATA[1.4.11.1]]></from>
+            <from><![CDATA[1.4.8.3]]></from>
             <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
@@ -642,7 +642,7 @@
         <version><![CDATA[1.9.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1714,7 +1714,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1742,7 +1742,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1772,7 +1772,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1802,7 +1802,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1832,7 +1832,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1866,7 +1866,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1960,7 +1960,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2082,7 +2082,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2142,7 +2142,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2172,7 +2172,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2232,7 +2232,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2262,7 +2262,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2292,7 +2292,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2322,7 +2322,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2352,7 +2352,7 @@
         <version><![CDATA[1.4.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2382,7 +2382,7 @@
         <version><![CDATA[1.5.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2412,7 +2412,7 @@
         <version><![CDATA[1.6.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2442,7 +2442,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2472,7 +2472,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2502,7 +2502,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2532,7 +2532,7 @@
         <version><![CDATA[1.4.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2562,7 +2562,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2592,7 +2592,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2622,7 +2622,7 @@
         <version><![CDATA[1.5.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2652,7 +2652,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2682,7 +2682,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2712,7 +2712,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2742,7 +2742,7 @@
         <version><![CDATA[1.6.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2772,7 +2772,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2986,7 +2986,7 @@
         <version><![CDATA[2.1.5]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3021,7 +3021,7 @@
         <version><![CDATA[2.1.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3053,10 +3053,10 @@
         <additional_description>
             <![CDATA[Carts Guru te ayudar&aacute; a convertir tus &quot;casi compradores&quot; en ventas.&nbsp;Retargeting multicanal con Correos Electr&oacute;nicos, Facebook Ads, Instagram, SMS y Llamadas Autom&aacute;ticasConvierte m&aacute;s del 20% de tus cestas de compra abandonadasSugerencias autom&aacute;ticas para mejorar siempre tus reglas de campa&ntilde;a&nbsp;Carts Guru es tu soluci&oacute;n integral de retargeting.&nbsp;Pru&eacute;balo gratis durante 14 d&iacute;as. No hace falta tarjeta de cr&eacute;dito.&nbsp;Solo pagas comisi&oacute;n cuando Carts Guru convierte tus carros de compra en ventas.&nbsp;Visita nuestra p&aacute;gina web: https://carts.guru/es/prestashop]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.4.4]]></version>
+        <version><![CDATA[1.4.6]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3158,7 +3158,7 @@
         <version><![CDATA[1.0.8]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3189,7 +3189,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3226,7 +3226,7 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.15]]></to>
+            <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3250,20 +3250,20 @@
         <displayName><![CDATA[CloudSwipe - Secure Hosted Payments]]></displayName>
         <categoryName><![CDATA[Pago con Tarjeta o Carteras digitales]]></categoryName>
         <description>
-            <![CDATA[150+ payment gateways included for free! Securely collect payments with Authorize.net, PayPal, Stripe, etc. on a PCI compliant page that looks exactly like your website]]></description>
+            <![CDATA[The Best Hosted Payment Page - looks EXACTLY like the rest of your site! Connects to 170+ payment gateways including AuthorizeNet, PayPal, and Stripe. No other payment modules needed]]></description>
         <author><![CDATA[PrestaShop Partners]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/26704-cloudswipe-secure-hosted-payments.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26704.jpg]]></img>
         <description_full>
-            <![CDATA[150+ payment gateways included for free! Securely collect payments with Authorize.net, PayPal, Stripe, etc. on a PCI compliant page that looks exactly like your website.]]></description_full>
+            <![CDATA[The Best Hosted Payment Page - looks EXACTLY like the rest of your site! Connects to 170+ payment gateways including AuthorizeNet, PayPal, and Stripe. No other payment modules needed.]]></description_full>
         <additional_description>
             <![CDATA[Security: The most secure way to collect payments onlineSimplicity: The easiest way to make your site PCI compliant.Savings: No need to buy other payment gateway add-ons. 150+ gateways included for free. No SSL required.&nbsp;CloudSwipe skins your hosted payment page with your PrestaShop theme so it looks exactly like the rest of your website.&nbsp;The most customizable, easiest to use, hosted payment page ever.&nbsp;You get:All the security for PCI compliant paymentsA secure payment page that looks exactly like the rest of your websiteSupport for over 150 payment gatewaysHappy customers confident in your securityPeace of mind&nbsp;You do NOT need:To buy a payment gateway module (150+ gateways are already integrated)Your own SSL certificate (payments are secured with SSL)To worry about security (we handle it for you)]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
         <version><![CDATA[1.0.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3286,20 +3286,20 @@
         <displayName><![CDATA[CleverReach® - publicidad por correo para su PrestaShop]]></displayName>
         <categoryName><![CDATA[Newsletter y SMS]]></categoryName>
         <description>
-            <![CDATA[Cree, optimize y env&iacute;e publicidad promocional por correo electr&oacute;nico y campa&ntilde;as por email autom&aacute;ticas a sus clientes de PrestaShop y subscriptores &ndash; CleverReach&reg; ]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
+            <![CDATA[Carglass, TESA, bugatti, DHL und REWE creen y envíen sus newsletters con CleverReach®. Por qué? Es muy facil]]></description>
+        <author><![CDATA[Community developer]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/newsletter-sms/26742-cleverreach-publicidad-por-correo-para-su-prestashop.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26742.jpg]]></img>
         <description_full>
-            <![CDATA[Cree, optimize y env&iacute;e publicidad promocional por correo electr&oacute;nico y campa&ntilde;as por email autom&aacute;ticas a sus clientes de PrestaShop y subscriptores &ndash; CleverReach&reg; es la opci&oacute;n inteligente para hacer publicidad por correo.&nbsp; &nbsp;]]></description_full>
+            <![CDATA[Carglass, TESA, bugatti, DHL und REWE creen y envíen sus newsletters con CleverReach®. Por qué? Es muy facil. Benefíciese con su PrestaShop de nuestro software potente y precios orientados al cliente y sin contrato.    ]]></description_full>
         <additional_description>
-            <![CDATA[Una vez que el m&oacute;dulo ha sido configurado, todos sus &ldquo;datos de PrestaShop&rdquo; ser&aacute;n actualizados y completados autom&aacute;ticamente en la herramienta de boletines de CleverReach&reg; en tiempo real.As&iacute; es como sus clientes reciben contenido personalizado que ellos realmente desean. Esto puede conducir a una explosi&oacute;n de gastos y, por consecuencia, a mayores ganancias, ganancias, ganancias!&nbsp;Descargue e instale ahora el m&oacute;dulo especial desarrollado para PrestaShop para autom&aacute;ticamente sincronizar los datos de su tienda en l&iacute;nea con la herramienta de boletines electr&oacute;nicos de CleverReach&reg;.&nbsp;Cree y env&iacute;e publicidad por correo de manera f&aacute;cil con el editor Drag &amp; DropPlantillas adaptables y gratis para variadas industrias y ocaciones.Analize y optimize su &eacute;xito con facilidadLos mas elevados est&aacute;ndares de seguridad, &ldquo;Hecho en Alemania&rdquo;Soporte al cliente y webinars gratis&nbsp;El plan apropidado para cada uno:Escalas para listas de contactos peque&ntilde;as y grandes: prepago para env&iacute;os ocacionales, tarifa plana para env&iacute;os regulares o gran volumen para los jugadores de grandes ligas.&nbsp;Haga clic ahora en el bot&oacute;n &uml;Descargar&uml; en la esquina superior derecha para descargar el m&oacute;dulo e instalarlo en el backend PrestaShop.&nbsp;Posteriormente, usted puede f&aacute;cil y r&aacute;pidamente conectar su PrestaShop con CleverReach&reg;, sincronizar los datos de su tienda y crear y enviar su primer email.&nbsp;Exclusivo para clientes de PrestaShop:Obtenga un descuento del 10% de su tafifa CleverReach&reg; durante 12 meses! Simplemente entre el c&oacute;digo de cup&oacute;n &quot;prestashop&quot; cuando compre su tarifa CleverReach&reg;.]]></additional_description>
+            <![CDATA[Descargue e instale ahora el módulo especial desarrollado para PrestaShop para automáticamente sincronizar los datos de su tienda en línea con la herramienta de boletines electrónicos de CleverReach®. Una vez que el módulo ha sido configurado, todos sus “datos de PrestaShop” serán actualizados y completados automáticamente en la herramienta de boletines de CleverReach® en tiempo real. Resumen de los datos que son sincronizados:Subscripciones y cancelacionesInformación personal de los destinatarios, como nombre, apellidos, intereses, sexo, edad, fecha de nacimiento, detalles de contactoInformación relacionada con operaciones de compra, como artículos comprados, facturación, frecuencia de compra, carrito de compra promedio, número de orden, número de artículo, nombre del producto, precio, moneda y cantidadDetalles de productos como imagen, texto y precio, materialPorque simplemente simple Así es como sus clientes reciben contenido personalizado que ellos realmente desean. Esto puede conducir a una explosión de ventas y por consecuencia, a mayores ganancias, ganancias, ganancias! Haga clic ahora en el botón ¨Descargar¨ en la esquina superior derecha para descargar el módulo e instalarlo en el backend PrestaShop.  Posteriormente, usted puede fácil y rápidamente conectar su PrestaShop con CleverReach®, sincronizar los datos de su tienda y crear y enviar su primer email. CleverReach® es un proveedor de publicidad por correo electrónico líder mundial en su área, con mas de 160.000 clientes en 152 paises alrededor del mundo y fue fundada en el año 2007 en Alemania y cumple con los mas altos estándares de protección de datos, superando incluso los requisitos legales al respecto. De referencia, tenemos destacados clientes como Spotify, Levi’s, Playboy, DHL, BMW y Amnesty International, entre otros. Exclusivo para clientes de PrestaShop:Obtenga un descuento del 10% de su tarifa CleverReach® durante 12 meses! Simplemente simple: Esta guardado automaticamente cuando crea una cuenta nueva.]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
         <version><![CDATA[1.1.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3323,20 +3323,20 @@
         <displayName><![CDATA[MailChimp for PrestaShop]]></displayName>
         <categoryName><![CDATA[Newsletter y SMS]]></categoryName>
         <description>
-            <![CDATA[Conecta tu tienda, aumenta las ventas M&aacute;s de 15 millones de personas utilizan MailChimp para crear campa&ntilde;as de correo electr&oacute;nico&nbsp;y anuncios dirigidos a hacer crecer su negoc]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
+            <![CDATA[Más de 15 millones de personas utilizan MailChimp para crear campañas de correo electrónico y anuncios a hacer crecer su negocio]]></description>
+        <author><![CDATA[Community developer]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/newsletter-sms/26957-mailchimp-for-prestashop.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26957.jpg]]></img>
         <description_full>
-            <![CDATA[Conecta tu tienda, aumenta las ventas M&aacute;s de 15 millones de personas utilizan MailChimp para crear campa&ntilde;as de correo electr&oacute;nico&nbsp;y anuncios dirigidos a hacer crecer su negocio. Cuando agregas el m&oacute;dulo oficial MailChimp a tu tienda, aumentas la potencia de ambos.]]></description_full>
+            <![CDATA[Más de 15 millones de personas utilizan MailChimp para crear campañas de correo electrónico y anuncios a hacer crecer su negocio. Cuando agregas el módulo oficial MailChimp a tu tienda, aumentas la potencia de ambos.]]></description_full>
         <additional_description>
-            <![CDATA[Consulta informes de campa&ntilde;a detallados: desde la participaci&oacute;n al ROI, para que puedas aumentar las ventas.Sincroniza y segmenta tu lista y a continuaci&oacute;n, env&iacute;a campa&ntilde;as espec&iacute;ficas basadas en aspectos como los productos comprados y el importe gastada en un determinado periodo de tiempo.Crea correos electr&oacute;nicos para los art&iacute;culos olvidados en la cesta, env&iacute;a recomendaciones de productos y mucho m&aacute;s.Realiza un seguimiento y vuelve a captar clientes utilizando automatizaciones pre-integradas al ciclo vital del cliente.Dise&ntilde;a y env&iacute;a mensajes de transacciones personalizados, como notificaciones de env&iacute;o, facturas y m&aacute;s, directamente a trav&eacute;s de MailChimp.]]></additional_description>
+            <![CDATA[Consulta informes de campaña detallados: desde la participación al ROI, para que puedas aumentar las ventas.Sincroniza y segmenta tu lista y a continuación, envía campañas específicas basadas en aspectos como los productos comprados y el importe gastada en un determinado periodo de tiempo.Crea correos electrónicos para los artículos olvidados en la cesta, envía recomendaciones de productos y mucho más.Realiza un seguimiento y vuelve a captar clientes utilizando automatizaciones pre-integradas al ciclo vital del cliente.Diseña y envía mensajes de transacciones personalizados, como notificaciones de envío, facturas y más, directamente a través de MailChimp.]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[1.0.3]]></version>
+        <version><![CDATA[1.0.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.2]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3347,5 +3347,9 @@
             <badge label="Socio Oficial de PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
+        <cover>
+            <small><![CDATA[https://medias3.prestastore.com/873835-pprod/mailchimp-for-prestashop.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/873835-pbig/mailchimp-for-prestashop.jpg]]></big>
+        </cover>
     </module>
 </modules>

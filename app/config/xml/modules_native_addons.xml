@@ -649,9 +649,9 @@
         <additional_description>
             <![CDATA[Con SendinBlue, podrá :Sincronizar automáticamente sus contactos en SendinBlue e importar las ventasCrear y enviar hermosos boletinesOptimizar las recepciones en la bandeja de entrega de sus correos electrónicos transaccionales (confirmación de registro, control, etc.)Seguir los resultados de sus envíos en tiempo realDisfrutar de un servicio al cliente por teléfono o correo electrónico Vea nuestro tutorial : https://resources.sendinblue.com/es/plugin-prestashop/]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[2.6.9]]></version>
+        <version><![CDATA[2.7.0]]></version>
         <compatibility>
-            <from><![CDATA[1.4.11.1]]></from>
+            <from><![CDATA[1.4.8.3]]></from>
             <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
@@ -707,7 +707,7 @@
         <categoryName><![CDATA[Pago con Tarjeta o Carteras digitales]]></categoryName>
         <description>
             <![CDATA[Realex Payment&rsquo;s online payments solution&nbsp;helps over 13,000 businesses sell online and securely processes billions in transactions every year]]></description>
-        <author><![CDATA[Coccinet]]></author>
+        <author><![CDATA[PrestaShop Partners]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/8943-realexredirect.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/8943.jpg]]></img>
@@ -1240,7 +1240,7 @@
         <version><![CDATA[3.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.0]]></from>
-            <to><![CDATA[1.7.0.6]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[89.99]]></EUR>
@@ -3858,15 +3858,15 @@
         <displayName><![CDATA[eWAY Payments Official]]></displayName>
         <categoryName><![CDATA[Pago con Tarjeta o Carteras digitales]]></categoryName>
         <description>
-            <![CDATA[Securely accept credit card payments, as well as PayPal and MasterPass by MasterCard wih eWAY. eWAY is available in Australia, New Zealand, Singapore, Hong Kong and Malaysia]]></description>
+            <![CDATA[eWAY is a leading all-in-one secure payments platform, allowing businesses&nbsp;to accept secure credit card payments from customers around the world]]></description>
         <author><![CDATA[Community developer]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/19828-eway-payments-official.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/19828.jpg]]></img>
         <description_full>
-            <![CDATA[Securely accept credit card payments, as well as PayPal and MasterPass by MasterCard wih eWAY. eWAY is available in Australia, New Zealand, Singapore, Hong Kong and Malaysia.]]></description_full>
+            <![CDATA[eWAY is a leading all-in-one secure payments platform, allowing businesses&nbsp;to accept secure credit card payments from customers around the world. ]]></description_full>
         <additional_description>
-            <![CDATA[Securely accept card payments from your PrestaShop store - customers enter their card details in your store and the data is sent directly to eWAY for processing.Increase checkout completion by offering multiple payment options: credit card, PayPal and MasterPass by MasterCard.Works with eWAY&#39;s anti-fraud technologies to help smash fraud.Test your store out with the eWAY Sandbox]]></additional_description>
+            <![CDATA[Securely accept card payments from your PrestaShop store - customers enter their card details in your store and the data is sent directly to eWAY for processing.Increase checkout completion by offering multiple payment options: credit card, PayPal and MasterPass by MasterCard.Works with eWAY's anti-fraud technologies to help smash fraud.Test your store out with the eWAY Sandbox]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
         <version><![CDATA[3.4.5]]></version>
         <compatibility>
@@ -4603,41 +4603,6 @@
         <cover>
             <small><![CDATA[https://medias1.prestastore.com/882352-pprod/chargeback.jpg]]></small>
             <big><![CDATA[https://medias1.prestastore.com/882352-pbig/chargeback.jpg]]></big>
-        </cover>
-    </module>
-    <module>
-        <id><![CDATA[24181]]></id>
-        <name><![CDATA[themoneytizer]]></name>
-        <displayName><![CDATA[The Moneytizer]]></displayName>
-        <categoryName><![CDATA[Publicidad & Marketing]]></categoryName>
-        <description>
-            <![CDATA[The Moneytizer module will make you generate income monetizing your order confirmation pages and/or integrating ads in your pages]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/es/publicidad-marketing-newsletter-modulos/24181-the-moneytizer.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/24181.jpg]]></img>
-        <description_full>
-            <![CDATA[The Moneytizer module will make you generate income monetizing your order confirmation pages and/or integrating ads in your pages. Place your tags in as little as two mouse clicks and start earning additional income always keeping your clients&nbsp;!]]></description_full>
-        <additional_description>
-            <![CDATA[This module will significantly increase your daily turnover offering your clients exclusive advantages. The Moneytizer is a &laquo;&nbsp;Club des Avantages&nbsp;&raquo; partner. The purpose of this club is to allow clients to benefit from exclusive advantages (e.g. refund of 15 euros for the first order, free delivery, 15% off your next purchases) all year round.&nbsp;Using the module to place our banner &ndash; Moneyback &ndash; on your order confirmation pages, will make you earn 10 euros for each new client signing up for the &laquo;&nbsp;Club des Avantages&nbsp;&raquo;. The order is already placed, you never loose or drive any of your clients away&nbsp;! Following is the process&nbsp;:&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp; Place our banner &ndash; Moneyback &ndash; on your order confirmation pages2.&nbsp;&nbsp;&nbsp;&nbsp; Once the client clicks on the banner, he is redirected to the registration page of the &laquo;&nbsp;Club des Avantages&nbsp;&raquo; shopping portal3.&nbsp;&nbsp;&nbsp;&nbsp; When a client signs up, you earn 10 euros. Correct&nbsp;! 100 registrations, mean indeed 1000 euros revenues derived from that single banner&nbsp;!&nbsp;The &laquo;&nbsp;Club des Avantages&nbsp;&raquo; administers all the member&rsquo;s advantages through its dedicated customer service. What is the role of the e-merchant then&nbsp;? He just has to reap gains derived from registrations.&nbsp;Your site is getting a lot of hits&nbsp;? Just do like the biggest e-merchants and earn revenues placing banners on your pages&nbsp;! You will be paid for each view&nbsp;! The module facilitates the insertion of any kind of ad unit on your website.&nbsp;Our offer is 100% free and without obligation.]]></additional_description>
-        <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.0.0]]></version>
-        <compatibility>
-            <from><![CDATA[1.5.4.1]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Socio Oficial de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
-        </badges>
-        <cover>
-            <small><![CDATA[https://medias3.prestastore.com/779909-pprod/the-moneytizer.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/779909-pbig/the-moneytizer.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -5749,7 +5714,7 @@
         <additional_description>
             <![CDATA[&iquest;Sab&iacute;a que la mayor parte de los usuarios que visitan su tienda online se van sin haber realizado ninguna acci&oacute;n?Optimice su tr&aacute;fico de usuarios con recomendaciones personalizadas de productos de forma completamente autom&aacute;tica e incite a sus clientes a comprar ofreciendo los productos adecuados en el momento adecuado.&nbsp;Sus clientes se lo agradecer&aacute;n con:&nbsp;tasas de conversi&oacute;n hasta 4 veces superioresingresos adicionales de hasta un 20&thinsp;%un aumento en el valor del pedido medio&nbsp;Ponga en marcha la soluci&oacute;n Recolize Plug &amp; Play de forma gratuita.Precios basados en el &eacute;xito: tras 1000 clics gratis al mes en las recomendaciones, solo pagar&aacute; 0,039&thinsp;&euro; por clic.]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.2.0]]></version>
+        <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
             <to><![CDATA[1.7.2.4]]></to>

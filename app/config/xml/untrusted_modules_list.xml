@@ -2,6 +2,7 @@
 <modules_list>
     <modules type="untrusted">
         <module name="blockreinsurance"/>
+        <module name="faktiva_cleanurls"/>
         <module name="posaccessoriesproducts"/>
         <module name="posbestsellers"/>
         <module name="poscountdown"/>
