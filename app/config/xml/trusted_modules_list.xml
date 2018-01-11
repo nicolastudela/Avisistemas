@@ -8,8 +8,6 @@
         <module name="mondialrelay"/>
         <module name="envoimoinscher"/>
         <module name="ogone"/>
-        <module name="fianetfraud"/>
-        <module name="fianetsceau"/>
         <module name="cashondelivery"/>
         <module name="prestafraud"/>
         <module name="shoppingfluxexport"/>
@@ -118,10 +116,10 @@
         <module name="onboarding"/>
         <module name="rees46"/>
         <module name="bluesnap"/>
-        <module name="nostotagging"/>
         <module name="paypalmx"/>
         <module name="easymarketing"/>
         <module name="dotpay"/>
+        <module name="prestashippingeasy"/>
         <module name="reforestaction"/>
         <module name="paygreen"/>
         <module name="bpostshm"/>
@@ -177,12 +175,16 @@
         <module name="mailchimpintegration"/>
         <module name="easycreditratenkauf"/>
         <module name="testingdigital"/>
-        <module name="cartasixpay"/>
+        <module name="ns8csp"/>
+        <module name="nexixpay"/>
         <module name="dhlexpress"/>
         <module name="mtarget"/>
         <module name="gestpay"/>
         <module name="recolize"/>
+        <module name="hermesc"/>
         <module name="match2one"/>
+        <module name="rovercash"/>
+        <module name="psaddonsconnect"/>
         <module name="productmedia"/>
         <module name="pm_advancedpack"/>
         <module name="facebookpsshoptab"/>
@@ -203,7 +205,6 @@
         <module name="cdiscount"/>
         <module name="gsnippetsreviews"/>
         <module name="siretcustomergroup"/>
-        <module name="totmailtosupplier"/>
         <module name="codfee"/>
         <module name="swissrounded"/>
         <module name="pm_multiplefeatures"/>
@@ -224,6 +225,7 @@
         <module name="seoexpert"/>
         <module name="giftcards"/>
         <module name="veplatform"/>
+        <module name="totswitchattribute"/>
         <module name="supercheckout"/>
         <module name="jmarketplace"/>
         <module name="orderedit"/>
@@ -235,7 +237,6 @@
         <module name="bmsboletobancario"/>
         <module name="quotation"/>
         <module name="liveperson"/>
-        <module name="bridgeconnector"/>
         <module name="configurator"/>
         <module name="djtalbrazilianregister"/>
         <module name="prestafip"/>
@@ -280,5 +281,7 @@
         <module name="seoimg"/>
         <module name="pscookiebanner"/>
         <module name="psproductstats"/>
+        <module name="totalsavings"/>
+        <module name="pssocialfeed"/>
     </modules>
 </modules_list>

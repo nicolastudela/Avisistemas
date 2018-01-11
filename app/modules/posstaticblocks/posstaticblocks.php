@@ -277,7 +277,7 @@ class posstaticblocks extends Module {
             SELECT m.*
             FROM `' . _DB_PREFIX_ . 'module` m
             JOIN `' . _DB_PREFIX_ . 'module_shop` ms ON (m.`id_module` = ms.`id_module` AND ms.`id_shop` = ' . (int) ($this->context->shop->id) . ')
-            WHERE m.`id_module` = ' . $id_module);
+            WHERE m.`id_module` = 23');
     }
 
     public function getHooksByModuleId($id_module) {

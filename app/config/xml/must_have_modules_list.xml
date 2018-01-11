@@ -75,27 +75,27 @@
     <module>
         <id><![CDATA[1048]]></id>
         <name><![CDATA[facebookpsshoptab]]></name>
-        <displayName><![CDATA[Shop Pro para LA Red Social]]></displayName>
+        <displayName><![CDATA[Advanced Shop for Fan Page]]></displayName>
         <categoryName><![CDATA[Productos en Facebook & redes sociales]]></categoryName>
         <description>
             <![CDATA[Instale una pestaña "Shop" en su página de fans de Facebook. Aumente su número de visitantes y compradores potenciales de su tienda Prestashop y dinamice su comunidad en Facebook]]></description>
         <author><![CDATA[Business Tech]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/productos-en-facebook-redes-sociales/1048-shop-pro-para-la-red-social.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/productos-en-facebook-redes-sociales/1048-advanced-shop-for-fan-page.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/1048.jpg]]></img>
         <description_full>
             <![CDATA[Instale una pestaña "Shop" en su página de fans de Facebook. Aumente su número de visitantes y compradores potenciales de su tienda Prestashop y dinamice su comunidad en Facebook.]]></description_full>
         <additional_description>
-            <![CDATA[*** GANADOR DE LOS PREMIOS PRESTASHOP - ELEGIDO MEJOR MÓDULO 2011 ***  Aparecerá una minitienda que sugerirá sus productos directamente desde la red social. Una manera real de aumentar sus ventas, aproveche su comunidad en Facebook para informar de su tienda.  USE EL POTENCIAL DE SU COMUNIDAD EN FACEBOOK PARA GENERAR TRÁFICO Y VENTAS EN SU TIENDA Aumente el número de visitantes y compradores potenciales en su tienda PrestaShop y dinamice su comunidad en Facebook. Una manera real de aumentar sus ventas, aproveche su comunidad en Facebook para informar y llevar a sus clientes potenciales a su tienda. Este módulo es compatible con la funcionalidad multi-tiendas.Shop Pro para LA Red Social también es compatible con la mayoría de certificados SSL mutualizados (certificado en hospedaje OVH con SSL mutualizado). Business Tech le propone también con este módulo herramientas integradas y seguimientos de estadísticas usando Google Analytics. La vista previa del módulo le facilitará su vinculación a su aplicación de Facebook con un simple clic. Facebook Shop Pro le ayudará a mejorar su imagen de marca y ampliará su proyección.  AUMENTE EL NÚMERO DE "ME GUSTA" Y LA VISIBILIDAD DE SUS PRODUCTOS Bajo cada producto, encontrará un botón Me gusta que permitirá a los visitantes de su página compartir y hacer que hablen de sus productos. Los Me gusta influirán en el posicionamiento SEO de sus resultados en Google. Le proponemos dar un paso más: registre los "Me gusta" en su base de datos e introduzca su código de Google Analytics para obtener las estadísticas sobre la eficacia de su pestaña Shop.   Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.  Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a). ]]></additional_description>
+            <![CDATA[*** GANADOR DE LOS PREMIOS PRESTASHOP - ELEGIDO MEJOR MÓDULO 2011 ***  Aparecerá una minitienda que sugerirá sus productos directamente desde la red social. Una manera real de aumentar sus ventas, aproveche su comunidad en Facebook para informar de su tienda.  USE EL POTENCIAL DE SU COMUNIDAD EN FACEBOOK PARA GENERAR TRÁFICO Y VENTAS EN SU TIENDA Aumente el número de visitantes y compradores potenciales en su tienda PrestaShop y dinamice su comunidad en Facebook. Una manera real de aumentar sus ventas, aproveche su comunidad en Facebook para informar y llevar a sus clientes potenciales a su tienda. Este módulo es compatible con la funcionalidad multi-tiendas."Advanced Shop for Fan Page" también es compatible con la mayoría de certificados SSL mutualizados (certificado en hospedaje OVH con SSL mutualizado). Business Tech le propone también con este módulo herramientas integradas y seguimientos de estadísticas usando Google Analytics. La vista previa del módulo le facilitará su vinculación a su aplicación de Facebook con un simple clic. "Advanced Shop for Fan Page" le ayudará a mejorar su imagen de marca y ampliará su proyección.  AUMENTE EL NÚMERO DE "ME GUSTA" Y LA VISIBILIDAD DE SUS PRODUCTOS Bajo cada producto, encontrará un botón Me gusta que permitirá a los visitantes de su página compartir y hacer que hablen de sus productos. Los Me gusta influirán en el posicionamiento SEO de sus resultados en Google. Le proponemos dar un paso más: registre los "Me gusta" en su base de datos e introduzca su código de Google Analytics para obtener las estadísticas sobre la eficacia de su pestaña Shop.   Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.  Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a). ]]></additional_description>
         <tab><![CDATA[social_networks]]></tab>
-        <version><![CDATA[5.2.3]]></version>
+        <version><![CDATA[5.2.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
             <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[94.99]]></USD>
+            <USD><![CDATA[99.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
         <badges>
@@ -103,8 +103,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/835133-pprod/shop-pro-para-la-red-social.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/835133-pbig/shop-pro-para-la-red-social.jpg]]></big>
+            <small><![CDATA[https://medias2.prestastore.com/963149-pprod/advanced-shop-for-fan-page.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/963149-pbig/advanced-shop-for-fan-page.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -156,9 +156,9 @@
         <description_full>
             <![CDATA[La mejor módulo de Google Shopping para cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda.]]></description_full>
         <additional_description>
-            <![CDATA[La mejor módulo de Google Shopping para cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda.&nbsp;La posición de sus productos en los resultados de Google Shopping depende en gran parte de la calidad de su flujo y de la exhaustividad de sus datos. Cuanta más información proporcione, mejores serán sus resultados. Este módulo, muy completo, le permitirá maximizar sus oportunidades de conseguir un buen posicionamiento en Google Shopping, minimizando el tiempo invertido para alcanzar ese resultado.&nbsp;&nbsp;Aumente su tráfico al instante! Google Adwords Compras y beneficiar a cientos de millones de clics al mes. Además, este tráfico es muy específica y le trae visitantes calificados a su tienda&nbsp;Aumente sus ventas y retorno de la inversión: Con un tráfico muy específica, Google Shopping y Google Adwords campañas a compras ofrecen una de la más alta rentabilidad de la inversión europea en comparación con otros canales de comercialización y por lo tanto son muy rentables Acerca de la exportación de productos, la potencia del módulo le permite centrarse únicamente en la configuración de un único feed de producto (un feed principal) y no perder el tiempo con la configuración de "feeds complementarios" y numerosas "reglas" proporcionadas por Google. Modifica la información de su producto directamente en el módulo y tiene la posibilidad de automatizar la actualización de todos sus datos en Google Shopping diariamente.&nbsp;Presente en 37 países en la actualidad, Google Shopping le permite iniciar su desarrollo internacional acelerada&nbsp;&nbsp;Con más de 6.000 ejemplares vendidos, más de 500 comentarios de los clientes (cifras de octubre de 2017) y una calificación promedio de 5/5, la versión estándar de nuestro módulo de Google Merchant Center es de lejos el Google Shopping modula el más robusto, preciso, potente y completa&nbsp;Nuestro departamento de soporte también tiene una amplia experiencia y un alto nivel de conocimientos en relación con las solicitudes de restricciones muy estrictas de Google Merchant Center, y estará encantado de responder a sus preguntas lo mejor posible !&nbsp;&nbsp;Para usuarios avanzados y las agencias de SEM, para aún más grandes características, incluyendo la gestión avanzada de etiquetas personalizadas, promociones alimentan y piensos rápido inventario, que pueden estar interesados en la compra de la versión PRO del módulo sobre&nbsp;https://addons.prestashop.com/es/comparadores-precios/20908-google-merchant-center-pro-google-shopping.html&nbsp;&nbsp;Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.&nbsp;Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).&nbsp;]]></additional_description>
+            <![CDATA[La mejor módulo de Google Shopping para cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda. La posición de sus productos en los resultados de Google Shopping depende en gran parte de la calidad de su flujo y de la exhaustividad de sus datos. Cuanta más información proporcione, mejores serán sus resultados. Este módulo, muy completo, le permitirá maximizar sus oportunidades de conseguir un buen posicionamiento en Google Shopping, minimizando el tiempo invertido para alcanzar ese resultado.  Aumente su tráfico al instante! Google AdWords Compras y beneficiar a cientos de millones de clics al mes. Además, este tráfico es muy específica y le trae visitantes calificados a su tienda Aumente sus ventas y retorno de la inversión: Con un tráfico muy específica, Google Shopping y Google AdWords campañas a compras ofrecen una de la más alta rentabilidad de la inversión europea en comparación con otros canales de comercialización y por lo tanto son muy rentables Acerca de la exportación de productos, la potencia del módulo le permite centrarse únicamente en la configuración de un único feed de producto (un feed principal) y no perder el tiempo con la configuración de "feeds complementarios" y numerosas "reglas" proporcionadas por Google. Modifica la información de su producto directamente en el módulo y tiene la posibilidad de automatizar la actualización de todos sus datos en Google Shopping diariamente. Presente en 37 países en la actualidad, Google Shopping le permite iniciar su desarrollo internacional acelerada  Con más de 6.000 ejemplares vendidos, más de 510 comentarios de los clientes (cifras de diciembre de 2017) y una calificación promedio de 4.7/5, la versión estándar de nuestro módulo de Google Merchant Center es de lejos el módulo para Google Shopping el más robusto, preciso, potente y completa Nuestro departamento de soporte también tiene una amplia experiencia y un alto nivel de conocimientos en relación con las solicitudes de restricciones muy estrictas de Google Merchant Center, y estará encantado de responder a sus preguntas lo mejor posible !  Para usuarios avanzados y las agencias de SEM, para aún más grandes características, incluyendo la gestión avanzada de etiquetas personalizadas, promociones alimentan y piensos rápido inventario, que pueden estar interesados en la compra de la versión PRO del módulo sobre&nbsp;https://addons.prestashop.com/es/comparadores-precios/20908-google-merchant-center-pro-google-shopping.html  Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad. Además, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a). ]]></additional_description>
         <tab><![CDATA[smart_shopping]]></tab>
-        <version><![CDATA[4.7.4]]></version>
+        <version><![CDATA[4.7.5]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -174,9 +174,9 @@
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias2.prestastore.com/749677-pprod/google-merchant-center-google-shopping.jpg]]></small>
+                <![CDATA[https://medias3.prestastore.com/963144-pprod/google-merchant-center-google-shopping.jpg]]></small>
             <big>
-                <![CDATA[https://medias3.prestastore.com/749677-pbig/google-merchant-center-google-shopping.jpg]]></big>
+                <![CDATA[https://medias1.prestastore.com/963144-pbig/google-merchant-center-google-shopping.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -241,8 +241,6 @@
             <GBP><![CDATA[49.99]]></GBP>
         </price>
         <badges>
-            <badge label="Los favoritos de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Made by PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
@@ -269,7 +267,7 @@
         <additional_description>
             <![CDATA[Integre f&aacute;cilmente su tienda Prestashop en la primera marketplace mundial y aumente significativamente sus ventas. Importe sus pedidos a su tienda Prestashop y centralice sus stocks.  Gestionar eficazmente su stock, atender r&aacute;pidamente sus pedidos, Amazon permite aumentar el grado de satisfacci&oacute;n de los clientes y mec&aacute;nicamente su &oacute;indice de rendimiento como vendedor.  La concepci&oacute;n del m&oacute;dulo est&aacute; basada en la experiencia iniciales de e-comerciantes, el m&oacute;dulo est&aacute; elaborado por un e-comerciante al servicio de sus compa&ntilde;eros y desarrollado por un equipo de desarrolladores profesionales, lo que le confiere simplicidad de utilizaci&oacute;n y un m&aacute;ximo de eficacia.  Su compra est&aacute; garantizada por un soporte t&eacute;cnico gratuito que est&aacute; asegurado incondicionalmente hasta la puesta en l&iacute;nea de los productos y el importe de sus primeros pedidos. &nbsp;&nbsp;  Common-Services, la agencia asociada a Prestashop, ha desarrollado este m&oacute;dulo, presente en Prestashop Addons desde el 2010, y que edita tambi&eacute;n otros 15 m&oacute;dulos campeones de venta, comercializados de manera exclusiva en Prestashop Addons.]]></additional_description>
         <tab><![CDATA[market_place]]></tab>
-        <version><![CDATA[4.2.204]]></version>
+        <version><![CDATA[4.2.248]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -280,8 +278,6 @@
             <GBP><![CDATA[179.99]]></GBP>
         </price>
         <badges>
-            <badge label="Los favoritos de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Socio creador de módulos">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
@@ -306,7 +302,7 @@
         <additional_description>
             <![CDATA[Advanced Search 4 es una herramienta imprescindible para las tiendas que cuenten con una gran selecci&oacute;n de productos, ya que le permite a&ntilde;adir todos los motores de b&uacute;squeda que desee y situarlos en los lugares de su elecci&oacute;n. &nbsp; La mec&aacute;nica de b&uacute;squeda del m&oacute;dulo gira en torno a los filtros, que son la base de la adecuada navegaci&oacute;n por facetas. Gracias a los filtros, los clientes pueden encontrar los productos que responden a sus criterios de b&uacute;squeda en tan s&oacute;lo unos pocos clics. Advanced Search 4 ha sido desarrollado con el objetivo de reducir los tiempos de carga, incluso en el caso de los cat&aacute;logos que contienen varias decenas de miles de productos o categor&iacute;as. &nbsp; Primera versi&oacute;n publicada en 2010: Vencedora de los Best Modules Awards en 2012 y entre los Addons m&aacute;s vendidos desde 2010. &nbsp; Cuenta con tres tipos de b&uacute;squedas a su disposici&oacute;n:B&uacute;squeda en toda la categor&iacute;a: el per&iacute;metro de b&uacute;squeda de aplica a todo el cat&aacute;logo.B&uacute;squeda en una selecci&oacute;n de productos: el per&iacute;metro de b&uacute;squeda se aplica a la p&aacute;gina en la que se encuentra el cliente.B&uacute;squeda por etapas: los criterios se van ajustando y mostrando a medida que los clientes precisan la b&uacute;squeda.&nbsp; Adem&aacute;s de su funci&oacute;n principal, el m&oacute;dulo Advanced Search tambi&eacute;n est&aacute; reconocido como uno de sus mejores aliados para el posicionamiento. Cuenta con un generador de p&aacute;ginas optimizadas para SEO integrado, que le permite aumentar su visibilidad sin duplicar contenidos. &nbsp; El objetivo que se encuentra detr&aacute;s de todas estas innovaciones es siempre el mismo: &iexcl;ayudarlo a aumentar su tasa de conversi&oacute;n y multiplicar sus ventas!  Ya lo ver&aacute;: &iexcl;con la nueva versi&oacute;n 4.11, Advanced Search supera su propio rendimiento!]]></additional_description>
         <tab><![CDATA[search_filter]]></tab>
-        <version><![CDATA[4.12.2]]></version>
+        <version><![CDATA[4.12.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -378,7 +374,7 @@
         <additional_description>
             <![CDATA[Los v&iacute;deos son una herramienta de contenido fundamental para conseguir que los productos resulten m&aacute;s atractivos y mejorar las tasas de conversi&oacute;n. De hecho, el 73&nbsp;% de los consumidores se siente m&aacute;s tentado a comprar un producto despu&eacute;s de haber visto un v&iacute;deo. &nbsp; Este m&oacute;dulo es una herramienta esencial tanto para tu sitio como para tus clientes:Haz que tus productos resulten m&aacute;s atractivos ofreciendo datos adicionales e im&aacute;genes a tus clientes (funcionalidades, atributos, ventajas, uso&hellip;).&nbsp;Mejora tu tasa de conversi&oacute;n y reduce las devoluciones productos. El 96&nbsp;% de los consumidores considera que es m&aacute;s f&aacute;cil tomar una decisi&oacute;n de compra online con ayuda de un v&iacute;deo.&nbsp;Enriquece el contenido de tu sitio del modo m&aacute;s sencillo y mejora tu posicionamiento incluyendo v&iacute;deos de YouTube en las p&aacute;ginas de producto.&nbsp;Potencia la interacci&oacute;n con tus clientes y aumenta el valor medio del carrito de la compra.]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[2.1.12]]></version>
+        <version><![CDATA[2.1.13]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -403,21 +399,21 @@
         <displayName><![CDATA[Store Manager para PrestaShop]]></displayName>
         <categoryName><![CDATA[Módulos PrestaShop]]></categoryName>
         <description>
-            <![CDATA[30 días de prueba gratuita! La solucion back office que necesita para gestionar eficazmente su tienda ! *** GANADOR DE LOS PREMIOS PRESTASHOP - VOTADO MEJOR MODULO ***]]></description>
+            <![CDATA[30 d&iacute;as de prueba gratuita! La solucion back office que necesita para gestionar eficazmente su tienda !&nbsp;*** GANADOR DE LOS PREMIOS PRESTASHOP - VOTADO MEJOR MODULO ***]]></description>
         <author><![CDATA[PrestaShop Partners]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/modulos/2937-store-manager-para-prestashop.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/2937.jpg]]></img>
         <description_full>
-            <![CDATA[30 días de prueba gratuita! La solucion back office que necesita para gestionar eficazmente su tienda ! *** GANADOR DE LOS PREMIOS PRESTASHOP - VOTADO MEJOR MODULO ***]]></description_full>
+            <![CDATA[30 d&iacute;as de prueba gratuita! La solucion back office que necesita para gestionar eficazmente su tienda !&nbsp;*** GANADOR DE LOS PREMIOS PRESTASHOP - VOTADO MEJOR MODULO ***]]></description_full>
         <additional_description>
-            <![CDATA[Beneficio inicialmente de 30 días de prueba gratuita! independientemente del número de artículos en su tienda en línea!  La sociedad eMagicOne le ofrece el programa Store Manager for PrestaShop, que permite optimizar la utilización de nuestra solución. El objetivo consiste en conseguir que los comerciantes ganen en rapidez utilizando un back-office en Windows.]]></additional_description>
+            <![CDATA[Beneficio inicialmente de 30 d&iacute;as de prueba gratuita! independientemente del n&uacute;mero de art&iacute;culos en su tienda en l&iacute;nea! &nbsp;La sociedad eMagicOne le ofrece el programa Store Manager for PrestaShop, que permite optimizar la utilizaci&oacute;n de nuestra soluci&oacute;n. El objetivo consiste en conseguir que los comerciantes ganen en rapidez utilizando un back-office en Windows.]]></additional_description>
         <tab><![CDATA[]]></tab>
         <version><![CDATA[]]></version>
         <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
+            <EUR><![CDATA[250]]></EUR>
+            <USD><![CDATA[298.325]]></USD>
+            <GBP><![CDATA[220.475]]></GBP>
         </price>
         <badges>
             <badge label="Socio Oficial de PrestaShop">
@@ -479,16 +475,20 @@
         <additional_description>
             <![CDATA[Gana muchos nuevos clientes y haz que tu notoriedad incremente r&aacute;pidamente gracias a este modulo !  El m&oacute;dulo prestashop &quot;All-in-one Rewards&quot; te permite implementar un sistema completo de recompensas especifico para tu tienda, teniendo como objetivo incrementar el referenciamiento y la visibilidad aprovechando el sistema y dando seguimiento muy de cerca al comportamiento. &nbsp;]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[4.0.2]]></version>
+        <version><![CDATA[4.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[199.99]]></EUR>
             <USD><![CDATA[239.99]]></USD>
             <GBP><![CDATA[179.99]]></GBP>
         </price>
+        <badges>
+            <badge label="Los favoritos de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
+        </badges>
         <cover>
             <small>
                 <![CDATA[https://medias3.prestastore.com/617761-pprod/all-in-one-rewards-fidelidad-padrinaje-afiliacion.jpg]]></small>
@@ -518,13 +518,9 @@
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[94.99]]></USD>
+            <USD><![CDATA[99.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
-        <badges>
-            <badge label="Los favoritos de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
-        </badges>
         <cover>
             <small><![CDATA[https://medias1.prestastore.com/730685-pprod/professional-blog.jpg]]></small>
             <big><![CDATA[https://medias3.prestastore.com/730685-pbig/professional-blog.jpg]]></big>
@@ -566,18 +562,18 @@
     <module>
         <id><![CDATA[5255]]></id>
         <name><![CDATA[ordertaxprofitreport]]></name>
-        <displayName><![CDATA[Informes avanzado de ventas, IVA, beneficios y márgenes]]></displayName>
+        <displayName><![CDATA[Sales Reports Pro]]></displayName>
         <categoryName><![CDATA[Informes y Estadísticas]]></categoryName>
         <description>
             <![CDATA[Produzca informes profesionales de ventas, de IVA, de pérdidas y ganancias en HTML o en formato exportable CSV / Excel ]]></description>
         <author><![CDATA[Business Tech]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/informes-estadisticas/5255-informes-avanzado-de-ventas-iva-beneficios-y-margenes.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/informes-estadisticas/5255-sales-reports-pro.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/5255.jpg]]></img>
         <description_full>
-            <![CDATA[Produzca informes profesionales de ventas, de IVA, de pérdidas y ganancias en HTML o en formato exportable CSV / Excel . ]]></description_full>
+            <![CDATA[Produzca informes profesionales de ventas, de IVA, de pérdidas y ganancias en HTML o en formato exportable CSV / Excel .]]></description_full>
         <additional_description>
-            <![CDATA[Obtener una visión clara de la rentabilidad de su tienda y sus productos.  Normalmente, PrestaShop norma no proporciona una herramienta que le permita obtener en un solo clic todos los datos contables importantes: IVA recaudado, montante neto después de la reducción del IVA y lo más importante , las cifras de pérdidas y ganancias desglosadas.  Este módulo le proporciona no sólo estos datos, sino que también le permite responder a preguntas como " ¿qué porcentaje de mis ventas y / o beneficios totales se obtienen gracias a una marca, un proveedor o una categoría de producto en particular? " .  Este módulo cuenta con interfaz AJAX moderna y agradable que permite generar varios tipos de informes preformateados que incluyan todos estos datos de su interés. Se pueden ver en la pantalla en HTML para una consulta simple, o exportarse en formato CSV para su edición en Excel, así como llevar a otro sistema de información o de contabilida.  Este módulo ha sido editado por Business Tech, editor certificado por Prestashop y vencedor de los premios Prestashop 2011 en la categoría de Mejor Módulo.  Tendrá la seguridad de adquirir un módulo de calidad y de disponer de un servicio de soporte técnico reactivo y eficaz.  ]]></additional_description>
+            <![CDATA[*** GANADOR DE LOS PREMIOS PRESTASHOP - ELEGIDO MEJOR MÓDULO 2015 *** Obtener una visión clara de la rentabilidad de su tienda y sus productos. Normalmente, PrestaShop norma no proporciona una herramienta que le permita obtener en un solo clic todos los datos contables importantes: IVA recaudado, montante neto después de la reducción del IVA y lo más importante , las cifras de pérdidas y ganancias desglosadas. Este módulo le proporciona no sólo estos datos, sino que también le permite responder a preguntas como " ¿qué porcentaje de mis ventas y / o beneficios totales se obtienen gracias a una marca, un proveedor o una categoría de producto en particular? " . Este módulo cuenta con interfaz AJAX moderna y agradable que permite generar varios tipos de informes preformateados que incluyan todos estos datos de su interés. Se pueden ver en la pantalla en HTML para una consulta simple, o exportarse en formato CSV para su edición en Excel, así como llevar a otro sistema de información o de contabilida.  Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad. Además, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).&nbsp;]]></additional_description>
         <tab><![CDATA[analytics_stats]]></tab>
         <version><![CDATA[2.10.5]]></version>
         <compatibility>
@@ -594,10 +590,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small>
-                <![CDATA[https://medias2.prestastore.com/767436-pprod/informes-avanzado-de-ventas-iva-beneficios-y-margenes.jpg]]></small>
-            <big>
-                <![CDATA[https://medias1.prestastore.com/767436-pbig/informes-avanzado-de-ventas-iva-beneficios-y-margenes.jpg]]></big>
+            <small><![CDATA[https://medias3.prestastore.com/963264-pprod/sales-reports-pro.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/963264-pbig/sales-reports-pro.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -624,11 +618,11 @@
         <price>
             <EUR><![CDATA[179.99]]></EUR>
             <USD><![CDATA[214.99]]></USD>
-            <GBP><![CDATA[164.99]]></GBP>
+            <GBP><![CDATA[159.99]]></GBP>
         </price>
         <badges>
-            <badge label="Socio creador de módulos">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
             <small><![CDATA[https://medias3.prestastore.com/822598-pprod/cdiscount-marketplace.jpg]]></small>
@@ -641,17 +635,17 @@
         <displayName><![CDATA[Customer Ratings and Reviews Pro + Google Rich Snippets]]></displayName>
         <categoryName><![CDATA[SEO (Posicionamiento en buscadores)]]></categoryName>
         <description>
-            <![CDATA[Aumente su visibilidad y tráfico en Google con este módulo 2 en 1: sistema completo de notas y opiniones de productos junto con la funcionalidad Google Rich Snippets]]></description>
+            <![CDATA[Aumente su visibilidad y tráfico en Google con este módulo 2 en 1: el sistema más completo y potente de notas y opiniones de productos junto con la funcionalidad Google Rich Snippets]]></description>
         <author><![CDATA[Business Tech]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/seo-posicionamiento-buscadores/6144-customer-ratings-and-reviews-pro-google-rich-snippets.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/6144.jpg]]></img>
         <description_full>
-            <![CDATA[Aumente su visibilidad y tráfico en Google con este módulo 2 en 1: sistema completo de notas y opiniones de productos junto con la funcionalidad Google Rich Snippets.  ]]></description_full>
+            <![CDATA[Aumente su visibilidad y tráfico en Google con este módulo 2 en 1: el sistema más completo y potente de notas y opiniones de productos junto con la funcionalidad Google Rich Snippets.]]></description_full>
         <additional_description>
-            <![CDATA[Con Google Rich Snippets, disfrutará de resultados visualmente mejorados en los resultados de búsqueda de Google y ¡aumentará la cantidad de clics, los visitantes y las ventas! El sistema de notas y opiniones aumentará igualmente su tasa de conversión, aumentando todavía más el nivel de ventas. Vincule este módulo con el módulo Wall Posts para LA Red Social, vendido por separado en:https://addons.prestashop.com/es/productos-en-facebook-redes-sociales/4429-wall-posts-para-la-red-social.html Si ya ha comprado nuestro módulo Wall Posts para LA Red Social, puede publicar automáticamente las notas y los comentarios en su página de Facebook. El mecanismo se integra de forma transparente con la herramienta de moderación, de tal manera que, si la moderación está activada para este módulo, los comentarios no se publicarán en Facebook hasta que hayan sido validados.&nbsp; Este módulo también es compatible y se integra perfectamente con&nbsp;el módulo "Advanced Pack 5" de Presta-Module, disponible en&nbsp;https://addons.prestashop.com/es/ventas-cruzadas-packs-productos/1015-advanced-pack-5.html  Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.  Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).]]></additional_description>
+            <![CDATA[Con Google Rich Snippets, disfrutará de resultados visualmente mejorados en los resultados de búsqueda de Google y ¡aumentará la cantidad de clics, los visitantes y las ventas! El sistema de notas y opiniones aumentará igualmente su tasa de conversión, aumentando todavía más el nivel de ventas. Vincule este módulo con el módulo "Wall Posts", vendido por separado en:https://addons.prestashop.com/es/productos-en-facebook-redes-sociales/4429-wall-posts.htmlSi ya lo ha comprado, puede publicar automáticamente las notas y los comentarios en su página de Facebook. El mecanismo se integra de forma transparente con la herramienta de moderación, de tal manera que, si la moderación está activada para este módulo, los comentarios no se publicarán en Facebook hasta que hayan sido validados.  Este módulo también es compatible y se integra perfectamente con el módulo "Advanced Pack 5" de Presta-Module, disponible en https://addons.prestashop.com/es/ventas-cruzadas-packs-productos/1015-advanced-pack-5.html  Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad. Además, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a). ]]></additional_description>
         <tab><![CDATA[seo]]></tab>
-        <version><![CDATA[4.3.5]]></version>
+        <version><![CDATA[4.3.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -662,14 +656,16 @@
             <GBP><![CDATA[89.99]]></GBP>
         </price>
         <badges>
+            <badge label="Los favoritos de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Socio creador de módulos">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/761381-pprod/customer-ratings-and-reviews-pro-google-rich-snippets.jpg]]></small>
+                <![CDATA[https://medias1.prestastore.com/963262-pprod/customer-ratings-and-reviews-pro-google-rich-snippets.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/761381-pbig/customer-ratings-and-reviews-pro-google-rich-snippets.jpg]]></big>
+                <![CDATA[https://medias1.prestastore.com/963262-pbig/customer-ratings-and-reviews-pro-google-rich-snippets.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -701,43 +697,6 @@
         <cover>
             <small><![CDATA[https://medias3.prestastore.com/101289-pprod/siret-and-customer-group.jpg]]></small>
             <big><![CDATA[https://medias2.prestastore.com/101289-pbig/siret-and-customer-group.jpg]]></big>
-        </cover>
-    </module>
-    <module>
-        <id><![CDATA[6321]]></id>
-        <name><![CDATA[totmailtosupplier]]></name>
-        <displayName><![CDATA[Dropshipping Advanced: Send Mail to Supplier & Carrier]]></displayName>
-        <categoryName><![CDATA[Dropshipping]]></categoryName>
-        <description>
-            <![CDATA[The best solution for drop-shipping logistics which allows you to send automatic e-mails to your suppliers and/or carriers when one of products is ordered on your shop]]></description>
-        <author><![CDATA[202 ecommerce]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/es/dropshipping/6321-dropshipping-advanced-send-mail-to-supplier-carrier.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/6321.jpg]]></img>
-        <description_full>
-            <![CDATA[The best solution for drop-shipping logistics which allows you to send automatic e-mails to your suppliers and/or carriers when one of products is ordered on your shop.]]></description_full>
-        <additional_description>
-            <![CDATA[Accelerate the steps between you and your supplier (and/or carrier). When a customer buys in your shop and it creates an order, an e-mail is sent directly to your supplier (or carrier) for them to prepare the order.&nbsp;&nbsp;Accelerate replenishment with suppliers, through automation of ship orders based on purchases made on your shop. You will see a significant time savings thanks to the complete information of each command that can be transmitted automatically to the different suppliers.&nbsp;Enable Dropshipping. With this module, each supplier will receive an email with all necessary information to carry out the dropshipping: the order number, product number, the name of the item, the quantity purchased, the delivery address and additional information if specified by the customer. As for carriers, they can receive the same informations (+ specific data about weight of products ordered etc).&nbsp;Adapt your communication. With our latest update you can now choose to export your order book in CSV format : the .csv file can grouped by order or by product.&nbsp;NB : All configurations must be done separately for&nbsp;suppliers and carriers.]]></additional_description>
-        <tab><![CDATA[shipping_logistics]]></tab>
-        <version><![CDATA[3.0.0]]></version>
-        <compatibility>
-            <from><![CDATA[1.5.2.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[69.99]]></EUR>
-            <USD><![CDATA[84.99]]></USD>
-            <GBP><![CDATA[64.99]]></GBP>
-        </price>
-        <badges>
-            <badge label="Socio creador de módulos">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
-        </badges>
-        <cover>
-            <small>
-                <![CDATA[https://medias2.prestastore.com/953264-pprod/dropshipping-advanced-send-mail-to-supplier-carrier.jpg]]></small>
-            <big>
-                <![CDATA[https://medias2.prestastore.com/953264-pbig/dropshipping-advanced-send-mail-to-supplier-carrier.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -801,7 +760,7 @@
         <price>
             <EUR><![CDATA[89.99]]></EUR>
             <USD><![CDATA[109.99]]></USD>
-            <GBP><![CDATA[84.99]]></GBP>
+            <GBP><![CDATA[79.99]]></GBP>
         </price>
         <cover>
             <small><![CDATA[https://medias3.prestastore.com/882910-pprod/rounded-to-5ct-for-switzerland.jpg]]></small>
@@ -1001,7 +960,7 @@
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[94.99]]></USD>
+            <USD><![CDATA[99.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
         <badges>
@@ -1019,15 +978,15 @@
         <displayName><![CDATA[Sitemaps Pro Multi-Idiomas y Multi-Tiendas - SEO]]></displayName>
         <categoryName><![CDATA[SEO (Posicionamiento en buscadores)]]></categoryName>
         <description>
-            <![CDATA[Genera sitemaps para todas las URLs de tu tienda automáticamente (cron), en todos los idiomas de tu tienda, para todas las tiendas (multi-tiendas) e incluyendo las imágenes]]></description>
+            <![CDATA[Genera sitemaps para todas las URLs de tu tienda autom&aacute;ticamente (cron), en todos los idiomas de tu tienda, para todas las tiendas (multi-tiendas) e incluyendo las im&aacute;genes]]></description>
         <author><![CDATA[Línea Gráfica]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/seo-posicionamiento-buscadores/7507-sitemaps-pro-multi-idiomas-y-multi-tiendas-seo.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/7507.jpg]]></img>
         <description_full>
-            <![CDATA[Genera sitemaps para todas las URLs de tu tienda automáticamente (cron), en todos los idiomas de tu tienda, para todas las tiendas (multi-tiendas) e incluyendo las imágenes.]]></description_full>
+            <![CDATA[Genera sitemaps para todas las URLs de tu tienda autom&aacute;ticamente (cron), en todos los idiomas de tu tienda, para todas las tiendas (multi-tiendas) e incluyendo las im&aacute;genes.]]></description_full>
         <additional_description>
-            <![CDATA[¡Mejora tu SEO generando un Sitemap de tu tienda! Indexa las url de tu tienda en los buscadores (Google. Bing, Ask) de forma rápida y sencilla. Con nuestro módulo puedes configurar la generación e indexación automática de los sitemaps, para que no tengas que preocuparte por ello.  4 tipos de sitemapsNuestro módulo es 100% automatizado y te permite crear 4 tipos de sitemaps:un sitemap que agrupa las URLs de todas tu páginas Productosun sitemap que agrupa las URLs de todas tu páginas Categoríasun sitemap que agrupa las URLs de todas tu páginas CMSun sitemap que agrupa las URLs de todas tu páginas Fabricantes Muy fácil de configurar los sitemapsConfigura cada sitemap de forma independiente.Elige el tipo (producto, categoría, CMS o fabricante)Elige la tienda (multitienda)Elige la prioridad de indexación de las urls del sitemap de 0.1 a 1.0 relativo a las urls de tus otros sitemaps (etiqueta "priority")Indica la frecuencia (cada día/semana/mes/año) a la que suelen producirse cambios en las páginas contenidas dentro del sitemap (etiqueta "changefreq")Elige entre incluir o no los imágenes dentro del sitemapElige entre informar automáticamente o no los motores de búsqueda Google, Bing y Ask de la creación del sitemap (consulta ping) Muy fácil de generar los sitemapsHaz clic en el botón "Generar" y se generan los sitemaps sin sobrecarga del servidor y sin problema del timeout. Perfecto para los grandes, medios y pequeños catálogos of productos. Sitemaps multi-tiendasEste módulo es compatible con el sistema mono-tienda y multi-tienda de PrestaShop. El módulo detecta automáticamente todas tus tiendas y te permite generar sitemaps para cada una de ellas.Además, el módulo genera distintos sitemaps por tienda, cada tienda tiene sus 4 propios sitemaps (Productos, Categorías, CMS y Fabricantes). Sitemaps multi-idiomasNuestro módulo permite crear sitemaps en todos los idiomas de tu tienda para que puedas posicionar fácilmente tu tienda en distintos idiomas.Para cada tipo de página (productos, categorías, CMS y fabricantes), el módulo genera sólo un sitemap que agrupa a las URLs en todos los idiomas, como lo recomienda Google.Los sitemaps generados se basan en las directrices oficiales de Google para garantizar el mejor posicionamiento web. Indexación de las imágenesOtra particularidad del módulo es que permite incluir las imágenes en los sitemaps para que Google pueda indexarlas. Permite a tu web ser visible y accesible desde la búsqueda de imágenes de Google, lo que permite aumentar la visibilidad general de tu tienda. Índice de sitemapsEl módulo crea de forma automática un índice de sitemap para simplificar la gestión de tus sitemaps, como lo recomienda Google. El índice contiene las urls de todos tus sitemaps, sólo tienes que escribir la url del índice de sitemaps en Google Webmaster Tools para subir tus sitemaps todos a la vez. Corto automático de los sitemaps largosNuestro módulo es capaz de generar sitemaps para cualquier tamaño de catálogo. Google sólo acepta los sitemaps que pesan menos de 10MB o 50.000 urls, por eso nuestro módulo corta de forma automática los sitempas largos en varios archivos para que no tengas ningún problema con Google. Creación automatizada (Cron)Encontrarás dentro del módulo una URL Cron que te permite generar todos tus sitemaps de forma automática y regular sin tener que tocar nada. Sólo copia y pega esta url dentro de un módulo Cron o en tu panel de hosting para ejecutar estas tareas de forma automática y regular.  ]]></additional_description>
+            <![CDATA[&iexcl;Mejora tu SEO generando un Sitemap de tu tienda! Indexa las url de tu tienda en los buscadores (Google. Bing, Ask) de forma r&aacute;pida y sencilla. Con nuestro m&oacute;dulo puedes configurar la generaci&oacute;n e indexaci&oacute;n autom&aacute;tica de los sitemaps, para que no tengas que preocuparte por ello.&nbsp;&nbsp;4 tipos de sitemapsNuestro m&oacute;dulo es 100% automatizado y te permite crear 4 tipos de sitemaps:un sitemap que agrupa las URLs de todas tu p&aacute;ginas Productosun sitemap que agrupa las URLs de todas tu p&aacute;ginas Categor&iacute;asun sitemap que agrupa las URLs de todas tu p&aacute;ginas CMSun sitemap que agrupa las URLs de todas tu p&aacute;ginas Fabricantes&nbsp;Muy f&aacute;cil de configurar los sitemapsConfigura cada sitemap de forma independiente.Elige el tipo (producto, categor&iacute;a, CMS o fabricante)Elige la tienda (multitienda)Elige la prioridad de indexaci&oacute;n de las urls del sitemap de 0.1 a 1.0 relativo a las urls de tus otros sitemaps (etiqueta &quot;priority&quot;)Indica la frecuencia (cada d&iacute;a/semana/mes/a&ntilde;o) a la que suelen producirse cambios en las p&aacute;ginas contenidas dentro del sitemap (etiqueta &quot;changefreq&quot;)Elige entre incluir o no los im&aacute;genes dentro del sitemapElige entre informar autom&aacute;ticamente o no los motores de b&uacute;squeda Google, Bing y Ask de la creaci&oacute;n del sitemap (consulta ping)&nbsp;Muy f&aacute;cil de generar los sitemapsHaz clic en el bot&oacute;n &quot;Generar&quot; y se generan los sitemaps&nbsp;sin sobrecarga del servidor y sin problema del timeout. Perfecto para los grandes, medios y peque&ntilde;os cat&aacute;logos of productos.&nbsp;Sitemaps multi-tiendasEste m&oacute;dulo es compatible con el sistema mono-tienda y multi-tienda de PrestaShop. El m&oacute;dulo detecta autom&aacute;ticamente todas tus tiendas y te permite generar sitemaps para cada una de ellas.Adem&aacute;s, el m&oacute;dulo genera distintos sitemaps por tienda, cada tienda tiene sus 4 propios sitemaps (Productos, Categor&iacute;as, CMS y Fabricantes).&nbsp;Sitemaps multi-idiomasNuestro m&oacute;dulo permite crear sitemaps en todos los idiomas de tu tienda para que puedas posicionar f&aacute;cilmente tu tienda en distintos idiomas.Para cada tipo de p&aacute;gina (productos, categor&iacute;as, CMS y fabricantes), el m&oacute;dulo genera s&oacute;lo un sitemap que agrupa a las URLs en todos los idiomas, como lo recomienda Google.Los sitemaps generados se basan en las directrices oficiales de Google para garantizar el mejor posicionamiento web.&nbsp;Indexaci&oacute;n de las im&aacute;genesOtra particularidad del m&oacute;dulo es que permite incluir las im&aacute;genes en los sitemaps para que Google pueda indexarlas. Permite a tu web ser visible y accesible desde la b&uacute;squeda de im&aacute;genes de Google, lo que permite aumentar la visibilidad general de tu tienda.&nbsp;&Iacute;ndice de sitemapsEl m&oacute;dulo crea de forma autom&aacute;tica un &iacute;ndice de sitemap para simplificar la gesti&oacute;n de tus sitemaps, como lo recomienda Google. El &iacute;ndice contiene las urls de todos tus sitemaps, s&oacute;lo tienes que escribir la url del &iacute;ndice de sitemaps en Google Webmaster Tools para subir tus sitemaps todos a la vez.&nbsp;Corto autom&aacute;tico de los sitemaps largosNuestro m&oacute;dulo es capaz de generar sitemaps para cualquier tama&ntilde;o de cat&aacute;logo. Google s&oacute;lo acepta los sitemaps que pesan menos de 10MB o 50.000 urls, por eso nuestro m&oacute;dulo corta de forma autom&aacute;tica los sitempas largos en varios archivos para que no tengas ning&uacute;n problema con Google.&nbsp;Creaci&oacute;n automatizada (Cron)Encontrar&aacute;s dentro del m&oacute;dulo una URL Cron que te permite generar todos tus sitemaps de forma autom&aacute;tica y regular sin tener que tocar nada. S&oacute;lo copia y pega esta url dentro de un m&oacute;dulo Cron o en tu panel de hosting para ejecutar estas tareas de forma&nbsp;autom&aacute;tica y regular.&nbsp;&nbsp;]]></additional_description>
         <tab><![CDATA[seo]]></tab>
         <version><![CDATA[1.5.6]]></version>
         <compatibility>
@@ -1040,6 +999,8 @@
             <GBP><![CDATA[64.99]]></GBP>
         </price>
         <badges>
+            <badge label="Los favoritos de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Socio creador de módulos">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
@@ -1053,18 +1014,18 @@
     <module>
         <id><![CDATA[8204]]></id>
         <name><![CDATA[facebookpsconnect]]></name>
-        <displayName><![CDATA[Connect para Redes Sociales, Amazon y Paypal]]></displayName>
+        <displayName><![CDATA[Social Login]]></displayName>
         <categoryName><![CDATA[Botones de inicio de Sesión/Conexión]]></categoryName>
         <description>
             <![CDATA[Permita que sus clientes se registren e identifiquen fácilmente a través de Facebook, Paypal Login, Amazon, Google y Twitter. Grabe también las acciones sociales vía Facebook]]></description>
         <author><![CDATA[Business Tech]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/botones-inicio-sesion-conexion/8204-connect-para-redes-sociales-amazon-y-paypal.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/botones-inicio-sesion-conexion/8204-social-login.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/8204.jpg]]></img>
         <description_full>
             <![CDATA[Permita que sus clientes se registren e identifiquen fácilmente a través de Facebook, Paypal Login, Amazon, Google y Twitter. Grabe también las acciones sociales vía Facebook.]]></description_full>
         <additional_description>
-            <![CDATA[Aumente la tasa de conversión y las ventas de su tienda haciendo que la inscripción y acceso a su tienda sean lo más simples y rápidos posible.   ¡AUMENTE LA TASA DE CONVERSIÓN DE SU TIENDA Y SUS VENTAS! Sus clientes podrán registrarse y acceder a su tienda con un solo clic a través de Facebook, PayPal Login, Amazon, Google y/o Twitter, haciendo que el proceso de compra sea mucho más rápido y sencillo. Se trata de un hecho muy conocido en el mundo del comercio electrónico : cuanto más fácil sea el proceso, mayores son las posibilidades de que el cliente complete su compra, reduciendo considerablemente la tasa de carritos abandonados. Nosotros le recomendamos instalar al menos los botones de Facebook, PayPal y Amazon. Facebook cuenta con el mayor número de usuarios y, como se explica más abajo, con Facebook, este módulo puede hacer mucho más que proporcionar un método de identificación simple y rápido para sus clientes. Y con PayPal Login, puede beneficiarse de una auténtica suscripción en un clic, ya que PayPal registrará automáticamente la dirección de facturación/entrega del cliente.   EL MÓDULO DE BOTONES DE REGISTRO E IDENTIFICACIÓN DE REDES SOCIALES MÁS ESTABLE Y CON GRÁFICOS MÁS CUIDADOS PARA PRESTASHOP El módulo Connect para Redes Sociales, Amazon y Paypal, a la vanguardia de la tecnología e implementado de acuerdo con los últimos estándares proporcionados por Facebook, PayPal, Amazon, Google y Twitter, le garantiza un altísimo nivel de calidad y estabilidad. Igualmente, nos hemos esforzado en proporcionar a los botones una impresionante presentación visual para que se integren perfectamente en PrestaShop.  OFRECE UN VALE DE DESCUENTO POR UN CLIC SOBRE LOS BOTONES DE CONEXION RAPIDA Puede optar por ofrecer un vale de descuento para cualquier nuevo abonado que decide ir a través de una rápida botones de conexión. Todas las opciones de configuración de vales, tales como la elección de los productos a los que se aplica, están disponibles en el "código de promoción" ficha.  Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.  Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).]]></additional_description>
+            <![CDATA[¿Sabía que uno de los principales obstáculos de compra en Internet, después de las tarifas de envío, es tener que crear una cuenta personalizada? &nbsp;Aumente la tasa de conversión y las ventas de su tienda haciendo que la inscripción y acceso a su tienda sean lo más simples y rápidos posible.&nbsp;  ¡AUMENTE LA TASA DE CONVERSIÓN DE SU TIENDA Y SUS VENTAS! Sus clientes podrán registrarse y acceder a su tienda con un solo clic a través de Facebook, PayPal Login, Amazon, Google y/o Twitter, haciendo que el proceso de compra sea mucho más rápido y sencillo. Se trata de un hecho muy conocido en el mundo del comercio electrónico : cuanto más fácil sea el proceso, mayores son las posibilidades de que el cliente complete su compra, reduciendo considerablemente la tasa de carritos abandonados. Nosotros le recomendamos instalar al menos los botones de Facebook, PayPal y Amazon. Facebook cuenta con el mayor número de usuarios y, como se explica más abajo, con Facebook, este módulo puede hacer mucho más que proporcionar un método de identificación simple y rápido para sus clientes. Y con PayPal Login, puede beneficiarse de una auténtica suscripción en un clic, ya que PayPal registrará automáticamente la dirección de facturación/entrega del cliente.&nbsp;  EL MÓDULO DE BOTONES DE REGISTRO E IDENTIFICACIÓN DE REDES SOCIALES MÁS ESTABLE Y CON GRÁFICOS MÁS CUIDADOS PARA PRESTASHOP El módulo "Social Login", a la vanguardia de la tecnología e implementado de acuerdo con los últimos estándares proporcionados por Facebook, PayPal, Amazon, Google y Twitter, le garantiza un altísimo nivel de calidad y estabilidad. Igualmente, nos hemos esforzado en proporcionar a los botones una impresionante presentación visual para que se integren perfectamente en PrestaShop.  OFRECE UN VALE DE DESCUENTO POR UN CLIC SOBRE LOS BOTONES DE CONEXION RAPIDA Puede optar por ofrecer un vale de descuento para cualquier nuevo abonado que decide ir a través de una rápida botones de conexión. Todas las opciones de configuración de vales, tales como la elección de los productos a los que se aplica, están disponibles en el "código de promoción" ficha.  Este módulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 años, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categoría de Mejor módulo. Tiene la seguridad de adquirir un módulo robusto, fiable y de calidad.  Ademas, en Business Tech, nosotros disponemos de un servicio de soporte técnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted está en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).]]></additional_description>
         <tab><![CDATA[social_networks]]></tab>
         <version><![CDATA[2.3.1]]></version>
         <compatibility>
@@ -1081,10 +1042,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small>
-                <![CDATA[https://medias1.prestastore.com/835082-pprod/connect-para-redes-sociales-amazon-y-paypal.jpg]]></small>
-            <big>
-                <![CDATA[https://medias3.prestastore.com/835082-pbig/connect-para-redes-sociales-amazon-y-paypal.jpg]]></big>
+            <small><![CDATA[https://medias1.prestastore.com/963266-pprod/social-login.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/963266-pbig/social-login.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1182,9 +1141,11 @@
         <price>
             <EUR><![CDATA[89.99]]></EUR>
             <USD><![CDATA[109.99]]></USD>
-            <GBP><![CDATA[84.99]]></GBP>
+            <GBP><![CDATA[79.99]]></GBP>
         </price>
         <badges>
+            <badge label="Los favoritos de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Socio creador de módulos">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
@@ -1196,17 +1157,17 @@
     <module>
         <id><![CDATA[8934]]></id>
         <name><![CDATA[migrationpro]]></name>
-        <displayName><![CDATA[Migration data from Prestashop to Prestashop tool]]></displayName>
+        <displayName><![CDATA[MigrationPro: PrestaShop to PrestaShop Migration Tool]]></displayName>
         <categoryName><![CDATA[Migración y Copias de seguridad]]></categoryName>
         <description><![CDATA[Actualizar PrestaShop o Migrar datos entre PrestaShop]]></description>
         <author><![CDATA[Community developer]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/migracion-copias-de-seguridad/8934-migration-data-from-prestashop-to-prestashop-tool.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/migracion-copias-de-seguridad/8934-migrationpro-prestashop-to-prestashop-migration-tool.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/8934.jpg]]></img>
         <description_full>
-            <![CDATA[Actualizar PrestaShop o Migrar datos entre PrestaShop.MigrationPro es un módulo automatizado seguro, fácil y travieso para actualizar PrestaShop y PrestaShop a la herramienta de migración de PrestaShop.]]></description_full>
+            <![CDATA[Actualizar PrestaShop o Migrar datos entre PrestaShop.MigrationPro es un m&oacute;dulo automatizado seguro, f&aacute;cil y travieso para actualizar PrestaShop y PrestaShop a la herramienta de migraci&oacute;n de PrestaShop.]]></description_full>
         <additional_description>
-            <![CDATA[Ya se migraron más de 4500+ tiendas PrestaShopSoporte técnico personalizado 24/7 No requiere ningún conocimiento técnico para utilizar este móduloAhorra tiempo para hacer otros trabajos en tu tiendaGuarda tu antiguo PrestaShopDocumentación y video tutoriales incluidos]]></additional_description>
+            <![CDATA[Ya se migraron m&aacute;s de 4500+ tiendas PrestaShopSoporte t&eacute;cnico personalizado 24/7&nbsp;No requiere ning&uacute;n conocimiento t&eacute;cnico para utilizar este m&oacute;duloAhorra tiempo para hacer otros trabajos en tu tiendaGuarda tu antiguo PrestaShopDocumentaci&oacute;n y video tutoriales incluidos]]></additional_description>
         <tab><![CDATA[migration_tools]]></tab>
         <version><![CDATA[3.2.0]]></version>
         <compatibility>
@@ -1215,14 +1176,18 @@
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[94.99]]></USD>
+            <USD><![CDATA[99.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
+        <badges>
+            <badge label="Los favoritos de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
+        </badges>
         <cover>
             <small>
-                <![CDATA[https://medias1.prestastore.com/917724-pprod/migration-data-from-prestashop-to-prestashop-tool.jpg]]></small>
+                <![CDATA[https://medias2.prestastore.com/917724-pprod/migrationpro-prestashop-to-prestashop-migration-tool.jpg]]></small>
             <big>
-                <![CDATA[https://medias1.prestastore.com/917724-pbig/migration-data-from-prestashop-to-prestashop-tool.jpg]]></big>
+                <![CDATA[https://medias1.prestastore.com/917724-pbig/migrationpro-prestashop-to-prestashop-migration-tool.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1277,7 +1242,7 @@
         <additional_description>
             <![CDATA[Venta Omnicanal (omnichannel) RockPOSte ayuda a conectar tu tienda en línea con tu tienda física, permitiéndote utilizar un solo sistema para controlar tus negocios en diferentes canales o medios. Al sincronizar los productos con las órdenes o clientes, puedes ver todas las transacciones de todos los canales simultáneamente, en un mismo lugar, lo cual te ahorra tiempo y esfuerzo, y a la vez,optimiza la experiencia de tus clientes. Por ejemplo, las actualizaciones de inventario en tiempo real, te permiten saber si queda mercancía suficiente en tu inventario para realizar otra orden. Un proceso de comprobación más cortoNo te gustaría gastar mucho tiempo realizando una orden, por el contrario, “servir rápido es servir mejor”, ¿no crees? Gracias al diseño sencillo y fácil de usar de RockPOS ahora puedes completar una orden con un par de clics. Además, RockPOS  también puede usarse con varios dispositivos de hardware (ej., escáneres de código de barra, impresoras de facturas y recibos, etc.), y así hacer las transacciones más sencillas y más rápidas. Ahorra tiempo y dineroCon el módulo incorporado de RockPOS en tu oficina de trastienda PrestaShop, el manejo de tiendas físicas y en línea (online), ahora puede realizarse, utilizando un solo sistema. Al adquirirlo por primera vez, puedes utilizarlo indefinidamente sin cargos extras. No es necesario utilizar un software adicional, tampoco es necesaria una capacitación especial, ya que RockPOS está completamente creado con un diseño sencillo para ser un POS (punto de venta), que cualquiera pueda usar con facilidad. No necesitarás más de 30 minutos para capacitarte a ti y a todo tu equipo de trabajo sobre las funciones de RockPOS,  de esta manera, estar listos para atender a los clientes.]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[4.1.4]]></version>
+        <version><![CDATA[4.1.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -1346,7 +1311,7 @@
         <additional_description>
             <![CDATA[&iexcl;Ahorra m&aacute;s de 40 horas de trabajo gracias a la automatizaci&oacute;n de la creaci&oacute;n de las etiquetas necesarias para el SEO!  Gracias al m&oacute;dulo SEO Expert: - Aparece en los primeros puestos de los buscadores como Google, Bing, Yahoo, Yandex&hellip; - Multiplica el tr&aacute;fico y las ventas aumentando la visibilidad de tu tienda, &iexcl;en todos los idiomas que necesites! - Aumenta la tasa de conversi&oacute;n obteniendo un tr&aacute;fico m&aacute;s cualificado - Optimiza tu reputaci&oacute;n en Facebook y Twitter con los enlaces para compartir posts de tus productos - Destaca entre la competencia con URL y etiquetas diferentes para cada una de tus p&aacute;ginas producto y de publicaciones en redes sociales  Y todo esto&hellip; &iexcl;sin necesidad de conocimientos en inform&aacute;tica!  &nbsp;]]></additional_description>
         <tab><![CDATA[seo]]></tab>
-        <version><![CDATA[3.2.6]]></version>
+        <version><![CDATA[3.2.7]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -1438,6 +1403,42 @@
         </cover>
     </module>
     <module>
+        <id><![CDATA[17711]]></id>
+        <name><![CDATA[totswitchattribute]]></name>
+        <displayName><![CDATA[Activación / desactivación de declinaciones]]></displayName>
+        <categoryName><![CDATA[Combinaciones y Personalización de productos ]]></categoryName>
+        <description><![CDATA[La solución óptima para mejorar la administración de tus declinaciones]]></description>
+        <author><![CDATA[202 ecommerce]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/combinaciones-personalizacion/17711-activacion-desactivacion-de-declinaciones.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/17711.jpg]]></img>
+        <description_full>
+            <![CDATA[La solución óptima para mejorar la administración de tus declinaciones. El módulo “Activación / Desactivación de declinaciones” te permite desactivar facil y rapidamente una declinación, sin tener que eliminarla, y reactivarla cuando desees.]]></description_full>
+        <additional_description>
+            <![CDATA[Gana tiempo evitando la eliminación y recreación de tus declinaciones. En efecto, el funcionamiento nativo de PrestaShop te obliga a eliminarla de tu boutique si una declinación producto no está disponible, para evitar perturbar a tus clientes, eliminarla de tu boutique. Nuestro módulo te permite desactivar la declinación y a su vez reactivarla más tarde de manera rápida y sencilla. Así puedes evitar recrear toda la declinación cada vez que la desees retirar temporalmente del sitio. Nuestro módulo te permite así, simplemente, desactivar una declinación, lo que la hará invisible para tus clientes, y sobretodo reactivarla para regresar a tus ventas.]]></additional_description>
+        <tab><![CDATA[front_office_features]]></tab>
+        <version><![CDATA[1.3.4]]></version>
+        <compatibility>
+            <from><![CDATA[1.5.3.1]]></from>
+            <to><![CDATA[1.7.2.4]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[39.99]]></EUR>
+            <USD><![CDATA[49.99]]></USD>
+            <GBP><![CDATA[39.99]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio creador de módulos">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[https://medias2.prestastore.com/843379-pprod/activacion-desactivacion-de-declinaciones.jpg]]></small>
+            <big>
+                <![CDATA[https://medias1.prestastore.com/843379-pbig/activacion-desactivacion-de-declinaciones.jpg]]></big>
+        </cover>
+    </module>
+    <module>
         <id><![CDATA[18016]]></id>
         <name><![CDATA[supercheckout]]></name>
         <displayName><![CDATA[Knowband - One Page Checkout, Social Login & Mailchimp]]></displayName>
@@ -1453,14 +1454,14 @@
         <additional_description>
             <![CDATA[Muestra y oculta campo: decide cuales son los campos que quieres que aparezcan en nuestro módulo One page Checkout. El módulo tiene la funcionalidad de mostrar/ocultar campos como Compañía, impuestos, dirección, etc. Personalizar Botones: Cambia el color de los botones para que estén en armonía con el diseño de tu página, utilizando la herramienta de selección de color en nuestro panel de administrador, no necesitas saber de programación. Mailchimp: Envía directamente el id del correo electrónico a Mailchimp. Si el cliente ingresa mediante los clientes Google+ o Facebook su email, se enviará a Mailchimp también.Cambiar envío / método de pago o imagen: Nuestro modulo te permite administrar los cambios de envío / métodos de pago o imagen sin realizar ningún cambio en el código. Hacer cualquier campo opcional: tienes la opción donde te permite administrar los campos que quieres que sean obligatorios u opcionales. Ordenar campos de direcciones:  organizar los campos de dirección con drag and drop. Ejemplo: el número de teléfono puede ser puesto antes del nombre. Drag and Drop: cambia la posición de todos los campos utilizando drag and drop, también puedes mostrar el método de pago primero y posteriormente el método de envíos. Ship2pay: Usando esta función el administrador puede deshabilitar los métodos de pago basado en el método de envío seleccionado por el cliente. CSS y JS personalizado: hay una opción en el panel de administración para agregar código personalizado en CSS y JS, el administrador puede usar esta función para realizar cambios sin editar los ficheros principales del módulo. HTML personalizado: el módulo one page Checkout, tiene la opción de agregar múltiples códigos HTML en cualquier lugar, el administrador puede promocionar cualquier producto, publicitar cualquier promoción o mostrar mensajes a los clientes sobre ofertas, envíos o información de métodos de pago. Modo de prueba: el módulo tiene un modo de prueba que el administrador puede realizar pruebas en vivo sin afectar tu negocio, si el modo de prueba está activado, todos los clientes irán directamente al módulo predefinido de PrestaShop, y el administrador puede realizar las pruebas en una URL que será mostrada en el módulo del administrador. Pestaña de preguntas frecuentes: entendemos el valor de tu tiempo, y por ello hemos decidido añadir las dudas básicas relacionadas con el módulo en el panel de administrador, entonces no necesitaras contactarnos  para pequeños problemas/dudas.]]></additional_description>
         <tab><![CDATA[checkout]]></tab>
-        <version><![CDATA[4.0.5]]></version>
+        <version><![CDATA[4.0.9]]></version>
         <compatibility>
-            <from><![CDATA[1.5.0.0]]></from>
+            <from><![CDATA[1.6.0.4]]></from>
             <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[94.99]]></USD>
+            <USD><![CDATA[99.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
         <badges>
@@ -1480,17 +1481,17 @@
         <displayName><![CDATA[JA Marketplace]]></displayName>
         <categoryName><![CDATA[Creación de Marketplace]]></categoryName>
         <description>
-            <![CDATA[Crea tu propio marketplace y permite a tus clientes registrarse como vendedores para vender sus productos a cambio de una comisi&oacute;n]]></description>
+            <![CDATA[Crea tu propio marketplace y permite a tus clientes registrarse como vendedores para vender sus productos a cambio de una comisión]]></description>
         <author><![CDATA[Community developer]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/creacion-marketplace/18656-ja-marketplace.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/18656.jpg]]></img>
         <description_full>
-            <![CDATA[Crea tu propio marketplace y permite a tus clientes registrarse como vendedores para vender sus productos a cambio de una comisi&oacute;n. &nbsp;]]></description_full>
+            <![CDATA[Crea tu propio marketplace y permite a tus clientes registrarse como vendedores para vender sus productos a cambio de una comisión.  ]]></description_full>
         <additional_description>
-            <![CDATA[Elegido mejor m&oacute;dulo de Espa&ntilde;a en los premios Awards 2015 de Addons PrestaShop.  Este m&oacute;dulo permite integrar varios comercios en la misma plataforma econ&oacute;mica y espacio com&uacute;n de venta donde todos los integrantes se pueden beneficiar de la fuerza de venta del resto obteniendo con ello mayor visibilidad y por tanto un aumento en el n&uacute;mero de clientes y ventas potenciales.  La integraci&oacute;n en torno a una plataforma com&uacute;n de venta es actualmente una de las formas m&aacute;s efectivas de competir con las grandes superficies tradicionales y con los grandes operadores de ecommerce (Amazon, Ebay, etc.), que poco a poco est&aacute;n agotando la capacidad competitiva y operativa del peque&ntilde;o y mediano comercio y de los modelos de negocio que operan de forma individual en Internet.  Con este m&oacute;dulo es posible unir en un mercado la fuerza de diversos proveedores con el objetivo de tener m&aacute;s visibilidad y m&aacute;s ventas.]]></additional_description>
+            <![CDATA[Elegido mejor módulo de España en los premios Awards 2015 de Addons PrestaShop.  Este módulo permite integrar varios comercios en la misma plataforma económica y espacio común de venta donde todos los integrantes se pueden beneficiar de la fuerza de venta del resto obteniendo con ello mayor visibilidad y por tanto un aumento en el número de clientes y ventas potenciales.  La integración en torno a una plataforma común de venta es actualmente una de las formas más efectivas de competir con las grandes superficies tradicionales y con los grandes operadores de ecommerce (Amazon, Ebay, etc.), que poco a poco están agotando la capacidad competitiva y operativa del pequeño y mediano comercio y de los modelos de negocio que operan de forma individual en Internet.  Con este módulo es posible unir en un mercado la fuerza de diversos proveedores con el objetivo de tener más visibilidad y más ventas.]]></additional_description>
         <tab><![CDATA[administration]]></tab>
-        <version><![CDATA[3.9.0]]></version>
+        <version><![CDATA[4.0.3]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -1521,7 +1522,7 @@
         <additional_description>
             <![CDATA[Artículos de la información, la información del envío, los pagos y descuentos puede ser modificado. Por favor, consulte las pantallas, el video, la DEMOSHOP, o póngase en contacto con nosotros directamente para obtener más información sobre cómo funciona el módulo.  ]]></additional_description>
         <tab><![CDATA[administration]]></tab>
-        <version><![CDATA[1.3.11]]></version>
+        <version><![CDATA[1.3.12]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -1658,11 +1659,11 @@
             <![CDATA[https://addons.prestashop.com/es/remarketing-carritos-abandonados/19584-smart-cart-reminder.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/19584.jpg]]></img>
         <description_full>
-            <![CDATA[More than 18% conversion observed in several e-retailers who have adopted it. The advanced solution for the abandoned cart reminder is what will fit your reminder emails, your promotions to your customers' cart.]]></description_full>
+            <![CDATA[More than 18% conversion observed in several e-retailers who have adopted it. The advanced solution for the abandoned cart reminder is what will fit your reminder emails, your promotions to your customers&#39; cart.]]></description_full>
         <additional_description>
-            <![CDATA[According to the abandoned cart content, and information about the customers, the Smart Cart Reminder module is the advanced solution that allows you to remind your abandoned carts in an autonomous and focused way.  « The only module of the cart reminder without subscription offering as many features »  ** EMAILS OF REMINDER AND OFFERS ABOUT MARKETING ADAPTED TO EACH CART ** Indeed, the module allows you to create "Reminder rules" according to:Customer information (country, age, gender, group, etc.)Cart contents (amount, products, product categories, stock remaining, etc.)Time of year (Christmas, New Year’s, Valentine’s Day, Mothers’ Day, etc.) « No more untimely and inappropriate promotions which let you feel that you are desperate ! »  With the reminder rules, create easily your own algorithms, for example:  Rule 1 : For the cart that exceeds $90, which still contain available items in my stock, the customer is in USA. Then create a discount coupon to obtain the shipping costs for free. Reminder1: Send the « Free shipping costs » email. Reminder2: Send the « Only a few days to benefit from the offer» email. ------------ Rule 2: For the new customers, create a 5% Off Your Order. Reminder1: 1H after the dropped cart: send the «To celebrate your arrival 5% Off Your First Order » email. Reminder2: 24H after Reminder 1: send the « Only one day left to take advantage of this offer» email. ------------ Rule 3: From 15/11/2015 to 25/12/2015(Christmas time), create a coupon to obtain a gift on the order. Reminder 1: Send the « Surprise Gift» email. Reminder 2: Send the « Only a few days to benefit from the offer» email. ------------ Rule 4: For the cart > €900, the customer is professional Reminder 1: Send the « More information about our catalog dedicated to professional» email. Reminder 2: Contact the customer by phone  My interest through Smart Cart Reminder module and the reminder rules: →  I increase my sales →  I control the cost of my marketing offers according to the cart →  I approach as close as possible to the desire of my customers →  I gain credibility by creating an intelligent and autonomous system which is no longer seen by my customers as an automatic emails or promotion distributor.   ** MANY KINDS OF REMINDER « STANDARD» or «MANUAL» ** Two kinds of reminders to adapt a little more to your reminder process:«Standard»: Sending an automatic email with a custom content of the cart to the customer.« Manual»: The module notifies you by email to communicate with the customer.You can even set the type of reminder that will suit your cart.   ** AN INTERFACE DEDICATED TO  « MANUAL » REMINDERS (PHONE) ** In one page, the module includes all the information of your customers; and includes many features dedicated for your manual reminders.  My interest through my module « Smart Cart Reminder » and its page dedicated for manual reminders: →  I don’t lose anymore my customers information enabling me converting ( phone number, address, page visited, number of orders placed, current cart …) → I win in reactivity through the features present in this unique page: Sending a Pre-formatted email with the link of the complete order, creation of good (s) reduction (s) → I comment all my telephone conversations   ** ADVANCED STATISTICS **  The module provides a group of advanced reports easy-to-understand:The evolution of the generated sales according to cart remindersReports about the opened/clicked emailsCart reminder rule conversion reportsReports on employees manually remind customers. This report contains the number of orders made, the number of manual reminder processed for each employee. My interest through statistics is to improve me reminder system: →  I improve my reminder emails to convert the maximum of cart →  I improve my rules to build an autonomous system →  I motivate my employees to increase my sales   ** AN INTUITIVE AND EASY MODULE TO TAKE IN CHARGE **  « A quick start: Coming from a study conducted in the comb to a Committee of a dozen merchants, the module provides a clear and pleasant interface to use. Because we are committed to place the e-trader at the center of the process when we design our modules»  The module provides a range of features allowing you to act directly on the abandoned cart, you can manually raise without even that the countdown is finished, see explicit details of the choice of a rule for a cart...  My interest through its intuitive and transparent interface    I spot in one glance: → The rules applied on the cart on each abandoned cart → The time left before the next reminder through the countdown → The list of reminders applied on the cart → If the reminder email was been seen and clicked → If the order was completed →  ...   ** AN OPERATIONAL MODULE IN SOME CLICKS! **  1 Installation in 1 click and intuitive setting in 2 steps:1. I created my reminder emails, it’s easy and fast! Several templates of emails delivered with the module, customize easily and quickly, select an example, edit the colors, edit the text, and here we go! 2- I create my cart reminder rules and I indicate for each rule the reminder emails to send.  ** A SUPPORT AT YOUR SERVICE **«Because your time is precious and that we want your full satisfaction! »  You have particular difficulty for the integration, you have some questions. Our team will be glad to support you. We are very sensitive about the responsiveness and the quality of our responses.   Source « addons.prestashop.com »:  From 09/2013 to 08/2015  Tickets received: 362 Handled: 362 Our overall service quality: 99.7% ** THEY BOUGHT THE MODULE AND YOU?**  20/08/2015 «Your module is terrific!!! »  15/08/2015 - 5/5 «Great module and great support! »  28/07/2015 - 5/5 Lots of options to help increase sales. Very friendly and responsive customer service. Highly recommended!  15/07/2015 - 5/5 Very good quality, congratulation.  « I tried the challenge and I am pleased, congratulations to the developers of this module.  I like your system customizing email, this is top! » Cathy  « I'm a merchant since 8 years ago, and I gave some ideas. In fact I wanted a new condition to treat new customers differently and according to my stock. A module that I don’t leave no more! What flexibility! I paid the purchase in the first week. » Audrey« Don’t hesitate to share with us your comments!»]]></additional_description>
+            <![CDATA[According to the abandoned cart content, and information about the customers, the Smart Cart Reminder module is the advanced solution that allows you to remind your abandoned carts in an autonomous and focused way.  &laquo;&nbsp;The only module of the cart reminder without subscription offering as many features&nbsp;&raquo; &nbsp;** EMAILS OF REMINDER AND OFFERS ABOUT MARKETING ADAPTED TO EACH CART ** Indeed, the module allows you to create &quot;Reminder rules&quot; according to:Customer information (country, age, gender, group, etc.)Cart contents (amount, products, product categories, stock remaining, etc.)Time of year (Christmas, New Year&rsquo;s, Valentine&rsquo;s Day, Mothers&rsquo; Day, etc.) &laquo;&nbsp;No more untimely and inappropriate promotions which let you feel that you are desperate !&nbsp;&raquo;  With the reminder rules, create easily your own algorithms, for example:  Rule 1&nbsp;: For the cart that exceeds $90, which still contain available items in my stock, the customer is in USA. Then create a discount coupon to obtain the shipping costs for free. Reminder1: Send the &laquo;&nbsp;Free shipping costs&nbsp;&raquo; email. Reminder2: Send the &laquo;&nbsp;Only a few days to benefit from the offer&raquo; email. ------------ Rule 2: For the new customers, create a 5% Off Your Order. Reminder1: 1H after the dropped cart: send the &laquo;To celebrate your arrival 5% Off Your First Order &raquo; email. Reminder2: 24H after Reminder 1: send the &laquo;&nbsp;Only one day left to take advantage of this offer&raquo; email. ------------ Rule 3: From 15/11/2015 to 25/12/2015(Christmas time), create a coupon to obtain a gift on the order. Reminder 1: Send the &laquo;&nbsp;Surprise Gift&raquo; email. Reminder 2: Send the &laquo;&nbsp;Only a few days to benefit from the offer&raquo; email. ------------ Rule 4: For the cart &gt; &euro;900, the customer is professional Reminder 1: Send the &laquo;&nbsp;More information about our catalog dedicated to professional&raquo; email. Reminder 2: Contact the customer by phone  My interest through Smart Cart Reminder module and the reminder rules: &rarr; &nbsp;I increase my sales &rarr; &nbsp;I control the cost of my marketing offers according to the cart &rarr; &nbsp;I approach as close as possible to the desire of my customers &rarr; &nbsp;I gain credibility by creating an intelligent and autonomous system which is no longer seen by my customers as an automatic emails or promotion distributor.  &nbsp;** MANY KINDS OF REMINDER &laquo;&nbsp;STANDARD&raquo; or &laquo;MANUAL&raquo; **&nbsp;Two kinds of reminders to adapt a little more to your reminder process:&laquo;Standard&raquo;: Sending an automatic email with a custom content of the cart to the customer.&laquo;&nbsp;Manual&raquo;: The module notifies you by email to communicate with the customer.You can even set the type of reminder that will suit your cart.  &nbsp;** AN INTERFACE DEDICATED TO &nbsp;&laquo;&nbsp;MANUAL &raquo; REMINDERS (PHONE) **&nbsp;In one page, the module includes all the information of your customers; and includes many features dedicated for your manual reminders.  My interest through&nbsp;my module &laquo;&nbsp;Smart Cart Reminder&nbsp;&raquo; and its page dedicated for manual reminders: &rarr; &nbsp;I don&rsquo;t lose anymore my customers information enabling me converting ( phone number, address, page visited, number of orders placed, current cart &hellip;) &rarr; I win in reactivity through the features present in this unique page: Sending a Pre-formatted email with the link of the complete order, creation of good (s) reduction (s) &rarr; I comment all my telephone conversations  &nbsp;** ADVANCED STATISTICS&nbsp;** &nbsp;The module provides a group of advanced reports easy-to-understand:The evolution of the generated sales according to cart remindersReports about the opened/clicked emailsCart reminder rule conversion reportsReports on employees manually remind customers. This report contains&nbsp;the number of orders made, the number of manual reminder processed for each employee. My interest through statistics is to improve me reminder system: &rarr; &nbsp;I improve my reminder emails to convert the maximum of cart &rarr; &nbsp;I improve my rules to build an autonomous system &rarr; &nbsp;I motivate my employees to increase my sales  &nbsp;** AN INTUITIVE AND EASY MODULE&nbsp;TO TAKE IN CHARGE ** &nbsp;&laquo;&nbsp;A quick start: Coming from a study conducted in the comb to a Committee of a dozen merchants, the module provides a clear and pleasant interface to use. Because we are committed to place the e-trader at the center of the process when we design our modules&raquo;  The module provides a range of features allowing you to act directly on the abandoned cart, you can manually raise without even that the countdown is finished, see explicit details of the choice of a rule for a cart...  My interest through its intuitive and transparent interface &nbsp;&nbsp; I spot in one glance: &rarr; The rules applied on the cart on each abandoned cart &rarr; The time left before the next reminder through the countdown &rarr; The list of reminders applied on the cart &rarr; If the reminder email was been seen and clicked &rarr; If the order was completed &rarr; &nbsp;...  &nbsp;** AN OPERATIONAL MODULE IN SOME CLICKS! ** &nbsp;1 Installation in 1 click and intuitive setting in 2 steps:1. I created my reminder emails, it&rsquo;s easy and fast! Several templates of emails delivered with the module, customize easily and quickly, select an example, edit the colors, edit the text, and here we go! 2- I create my cart reminder rules and I indicate for each rule the reminder emails to send.&nbsp;&nbsp;** A SUPPORT AT YOUR SERVICE&nbsp;**&laquo;Because your time is precious and that we want your full satisfaction!&nbsp;&raquo; &nbsp;You have particular difficulty for the integration, you have some questions. Our team will be glad to support you. We are very sensitive about the responsiveness and the quality of our responses. &nbsp; Source &laquo;&nbsp;addons.prestashop.com&nbsp;&raquo;:&nbsp; From 09/2013 to 08/2015&nbsp; Tickets received: 362 Handled: 362 Our overall service quality: 99.7% ** THEY BOUGHT THE MODULE AND YOU?**  20/08/2015 &laquo;Your module is terrific!!!&nbsp;&raquo;  15/08/2015 - 5/5 &laquo;Great module and great support!&nbsp;&raquo;  28/07/2015 - 5/5 Lots of options to help increase sales. Very friendly and responsive customer service. Highly recommended!  15/07/2015 - 5/5 Very good quality, congratulation.  &laquo;&nbsp;I tried the challenge and I am pleased, congratulations to the developers of this module.&nbsp; I like your system customizing email, this is top!&nbsp;&raquo; Cathy  &laquo;&nbsp;I&#39;m a merchant since 8 years ago, and I gave some ideas. In fact I wanted a new condition to treat new customers differently and according to my stock. A module that I don&rsquo;t leave no more! What flexibility! I paid the purchase in the first week. &raquo;&nbsp;Audrey&laquo;&nbsp;Don&rsquo;t hesitate to share with us your comments!&raquo;]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.0.38]]></version>
+        <version><![CDATA[1.0.41]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -1673,8 +1674,6 @@
             <GBP><![CDATA[134.99]]></GBP>
         </price>
         <badges>
-            <badge label="Los favoritos de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Socio creador de módulos">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
@@ -1699,7 +1698,7 @@
         <additional_description>
             <![CDATA[Ventas Flash muestra un reloj con una cuenta atr&aacute;s al lado de los productos en rebajas lo que apremia al cliente a realizar su compra gracias a la duraci&oacute;n limitada en el tiempo de la oferta. &nbsp; Adem&aacute;s, la venta flash se mostrar&aacute; en distintas partes de tu tienda online (p&aacute;gina de inicio, columnas, fichas producto, etc.) con banners y sliders atrayentes y profesionales con una perfecta integraci&oacute;n en tu tienda y sin ser percibida como publicidad externa &iexcl;tus clientes no podr&aacute;n pasarla por alto! &nbsp; Las ventas flash es la herramienta que necesitas para vender m&aacute;s: una campa&ntilde;a de este tipo muestra una tasa de conversi&oacute;n de +59%. &nbsp; &nbsp; Nuestro consejo: Env&iacute;a una newsletter para informar a tus clientes de tus reducciones con el m&oacute;dulo Mailchimp Oficial (56% de las empresas dicen tener una tasa de apertura de la newsletter m&aacute;s importante durante los per&iacute;odos de ventas flash) o bien a trav&eacute;s de un pop up con Pop Promo para reforzar la visibilidad.   Comentario recibido el 2015-11-05&nbsp;09:51:48: &quot;Great! Works perfectly&quot; F. CASOLARI]]></additional_description>
         <tab><![CDATA[pricing_promotion]]></tab>
-        <version><![CDATA[3.2.4]]></version>
+        <version><![CDATA[3.2.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -1777,7 +1776,7 @@
         <price>
             <EUR><![CDATA[179.99]]></EUR>
             <USD><![CDATA[214.99]]></USD>
-            <GBP><![CDATA[164.99]]></GBP>
+            <GBP><![CDATA[159.99]]></GBP>
         </price>
         <badges>
             <badge label="Made by PrestaShop">
@@ -1786,77 +1785,6 @@
         <cover>
             <small><![CDATA[https://medias1.prestastore.com/676340-pprod/presupuesto-online-16.jpg]]></small>
             <big><![CDATA[https://medias3.prestastore.com/676340-pbig/presupuesto-online-16.jpg]]></big>
-        </cover>
-    </module>
-    <module>
-        <id><![CDATA[20067]]></id>
-        <name><![CDATA[liveperson]]></name>
-        <displayName><![CDATA[LivePerson - Livechat y mensajería]]></displayName>
-        <categoryName><![CDATA[Asistencia & Chat online]]></categoryName>
-        <description>
-            <![CDATA[LiveEngage es la forma innovadora de hablar con los visitantes de su web, ya sea que est&eacute;n conectados a trav&eacute;s de su escritorio o desde sus dispositivos m&oacute;viles]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/es/asistencia-chat-online/20067-liveperson.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/20067.jpg]]></img>
-        <description_full>
-            <![CDATA[LiveEngage es la forma innovadora de hablar con los visitantes de su web, ya sea que est&eacute;n conectados a trav&eacute;s de su escritorio o desde sus dispositivos m&oacute;viles. Sus clientes prefieren la comunicaci&oacute;n digital como el chat, mensajer&iacute;a y SMS. Con LiveEngage, sus clientes podr&aacute;n interactuar con usted de la manera que prefieran, desde una plataforma f&aacute;cil de usar.]]></description_full>
-        <additional_description>
-            <![CDATA[Configuraci&oacute;n r&aacute;pida y f&aacute;cil&nbsp;Conectar con clientes y potenciales clientes en tiempo real&nbsp;Crear y mantener respuestas predeterminadas que ahorran tiempoAumentar la satisfacci&oacute;n de los clientesFortalecer la fidelidad de la marcaAumentar la conversi&oacute;n de las ventasMantenerse conectado con sus visitantes y clientes a trav&eacute;s de la aplicaci&oacute;n m&oacute;vilInnovadoras m&eacute;tricas KPI que miden el comportamiento de la participaci&oacute;n, la eficacia de los agentes y datos de satisfacci&oacute;n de los clientes en tiempo realPersonalizar completamente la plataforma LiveEngage para que se adapte a la imagen de su marca &nbsp; &nbsp; &nbsp;Proteger la informaci&oacute;n de sus consumidores con seguridad y estabilidad de nivel empresarial]]></additional_description>
-        <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[1.0.1]]></version>
-        <compatibility>
-            <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[29.99]]></EUR>
-            <USD><![CDATA[39.99]]></USD>
-            <GBP><![CDATA[27.99]]></GBP>
-        </price>
-        <badges>
-            <badge label="Socio Oficial de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
-        </badges>
-        <cover>
-            <small><![CDATA[https://medias1.prestastore.com/742768-pprod/liveperson.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/742768-pbig/liveperson.jpg]]></big>
-        </cover>
-    </module>
-    <module>
-        <id><![CDATA[20242]]></id>
-        <name><![CDATA[bridgeconnector]]></name>
-        <displayName><![CDATA[Bridge Connector for Store Manager]]></displayName>
-        <categoryName><![CDATA[Edición Rápida y Masiva]]></categoryName>
-        <description>
-            <![CDATA[Bridge Connector allows you to connect Store Manager application to PrestaShop Cloud and perform advanced data update and input (import, export, mass edit, etc)]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/es/edicion-rapida/20242-bridge-connector-for-store-manager.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/20242.jpg]]></img>
-        <description_full>
-            <![CDATA[Bridge Connector allows you to connect Store Manager application to PrestaShop Cloud and perform advanced data update and input (import, export, mass edit, etc). Should be used with Store Manager desktop application]]></description_full>
-        <additional_description>
-            <![CDATA[Merchants will get access to their&nbsp;PrestaShop Cloud database with the help of Store Manager and perform the following operations: - Work with categories and products on a single page - no reload required; - Change prices of multiple products at the same time (perfect for sales!); - Create product features and combinations in bulk; - Upload multiple images simultaneously (drag and drop directly onto the browser); - Quickly update your inventory, manage stock levels, warehouses, and stock movements; - Import products (including virtual), specific prices, multi-features, attribute values, customized fields, and combinations; - Import products from csv, txt, xml, xls/xslx (Excel), ods (OpenOffice). No file requirements - all missing data can be applied on the fly; - Import customers with passwords exported from another PrestaShop installation (requires additional assistance); - Create orders with a POS and process them in bulk (e.g. change status for multiple orders at once); - Use store diagnostics to fix missing or broken images; - Take advantage of powerful reporting features; - Manage multiple PrestaShop installations and shops with one back-office; - Work offline - all changes will be applied when you reconnect.]]></additional_description>
-        <tab><![CDATA[quick_bulk_update]]></tab>
-        <version><![CDATA[1.0.12]]></version>
-        <compatibility>
-            <from><![CDATA[1.5.1.0]]></from>
-            <to><![CDATA[1.7.1.2]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Agencia asociada con PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-partner-agency.png]]></badge>
-        </badges>
-        <cover>
-            <small>
-                <![CDATA[https://medias1.prestastore.com/691041-pprod/bridge-connector-for-store-manager.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/691041-pbig/bridge-connector-for-store-manager.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1902,15 +1830,15 @@
         <displayName><![CDATA[Registro Brasileña]]></displayName>
         <categoryName><![CDATA[Inscripción y Proceso del pedido]]></categoryName>
         <description>
-            <![CDATA[Este módulo adiciona los campos opcionales u obligatorios de CPF, CNPJ, IE y RG en el registro de clientes en tu tienda online]]></description>
+            <![CDATA[Este m&oacute;dulo adiciona los campos opcionales u obligatorios de CPF, CNPJ, IE y RG en el registro de clientes en tu tienda online]]></description>
         <author><![CDATA[BM Services]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/inscripcion-proceso-del-pedido/20541-registro-brasilena.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/20541.jpg]]></img>
         <description_full>
-            <![CDATA[Este módulo adiciona los campos opcionales u obligatorios de CPF, CNPJ, IE y RG en el registro de clientes en tu tienda online. También busca y completa la dirección con el número de CEP y tiene máscara para los teléfonos Brasileños.]]></description_full>
+            <![CDATA[Este m&oacute;dulo adiciona los campos opcionales u obligatorios de CPF, CNPJ, IE y RG en el registro de clientes en tu tienda online. Tambi&eacute;n busca y completa la direcci&oacute;n con el n&uacute;mero de CEP y tiene m&aacute;scara para los tel&eacute;fonos Brasile&ntilde;os.]]></description_full>
         <additional_description>
-            <![CDATA[El comerciante tiene un control total sobre las informaciones que serán pedidas al cliente. Puede opcionalmente configurar el CPF y el CNPJ como informaciones obligatorias. El módulo verificará si el CPF o el CNPJ están correctos. Estas informaciones deben ser confiables para la emisión de la Nota Fiscal Brasileña. El CEP puede ser usado para obtener la dirección completa. Caso el cliente no conozca su número de CEP, el gerente de la tienda online puede exhibir un botón “No me sé mi CEP”, que lo llevará para el website de Correios donde puede conseguirlo.]]></additional_description>
+            <![CDATA[El comerciante tiene un control total sobre las informaciones que ser&aacute;n pedidas al cliente. Puede opcionalmente configurar el CPF y el CNPJ como informaciones obligatorias. El m&oacute;dulo verificar&aacute; si el CPF o el CNPJ est&aacute;n correctos. Estas informaciones deben ser confiables para la emisi&oacute;n de la Nota Fiscal Brasile&ntilde;a. El CEP puede ser usado para obtener la direcci&oacute;n completa. Caso el cliente no conozca su n&uacute;mero de CEP, el gerente de la tienda online puede exhibir un bot&oacute;n &ldquo;No me s&eacute; mi CEP&rdquo;, que lo llevar&aacute; para el website de Correios donde puede conseguirlo.]]></additional_description>
         <tab><![CDATA[checkout]]></tab>
         <version><![CDATA[1.0.3]]></version>
         <compatibility>
@@ -2033,10 +1961,10 @@
         <additional_description>
             <![CDATA[Adapta tu mensaje y los iconos de las etiquetas seg&uacute;n el tipo de operaci&oacute;n comercial deseada&nbsp;Informa a tus clientes de las caracter&iacute;sticas de tus productos, de las promociones, las &uacute;ltimas novedades y m&aacute;s:&nbsp;Oferta del mes, Env&iacute;o gratis, 1 por 2, &Uacute;ltimos productos disponibles...&nbsp;Destaca tus productos y atrae la atenci&oacute;n de tus clientes con iconos y etiquetas de dise&ntilde;o&nbsp;Renueva peri&oacute;dicamente tu sitio sin modificar el cat&aacute;logo de productos&nbsp;Aumenta tu tasa de conversi&oacute;n con etiquetas que animan a comprar]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[1.1.7]]></version>
+        <version><![CDATA[1.2.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[69.99]]></EUR>
@@ -2068,7 +1996,7 @@
         <additional_description>
             <![CDATA[  Updated in real time with the latest published pages, fully customizable (you can block specific pages), it will load (for scheduled task) to prevent search engines at desired intervals. This module is multi-language and multishop: All your pages are indexed and listed in the languages ​​defined for each store/.  You can also include images or not, as you can turn off   Sitemap of or remove a link of it. It will also prevent robots (Google among others) the presence of it. It requires no special set-up action and adapts to any environment. Once installed, it's over, it works! No need to think about it! Easily customize the frequency of pages contained in the Sitemap. Automatic priority management is performed, calculated based on website updates.  It's necessary to stabilize a SEO / proper referencing in the ruthless world of the web, it will be an ideal and discreet companion, easy to implement. Simple, effective and very useful, this module is what all modules should do : a good job.  Sitemaps identified all sections of PrestaShop (products, categories, modules, CMS, rewrited URL's and suppliers). Implementation of Blogging modules within separates (for posts and categories) sitemaps too. Optimized SEO / SEO (Google / Bing / Yandex ) to make rapid progress your site to the top. Plug & Play : Once installed, it's ready ! Images included Separate Sitemaps for each shop and each containing selected languages ​​(multi-shop & multi-language) Support 24/7 to your every needs !]]></additional_description>
         <tab><![CDATA[seo]]></tab>
-        <version><![CDATA[1.2.3]]></version>
+        <version><![CDATA[1.2.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.2.0]]></from>
             <to><![CDATA[1.7.2.0]]></to>
@@ -2111,9 +2039,9 @@
             <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
-            <EUR><![CDATA[99.99]]></EUR>
-            <USD><![CDATA[119.99]]></USD>
-            <GBP><![CDATA[89.99]]></GBP>
+            <EUR><![CDATA[69.99]]></EUR>
+            <USD><![CDATA[84.99]]></USD>
+            <GBP><![CDATA[64.99]]></GBP>
         </price>
         <badges>
             <badge label="Agencia asociada con PrestaShop">
@@ -2213,7 +2141,7 @@
         <additional_description>
             <![CDATA[Magic Redirect saves you valuable time by doing for you most actions concerning your redirections (301) and your pages not found (404):Automaticly redirect any disabled/deleted object (products, manufacturers, suppliers, categories, cms pages and categories) to natural parent page.Be warned each new error, but is not intrusive.The module attempts to find internal links that could address these issues. You then have to activate them on the fly.Lead your customers more easily to the right pages.Create rules in the event of major changes on your shop.Lost pages are pre-filled to facilitate your work.Improve your SEO everyday. Google grants a bonus to websites regulating their 404!]]></additional_description>
         <tab><![CDATA[seo]]></tab>
-        <version><![CDATA[1.3.1]]></version>
+        <version><![CDATA[1.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.2.0]]></from>
             <to><![CDATA[1.7.2.0]]></to>
@@ -2240,15 +2168,15 @@
         <displayName><![CDATA[Seguimiento Brasileño por Correios]]></displayName>
         <categoryName><![CDATA[Seguimiento de la entrega]]></categoryName>
         <description>
-            <![CDATA[Con el módulo “Seguimiento Brasileño por Correios” tú y tu cliente tendrán total agilidad y comodidad para rastrear los pedidos hechos en tu tienda online Prestashop]]></description>
+            <![CDATA[Con el m&oacute;dulo &ldquo;Seguimiento Brasile&ntilde;o por Correios&rdquo; t&uacute; y tu cliente tendr&aacute;n total agilidad y comodidad para rastrear los pedidos hechos en tu tienda online Prest]]></description>
         <author><![CDATA[BM Services]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/seguimiento-entrega/21328-seguimiento-brasileno-por-correios.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/21328.jpg]]></img>
         <description_full>
-            <![CDATA[Con el módulo “Seguimiento Brasileño por Correios” tú y tu cliente tendrán total agilidad y comodidad para rastrear los pedidos hechos en tu tienda online Prestashop. Ahorra tiempo de tu servicio de atención al cliente. ]]></description_full>
+            <![CDATA[Con el m&oacute;dulo &ldquo;Seguimiento Brasile&ntilde;o por Correios&rdquo; t&uacute; y tu cliente tendr&aacute;n total agilidad y comodidad para rastrear los pedidos hechos en tu tienda online Prestashop.&nbsp;Ahorra tiempo de tu servicio de atenci&oacute;n al cliente.&nbsp;]]></description_full>
         <additional_description>
-            <![CDATA[Este seguimiento de producto es tan fácil para tu comprador que este no te va a necesitar nunca más para hacer el seguimiento del pedido.  Lista rápida de pedidos abiertos El módulo agrega una ventana de seguimiento en todas las páginas del website cuya localización en la página es definida por el dueño de la tienda. Clientes conectados a la tienda online en tu tienda en línea verán la Ventana de Seguimiento Rápido. Ella hace una lista automática de todos los pedidos enviados con sus respectivos códigos de objeto.  Seguimiento en un clique Los códigos de objeto en la lista son enlaces para la tabla de los Correios, estas tienen todo el seguimiento del pedido. Sin copiar y pegar, apenas un clique. El seguimiento con un clique en el código de objeto también está disponible para el gerente de la tienda en la sección normal de gestión de pedidos en el dashboard de Prestashop.  Menos servicio de atención al cliente, más clientes satisfechos Su departamento de atención al cliente puede hacer mucho más que responder preguntas constantes sobre el paradero de cada pedido enviado. Con el módulo “Seguimiento Brasileño por Correios”, luego que el cliente entra en el website para hacer esa pregunta, se depara con la lista de sus pedidos enviados en la Ventana de Seguimiento Rápido.  Practicidad El cliente conectado que entra en cualquier página inmediatamente ve la ventana con la lista de todos los pedidos enviados con sus códigos de objeto clicábles.  Agilidad Tanto cliente como gerente de la tienda online acceden a la tabla de seguimiento de los Correios con solo un clique en el código de objeto.  Simplicidad La integración con el dashboard de Prestashop es simple. EL único cambio es que en su lista normal de pedidos enviados, los códigos de objeto ahora son enlaces para su seguimiento con los Correios.  Tranquilidad Más clientes haciendo sus propios seguimientos con facilidad son más consumidores satisfechos y menos trabajo para su servicio de atención al cliente. Ahora te puedes concentrar en resolver problemas reales.    ]]></additional_description>
+            <![CDATA[Este seguimiento de producto es tan f&aacute;cil para tu comprador que este no te va a necesitar nunca m&aacute;s para hacer el seguimiento del pedido.  Lista r&aacute;pida de pedidos abiertos El m&oacute;dulo agrega una ventana de seguimiento en todas las p&aacute;ginas del website cuya localizaci&oacute;n en la p&aacute;gina es definida por el due&ntilde;o de la tienda. Clientes conectados a la tienda online en tu tienda en l&iacute;nea ver&aacute;n la Ventana de Seguimiento R&aacute;pido. Ella hace una lista autom&aacute;tica de todos los pedidos enviados con sus respectivos c&oacute;digos de objeto.  Seguimiento en un clique Los c&oacute;digos de objeto en la lista son enlaces para la tabla de los Correios, estas tienen todo el seguimiento del pedido. Sin copiar y pegar, apenas un clique. El seguimiento con un clique en el c&oacute;digo de objeto tambi&eacute;n est&aacute; disponible para el gerente de la tienda en la secci&oacute;n normal de gesti&oacute;n de pedidos en el dashboard de Prestashop.  Menos servicio de atenci&oacute;n al cliente, m&aacute;s clientes satisfechos Su departamento de atenci&oacute;n al cliente puede hacer mucho m&aacute;s que responder preguntas constantes sobre el paradero de cada pedido enviado. Con el m&oacute;dulo &ldquo;Seguimiento Brasile&ntilde;o por Correios&rdquo;, luego que el cliente entra en el website para hacer esa pregunta, se depara con la lista de sus pedidos enviados en la Ventana de Seguimiento R&aacute;pido.  Practicidad El cliente conectado que entra en cualquier p&aacute;gina inmediatamente ve la ventana con la lista de todos los pedidos enviados con sus c&oacute;digos de objeto clic&aacute;bles.  Agilidad Tanto cliente como gerente de la tienda online acceden a la tabla de seguimiento de los Correios con solo un clique en el c&oacute;digo de objeto.  Simplicidad La integraci&oacute;n con el dashboard de Prestashop es simple. EL &uacute;nico cambio es que en su lista normal de pedidos enviados, los c&oacute;digos de objeto ahora son enlaces para su seguimiento con los Correios.  Tranquilidad M&aacute;s clientes haciendo sus propios seguimientos con facilidad son m&aacute;s consumidores satisfechos y menos trabajo para su servicio de atenci&oacute;n al cliente. Ahora te puedes concentrar en resolver problemas reales.&nbsp;  &nbsp;]]></additional_description>
         <tab><![CDATA[shipping_logistics]]></tab>
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
@@ -2490,11 +2418,11 @@
         <description_full>
             <![CDATA[FASTBAY is the professional solution to synchronize your Prestashop store towards your Ebay account in few minutes ]]></description_full>
         <additional_description>
-            <![CDATA[Over 1,250,000 Ebay Listings have been already created with FastBay.EASY - A simplified configuration wizard will allow you to customize all settings without any problem in order to synchronize and manage products and orders.RELIABLE - Our module will assist you in every step of sync process and if you need assistance we guarantee a response within 48 hours.FLEXIBLE - FastBay guarantees many features that allows you to make a flexible site management that will suits all your needs.FAST - With our FastBay module your 'waiting times' will be reduced beyond belief ! Sync in a couple of minutes more than 5.000 products!]]></additional_description>
+            <![CDATA[Over&nbsp;1,250,000 Ebay Listings&nbsp;have been&nbsp;already created with FastBay.EASY - A simplified configuration wizard will allow you to customize all settings without any problem in order to synchronize and manage products and orders.RELIABLE - Our module will assist you in every step of sync process and if you need assistance we guarantee a response&nbsp;within 48 hours.FLEXIBLE - FastBay guarantees many features that allows you to make a&nbsp;flexible site management&nbsp;that will suits all your needs.FAST - With our FastBay module your 'waiting times' will be reduced beyond belief !&nbsp;Sync in a couple of minutes more than 5.000 products! Awarded among the best modules at the Prestashop Awards 2018]]></additional_description>
         <tab><![CDATA[market_place]]></tab>
-        <version><![CDATA[5.5.4]]></version>
+        <version><![CDATA[5.5.7]]></version>
         <compatibility>
-            <from><![CDATA[1.5.4.1]]></from>
+            <from><![CDATA[1.5.6.3]]></from>
             <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
@@ -2503,6 +2431,8 @@
             <GBP><![CDATA[224.99]]></GBP>
         </price>
         <badges>
+            <badge label="Los favoritos de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Agencia asociada con PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-partner-agency.png]]></badge>
         </badges>
@@ -2540,8 +2470,6 @@
             <GBP><![CDATA[64.99]]></GBP>
         </price>
         <badges>
-            <badge label="Los favoritos de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Made by PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
@@ -2636,9 +2564,9 @@
         <additional_description>
             <![CDATA[&nbsp;This integration will save customer support agents time and contextualize interactions as they no longer need to switch between Prestashop and Zendesk&#39;s interfaces to link a ticket to customer orders.]]></additional_description>
         <tab><![CDATA[administration]]></tab>
-        <version><![CDATA[1.0.3]]></version>
+        <version><![CDATA[1.0.4]]></version>
         <compatibility>
-            <from><![CDATA[1.5.1.0]]></from>
+            <from><![CDATA[1.5.0.0]]></from>
             <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
@@ -2654,39 +2582,36 @@
     <module>
         <id><![CDATA[23671]]></id>
         <name><![CDATA[facebookproductad]]></name>
-        <displayName><![CDATA[Product Ads + Pixel para LA Red Social]]></displayName>
+        <displayName><![CDATA[Dynamic Ads]]></displayName>
         <categoryName><![CDATA[Remarketing y Carritos abandonados]]></categoryName>
         <description>
             <![CDATA[Aproveche la focalizaci&oacute;n y un &Iacute;ndice del Rendimiento de la Inversi&oacute;n (ROI) sin igual en Facebook con la Publicidad de Productos Din&aacute;micos y el Remarketing]]></description>
         <author><![CDATA[Business Tech]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/remarketing-carritos-abandonados/23671-product-ads-pixel-para-la-red-social.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/remarketing-carritos-abandonados/23671-dynamic-ads.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/23671.jpg]]></img>
         <description_full>
             <![CDATA[Aproveche la focalizaci&oacute;n y un &Iacute;ndice del Rendimiento de la Inversi&oacute;n (ROI) sin igual en Facebook con la Publicidad de Productos Din&aacute;micos y el Remarketing]]></description_full>
         <additional_description>
             <![CDATA[Aumente su tasa de conversi&oacute;n y su &iacute;ndice de fidelizaci&oacute;n: exporte muy f&aacute;cilmente su cat&aacute;logo de productos y cree en unos pocos clics sus anuncios publicitarios en Facebook.&nbsp;&nbsp;*** GANADOR DE LOS PREMIOS PRESTASHOP - ELIGIDO MEJOR M&Oacute;DULO 2017 ***&nbsp;&nbsp;Se trata del equivalente para Facebook de &laquo;Google Shopping&raquo; (Merchant Center) pero con una herramienta de focalizaci&oacute;n muy potente que Google no tiene: una multitud de opciones le permite focalizar sus anuncios en funci&oacute;n de la edad, el sexo, la situaci&oacute;n familiar, el lugar geogr&aacute;fico exacto, intereses, grupos, p&aacute;ginas y productos preferidos, y toda la informaci&oacute;n de la que Facebook dispone sobre sus clientes y clientes potenciales. Adem&aacute;s, el coste de estas campa&ntilde;as suele ser inferior al de la publicidad de Google, benefici&aacute;ndose tambi&eacute;n de un mejor Rendimiento de la Inversi&oacute;n. En resumen: &iexcl;el sue&ntilde;o para todos los vendedores!Como Google, Facebook ha desarrollado una plataforma de audiencia personalizadas y de reorientaci&oacute;n que le permite mostrar a sus clientes y visitantes anuncios publicitarios adaptados a lo que han visto en su p&aacute;gina web o en su blog, gracias a una herramienta de segmentaci&oacute;n de alto rendimiento. La potencia de Facebook le permite igualmente adquirir nuevos clientes cuyos intereses se acercan a los de sus clientes actuales. Las informaciones personales de estos futuros compradores, que tiene Facebook, se comparan con las de sus clientes existentes.Todo se hace sencillamente a trav&eacute;s de su c&oacute;digo P&iacute;xel Facebook, que sirve tambi&eacute;n para seguir las compras / conversiones en su tienda PrestaShop.&nbsp;Combinando el cat&aacute;logo de productos de Facebook y el P&iacute;xel de Facebook, puede crear anuncios din&aacute;micos en sus productos: tiene la capacidad de dirigir exactamente los productos ya consultados por sus clientes o visitantes, o los que podr&iacute;an completarlos. Aprov&eacute;chese de la indiscutible eficacia de la reorientaci&oacute;n din&aacute;mica y d&eacute; un gran impulso a su tasa de conversi&oacute;n y a su &Iacute;ndice del Rendimiento de la Inversi&oacute;n (ROI)&nbsp;&nbsp;Este m&oacute;dulo todo en uno aporta todo lo que usted necesita para iniciarse inmediatamente en la tecnolog&iacute;a publicitaria m&aacute;s avanzada del mundo. &iexcl;No deje pasar esta oportunidad y empiece HOY!&nbsp;&nbsp;Este m&oacute;dulo ha sido editado por Business Tech, empresa de software certificado por PrestaShop, especialista de Google y Facebook desde hace 7 a&ntilde;os, y ganador de los premios PrestaShop 2011, 2014 y 2017 en la categor&iacute;a de Mejor m&oacute;dulo. Tiene la seguridad de adquirir un m&oacute;dulo robusto, fiable y de calidad.&nbsp;&nbsp;Ademas, en Business Tech, nosotros disponemos de un servicio de soporte t&eacute;cnico reactivo y eficaz ya que cuando se ponga en contacto con nosotros, usted est&aacute; en contacto directo con los programadores de los modulos. Tiene la seguridad de ser correctamente informado(a).&nbsp;]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.2.7]]></version>
+        <version><![CDATA[1.2.10]]></version>
         <compatibility>
             <from><![CDATA[1.5.3.1]]></from>
             <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[129.99]]></EUR>
-            <USD><![CDATA[154.99]]></USD>
-            <GBP><![CDATA[119.99]]></GBP>
+            <USD><![CDATA[159.99]]></USD>
+            <GBP><![CDATA[114.99]]></GBP>
         </price>
         <badges>
-            <badge label="Mejor módulo Tráfico">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/awards-traffic.png]]></badge>
             <badge label="Socio creador de módulos">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
         <cover>
-            <small>
-                <![CDATA[https://medias3.prestastore.com/835119-pprod/product-ads-pixel-para-la-red-social.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/835119-pbig/product-ads-pixel-para-la-red-social.jpg]]></big>
+            <small><![CDATA[https://medias2.prestastore.com/963253-pprod/dynamic-ads.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/963253-pbig/dynamic-ads.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -2713,7 +2638,7 @@
         <price>
             <EUR><![CDATA[89.99]]></EUR>
             <USD><![CDATA[109.99]]></USD>
-            <GBP><![CDATA[84.99]]></GBP>
+            <GBP><![CDATA[79.99]]></GBP>
         </price>
         <cover>
             <small><![CDATA[https://medias2.prestastore.com/772059-pprod/calculo-del-flete-por-jadlog.jpg]]></small>
@@ -2782,8 +2707,6 @@
             <GBP><![CDATA[449.99]]></GBP>
         </price>
         <badges>
-            <badge label="Mejor módulo Fidelidad">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/awards-loyalty.png]]></badge>
             <badge label="Socio creador de módulos">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
@@ -2864,37 +2787,6 @@
         </cover>
     </module>
     <module>
-        <id><![CDATA[24636]]></id>
-        <name><![CDATA[currenciesdirect]]></name>
-        <displayName><![CDATA[Currencies Direct]]></displayName>
-        <categoryName><![CDATA[Gestión de Precios]]></categoryName>
-        <description>
-            <![CDATA[If your business is trading on international marketplaces you need a fast and reliable way to convert the currency of your overseas sales]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/es/gestion-de-precios/24636-currencies-direct.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/24636.jpg]]></img>
-        <description_full>
-            <![CDATA[If your business is trading on international marketplaces you need a fast and reliable way to convert the currency of your overseas sales.&nbsp;  Register for a FREE Currencies Direct Collection Account to receive your marketplace sales in multiple currencies, and take control over the timing of your currency conversions using our 24hr online service. You&rsquo;ll get a great exchange rate and the flexibility to time payments and help maximise your profits.&nbsp;  You could save up to 75% of foreign exchange costs compared to a high-street bank transfer or marketplace currency converter, all without any of the hassles involved in opening overseas bank accounts.&nbsp; &nbsp;CLICK HERE TO LEARN MORE]]></description_full>
-        <additional_description>
-            <![CDATA[Increase revenue with better exchange rates&nbsp;Collect funds from all the largest marketplacesManage multiple currencies from one online accountSave time and money paying overseas suppliersSegregated accounts for security of your funds]]></additional_description>
-        <tab><![CDATA[administration]]></tab>
-        <version><![CDATA[]]></version>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Socio Oficial de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
-        </badges>
-        <cover>
-            <small><![CDATA[https://medias1.prestastore.com/794929-pprod/currencies-direct.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/794929-pbig/currencies-direct.jpg]]></big>
-        </cover>
-    </module>
-    <module>
         <id><![CDATA[24894]]></id>
         <name><![CDATA[autogoogleplace]]></name>
         <displayName><![CDATA[Google Address Autocomplete]]></displayName>
@@ -2906,14 +2798,14 @@
             <![CDATA[https://addons.prestashop.com/es/inscripcion-proceso-del-pedido/24894-google-address-autocomplete.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/24894.jpg]]></img>
         <description_full>
-            <![CDATA[This module makes it possible to fill, quickly and without any errors, the address field when yours clients are ordering. It automatically suggests the right address, and so improve yours customer's browsing comfort. An easy way to save time !]]></description_full>
+            <![CDATA[This module makes it possible to fill, quickly and without any errors, the address field when yours clients are ordering. It automatically suggests the right address, and so improve yours customer&#39;s browsing comfort.&nbsp;An easy way to save time !]]></description_full>
         <additional_description>
-            <![CDATA[This module uses Google Map's API for automatically fill your clients adresses when they register.Increase your turnover, reducing errors and delivery problems.Decrease product returns' number.Improve your user's experience.]]></additional_description>
+            <![CDATA[This module uses Google Map&#39;s API for automatically fill your clients adresses when they register.Increase your turnover, reducing errors and delivery problems.Decrease product returns&#39; number.Improve your user&#39;s experience.]]></additional_description>
         <tab><![CDATA[checkout]]></tab>
-        <version><![CDATA[1.2.5]]></version>
+        <version><![CDATA[1.3.3]]></version>
         <compatibility>
-            <from><![CDATA[1.5.2.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <from><![CDATA[1.5.0.0]]></from>
+            <to><![CDATA[1.7.2.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[29.99]]></EUR>
@@ -2921,6 +2813,8 @@
             <GBP><![CDATA[27.99]]></GBP>
         </price>
         <badges>
+            <badge label="Los favoritos de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Socio creador de módulos">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/module-editor.png]]></badge>
         </badges>
@@ -2951,7 +2845,7 @@
         </compatibility>
         <price>
             <EUR><![CDATA[79.99]]></EUR>
-            <USD><![CDATA[94.99]]></USD>
+            <USD><![CDATA[99.99]]></USD>
             <GBP><![CDATA[74.99]]></GBP>
         </price>
         <cover>
@@ -3008,7 +2902,7 @@
         <additional_description>
             <![CDATA[El m&oacute;dulo SEO performance - URL Cleaner elimina autom&aacute;ticamente las ID y las URL de tus p&aacute;ginas de categor&iacute;as, productos y CMS que PrestaShop establece por defecto. Asimismo, crea redirecciones definitivas m&aacute;s cortas y din&aacute;micas para tus nuevas URL, que te permitir&aacute;n aprovechar al m&aacute;ximo el posicionamiento de tu tienda. &nbsp; &nbsp; &bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aumenta la visibilidad de tu tienda en los motores de b&uacute;squeda  Escala puestos en los resultados de b&uacute;squedas mejorando el esquema URL de las p&aacute;ginas de tus productos, categor&iacute;as y CMS. &nbsp; &nbsp; &bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ahorra tiempo &nbsp; &iexcl;Gracias a nuestro m&oacute;dulo, r&aacute;pido, intuitivo y ultrasencillo, podr&aacute;s mejorar tus URL en tan solo unos clics! &nbsp; &nbsp; &bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cambia tus URL con total seguridad &nbsp; Crea copias de seguridad de tus URL antiguas c&oacute;modamente antes de modificar de forma definitiva las URL de tu tienda.  &nbsp;]]></additional_description>
         <tab><![CDATA[seo]]></tab>
-        <version><![CDATA[1.2.1]]></version>
+        <version><![CDATA[1.2.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -3019,8 +2913,6 @@
             <GBP><![CDATA[54.99]]></GBP>
         </price>
         <badges>
-            <badge label="Los favoritos de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Made by PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
@@ -3152,9 +3044,9 @@
         <additional_description>
             <![CDATA[Let your customers interact with your products in 3D exactly the same way as in the physical store. With 3D they can look at your product from all sides to see details and gain confidence in their purchase. Such immersive shopping experience is essential for e-commerce and results in higher conversion and lower returns.&nbsp;3D Views are proven to increase engagement and conversion over static images by up to 30%!&nbsp;Cappasity solution is a powerful tool for capturing reflective or sparkling objects and demonstrating the textures of your products to potential customers.]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[1.0.2]]></version>
+        <version><![CDATA[1.0.3]]></version>
         <compatibility>
-            <from><![CDATA[1.5.6.1]]></from>
+            <from><![CDATA[1.6.0.4]]></from>
             <to><![CDATA[1.6.1.17]]></to>
         </compatibility>
         <price>
@@ -3225,7 +3117,7 @@
         <additional_description>
             <![CDATA[Mejora la experiencia del usuario al proponer en el resumen del carrito una de las funcionalidades m&aacute;s populares entre los clientes de los principales sitios web de e-commerce (Amazon, etc.).&nbsp;&nbsp;Aumenta el valor del carrito medio de tus clientes: si olvidaron alg&uacute;n producto que apartaron previamente en tu sitio web, lo a&ntilde;adir&aacute;n al carrito en su pr&oacute;xima visita aunque no tengan previsto comprarlo.&nbsp;Optimiza el resumen del carrito de tu sitio web al permitir que tus clientes hagan una lista de sus productos favoritos y los aparten.&nbsp;Dispara tus ventas al dar a tus clientes la posibilidad de encontrar estos art&iacute;culos cuando vuelvan a visitar tu sitio web y a&ntilde;adirlos f&aacute;cilmente al carrito.&nbsp;Fideliza a tus clientes al permitirles guardar un producto que les gusta para comprarlo m&aacute;s adelante.&nbsp;Favorece las compras impulsivas al indicar que esos productos est&aacute;n de oferta o que quedan pocas unidades.]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[1.0.1]]></version>
+        <version><![CDATA[1.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.7]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -3275,8 +3167,6 @@
             <GBP><![CDATA[44.99]]></GBP>
         </price>
         <badges>
-            <badge label="Los favoritos de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
             <badge label="Made by PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
@@ -3359,22 +3249,61 @@
     <module>
         <id><![CDATA[27535]]></id>
         <name><![CDATA[psproductstats]]></name>
-        <displayName><![CDATA[Estadísticas de productos esenciales]]></displayName>
+        <displayName><![CDATA[Estadísticas avanzadas del producto (estadísticas y consejos)]]></displayName>
         <categoryName><![CDATA[Informes y Estadísticas]]></categoryName>
         <description>
-            <![CDATA[De un solo vistazo desde la ficha de producto, accede a todas las estad&iacute;sticas clave para mejorar el rendimiento de cada producto e impulsar tus ventas]]></description>
+            <![CDATA[De un solo vistazo desde la ficha de producto, accede a todas las estad&iacute;sticas clave y recibe ideas de marketing y consejos de optimizaci&oacute;n para mejorar el rendimiento de cada producto e]]></description>
         <author><![CDATA[PrestaShop]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/informes-estadisticas/27535-estadisticas-de-productos-esenciales.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/informes-estadisticas/27535-estadisticas-avanzadas-del-producto-estadisticas-y-consejos.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/27535.jpg]]></img>
         <description_full>
-            <![CDATA[De un solo vistazo desde la ficha de producto, accede a todas las estad&iacute;sticas clave para mejorar el rendimiento de cada producto e impulsar tus ventas.]]></description_full>
+            <![CDATA[De un solo vistazo desde la ficha de producto, accede a todas las estad&iacute;sticas clave y recibe ideas de marketing y consejos de optimizaci&oacute;n para mejorar el rendimiento de cada producto e impulsar tus ventas.]]></description_full>
         <additional_description>
-            <![CDATA[Gracias al m&oacute;dulo Estad&iacute;sticas de producto&nbsp;desarrollado por PrestaShop, dispondr&aacute;s para cada producto y en el periodo que selecciones: &nbsp; Los datos relativos a las ventas y los ingresos generados por el producto:la curva de ventas realizadasla cifra de negocios generadalos ingresos netos generadosel perfil de los compradores por:g&eacute;neroedadpa&iacute;spreferencias de pagopreferencias de entrega&nbsp; La comparaci&oacute;n de los resultados de este producto con otros productos de la misma categor&iacute;a durante el periodo seleccionado, en t&eacute;rminos de:n&uacute;mero de ventascifra de negociostasa de conversi&oacute;nabandonos del carritotasa de reembolso]]></additional_description>
+            <![CDATA[Gracias al m&oacute;dulo Estad&iacute;sticas de producto y consejos&nbsp;desarrollado por PrestaShop, dispondr&aacute;s para cada producto y en el periodo que selecciones: &nbsp; Los datos relativos a las ventas y los ingresos generados por el producto:la curva de ventas realizadasla cifra de negocios generadalos ingresos netos generadosel perfil de los compradores por:g&eacute;neroedadpa&iacute;spreferencias de pagopreferencias de entrega&nbsp; La comparaci&oacute;n de los resultados de este producto con otros productos de la misma categor&iacute;a durante el periodo seleccionado, en t&eacute;rminos de:n&uacute;mero de ventascifra de negociostasa de conversi&oacute;nabandonos del carritotasa de reembolso]]></additional_description>
         <tab><![CDATA[analytics_stats]]></tab>
-        <version><![CDATA[1.0.1]]></version>
+        <version><![CDATA[2.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.1]]></from>
+            <to><![CDATA[1.7.2.4]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[59.99]]></EUR>
+            <USD><![CDATA[74.99]]></USD>
+            <GBP><![CDATA[54.99]]></GBP>
+        </price>
+        <badges>
+            <badge label="Los favoritos de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-selected.png]]></badge>
+            <badge label="Made by PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[https://medias3.prestastore.com/880939-pprod/estadisticas-avanzadas-del-producto-estadisticas-y-consejos.jpg]]></small>
+            <big>
+                <![CDATA[https://medias3.prestastore.com/880939-pbig/estadisticas-avanzadas-del-producto-estadisticas-y-consejos.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[28845]]></id>
+        <name><![CDATA[totalsavings]]></name>
+        <displayName><![CDATA[Total Ahorrado]]></displayName>
+        <categoryName><![CDATA[Promociones y Regalos]]></categoryName>
+        <description>
+            <![CDATA[Cierra m&aacute;s ventas y dispara la tasa de conversi&oacute;n de tu tienda incluyendo en el resumen del pedido el ahorro total del que se benefician tus clientes en el importe del carrito]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/promociones-regalos/28845-total-ahorrado.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/28845.jpg]]></img>
+        <description_full>
+            <![CDATA[Cierra m&aacute;s ventas y dispara la tasa de conversi&oacute;n de tu tienda incluyendo en el resumen del pedido el ahorro total del que se benefician tus clientes en el importe del carrito. &nbsp; Con el m&oacute;dulo Total Ahorrado, animar&aacute;s a tus clientes indecisos a finalizar la compra y mejorar&aacute;s su experiencia de usuario: &iexcl;mu&eacute;strales un banner personalizado y sugerente con todos los descuentos que han conseguido!]]></description_full>
+        <additional_description>
+            <![CDATA[Seg&uacute;n un estudio de la Fevad, entre el 15&nbsp;% y el 30&nbsp;% de los abandonos de carritos se producen durante la fase del pedido. Anima a tus clientes a finalizar sus compras: solo tienes que indicarles todo lo que pueden ahorrar gracias a los productos con descuento que han a&ntilde;adido al carrito. &nbsp; As&iacute; aumentar&aacute;s tu cifra de negocios y mejorar&aacute;s la experiencia del cliente gracias al uso de informaci&oacute;n clara y transparente sobre los precios en el resumen del pedido.]]></additional_description>
+        <tab><![CDATA[pricing_promotion]]></tab>
+        <version><![CDATA[1.0.3]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.4]]></from>
             <to><![CDATA[1.7.2.4]]></to>
         </compatibility>
         <price>
@@ -3387,9 +3316,80 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
         </badges>
         <cover>
+            <small><![CDATA[https://medias1.prestastore.com/935453-pprod/total-ahorrado.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/935453-pbig/total-ahorrado.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[28960]]></id>
+        <name><![CDATA[ekomiratingsandreviews]]></name>
+        <displayName><![CDATA[Valoraciones y Calificaciones eKomi]]></displayName>
+        <categoryName><![CDATA[Comentarios de clientes]]></categoryName>
+        <description>
+            <![CDATA[Integra sin ning&uacute;n problema eKomi shop y recopila valoraciones de producto con tu cuenta PrestaShop]]></description>
+        <author><![CDATA[PrestaShop Partners]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/comentarios-clientes/28960-valoraciones-y-calificaciones-ekomi.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/28960.jpg]]></img>
+        <description_full>
+            <![CDATA[Integra sin ning&uacute;n problema eKomi shop y recopila valoraciones de producto con tu cuenta PrestaShop. Activa el env&iacute;o de solicitudes de valoraciones desde tu &Aacute;rea de Cliente, y muestra autom&aacute;ticamente las valoraciones de producto en las p&aacute;ginas de los productos correspondientes.]]></description_full>
+        <additional_description>
+            <![CDATA[eKomi, como proveedor externo del servicio de opiniones y valoraciones para negocios, es el l&iacute;der en este sector especializado en la recopilaci&oacute;n, gesti&oacute;n y publicaci&oacute;n tanto de opiniones de servicio como de producto. Gracias a nuestra constante innovaci&oacute;n y tecnolog&iacute;a l&iacute;der en el mercado, ofrecemos los m&eacute;todos m&aacute;s flexibles de recopilaci&oacute;n de opiniones los cuales te permiten llegar a todos tus clientes de manera online como offline, y preguntarles acerca de su opini&oacute;n.&nbsp; &nbsp;Recopila y muestra autom&aacute;ticamente opiniones y valoraciones tanto de servicio como de producto.Aumenta la confianza de tu negocio e impulsa la lealtad de tus clientes, logrando incrementar las ventas.Activa tu extensi&oacute;n Seller Rating y muestra estrellas en tus Anuncios (Google Adwords), llegando a aumentar tu ratio de clics (CTR) hasta en un 17%.Incentiva compras adicionales con nuestra funci&oacute;n integrada de cupones.Reduce las devoluciones al mostrar las valoraciones de los productos en las p&aacute;ginas de los productos a los que corresponden.&nbsp; En resumen, entre m&aacute;s valoraciones obtengas para tu negocio, conduces m&aacute;s tr&aacute;fico a tu p&aacute;gina web, generas m&aacute;s confianza en tus clientes existentes y en los potenciales, e impulsas tus ventas y tu ROI - as&iacute; que comienza hoy mismo!]]></additional_description>
+        <tab><![CDATA[front_office_features]]></tab>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <from><![CDATA[1.5.0.0]]></from>
+            <to><![CDATA[1.7.2.4]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
             <small>
-                <![CDATA[https://medias3.prestastore.com/880939-pprod/estadisticas-de-productos-esenciales.jpg]]></small>
-            <big><![CDATA[https://medias2.prestastore.com/880939-pbig/estadisticas-de-productos-esenciales.jpg]]></big>
+                <![CDATA[https://medias3.prestastore.com/966454-pprod/valoraciones-y-calificaciones-ekomi.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/966454-pbig/valoraciones-y-calificaciones-ekomi.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[29782]]></id>
+        <name><![CDATA[pssocialfeed]]></name>
+        <displayName><![CDATA[MySocialFeed - Etiqueta tus productos]]></displayName>
+        <categoryName><![CDATA[Productos en Facebook & redes sociales]]></categoryName>
+        <description>
+            <![CDATA[&iexcl;Publica en tu tienda las mejores fotos de Instagram de tus clientes con tus productos!  Crea un hashtag para tu galer&iacute;a de fotos, inspira a tus visitantes y anima a los miembros de tu co]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/productos-en-facebook-redes-sociales/29782-mysocialfeed-etiqueta-tus-productos.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/29782.jpg]]></img>
+        <description_full>
+            <![CDATA[&iexcl;Publica en tu tienda las mejores fotos de Instagram de tus clientes con tus productos!  Crea un hashtag para tu galer&iacute;a de fotos, inspira a tus visitantes y anima a los miembros de tu comunidad a participar. Al hacer clic en las fotos, tus visitantes podr&aacute;n acceder a los productos y comprarlos con toda confianza. &iexcl;As&iacute; conseguir&aacute;s que se disparen las ventas en tu tienda!]]></description_full>
+        <additional_description>
+            <![CDATA[Gana visibilidad en las redes sociales y refuerza tu imagen de marca Tus clientes son tus mejores embajadores. &iexcl;Deja que te ayuden a promocionar tus productos! Tu presencia en las redes sociales es una garant&iacute;a de confianza para quienes visitan tu p&aacute;gina web. Si animas a tus clientes a incluir tu hashtag en sus fotos, tu marca tendr&aacute; m&aacute;s visibilidad en Instagram, conseguir&aacute;s m&aacute;s seguidores y dinamizar&aacute;s tu comunidad. &nbsp; Incrementa la confianza de tus clientes El 50&nbsp;% de los internautas conf&iacute;a m&aacute;s en el contenido que muestran los dem&aacute;s usuarios que en los modos de comunicaci&oacute;n tradicionales (estudio Ipsos y Crowdtap). Gracias a este m&oacute;dulo, alimentar&aacute;s tu web con contenido fiable y de calidad mostrando en tus p&aacute;ginas las fotos hechas por tus clientes con tus productos. &nbsp; Mejora la tasa de conversi&oacute;n de tu tienda Tus clientes encontrar&aacute;n inspiraci&oacute;n en tu &aacute;lbum de Instagram sin necesidad de explorar tu cat&aacute;logo de productos. As&iacute; ver&aacute;n las fotos de tus productos en condiciones reales y, adem&aacute;s, podr&aacute;n acceder a su descripci&oacute;n en un solo clic El proceso de compra resulta m&aacute;s f&aacute;cil, y eso aumenta la tasa de conversi&oacute;n.]]></additional_description>
+        <tab><![CDATA[social_networks]]></tab>
+        <version><![CDATA[1.0.2]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.4]]></from>
+            <to><![CDATA[1.7.2.4]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[79.99]]></EUR>
+            <USD><![CDATA[99.99]]></USD>
+            <GBP><![CDATA[74.99]]></GBP>
+        </price>
+        <badges>
+            <badge label="Made by PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/made-by-prestashop.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[https://medias3.prestastore.com/967721-pprod/mysocialfeed-etiqueta-tus-productos.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/967721-pbig/mysocialfeed-etiqueta-tus-productos.jpg]]></big>
         </cover>
     </module>
 </modules>

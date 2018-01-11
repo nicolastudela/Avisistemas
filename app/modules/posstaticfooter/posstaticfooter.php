@@ -170,6 +170,7 @@ class posstaticfooter extends Module {
     }
     
     public function getModulById($id_module) {
+        d('here fails');
         return Db::getInstance()->getRow('
             SELECT m.*
             FROM `' . _DB_PREFIX_ . 'module` m

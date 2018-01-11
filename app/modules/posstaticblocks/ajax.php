@@ -4,7 +4,8 @@ require_once(dirname(__FILE__).'../../../init.php');
 include(dirname(__FILE__).'/posstaticblocks.php');
 
  $pos = new posstaticblocks();
- $name_module = $_POST['module_id'];
+$name_module = $_POST['module_id'];
+PrestaShopLogger::addLog($name_module, $severity = 1);
  $module = Module::getInstanceByName($name_module);
  $id_module = $module->id;
  $hooks = $pos->getHooksByModuleId($id_module);
