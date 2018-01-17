@@ -3377,12 +3377,12 @@ table#product_comparison .button.lnk_view span, .button.button-small span, .butt
 .Static_info .wellcome p { line-height: 25px; color: #777777; font-size: 13px; margin: 0; }
 .Static_info .info { -webkit-border-radius: 5px 5px 5px 5px; border-radius: 5px 5px 5px 5px; padding: 20px; }
 @media (max-width: 767px) { .Static_info .info { margin-bottom: 30px; } }
-.Static_info .info.box1 { background: #8abe26; -webkit-box-shadow: 0 1px 0 0 #68901e; box-shadow: 0 1px 0 0 #68901e; }
-.Static_info .info.box1 .icont_static:before { content: "\f117"; color: #5a791b; }
-.Static_info .info.box2 { background: #3c5a99; -webkit-box-shadow: 0 1px 0 0 #263a66; box-shadow: 0 1px 0 0 #263a66; }
-.Static_info .info.box2 .icont_static:before { content: "\f188"; color: #24365c; }
-.Static_info .info.box3 { background: #4cb6c2; -webkit-box-shadow: 0 1px 0 0 #317b84; box-shadow: 0 1px 0 0 #317b84; }
-.Static_info .info.box3 .icont_static:before { content: "\f2bc"; color: #2d6d74; }
+.Static_info .info.box1 { background: #2c4ec3; -webkit-box-shadow: 0 1px 0 0 #68901e; box-shadow: 0 1px 0 0 #68901e; }
+.Static_info .info.box1 .icont_static:before { content: "\f20d"; color: black; }
+.Static_info .info.box2 { background: #c3562c; -webkit-box-shadow: 0 1px 0 0 #263a66; box-shadow: 0 1px 0 0 #263a66; }
+.Static_info .info.box2 .icont_static:before { content: "\f349"; color: black; }
+.Static_info .info.box3 { background: #2c99c3; -webkit-box-shadow: 0 1px 0 0 #317b84; box-shadow: 0 1px 0 0 #317b84; }
+.Static_info .info.box3 .icont_static:before { content: "\f128"; color: black; }
 .Static_info .info:hover .icont_static:before { -webkit-animation: fadeIn 300ms ease-in-out; -moz-animation: fadeIn 300ms ease-in-out; -ms-animation: fadeIn 300ms ease-in-out; animation: fadeIn 300ms ease-in-out; }
 .Static_info .info .icont_static { width: 90px; float: left; margin-right: 10px; }
 @media (min-width: 768px) and (max-width: 991px) { .Static_info .info .icont_static { float: none; width: auto; margin: 0 0 10px 0; } }

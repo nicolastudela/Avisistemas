@@ -3786,30 +3786,30 @@ table#product_comparison .button.lnk_view span,.button.button-small span ,.butto
 			margin-bottom: 30px;
 		}
 		&.box1 {
-			background:#8abe26;
+			background:#2c4ec3;
 			-webkit-box-shadow: 0 1px 0 0 #68901e;
 			box-shadow: 0 1px 0 0 #68901e;
 			.icont_static:before {
-				content: "\f117";
+				content: "\f20d";
 				color:#5a791b;
 			}
 		}
 		&.box2 {
-			background:#3c5a99;
+			background:#c3562c;
 			-webkit-box-shadow: 0 1px 0 0 #263a66;
 			box-shadow: 0 1px 0 0 #263a66;
 			.icont_static:before {
-				content: "\f188";
-				color:#24365c;
+				content: "\f349";
+				color: black;
 			}
 		}
 		&.box3 {
-			background:#4cb6c2;
+			background: #2c99c3;
 			-webkit-box-shadow: 0 1px 0 0 #317b84;
 			box-shadow: 0 1px 0 0 #317b84;
 			.icont_static:before {
-				content: "\f2bc";
-				color:#2d6d74;
+				content: "\f128";
+				color: black;
 			}
 		}
 		@include pos-radius;
