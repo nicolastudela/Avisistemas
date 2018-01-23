@@ -96,14 +96,6 @@
 </div>
 <div class="row">
 	<table class="table table-bordered">
-		<thead>
-		<tr>
-			<th class="logo">{l s='Logo'}</th>
-			<th class="name">{l s='Store name'}</th>
-			<th class="address">{l s='Store address'}</th>
-			<th class="store-hours">{l s='Working hours'}</th>
-		</tr>
-		</thead>
 		{foreach $storesSimplified as $store}
 			<tr class="store-small">
 				<td class="logo">
