@@ -116,7 +116,7 @@ class StoresControllerCore extends FrontController
 
         $this->context->smarty->assign(array(
             'simplifiedStoresDiplay' => true,
-            'stores' => $stores,
+            'storesSimplified' => $stores,
             'addresses_formated' => $addresses_formated,
         ));
     }
@@ -262,14 +262,13 @@ class StoresControllerCore extends FrontController
     {
         parent::initContent();
 
-        if (Configuration::get('PS_STORES_SIMPLIFIED')) {
+
             $this->assignStoresSimplified();
-        } else {
             $this->assignStores();
-        }
 
         $this->context->smarty->assign(array(
             'mediumSize' => Image::getSize(ImageType::getFormatedName('medium')),
+            'largeSize' => Image::getSize(ImageType::getFormatedName('large')),
             'defaultLat' => (float)Configuration::get('PS_STORES_CENTER_LAT'),
             'defaultLong' => (float)Configuration::get('PS_STORES_CENTER_LONG'),
             'searchUrl' => $this->context->link->getPageLink('stores'),
