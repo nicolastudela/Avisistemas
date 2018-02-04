@@ -12,7 +12,6 @@
         <module name="prestafraud"/>
         <module name="shoppingfluxexport"/>
         <module name="iziflux"/>
-        <module name="avalaratax"/>
         <module name="autoupgrade"/>
         <module name="gamification"/>
         <module name="gsitemap"/>
@@ -120,7 +119,6 @@
         <module name="easymarketing"/>
         <module name="dotpay"/>
         <module name="prestashippingeasy"/>
-        <module name="reforestaction"/>
         <module name="paygreen"/>
         <module name="bpostshm"/>
         <module name="dpdfrance"/>
@@ -139,14 +137,11 @@
         <module name="g2apay"/>
         <module name="cartsguru"/>
         <module name="cubyn"/>
-        <module name="ebadgeletitbuy"/>
         <module name="worldpay"/>
         <module name="etranslation"/>
         <module name="correos"/>
         <module name="onehopsmsservice"/>
-        <module name="easywebtoapp"/>
         <module name="prestashoptoquickbooks"/>
-        <module name="bablic"/>
         <module name="chargeback"/>
         <module name="wirecardceecheckoutseamless"/>
         <module name="lanavettepickup"/>
@@ -157,8 +152,8 @@
         <module name="lecabflash"/>
         <module name="xsellco"/>
         <module name="digitaleo"/>
+        <module name="worldfirst"/>
         <module name="stripe_official"/>
-        <module name="apiway"/>
         <module name="salesmanago"/>
         <module name="trustedshopsintegration"/>
         <module name="comnpay"/>
@@ -169,9 +164,9 @@
         <module name="feedbiz"/>
         <module name="adroll"/>
         <module name="worldcoo"/>
-        <module name="cloudswipe"/>
         <module name="cleverreach"/>
         <module name="upela"/>
+        <module name="fcpayone"/>
         <module name="mailchimpintegration"/>
         <module name="easycreditratenkauf"/>
         <module name="testingdigital"/>
@@ -183,6 +178,7 @@
         <module name="recolize"/>
         <module name="hermesc"/>
         <module name="match2one"/>
+        <module name="ekomiratingsandreviews"/>
         <module name="rovercash"/>
         <module name="psaddonsconnect"/>
         <module name="productmedia"/>
@@ -223,7 +219,6 @@
         <module name="hspointofsalepro"/>
         <module name="cartabandonmentpro"/>
         <module name="seoexpert"/>
-        <module name="giftcards"/>
         <module name="veplatform"/>
         <module name="totswitchattribute"/>
         <module name="supercheckout"/>
@@ -236,7 +231,6 @@
         <module name="flashsalepro"/>
         <module name="bmsboletobancario"/>
         <module name="quotation"/>
-        <module name="liveperson"/>
         <module name="configurator"/>
         <module name="djtalbrazilianregister"/>
         <module name="prestafip"/>
@@ -266,7 +260,6 @@
         <module name="pm_subscription"/>
         <module name="dashbypayment"/>
         <module name="dafiti"/>
-        <module name="currenciesdirect"/>
         <module name="autogoogleplace"/>
         <module name="djtalcielo"/>
         <module name="clublanacion"/>
@@ -281,6 +274,7 @@
         <module name="seoimg"/>
         <module name="pscookiebanner"/>
         <module name="psproductstats"/>
+        <module name="psgiftcards"/>
         <module name="totalsavings"/>
         <module name="pssocialfeed"/>
     </modules>

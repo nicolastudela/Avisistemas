@@ -1,7 +1,7 @@
 .navleft-container { position: relative; }
 .navleft-container .pt_vmegamenu_title { position: relative; overflow: hidden; cursor: pointer; }
 .navleft-container .pt_vmegamenu_title h2 { margin: 0; color: white; line-height: 50px; padding: 0; text-transform: capitalize; font-size: 18px; font-weight: 500; }
-.navleft-container .pt_vmegamenu_title h2:after { content: "\f107"; margin-left: 15px; vertical-align: -2px; font-family: "FontAwesome"; }
+.navleft-container .pt_vmegamenu_title h2:after { content: "\f03a"; margin-left: 15px; font-size: 1.3em; font-family: "FontAwesome"; }
 .navleft-container .pt_vmegamenu_title h2 i { display: none; }
 .navleft-container .pt_vmegamenu { display: none; position: absolute; left: 0; top: 51px; width: 100%; background: #fff; border: 1px solid rgba(0, 0, 0, 0.1); border-top: 0; }
 .navleft-container .pt_vmegamenu .pt_menu { position: relative; }

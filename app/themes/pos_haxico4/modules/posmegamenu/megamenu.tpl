@@ -24,7 +24,6 @@
 
 					</a>
 
-					<span class="brand">{l s='Category'}</span>
 
 				</div>
 
@@ -100,6 +99,15 @@
 						{/if}
 						{if isset($all_man_link)} {$all_man_link} {/if}
 						{if isset($all_sup_link)} {$all_sup_link} {/if}
+
+					<li>
+						<a href="/tiendas" title="ubicacion">Como llegar</a>
+					</li>
+
+					<li>
+						<a href="/content/sobre-nosotros" title="sobre-nosotros">Sobre nosotros</a>
+					</li>
+
 
 
 

@@ -1,7 +1,7 @@
 
 <div class="navleft-container visible-lg visible-md ">
 	<div class="pt_vmegamenu_title">
-		<h2><i class="icon-reorder"></i>{l s='All categories' mod='posvegamenu'}</h2>
+		<h2><i class="icon-reorder"></i></h2>
 	</div>
     <div id="pt_vmegamenu" class="pt_vmegamenu">
         {$megamenu}

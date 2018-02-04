@@ -1180,7 +1180,7 @@ table#product_comparison .remove { text-align: left; }
 .pt_custommenu .pt_menu .popup .block1 .column.last { margin-left: 0; }
 .pt_custommenu .pt_menu .popup .block1 .column .itemSubMenu .itemMenuName:before { margin: 0 0 0 10px; }
 
-.navleft-container .pt_vmegamenu_title h2:before { content: "\f107"; margin-right: 15px; vertical-align: -2px; font-family: "FontAwesome"; }
+.navleft-container .pt_vmegamenu_title h2:before { content: "\f107"; margin-right: 15px; font-family: "FontAwesome"; }
 .navleft-container .pt_vmegamenu_title h2:after { display: none; }
 .navleft-container .pt_vmegamenu .pt_menu { position: relative; }
 .navleft-container .pt_vmegamenu .pt_menu:not(.noSub):after { left: 15px; right: auto; content: "\f104"; }
