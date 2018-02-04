@@ -1248,7 +1248,7 @@ class Posmegamenu extends Module {
             $html .= '<div id="pt_menu' . $id . '" class="pt_menu' . $active . '">';
             $html .= '<div class="parentMenu">';
             $html .= '<a href="' . __PS_BASE_URI__ . '">';
-            $html .= '<span>' . $this->l('Home') . '</span>';
+            //$html .= '<span>' . $this->l('Home') . '</span>';
             $html .= '</a>';
             $html .= '</div>';
             $html .= '</div>';
@@ -1303,7 +1303,7 @@ class Posmegamenu extends Module {
             $html .= '<div id="pt_menu' . $id . '" class="pt_menu' . $active . '">';
             $html .= '<div class="parentMenu">';
             $html .= '<a href="' . __PS_BASE_URI__ . '">';
-            $html .= '<span>' . $this->l('Home') . '</span>';
+            //$html .= '<span>' . $this->l('Home') . '</span>';
             $html .= '</a>';
             $html .= '</div>';
             $html .= '</div>';
