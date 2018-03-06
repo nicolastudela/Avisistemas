@@ -1,89 +1,115 @@
-<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-  <channel>
-    <title>Blog Feed</title>
-    <link>https://www.prestashop.com/es/blog/feed.xml</link>
-    <description></description>
-    <language>es</language>
-     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
-      <item>
-    <title>¿Qué estrategia tienen en Instagram los principales eCommerce?</title>
-    <link>https://www.prestashop.com/es/blog/estrategia-en-instagram</link>
-    <description>¿Te gustaría saber cuál es la estrategia en Instagram de varios de las tiendas online más relevantes en estos momentos?</description>
-     <pubDate>Wed, 17 Jan 2018 10:52:43 +0100</pubDate>
- <dc:creator>isabel.romero.carretero</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/estrategia-en-instagram</guid>
-  </item>
-  <item>
-    <title>¿Cómo actualizar mi tienda de PrestaShop 1.6 a 1.7 paso a paso?</title>
-    <link>https://www.prestashop.com/es/blog/actualizar-prestashop-1-6-a-1-7</link>
-    <description>¿Tienes desactualizada la web de tu eCommerce y necesitas actualizar tu PrestaShop de la versión 1.6 a la 1.7?</description>
-     <pubDate>Mon, 15 Jan 2018 13:07:28 +0100</pubDate>
- <dc:creator>Antonio Torres</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/actualizar-prestashop-1-6-a-1-7</guid>
-  </item>
-  <item>
-    <title>DosFarma: el éxito de su parafarmacia online diseñada en Prestashop</title>
-    <link>https://www.prestashop.com/es/blog/dosfarma-parafarmacia-online</link>
-    <description>¿Te imaginas que pudieras comprar todos tus productos de cosmética y dietética de uso habitual desde una parafarmacia online?</description>
-     <pubDate>Tue, 09 Jan 2018 11:48:37 +0100</pubDate>
- <dc:creator>Maite Ortín</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/dosfarma-parafarmacia-online</guid>
-  </item>
-  <item>
-    <title>Tendencias Social Media para eCommerce que triunfarán en 2018</title>
-    <link>https://www.prestashop.com/es/blog/tendencias-social-media</link>
-    <description>¿Cuáles serán las mejores tendencias en Social Media para 2018, de las que podrá aprovecharse mi tienda online?</description>
-     <pubDate>Tue, 09 Jan 2018 10:34:26 +0100</pubDate>
- <dc:creator>Ismael Ruiz</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/tendencias-social-media</guid>
-  </item>
-  <item>
-    <title>¿Qué es el contenido duplicado y cómo afecta al SEO de mi web?</title>
-    <link>https://www.prestashop.com/es/blog/contenido-duplicado</link>
-    <description>¿Te has parado alguna vez a pensar si la web de tu tienda online está afectada por contenido duplicado?</description>
-     <pubDate>Wed, 03 Jan 2018 12:18:46 +0100</pubDate>
- <dc:creator>Jose Luis López</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/contenido-duplicado</guid>
-  </item>
-  <item>
-    <title>¿Qué es un ERP y cómo puede mejorar la gestión de tu tienda en PrestaShop?</title>
-    <link>https://www.prestashop.com/es/blog/que-es-erp</link>
-    <description>¿Has pensado en contar con un sistema de gestión ERP que te ayude a aumentar los beneficios de tu eCommerce?</description>
-     <pubDate>Wed, 27 Dec 2017 16:06:27 +0100</pubDate>
- <dc:creator>Mariela Quiroga</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-erp</guid>
-  </item>
-  <item>
-    <title>Conoce a Jose &amp;amp; Ismael, Embajadores del mes | Diciembre 2017</title>
-    <link>https://www.prestashop.com/es/blog/conoce-a-jose-y-ismael-embajadores-del-mes-diciembre-2017</link>
-    <description>¡José e Ismael son nuestros entusiastas embajadores en Málaga y siempre organizan sus Meetups juntos!</description>
-     <pubDate>Wed, 27 Dec 2017 00:00:00 +0100</pubDate>
- <dc:creator>Manon Plommet</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/conoce-a-jose-y-ismael-embajadores-del-mes-diciembre-2017</guid>
-  </item>
-  <item>
-    <title>¿Cuáles son las mayores novedades de la versión PrestaShop 1.7?</title>
-    <link>https://www.prestashop.com/es/blog/novedades-prestashop-1-7</link>
-    <description>¿Aún no conoces las novedades más importantes que introduce PrestaShop 1.7 para tu negocio online?</description>
-     <pubDate>Tue, 26 Dec 2017 17:44:38 +0100</pubDate>
- <dc:creator>Jorge Ortega</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/novedades-prestashop-1-7</guid>
-  </item>
-  <item>
-    <title>¿Cómo crear una cuenta profesional en Pinterest para tu tienda online?</title>
-    <link>https://www.prestashop.com/es/blog/crear-cuenta-pinterest</link>
-    <description>¿Aún no tienes una cuenta en Pinterest para tu negocio, donde muestres tus productos de una manera más visual y atractiva?</description>
-     <pubDate>Tue, 19 Dec 2017 14:01:07 +0100</pubDate>
- <dc:creator>Ismael Ruiz</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-cuenta-pinterest</guid>
-  </item>
-  <item>
-    <title>¿Cómo hacer un test de velocidad de carga a la web de tu eCommerce?</title>
-    <link>https://www.prestashop.com/es/blog/test-velocidad-carga-web</link>
-    <description>¿Has analizado alguna vez si la velocidad de carga de tu tienda online es la más óptima?</description>
-     <pubDate>Mon, 18 Dec 2017 13:31:30 +0100</pubDate>
- <dc:creator>Jose Facchin</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/test-velocidad-carga-web</guid>
-  </item>
-  </channel>
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+    <channel>
+        <title>Blog Feed</title>
+        <link>https://www.prestashop.com/es/blog/feed.xml</link>
+        <description></description>
+        <language>es</language>
+        <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>¿Cómo crear un logo que potencie la imagen de tu tienda online?</title>
+            <link>https://www.prestashop.com/es/blog/como-crear-un-logotipo-llamativo-y-la-imagen-de-tu-tienda-online
+            </link>
+            <description>Crear un logo que consiga representar los objetivos y valores de una marca es la carta de
+                presentación de toda empresa, ya sea un eCommerce u otro tipo de negocio.
+            </description>
+            <pubDate>Mon, 05 Mar 2018 11:43:00 +0100</pubDate>
+            <dc:creator>Ismael Ruiz</dc:creator>
+            <guid isPermaLink="false">
+                https://www.prestashop.com/es/blog/como-crear-un-logotipo-llamativo-y-la-imagen-de-tu-tienda-online
+            </guid>
+        </item>
+        <item>
+            <title>¿Qué es un blog y cómo puedo integrarlo dentro de mi tienda PrestaShop?</title>
+            <link>https://www.prestashop.com/es/blog/que-es-un-blog</link>
+            <description>¿Aún no sabes qué es un blog ni qué beneficios puede aportar tener uno dentro de tu tienda
+                online?
+            </description>
+            <pubDate>Tue, 27 Feb 2018 10:32:29 +0100</pubDate>
+            <dc:creator>Vanessa García Barahona</dc:creator>
+            <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-un-blog</guid>
+        </item>
+        <item>
+            <title>¿Qué son los enlaces dofollow y nofollow y cómo afectan al SEO?</title>
+            <link>https://www.prestashop.com/es/blog/enlaces-dofollow-nofollow</link>
+            <description>Cuando hablamos de los enlaces en el SEO, siempre hay dudas al hablar de las diferencias entre
+                enlaces “do follow” y “no follow”.
+            </description>
+            <pubDate>Fri, 23 Feb 2018 10:07:47 +0100</pubDate>
+            <dc:creator>Rafa_Sospedra</dc:creator>
+            <guid isPermaLink="false">https://www.prestashop.com/es/blog/enlaces-dofollow-nofollow</guid>
+        </item>
+        <item>
+            <title>Los 10 Mejores módulos SEO para mejorar el posicionamiento de tu tienda PrestaShop</title>
+            <link>https://www.prestashop.com/es/blog/modulos-seo</link>
+            <description>¿Existen módulos SEO que te ayuden a mejorar el posicionamiento de tu eCommerce?
+                Claro que sí, precisamente éste es el tema del que quiero hablarte hoy en el blog de PrestaShop.
+            </description>
+            <pubDate>Fri, 23 Feb 2018 08:23:10 +0100</pubDate>
+            <dc:creator>Jose Facchin</dc:creator>
+            <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-seo</guid>
+        </item>
+        <item>
+            <title>¿Qué es el Marketing de Influencers y cómo integrarlo en la estrategia de tu eCommerce?</title>
+            <link>https://www.prestashop.com/es/blog/marketing-de-influencers</link>
+            <description>Hoy en día, el marketing de influencers es una de las mejores técnicas que te pueden ayudar a
+                llegar a nuevos clientes.
+            </description>
+            <pubDate>Mon, 19 Feb 2018 12:31:41 +0100</pubDate>
+            <dc:creator>María Martín Parrilla</dc:creator>
+            <guid isPermaLink="false">https://www.prestashop.com/es/blog/marketing-de-influencers</guid>
+        </item>
+        <item>
+            <title>¿Qué es el target y cómo identificarlo dentro de mi eCommerce?</title>
+            <link>https://www.prestashop.com/es/blog/que-es-target</link>
+            <description>¿Sabes a quién diriges la estrategia de marketing que estás llevando a cabo en tu eCommerce? En
+                otras palabras, ¿has identificado ya tu target?
+            </description>
+            <pubDate>Mon, 19 Feb 2018 10:54:24 +0100</pubDate>
+            <dc:creator>LauraAmanda</dc:creator>
+            <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-target</guid>
+        </item>
+        <item>
+            <title>El Estante de Murcia: el éxito de su Marketplace de comida online</title>
+            <link>https://www.prestashop.com/es/blog/el-estante-de-murcia</link>
+            <description>Vender comida online no es fácil, ya que el de la alimentación es un sector que no acaba de
+                despegar en Internet y sobre el que los consumidores siguen aún teniendo cierta incertid
+            </description>
+            <pubDate>Wed, 14 Feb 2018 11:06:07 +0100</pubDate>
+            <dc:creator>MJoseAlbacete</dc:creator>
+            <guid isPermaLink="false">https://www.prestashop.com/es/blog/el-estante-de-murcia</guid>
+        </item>
+        <item>
+            <title>¿Qué es el B2B y cómo crear tu eCommerce B2B con PrestaShop?</title>
+            <link>https://www.prestashop.com/es/blog/que-es-b2b</link>
+            <description>¿Aún no sabes cómo crear un eCommerce del tipo B2B para dirigirte a otras empresas y hacer que
+                éstas compren los productos de tu tien
+            </description>
+            <pubDate>Wed, 14 Feb 2018 10:53:35 +0100</pubDate>
+            <dc:creator>Jose Facchin</dc:creator>
+            <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-b2b</guid>
+        </item>
+        <item>
+            <title>¡PrestaShop te quiere! &amp;lt;3</title>
+            <link>https://www.prestashop.com/es/blog/prestashop-te-quiere</link>
+            <description>Era evidente. Nos conocimos en 2007 y nos unieron nuestras dos pasiones: el e-commerce y el
+                código abierto.
+            </description>
+            <pubDate>Tue, 13 Feb 2018 12:01:13 +0100</pubDate>
+            <dc:creator>Cécile Dubouis</dc:creator>
+            <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-te-quiere</guid>
+        </item>
+        <item>
+            <title>¿Qué es AMP de Google y cómo implementarlo en tu PrestaShop?</title>
+            <link>https://www.prestashop.com/es/blog/que-es-amp-google</link>
+            <description>¿Sabes si tu tienda PrestaShop cumple con las las exigencias AMP y es totalmente compatible con
+                ella?
+            </description>
+            <pubDate>Thu, 08 Feb 2018 11:32:39 +0100</pubDate>
+            <dc:creator>Carlos Cámara</dc:creator>
+            <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-amp-google</guid>
+        </item>
+    </channel>
 </rss>

@@ -101,7 +101,6 @@
         <module action="disable" name="crossselling"/>
         <module action="disable" name="editorial"/>
         <module action="disable" name="favoriteproducts"/>
-        <module action="disable" name="ganalytics"/>
         <module action="disable" name="gsitemap"/>
         <module action="disable" name="mailalerts"/>
         <module action="disable" name="newsletter"/>

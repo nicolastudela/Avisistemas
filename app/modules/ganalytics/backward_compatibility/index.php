@@ -1,6 +1,6 @@
 <?php
 /*
-* 2007-2016 PrestaShop
+* 2007-2014 PrestaShop
 *
 * NOTICE OF LICENSE
 *
@@ -19,27 +19,17 @@
 * needs please refer to http://www.prestashop.com for more information.
 *
 *  @author PrestaShop SA <contact@prestashop.com>
-*  @copyright  2007-2016 PrestaShop SA
+*  @copyright  2007-2014 PrestaShop SA
 *  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 */
-
-class IndexControllerCore extends FrontController
-{
-    public $php_self = 'index';
-
-    /**
-     * Assign template vars related to page content
-     * @see FrontController::initContent()
-     */
-    public function initContent()
-    {
-        parent::initContent();
-        $this->addJS(_THEME_JS_DIR_.'index.js');
-        $this->context->smarty->assign(array('HOOK_HOME' => Hook::exec('displayHome'),
-            'HOOK_HOME_TAB' => Hook::exec('displayHomeTab'),
-            'HOOK_HOME_TAB_CONTENT' => Hook::exec('displayHomeTabContent')
-        ));
-        $this->setTemplate(_PS_THEME_DIR_.'index.tpl');
-    }
-}
+			    	
+header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
+header("Last-Modified: ".gmdate("D, d M Y H:i:s")." GMT");
+	
+header("Cache-Control: no-store, no-cache, must-revalidate");
+header("Cache-Control: post-check=0, pre-check=0", false);
+header("Pragma: no-cache");
+	
+header("Location: ../");
+exit;

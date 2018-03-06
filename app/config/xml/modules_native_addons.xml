@@ -14,12 +14,12 @@
         <description_full>
             <![CDATA[PrestaShop brings you the Colissimo delivery options module: a turnkey solution offering all of Colissimo's services for delivery to France and in Europe. 48h delivery service to home addresses or collection points.   ]]></description_full>
         <additional_description>
-            <![CDATA[A free solution with no need for development, easy to install from your Prestashop back-office.An "iframe" delivery page that is consistent with the site, thus ensuring continuity in the buying process.A wide range of shipping methods to meet the needs of your e-buyers.Increased revenue through the Colissimo service in EuropeAccess to a dedicated customer area in the "Colissimo Box" and a tracking tool for your shipments: ColiView.A mobile version of the module to ensure compatibility and consistent sales throughout the day. This module will help you generate additional sales thanks to your multichannel presence.NB: This module is for traders with a SIRET French business identification number. ]]></additional_description>
+            <![CDATA[ Front page benetifs :An easy and  quick installation that allows you to make all your national and  international Colissimo withdrawal points available to your e-buyersEntering the tariff point withdrawal directly on Prestashop A customization of the front page point withdrawal in harmony with the design of your site  Colissimo simplicité benefits : A free solution with no need for development, easy to install from your Prestashop back-office.An "iframe" delivery page that is consistent with the site, thus ensuring continuity in the buying process.A wide range of shipping methods to meet the needs of your e-buyers.Increased revenue through the Colissimo service in EuropeAccess to a dedicated customer area in the "Colissimo Box" and a tracking tool for your shipments: ColiView.A mobile version of the module to ensure compatibility and consistent sales throughout the day. This module will help you generate additional sales thanks to your multichannel presence.NB: This module is for traders with a SIRET French business identification number. ]]></additional_description>
         <tab><![CDATA[shipping_logistics]]></tab>
-        <version><![CDATA[3.0.9]]></version>
+        <version><![CDATA[3.0.12]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -53,7 +53,7 @@
         <version><![CDATA[1.0.7]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -88,7 +88,7 @@
         <version><![CDATA[1.0.37]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.14]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -120,10 +120,10 @@
         <additional_description>
             <![CDATA[Novedades de la versión 4.2 Novedades de Braintree para Francia, Reino Unido, España e Italia:        Registro con autorización de   Braintree       Umbral de activación   3DS       Compatibilidad con varias divisas       Solo se aceptan tarjetas de crédito desactivando PayPal  PayPal       Nuevo: se ha añadido una opción   para cambiar al acceso directo a Pago exprés de PayPal       Mejoras: Vista del nombre   de usuario de API    Contenido de marketing actualizado     Traducciones actualizadas para FR, EN, DE, IT, ES, PT y PL    Pequeñas correcciones globales ]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[3.11.4]]></version>
+        <version><![CDATA[3.11.6]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -155,10 +155,10 @@
         <additional_description>
             <![CDATA[Con este m&oacute;dulo enriqueces tu oferta comercial dando a tus clientes m&aacute;s opciones de entrega de sus pedidos. Los consumidores aprecian la posibilidad de poder recoger sus pedidos donde y cuando les vaya bien sin tener que esperar en casa la llegada de un repartidor. A&ntilde;adiendo esta opci&oacute;n en el check-out mejorar&aacute; la tasa de conversi&oacute;n de las visitas. &nbsp;Las funcionalidades est&aacute;n a la altura de las expectativas de los consumidores m&aacute;s exigentes:B&uacute;squeda de los puntos de entrega con geolocalizaci&oacute;n, horarios e distanciasEnv&iacute;o al cliente de una notificaci&oacute;n de llegada de su paquete (mail y SMS)Tracking desde la admisi&oacute;n del paquete en la red Mondial Relay hasta su entrega finalVerificaci&oacute;n de la identidad del destinatario y POD en formato electr&oacute;nicoExtranet dedicado para post-venta y generaci&oacute;n de etiquetas&nbsp; de devoluci&oacute;n]]></additional_description>
         <tab><![CDATA[shipping_logistics]]></tab>
-        <version><![CDATA[2.2.0]]></version>
+        <version><![CDATA[2.2.3]]></version>
         <compatibility>
             <from><![CDATA[1.4.4.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -193,7 +193,7 @@
         <version><![CDATA[3.3.7]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -230,7 +230,7 @@
         <version><![CDATA[4.0.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -258,7 +258,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -286,7 +286,7 @@
         <version><![CDATA[1.1.7]]></version>
         <compatibility>
             <from><![CDATA[1.5.2.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -317,7 +317,7 @@
         <version><![CDATA[4.5.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -349,7 +349,7 @@
         <version><![CDATA[2.0.17]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -379,7 +379,7 @@
         <version><![CDATA[1.6.8]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -413,7 +413,7 @@
         <version><![CDATA[1.13.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -442,7 +442,7 @@
         <version><![CDATA[3.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.4.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -477,7 +477,7 @@
         <version><![CDATA[1.3.9]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -511,7 +511,7 @@
         <version><![CDATA[1.8]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -543,10 +543,10 @@
         <additional_description>
             <![CDATA[Con SendinBlue, podrá :Sincronizar automáticamente sus contactos en SendinBlue e importar las ventasCrear y enviar hermosos boletinesOptimizar las recepciones en la bandeja de entrega de sus correos electrónicos transaccionales (confirmación de registro, control, etc.)Seguir los resultados de sus envíos en tiempo realDisfrutar de un servicio al cliente por teléfono o correo electrónico Vea nuestro tutorial : https://resources.sendinblue.com/es/plugin-prestashop/]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[2.7.1]]></version>
+        <version><![CDATA[2.7.3]]></version>
         <compatibility>
-            <from><![CDATA[1.4.9.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <from><![CDATA[1.4.10.0]]></from>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -576,7 +576,7 @@
         <version><![CDATA[2.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -596,24 +596,24 @@
     </module>
     <module>
         <id><![CDATA[8943]]></id>
-        <name><![CDATA[realexredirect]]></name>
+        <name><![CDATA[realexpaymentshpp]]></name>
         <displayName><![CDATA[Realex Payments ]]></displayName>
         <categoryName><![CDATA[Pago con Tarjeta o Carteras digitales]]></categoryName>
         <description>
-            <![CDATA[Realex Payment&rsquo;s online payments solution&nbsp;helps over 13,000 businesses sell online and securely processes billions in transactions every year]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
+            <![CDATA[Realex Payment’s online payments solution&nbsp;helps over 13,000 businesses sell online and securely processes billions in transactions every year]]></description>
+        <author><![CDATA[Community developer]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/8943-realexredirect.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/8943-realex-payments.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/8943.jpg]]></img>
         <description_full>
-            <![CDATA[Realex Payment&rsquo;s online payments solution&nbsp;helps over 13,000 businesses sell online and securely processes billions in transactions every year.  We deliver an awesome payments experience and we have experts at hand to guide you every step of the way. &nbsp;  Be inspired by our 5 star Trustpilot rating: We know the value of personal customer service which is why you can always speak to a member of our support team, anytime.]]></description_full>
+            <![CDATA[Realex Payment’s online payments solution&nbsp;helps over 13,000 businesses sell online and securely processes billions in transactions every year.]]></description_full>
         <additional_description>
-            <![CDATA[ Productivity :&nbsp;Improve your website securityOur seamless payment page allows your customers to easily make payments online.We ensure you offer the&nbsp;perfect combination of payment methods&nbsp;to your customers allowing you to maximise online sales for your business. We deliver a&nbsp;fully customisable payment experience&nbsp;that integrates with your brand and is supported by our powerful technology.Our&nbsp;commitment to innovation&nbsp;ensures you have access to the latest payment technologiesOur payment solution includes&nbsp;30+ fraud checks&nbsp;&amp; 3D secure authentication.&nbsp; &nbsp;]]></additional_description>
+            <![CDATA[ Productivity : Improve your website securityOur seamless payment page allows your customers to easily make payments online.We ensure you offer the perfect combination of payment methods to your customers allowing you to maximise online sales for your business. We deliver a fully customisable payment experience that integrates with your brand and is supported by our powerful technology.Our commitment to innovation ensures you have access to the latest payment technologiesOur payment solution includes 30+ fraud checks & 3D secure authentication.   ]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[1.8.3]]></version>
+        <version><![CDATA[2.0.0]]></version>
         <compatibility>
-            <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <from><![CDATA[1.6.0.4]]></from>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -625,8 +625,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/760775-pprod/realexredirect.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/760775-pbig/realexredirect.jpg]]></big>
+            <small><![CDATA[https://medias3.prestastore.com/760775-pprod/realex-payments.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/760775-pbig/realex-payments.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -645,7 +645,7 @@
         <version><![CDATA[1.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -673,7 +673,7 @@
         <version><![CDATA[1.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -701,7 +701,7 @@
         <version><![CDATA[2.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -729,7 +729,7 @@
         <version><![CDATA[2.7.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -757,7 +757,7 @@
         <version><![CDATA[1.8.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -786,7 +786,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -814,7 +814,7 @@
         <version><![CDATA[0.7.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -842,7 +842,7 @@
         <version><![CDATA[1.7.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -872,7 +872,7 @@
         <version><![CDATA[1.2.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -901,7 +901,7 @@
         <version><![CDATA[1.2.9]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -930,7 +930,7 @@
         <version><![CDATA[3.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -958,7 +958,7 @@
         <version><![CDATA[2.5.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -988,7 +988,7 @@
         <version><![CDATA[3.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1018,7 +1018,7 @@
         <version><![CDATA[1.9.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1046,7 +1046,7 @@
         <version><![CDATA[1.7.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1075,7 +1075,7 @@
         <version><![CDATA[1.9.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1103,7 +1103,7 @@
         <version><![CDATA[1.1.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1118,23 +1118,23 @@
     <module>
         <id><![CDATA[9176]]></id>
         <name><![CDATA[sofortbanking]]></name>
-        <displayName><![CDATA[SOFORT]]></displayName>
+        <displayName><![CDATA[Online Bank Transfer]]></displayName>
         <categoryName><![CDATA[Pago por Transferencia]]></categoryName>
         <description>
-            <![CDATA[SOFORT es el l&iacute;der europeo en pagos mediante transferencia bancaria directa online]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
+            <![CDATA[Direct payment via online banking. Easy, quick and secure – without registration]]></description>
+        <author><![CDATA[Community developer]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/pago-transferencia/9176-sofort.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/pago-transferencia/9176-online-bank-transfer.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/9176.jpg]]></img>
         <description_full>
-            <![CDATA[SOFORT es el l&iacute;der europeo en pagos mediante transferencia bancaria directa online. M&aacute;s de 180 millones de consumidores de 13 pa&iacute;ses europeos pueden pagar con SOFORT sin necesidad de registrarse. Compatible con 38 bancos en Espa&ntilde;a]]></description_full>
+            <![CDATA[Direct payment via online banking. Easy, quick and secure – without registration. Automatic data transfer and the real-time transaction notification enable a smooth payment process and a faster delivery.]]></description_full>
         <additional_description>
-            <![CDATA[Pagos mediante transferencia bancaria para a eCommerceNotificaci&oacute;n en tiempo real de la transacci&oacute;nM&aacute;xima seguridad en el pago para sus clientesCondiciones econ&oacute;micas atractivasF&aacute;cil integraci&oacute;n en tienda]]></additional_description>
+            <![CDATA[Attractive- Cost savings through low fees- Credited funds are irreversible- Low default risk- Low storage costs thanks to short processing times Easy- Automated and transparent processes- Easy integration thanks to more than 100 plug-ins for standardized shop systems as well as an efficient API for individual shop systems- Convenient for your customers as they can use their online banking details- No eWallet and thus no registration required for your customers Fast- Funds are transferred directly from customer’s online banking account to your bank account- Real-time transaction notification after the transfer has been listed- All within one process - faster than advanced payment (by bank transfer)- Fast cash flow, high liquidity Secure- Data is transferred in an encrypted form via secured connections- Payment system certified by TÜV Saarland with a certified data protection (TÜV Saarland is a German, state-approved monitoring body for the inspection and maintenance of security standards)- Data processing center in Germany in accordance with strict banking standards]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[3.0.0]]></version>
+        <version><![CDATA[3.0.2]]></version>
         <compatibility>
-            <from><![CDATA[1.5.6.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <from><![CDATA[1.5.0.0]]></from>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1146,8 +1146,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/741292-pprod/sofort.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/741292-pbig/sofort.jpg]]></big>
+            <small><![CDATA[https://medias1.prestastore.com/1001307-pprod/online-bank-transfer.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/1001307-pbig/online-bank-transfer.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -1168,7 +1168,7 @@
         <version><![CDATA[0.10.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1196,7 +1196,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1224,7 +1224,7 @@
         <version><![CDATA[1.8.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1252,7 +1252,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1280,7 +1280,7 @@
         <version><![CDATA[2.9.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1308,7 +1308,7 @@
         <version><![CDATA[2.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1336,7 +1336,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1364,7 +1364,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1394,7 +1394,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1422,7 +1422,7 @@
         <version><![CDATA[0.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1450,7 +1450,7 @@
         <version><![CDATA[2.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1479,7 +1479,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1507,7 +1507,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1535,7 +1535,7 @@
         <version><![CDATA[2.2.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1563,7 +1563,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1591,7 +1591,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1619,7 +1619,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1647,7 +1647,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1675,7 +1675,7 @@
         <version><![CDATA[1.10.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1703,7 +1703,7 @@
         <version><![CDATA[2.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1731,7 +1731,7 @@
         <version><![CDATA[0.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1759,7 +1759,7 @@
         <version><![CDATA[0.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1787,7 +1787,7 @@
         <version><![CDATA[1.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1815,7 +1815,7 @@
         <version><![CDATA[1.7.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1843,7 +1843,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1871,7 +1871,7 @@
         <version><![CDATA[1.2.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1899,7 +1899,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1927,7 +1927,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1955,7 +1955,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -1983,7 +1983,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2011,7 +2011,7 @@
         <version><![CDATA[2.2.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2039,7 +2039,7 @@
         <version><![CDATA[0.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2067,7 +2067,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2097,7 +2097,7 @@
         <version><![CDATA[1.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2125,7 +2125,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2153,7 +2153,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2183,7 +2183,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2213,7 +2213,7 @@
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2243,7 +2243,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2277,7 +2277,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2310,7 +2310,7 @@
         <version><![CDATA[1.8.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2340,7 +2340,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2371,7 +2371,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2405,7 +2405,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2435,7 +2435,7 @@
         <version><![CDATA[1.8.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2465,7 +2465,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2493,7 +2493,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2523,7 +2523,7 @@
         <version><![CDATA[1.4.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2553,7 +2553,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2583,7 +2583,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2613,7 +2613,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2643,7 +2643,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2673,7 +2673,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2703,7 +2703,7 @@
         <version><![CDATA[1.5.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2733,7 +2733,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2763,7 +2763,7 @@
         <version><![CDATA[1.4.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2793,7 +2793,7 @@
         <version><![CDATA[1.5.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2823,7 +2823,7 @@
         <version><![CDATA[1.6.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2853,7 +2853,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2883,7 +2883,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2913,7 +2913,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2943,7 +2943,7 @@
         <version><![CDATA[1.4.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -2973,7 +2973,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3003,7 +3003,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3033,7 +3033,7 @@
         <version><![CDATA[1.5.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3063,7 +3063,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3093,7 +3093,7 @@
         <version><![CDATA[1.3.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3123,7 +3123,7 @@
         <version><![CDATA[1.4.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3153,7 +3153,7 @@
         <version><![CDATA[1.6.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3183,7 +3183,7 @@
         <version><![CDATA[1.6.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3211,7 +3211,7 @@
         <version><![CDATA[2.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3241,7 +3241,7 @@
         <version><![CDATA[2.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3272,7 +3272,7 @@
         <version><![CDATA[1.0.11]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3301,7 +3301,7 @@
         <version><![CDATA[1.4.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.17]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3331,7 +3331,7 @@
         <version><![CDATA[1.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3362,7 +3362,7 @@
         <version><![CDATA[3.4.5]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3394,10 +3394,10 @@
         <additional_description>
             <![CDATA[All-in one payment solution:Combined merchant account and payment gateway for fast &amp; easy on-boardingAbility to board merchants globallyNo long-term contracts or setup fees, and the most competitive transaction fees in the industryHigher payment conversionsMinimized PCI Scope]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[2.0.26]]></version>
+        <version><![CDATA[2.0.27]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3431,7 +3431,7 @@
         <version><![CDATA[1.3.11]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3466,7 +3466,7 @@
         <version><![CDATA[0.4.12]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3497,7 +3497,7 @@
         <version><![CDATA[1.4.9]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3528,7 +3528,7 @@
         <version><![CDATA[1.4.6]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3565,7 +3565,7 @@
         <version><![CDATA[2.1.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3597,10 +3597,10 @@
         <additional_description>
             <![CDATA[Shipping Manager is an application that helps you manage your parcel shipments and create your shipping and return labels, both domestic and international.   &bull; Easy to integrate, plug and play.  &bull; Simple integration in your online shop: during the order process your customers will not even notice they have been transferred to Shipping Manager  &bull; Immediate access to the three bpost delivery methods:  o Home delivery o Delivery to a pick-up point o Delivery to a parcel locker  &bull; Management of your parcel deliveries through the Administration module (label printing, parcel tracking, parcel preparation follow-up).  &bull; Thanks to its adaptive design, the graphical user interface automatically changes to suit the customer&rsquo;s viewing device (smartphone, tablet, PC).  &bull; Configuration of prices based on delivery method, immediately visible in the online shop  &bull; Access to the most popular options for your shipments (signature, basic insurance, automatic second presentation)  &bull; Printing directly from the backend of Prestashop  &bull; Track and trace your parcels online from the backend]]></additional_description>
         <tab><![CDATA[shipping_logistics]]></tab>
-        <version><![CDATA[1.60.0]]></version>
+        <version><![CDATA[1.61.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3630,12 +3630,12 @@
         <description_full>
             <![CDATA[The DPD France module allows you to add several delivery options to your check-out: pick-up points, home and office delivery, etc. and take advantage of an automated system for managing your orders.]]></description_full>
         <additional_description>
-            <![CDATA[Choose a high-quality service, choose DPD France: deliveries in 24/48 hours, detailed tracking information online, local support and more.&nbsp;Integrate our module in just a few clicks and enjoy several innovative delivery options to satisfy your customers.]]></additional_description>
+            <![CDATA[Choose a high-quality service, choose DPD France: deliveries in 24/48 hours, detailed tracking information online, local support and more. Integrate our module in just a few clicks and enjoy several innovative delivery options to satisfy your customers.]]></additional_description>
         <tab><![CDATA[shipping_logistics]]></tab>
         <version><![CDATA[5.2.5]]></version>
         <compatibility>
             <from><![CDATA[1.3.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3646,6 +3646,10 @@
             <badge label="Socio Oficial de PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
+        <cover>
+            <small><![CDATA[https://medias3.prestastore.com/663562-pprod/dpd-france-delivery.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/663562-pbig/dpd-france-delivery.jpg]]></big>
+        </cover>
     </module>
     <module>
         <id><![CDATA[19428]]></id>
@@ -3666,7 +3670,7 @@
         <version><![CDATA[3.0.8]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3701,7 +3705,7 @@
         <version><![CDATA[4.4.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.2.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3723,20 +3727,20 @@
         <displayName><![CDATA[eWAY Official Payments Module]]></displayName>
         <categoryName><![CDATA[Pago con Tarjeta o Carteras digitales]]></categoryName>
         <description>
-            <![CDATA[eWAY is a leading all-in-one secure payments platform, allowing businesses to accept secure credit card payments from customers around the world]]></description>
-        <author><![CDATA[Community developer]]></author>
+            <![CDATA[eWAY is a leading all-in-one secure payments platform, allowing businesses&nbsp;to accept secure credit card payments from customers around the world]]></description>
+        <author><![CDATA[PrestaShop Partners]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/19828-eway-official-payments-module.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/19828.jpg]]></img>
         <description_full>
-            <![CDATA[eWAY is a leading all-in-one secure payments platform, allowing businesses to accept secure credit card payments from customers around the world. ]]></description_full>
+            <![CDATA[eWAY is a leading all-in-one secure payments platform, allowing businesses&nbsp;to accept secure credit card payments from customers around the world.]]></description_full>
         <additional_description>
-            <![CDATA[Securely accept card payments from your PrestaShop store - customers enter their card details in your store and the data is sent directly to eWAY for processing.Increase checkout completion by offering multiple payment options: credit card, PayPal and MasterPass by MasterCard.Works with eWAY's anti-fraud technologies to help smash fraud.Test your store out with the eWAY Sandbox]]></additional_description>
+            <![CDATA[Securely accept card payments from your PrestaShop store - customers enter their card details in your store and the data is sent directly to eWAY for processing.Increase checkout completion by offering multiple payment options: credit card, PayPal and MasterPass by MasterCard.Works with eWAY&#39;s anti-fraud technologies to help smash fraud.Test your store out with the eWAY Sandbox]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[3.4.5]]></version>
+        <version><![CDATA[3.4.6]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3750,6 +3754,41 @@
         <cover>
             <small><![CDATA[https://medias1.prestastore.com/840025-pprod/eway-official-payments-module.jpg]]></small>
             <big><![CDATA[https://medias2.prestastore.com/840025-pbig/eway-official-payments-module.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[20283]]></id>
+        <name><![CDATA[brainify]]></name>
+        <displayName><![CDATA[Brainify Analytics]]></displayName>
+        <categoryName><![CDATA[Informes y Estadísticas]]></categoryName>
+        <description>
+            <![CDATA[Gain time and make the best possible marketing decisions thanks to E-commerce analytics.Take control of your data]]></description>
+        <author><![CDATA[PrestaShop Partners]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/informes-estadisticas/20283-brainify-analytics.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/20283.jpg]]></img>
+        <description_full>
+            <![CDATA[Gain time and make the best possible marketing decisions thanks to E-commerce analytics.Take control of your data.&nbsp;]]></description_full>
+        <additional_description>
+            <![CDATA[Managing your e-commerce site has never been so simple. Brainify Anayltics focuses on the key elements of the online sale cycle and summarises this strategic data in the form of an array of dashboards.&nbsp;&nbsp;At each key step in your selling cycle you will be guided by a beautifully designed dashboard, summarising the essential data.&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp; Acquisition2.&nbsp;&nbsp;&nbsp;&nbsp; Sales3.&nbsp;&nbsp;&nbsp;&nbsp; Products4.&nbsp;&nbsp;&nbsp;&nbsp; Costumers5.&nbsp;&nbsp;&nbsp;&nbsp; Cross sell&nbsp;Don&rsquo;t miss an important event and gain time by leaving Brainify to summarise the most important elements of your commercial strategy.Don&rsquo;t let the secrets of your data pass you by damaging your daily turnover.&nbsp;Receive suggestions of performance enhancing tools to improve your performance.&nbsp;Take control of your e-business and join the e commerce republic thanks to free e-commerce analytics.The magic is in your data, it becomes a toy to help you to act more quickly by enabling a simple and efficient understanding.]]></additional_description>
+        <tab><![CDATA[analytics_stats]]></tab>
+        <version><![CDATA[3.0.13]]></version>
+        <compatibility>
+            <from><![CDATA[1.5.0.0]]></from>
+            <to><![CDATA[1.6.1.18]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
+            <small><![CDATA[https://medias3.prestastore.com/692066-pprod/brainify-analytics.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/692066-pbig/brainify-analytics.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -3771,7 +3810,7 @@
         <version><![CDATA[1.9.16]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3837,7 +3876,7 @@
         <version><![CDATA[1.2.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3872,7 +3911,7 @@
         <version><![CDATA[1.0.4]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3907,7 +3946,7 @@
         <version><![CDATA[2.1.5]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -3929,20 +3968,20 @@
         <displayName><![CDATA[Amazon Pay]]></displayName>
         <categoryName><![CDATA[Pago con Tarjeta o Carteras digitales]]></categoryName>
         <description>
-            <![CDATA[Amazon Pay ayuda a millones de clientes de Amazon a iniciar sesi&oacute;n y pagar en webs de terceros utilizando la informaci&oacute;n de pago y env&iacute;o almacenada en sus cuentas de Amazon]]></description>
+            <![CDATA[Una soluci&oacute;n de pago conocida y fiable que permite a los clientes utilizar sus credenciales de uso habitual para identificarse y realizar transacciones en tu web]]></description>
         <author><![CDATA[Patworx Multimedia]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/21293-amzpayments.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/21293.jpg]]></img>
         <description_full>
-            <![CDATA[Amazon Pay ayuda a millones de clientes de Amazon a iniciar sesi&oacute;n y pagar en webs de terceros utilizando la informaci&oacute;n de pago y env&iacute;o almacenada en sus cuentas de Amazon. Amazon Pay tambi&eacute;n ayuda a los vendedores a atraer nuevos clientes, potenciar las ventas y convertir a meros visitantes en compradores.&nbsp;&nbsp;    &nbsp;]]></description_full>
+            <![CDATA[Una soluci&oacute;n de pago conocida y fiable que permite a los clientes utilizar sus credenciales de uso habitual para identificarse y realizar transacciones en tu web. Amazon Pay puede ayudarte a atraer, conservar clientes fieles y por supuesto potenciar las ventas.&nbsp;&nbsp;    &nbsp;]]></description_full>
         <additional_description>
             <![CDATA[Amazon Pay puede ayudarte a:Fomentar la fidelidad de tus clientesAtraer nuevos clientesAumentar la conversi&oacute;nReducir el fraudeOptimizar la experiencia de pago desde m&oacute;viles &iexcl;Reg&iacute;strate ya en Amazon Pay!]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[2.0.66]]></version>
+        <version><![CDATA[2.1.02]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4012,7 +4051,7 @@
         <version><![CDATA[1.0.7]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4078,7 +4117,7 @@
         <version><![CDATA[2.1.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4110,10 +4149,10 @@
         <additional_description>
             <![CDATA[Carts Guru te ayudar&aacute; a convertir tus &quot;casi compradores&quot; en ventas.&nbsp;Retargeting multicanal con Correos Electr&oacute;nicos, Facebook Ads, Instagram, SMS y Llamadas Autom&aacute;ticasConvierte m&aacute;s del 20% de tus cestas de compra abandonadasSugerencias autom&aacute;ticas para mejorar siempre tus reglas de campa&ntilde;a&nbsp;Carts Guru es tu soluci&oacute;n integral de retargeting.&nbsp;Pru&eacute;balo gratis durante 14 d&iacute;as. No hace falta tarjeta de cr&eacute;dito.&nbsp;Solo pagas comisi&oacute;n cuando Carts Guru convierte tus carros de compra en ventas.&nbsp;Visita nuestra p&aacute;gina web: https://carts.guru/es/prestashop]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.4.6]]></version>
+        <version><![CDATA[1.4.9]]></version>
         <compatibility>
             <from><![CDATA[1.4.0.1]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4150,7 +4189,7 @@
         <version><![CDATA[2.3.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4187,7 +4226,7 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4198,6 +4237,41 @@
             <badge label="Socio Oficial de PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
+    </module>
+    <module>
+        <id><![CDATA[22827]]></id>
+        <name><![CDATA[satispay]]></name>
+        <displayName><![CDATA[Satispay]]></displayName>
+        <categoryName><![CDATA[Pago]]></categoryName>
+        <description>
+            <![CDATA[Satispay is a new mobile payment system that allows users to pay in physical and online stores, send money to friends, all within a few simple clicks]]></description>
+        <author><![CDATA[PrestaShop Partners]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/pago/22827-satispay.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/22827.jpg]]></img>
+        <description_full>
+            <![CDATA[Satispay is a new mobile payment system that allows users to pay in physical and online stores, send money to friends, all within a few simple clicks.]]></description_full>
+        <additional_description>
+            <![CDATA[Satispay is a new mobile payment system that allows users to pay in physical and online stores, send money to friends, as well as top up phone credit; all within a few simple clicks. The app for consumers is intuitive, secure and available for Android, iOS and Windows Phone.&nbsp;&nbsp;Satispay is not only fast but it also allows you to reduce the cost and increase the security of accepting digital payments making it the ideal solution for businesses. Customers make purchases by simply inserting their IBAN number and confirming the payment request from their smartphone. The simplified process reduces the barriers for consumers resulting in fewer abandoned carts at checkout.&nbsp;In order to activate the service, you must complete the free signup for Satispay Business via the following link: https://business.satispay.com/signup. Joining Satispay is free as there are no activation costs, monthly fees,&nbsp;or deactivation charges.&nbsp;&nbsp;The only fee is a commission of:0.5% on payments less than or equal to 10&euro;0.5% + 0.20&euro; for payments greater than 10&euro;&nbsp;For more information, visit our pricing page: https://www.satispay.com/en/pricing.]]></additional_description>
+        <tab><![CDATA[payments_gateways]]></tab>
+        <version><![CDATA[1.4.2]]></version>
+        <compatibility>
+            <from><![CDATA[1.5.0.0]]></from>
+            <to><![CDATA[1.7.3.0]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
+            <small><![CDATA[https://medias1.prestastore.com/942414-pprod/satispay.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/942414-pbig/satispay.jpg]]></big>
+        </cover>
     </module>
     <module>
         <id><![CDATA[22855]]></id>
@@ -4218,7 +4292,7 @@
         <version><![CDATA[2.2.3]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4253,7 +4327,7 @@
         <version><![CDATA[4.0.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4309,20 +4383,19 @@
         <displayName><![CDATA[QuickBooks]]></displayName>
         <categoryName><![CDATA[Contabilidad y Facturas]]></categoryName>
         <description>
-            <![CDATA[Quickbooks is only available in France on PrestaShop Addons for the moment&nbsp;]]></description>
+            <![CDATA[Quickbooks is only available in France on PrestaShop Addons for the moment ]]></description>
         <author><![CDATA[PrestaShop Partners]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/contabilidad-facturas/23737-quickbooks.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/23737.jpg]]></img>
         <description_full>
-            <![CDATA[Quickbooks is only available in France on PrestaShop Addons for the moment&nbsp;]]></description_full>
-        <additional_description>
-            <![CDATA[Make your a business a success with Quickbooks : manage your invoices, automate your VAT, follow your cash in real-time, customize your reports that help you manage your shop&hellip;. Take advantage of the worldwide leader of cloud solutions for small businesses !]]></additional_description>
+            <![CDATA[Quickbooks is only available in France on PrestaShop Addons for the moment ]]></description_full>
+        <additional_description><![CDATA[]]></additional_description>
         <tab><![CDATA[billing_invoicing]]></tab>
-        <version><![CDATA[1.0.2]]></version>
+        <version><![CDATA[1.0.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4357,7 +4430,7 @@
         <version><![CDATA[1.0.6]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4392,7 +4465,7 @@
         <version><![CDATA[1.0.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4427,7 +4500,7 @@
         <version><![CDATA[2.2.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.1.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4451,20 +4524,20 @@
         <displayName><![CDATA[Oyst]]></displayName>
         <categoryName><![CDATA[Pago con Tarjeta o Carteras digitales]]></categoryName>
         <description>
-            <![CDATA[Oyst has 2 products:Oyst FreePay, a 100% free payment solution : 0% of transaction feesOyst, a purchase button in 1 click]]></description>
+            <![CDATA[Oyst 1-Click is a purchase button in 1-Click directly from the product page]]></description>
         <author><![CDATA[PrestaShop Partners]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/24393-oyst.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/24393.jpg]]></img>
         <description_full>
-            <![CDATA[Oyst has 2 products:Oyst FreePay, a 100% free payment solution : 0% of transaction feesOyst, a purchase button in 1 click]]></description_full>
+            <![CDATA[Oyst 1-Click is a purchase button in 1-Click directly from the product page.]]></description_full>
         <additional_description>
-            <![CDATA[Oyst FreePay is completely Free !0% fees per transaction0€ subscription0€ installation Oyst FreePay is a full service payment solution Accepts all major credit cards : Visa, Mastercard, American Express and moreOptimized fraud prevention and detection systemInternational payment system with credit card acceptance in over 150 countriesAny device (tablet, smartphone, desktop) Easy to use with the Oyst FreePay Back Office Real-time cashflow : follow your cashflow in real-time with Oyst FreePay's reconciliation toolStatistical analysis : view stats on total transactions, revenue and available cash at a glancePersonalized dashboard : customize your dashboard display with filter per day, week or month Guaranteed security An ultra-safe payment solution, Oyst FreePay reduces risk with unique authentication technology and anti-fraud tools that keep up to date with foul play. Oyst FreePay is also backed by ADYEN, one of the world’s leading payment solution providers, compatible with the PCI DSS regulation. Why is Oyst FreePay free?We retarget users with advertising through diverse channels : Google Adwords, Facebook, Display RTB, etc...]]></additional_description>
+            <![CDATA[Oyst 1-Click helps e-commerce website to multiply their conversion rate by 2 :&nbsp;multiply your conversion rate by 2 on desktop and by 5 on mobileprevent cart abandonment between the product page and the payment confirmationthrive thanks to Oyst community, our network effect will bring you more customersa boon for purchases on mobile where conversion rate are particularly low]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
         <version><![CDATA[1.1.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4475,6 +4548,10 @@
             <badge label="Socio Oficial de PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
+        <cover>
+            <small><![CDATA[https://medias2.prestastore.com/1000394-pprod/oyst.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/1000394-pbig/oyst.jpg]]></big>
+        </cover>
     </module>
     <module>
         <id><![CDATA[24482]]></id>
@@ -4492,10 +4569,10 @@
         <additional_description>
             <![CDATA[SendCloud is the smart shipping tool for e-commerce. With SendCloud you can easily print shipping labels in one click and ship packages with multiple carriers like DHL, DPD, UPS, Bpost, PostNL, Colissimo and many more.&nbsp;Time-saving shipping toolWith SendCloud you can optimize your entire shipping process. From importing orders, printing shipping labels, sending personalized tracking mails to managing returns, you can automate every step in your shipping process.&nbsp;&nbsp;Offer multiple delivery options and increase conversionResearch has shown that 67% of customers leave an online store during the checkout process. That&rsquo;s why it&rsquo;s important to offer multiple delivery options that fit your customers&rsquo; needs.&nbsp;Reduce shipping costs]]></additional_description>
         <tab><![CDATA[shipping_logistics]]></tab>
-        <version><![CDATA[1.1.2]]></version>
+        <version><![CDATA[1.1.3]]></version>
         <compatibility>
             <from><![CDATA[1.5.5.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4519,20 +4596,20 @@
         <displayName><![CDATA[CCBill USA, Canada, U.K. & EU]]></displayName>
         <categoryName><![CDATA[Pago con Tarjeta o Carteras digitales]]></categoryName>
         <description>
-            <![CDATA[CCBill&rsquo;s service includes a payment gateway, merchant account, smart payment forms, mobile tools, multiple currencies and languages, Level 1 PCI DSS Compliance, direct settlements and a menu of ]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
+            <![CDATA[CCBill’s service includes a payment gateway, merchant account, smart payment forms, mobile tools, multiple currencies and languages, Level 1 PCI DSS Compliance, direct settlements and a menu of tools ]]></description>
+        <author><![CDATA[Community developer]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/24626-ccbill-usa-canada-uk-eu.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/24626.jpg]]></img>
         <description_full>
-            <![CDATA[CCBill&rsquo;s service includes a payment gateway, merchant account, smart payment forms, mobile tools, multiple currencies and languages, Level 1 PCI DSS Compliance, direct settlements and a menu of tools to automate and expand your online business.&nbsp;]]></description_full>
+            <![CDATA[CCBill’s service includes a payment gateway, merchant account, smart payment forms, mobile tools, multiple currencies and languages, Level 1 PCI DSS Compliance, direct settlements and a menu of tools to automate and expand your online business. ]]></description_full>
         <additional_description>
-            <![CDATA[For Merchants located in United States, Canada, Europe and United KingdomPayments-as-a-Service: all-in-one processing for stores, items and subscriptionsNo credit checksSell to consumers worldwideProvide an international checkout instantlySet-it-and forget-it billing automation&nbsp;Your CCBill Account includes a COMPLETE PACKAGE OF PAYMENT TOOLS:Payment gateway, merchant account, fraud protection, risk management24/7/365 billing support for your shopperssmart, customizable payment forms, mobile checkoutmultiple currencies and languages, geo/browser targeted forms,flexible settlement of funds to anywhere and anyone you choose &ndash; and full accounting suite for settlementsdirect settlements and a menu of tools to automate and expand your online business commerce.Top-level PCI Compliance (Provider level)&nbsp;Your CCBill Account includes a variety of MARKETING AND TRAFFIC TOOLS:Real-time notices and distribution notificationsAffiliate software included with built-in affiliate managementIntegrated one-click cross-sale and upsale networkEasy upsales, multi-purchases, and add-on itemsBuilt-in A|B or split testingFlexible checkout flows to maximize approvalsInstant visual promos and special offers at checkout&nbsp;Your CCBill Account includes everything to EXPAND YOUR SALES GLOBALLY:Reduce cart abandonment with localized checkout pagesSmart checkout page displays automatically in shopper&rsquo;s local language, local currency, and preferred local payment typeIntelligent payment routing technologyCheckout page optimized for any screen &ndash; mobile, tablet, desktop, smart TVControl types of payments accepted on a local level and control gift card abuse]]></additional_description>
+            <![CDATA[For Merchants located in United States, Canada, Europe and United KingdomPayments-as-a-Service: all-in-one processing for stores, items and subscriptionsNo credit checksSell to consumers worldwideProvide an international checkout instantlySet-it-and forget-it billing automation Your CCBill Account includes a COMPLETE PACKAGE OF PAYMENT TOOLS:Payment gateway, merchant account, fraud protection, risk management24/7/365 billing support for your shopperssmart, customizable payment forms, mobile checkoutmultiple currencies and languages, geo/browser targeted forms,flexible settlement of funds to anywhere and anyone you choose – and full accounting suite for settlementsdirect settlements and a menu of tools to automate and expand your online business commerce.Top-level PCI Compliance (Provider level) Your CCBill Account includes a variety of MARKETING AND TRAFFIC TOOLS:Real-time notices and distribution notificationsAffiliate software included with built-in affiliate managementIntegrated one-click cross-sale and upsale networkEasy upsales, multi-purchases, and add-on itemsBuilt-in A|B or split testingFlexible checkout flows to maximize approvalsInstant visual promos and special offers at checkout Your CCBill Account includes everything to EXPAND YOUR SALES GLOBALLY:Reduce cart abandonment with localized checkout pagesSmart checkout page displays automatically in shopper’s local language, local currency, and preferred local payment typeIntelligent payment routing technologyCheckout page optimized for any screen – mobile, tablet, desktop, smart TVControl types of payments accepted on a local level and control gift card abuse]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
         <version><![CDATA[4.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4567,7 +4644,7 @@
         <version><![CDATA[1.0.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4584,43 +4661,6 @@
         </cover>
     </module>
     <module>
-        <id><![CDATA[24670]]></id>
-        <name><![CDATA[lecabflash]]></name>
-        <displayName><![CDATA[LeCabFLASH: express delivery by courier in Paris]]></displayName>
-        <categoryName><![CDATA[Transportistas]]></categoryName>
-        <description>
-            <![CDATA[LeCabFlash, steed the fastest and cheapest market for individuals and businesses. Express delivery 50% cheaper than the market price. Couriers dedicated to your deliveries]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/es/transportistas/24670-lecabflash-express-delivery-by-courier-in-paris.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/24670.jpg]]></img>
-        <description_full>
-            <![CDATA[LeCabFlash, steed the fastest and cheapest market for individuals and businesses. Express delivery 50% cheaper than the market price. Couriers dedicated to your deliveries.]]></description_full>
-        <additional_description>
-            <![CDATA[Speed guarantee: Our courier is dedicated to the delivery of your fold: no intermediate stopsfixed prices and no surprise: known Rates at time of booking and calculated based on kilometers traveledAvailability: 8 am guaranteed delivery to 23h, Monday to SundaySafe: Our couriers are insured and your parcels are protected. Pinpoint your steed at any time]]></additional_description>
-        <tab><![CDATA[shipping_logistics]]></tab>
-        <version><![CDATA[1.1.2]]></version>
-        <compatibility>
-            <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Socio Oficial de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
-        </badges>
-        <cover>
-            <small>
-                <![CDATA[https://medias3.prestastore.com/795512-pprod/lecabflash-express-delivery-by-courier-in-paris.jpg]]></small>
-            <big>
-                <![CDATA[https://medias2.prestastore.com/795512-pbig/lecabflash-express-delivery-by-courier-in-paris.jpg]]></big>
-        </cover>
-    </module>
-    <module>
         <id><![CDATA[24769]]></id>
         <name><![CDATA[xsellco]]></name>
         <displayName><![CDATA[xSellco Helpdesk]]></displayName>
@@ -4632,9 +4672,9 @@
             <![CDATA[https://addons.prestashop.com/es/servicio-posventa/24769-xsellco-helpdesk.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/24769.jpg]]></img>
         <description_full>
-            <![CDATA[xSellco is the leading e-commerce help desk, tailored specifically for online retailers. Centralize customer queries and order details from your Prestashop and other sales channels like Amazon, eBay and more in one simple dashboard. &nbsp;&nbsp;]]></description_full>
+            <![CDATA[xSellco is the leading e-commerce help desk, tailored specifically for online retailers. Centralize customer queries and order details from your Prestashop and other sales channels like Amazon, eBay and more in one simple dashboard.   ]]></description_full>
         <additional_description>
-            <![CDATA[Save time and costs on customer supportProvide faster responsesExpand globally with in-built auto-translateFree live chat/contact formUnlimited usersUnlimited channelsCollaborative team dashboardNo overlapping query responsesMeasure team performanceTrack key metrics like response times and message volume for different query types like Returns.&nbsp;]]></additional_description>
+            <![CDATA[Save time and costs on customer supportSend fast, personal responsesExpand to new international markets with built-in auto-translateAnswer queries in real time with live chatUnlimited usersLive connections to 60+ e-commerce channelsCollaborative team dashboardNo overlapping query responsesMeasure team performance to ensure you meet your customers' expectationsTrack key metrics like response times and message volume for different query types so you can focus on areas that need improvement]]></additional_description>
         <tab><![CDATA[administration]]></tab>
         <version><![CDATA[1.0.0]]></version>
         <compatibility>
@@ -4650,10 +4690,6 @@
             <badge label="Socio Oficial de PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
-        <cover>
-            <small><![CDATA[https://medias3.prestastore.com/796548-pprod/xsellco-helpdesk.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/796548-pbig/xsellco-helpdesk.jpg]]></big>
-        </cover>
     </module>
     <module>
         <id><![CDATA[24856]]></id>
@@ -4674,7 +4710,7 @@
         <version><![CDATA[1.4.3]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4739,7 +4775,7 @@
         <version><![CDATA[1.5.2]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4753,43 +4789,6 @@
         <cover>
             <small><![CDATA[https://medias3.prestastore.com/811459-pprod/stripe-oficial.jpg]]></small>
             <big><![CDATA[https://medias1.prestastore.com/811459-pbig/stripe-oficial.jpg]]></big>
-        </cover>
-    </module>
-    <module>
-        <id><![CDATA[25001]]></id>
-        <name><![CDATA[salesmanago]]></name>
-        <displayName><![CDATA[SALESmanago Marketing Automation para eCommerce]]></displayName>
-        <categoryName><![CDATA[Remarketing y Carritos abandonados]]></categoryName>
-        <description>
-            <![CDATA[Primera plataforma de Marketing Automation para eCommerce usada por más más de 6000 empresas. Prueba gratis con soporte profesional]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
-        <url>
-            <![CDATA[https://addons.prestashop.com/es/remarketing-carritos-abandonados/25001-salesmanago-marketing-automation-para-ecommerce.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
-        <img><![CDATA[https://medias1.prestastore.com/img/pico/25001.jpg]]></img>
-        <description_full>
-            <![CDATA[Primera plataforma de Marketing Automation para eCommerce usada por más más de 6000 empresas. Prueba gratis con soporte profesional.]]></description_full>
-        <additional_description>
-            <![CDATA[SALESmanago Marketing Automation para eCommerce ¿Qué te ofrece SALESmanago para tu tienda online?·         Convierte a tus visitantes en clientes, monitoriza lo que hacen en tu tienda web·         Segmenta automáticamente a tus visitantes según su comportamiento en la tienda web.·         Crea y envía contenido personalizado sin trabajo manual·         Crea tu propio chat utilizando bots SALESmanago es una plataforma de marketing automation basada en la nube utilizada por más de 6.000 empresas en todo el mundo, principalmente B2C y tiendas online. Utilizando la potencia del análisis en tiempo real del comportamiento en la web y en la aplicación móvil, SALESmanago permite a los clientes personalizar totalmente el email marketing, los contenidos dinámicos en la web, las redes sociales y el marketing móvil. ·         El precio de la licencia va desde 0$ mensuales con el soporte y la implementación incluidas.·         Campañas de email y mensajes enviados ilimitados.·         Sin límite de usuarios ni de acciones de marketing automation·         Preaviso de cancelación de un mes, sin riesgo para tu negocio, pagas si el sistema te funciona.·         Webinars de formación gratuitos.]]></additional_description>
-        <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[1.6.6]]></version>
-        <compatibility>
-            <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
-        </compatibility>
-        <price>
-            <EUR><![CDATA[0]]></EUR>
-            <USD><![CDATA[0]]></USD>
-            <GBP><![CDATA[0]]></GBP>
-        </price>
-        <badges>
-            <badge label="Socio Oficial de PrestaShop">
-                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
-        </badges>
-        <cover>
-            <small>
-                <![CDATA[https://medias1.prestastore.com/823879-pprod/salesmanago-marketing-automation-para-ecommerce.jpg]]></small>
-            <big>
-                <![CDATA[https://medias1.prestastore.com/823879-pbig/salesmanago-marketing-automation-para-ecommerce.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -4807,10 +4806,10 @@
         <additional_description>
             <![CDATA[ConversionImprove security for your website visitors&nbsp;TrafficOptimise your visibility in search results&nbsp;Your benefits:&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The established market leader in trust solutions&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collection of unlimited reviews at a fixed price&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Automated review collection&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customisable layout&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The leading European trustmark&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google partnership: star ratings, rich snippets, AdWords, Shopping&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facebook app&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile app to manage reviews&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expert support team&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Authentic customer reviews&nbsp;The effects of customer reviews: &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 10% of review requests are converted into reviews&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The average shopping basket value increases by up to 5%&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sales increase by up to 15% thanks to more customer trust&nbsp;Trusted Shops is the leading independent provider of trust solutions in e-commerce in Europe. More than 30,000 websites use Trusted Shops to turn customer trust into sales.Benefit now from the trust solution used by market leaders like Zalando, Thalia, Obi, Asos, Soletrader, Ugg and many more.]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[2.0.0]]></version>
+        <version><![CDATA[2.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4821,6 +4820,10 @@
             <badge label="Socio Oficial de PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
+        <cover>
+            <small><![CDATA[https://medias2.prestastore.com/943669-pprod/trusted-shops-reviews-toolkit.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/943669-pbig/trusted-shops-reviews-toolkit.jpg]]></big>
+        </cover>
     </module>
     <module>
         <id><![CDATA[25846]]></id>
@@ -4838,10 +4841,10 @@
         <additional_description>
             <![CDATA[Simplifying your online paymentsCashing of main means of paymentEffective anti-fraud devices&nbsp;]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[1.3.4]]></version>
+        <version><![CDATA[1.3.6]]></version>
         <compatibility>
-            <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <from><![CDATA[1.6.0.4]]></from>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4853,8 +4856,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/872272-pprod/comnpay.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/872272-pbig/comnpay.jpg]]></big>
+            <small><![CDATA[https://medias2.prestastore.com/998016-pprod/comnpay.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/998016-pbig/comnpay.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -4873,10 +4876,10 @@
         <additional_description>
             <![CDATA[No hace falta cargar y actualizar listas de suscriptoresCaptación de datos en tiempo real y segmentación, una vez instalado el modulo en tu pagina web. Editor de flujos de correo electrónico paso a pasoCrea flujos de correo electrónico mientras te tomas un café. Biblioteca de automatización de correo electrónico Elige entre decenas de campañas de correo electrónico prediseñadas y de eficacia probada.• Recuperación de carritos abandonados• Campaña de bienvenida• Correos de recuperación• Mejor cliente• Abandono de productos examinados• Correos electrónicos de reposición• Post compra• Felicitaciones PersonalizaciónGenera confianza y simpatía con correos personalizados que incluyan el nombre del lector, cumpleaños y otros detalles personales que los usuarios indican al registrarse. Integración con cualquier proveedor de servicios de correo electrónicoNo es necesario que cambies tu proveedor de servicio de correo electrónico. Simplemente crea tus flujos de correo electrónico dentro de TriggMine y conéctalos a tu proveedor de servicio de correo electrónico favorito. Periodo de prueba gratuito ilimitado.Triggmine no te cobra nada hasta que consigas tu primer hito de 1000$ en ventas mediante su automatización de email. Básicamente, no pagas nada hasta que consigas resultados sustanciales, lo cual es muy bien. ]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[3.0.23]]></version>
+        <version><![CDATA[3.24.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4911,7 +4914,7 @@
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4948,7 +4951,7 @@
         <version><![CDATA[1.0.20]]></version>
         <compatibility>
             <from><![CDATA[1.5.4.1]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -4983,7 +4986,7 @@
         <version><![CDATA[2.6.3]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5018,7 +5021,7 @@
         <version><![CDATA[1.2.49]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5054,7 +5057,7 @@
         <version><![CDATA[1.4.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.6.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5091,7 +5094,7 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5116,7 +5119,7 @@
         <categoryName><![CDATA[Newsletter y SMS]]></categoryName>
         <description>
             <![CDATA[Carglass, TESA, bugatti, DHL und REWE creen y env&iacute;en sus newsletters con CleverReach&reg;. Por qu&eacute;? Es muy facil]]></description>
-        <author><![CDATA[Community developer]]></author>
+        <author><![CDATA[PrestaShop Partners]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/newsletter-sms/26742-cleverreach-publicidad-por-correo-para-su-prestashop.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26742.jpg]]></img>
@@ -5128,7 +5131,7 @@
         <version><![CDATA[2.0.5]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5149,23 +5152,23 @@
     <module>
         <id><![CDATA[26804]]></id>
         <name><![CDATA[upela]]></name>
-        <displayName><![CDATA[Upela]]></displayName>
+        <displayName><![CDATA[Upela – La mejor manera para enviar tus paquetes]]></displayName>
         <categoryName><![CDATA[Transportistas]]></categoryName>
         <description>
-            <![CDATA[Upela.com te permite realizar envíos a más de 220 destinos con precios muy competitivos gracias a nuestras tarifas negociadas con más de 15 transportistas tanto nacionales como internacionales]]></description>
+            <![CDATA[Selecciona el transportista y el modo de entrega que más te convenga (entrega en oficina de Correos, servicio puerta a puerta en 24h o en 72h) y envía tus paquetes a través del módulo]]></description>
         <author><![CDATA[PrestaShop Partners]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/transportistas/26804-upela.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/transportistas/26804-upela-la-mejor-manera-para-enviar-tus-paquetes.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26804.jpg]]></img>
         <description_full>
-            <![CDATA[Upela.com te permite realizar envíos a más de 220 destinos con precios muy competitivos gracias a nuestras tarifas negociadas con más de 15 transportistas tanto nacionales como internacionales.&nbsp;]]></description_full>
+            <![CDATA[Selecciona el transportista y el modo de entrega que más te convenga (entrega en oficina de Correos, servicio puerta a puerta en 24h o en 72h) y envía tus paquetes a través del módulo. ¡Aprovecha nuestros precios con un descuento de hasta un 75%! ]]></description_full>
         <additional_description>
-            <![CDATA[Upela.com simplifica los envíos de los e-shops y las PyMES, proponiendo unas tarifas más que convenientes con un servicio de calidad. Aprovecha las múltiples ofertas que nuestros transportistas tanto nacionales como internacionales te proponen (hasta un 75% más barato) y nuestros servicios que facilitan la gestión en tus envíos: gana en la calidad del servicio que ofreces a tus clientes y gánate así su confianza.]]></additional_description>
+            <![CDATA[Upela simplifica tus envíos tanto si eres un e-shop, autónomo o PYME, proponiéndote un módulo de uso intuitivo para enviar los pedidos de tus clientes a través de nuestro módulo.Solo tendrás que escoger el transportista que se adapte a tus necesidades y proponer a tus clientes distintas modalidades de entrega como la entrega en una oficina de Correos, en un Punto Pack, o entrega a domicilio en 24h o 72h. Te ofrecemos tarifas hasta un 75% más baratas y un servicio de calidad puesto que trabajamos con los mejores. Gana en calidad de entrega de tus pedidos y mejora de esta forma la satisfacción de tus clientes. ]]></additional_description>
         <tab><![CDATA[shipping_logistics]]></tab>
-        <version><![CDATA[1.0.7]]></version>
+        <version><![CDATA[2.0.1]]></version>
         <compatibility>
-            <from><![CDATA[1.5.6.2]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <from><![CDATA[1.6.0.4]]></from>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5177,8 +5180,10 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias3.prestastore.com/842166-pprod/upela.jpg]]></small>
-            <big><![CDATA[https://medias3.prestastore.com/842166-pbig/upela.jpg]]></big>
+            <small>
+                <![CDATA[https://medias2.prestastore.com/842166-pprod/upela-la-mejor-manera-para-enviar-tus-paquetes.jpg]]></small>
+            <big>
+                <![CDATA[https://medias2.prestastore.com/842166-pbig/upela-la-mejor-manera-para-enviar-tus-paquetes.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -5187,20 +5192,20 @@
         <displayName><![CDATA[BS PAYONE payment official ]]></displayName>
         <categoryName><![CDATA[Pago con Tarjeta o Carteras digitales]]></categoryName>
         <description>
-            <![CDATA[The BS PAYONE Payment module offers seamless integration of all major payment methods like Credit Cards, PayPal, Invoice and bank wire payments]]></description>
+            <![CDATA[Benefit from the combination of Shopsoftware and payment-process completion]]></description>
         <author><![CDATA[PrestaShop Partners]]></author>
         <url>
-            <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/26911-bs-payone-payment-official-.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+            <![CDATA[https://addons.prestashop.com/es/pago-tarjeta-carteras-digitales/26911-bs-payone-payment-official.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/26911.jpg]]></img>
         <description_full>
-            <![CDATA[The BS PAYONE Payment module offers seamless integration of all major payment methods like Credit Cards, PayPal, Invoice and bank wire payments.]]></description_full>
+            <![CDATA[Benefit from the combination of Shopsoftware and payment-process completion. Thanks to the simple connection to the PAYONE platform and the seamless integration into your PrestaShop eShop, you will be able to fully automate all payment processes.]]></description_full>
         <additional_description>
-            <![CDATA[&nbsp; All payment methods from a single source&nbsp;&nbsp;&nbsp; Complete automation of all payment processes&nbsp;&nbsp;&nbsp; Seamless integration in the checkout process&nbsp;&nbsp;&nbsp; Centralised administration within PrestaShop&nbsp;&nbsp;&nbsp; No PCI DSS certification for you as merchant needed&nbsp;&nbsp;]]></additional_description>
+            <![CDATA[&nbsp;   All payment methods from a single source&nbsp;&nbsp;&nbsp; Complete automation of all payment processes&nbsp;&nbsp;&nbsp; Seamless integration in the checkout process&nbsp;&nbsp;&nbsp; Centralised administration within PrestaShop&nbsp;&nbsp;&nbsp; No PCI DSS certification for you as merchant needed&nbsp;&nbsp;]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
         <version><![CDATA[1.1.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5212,8 +5217,8 @@
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
         <cover>
-            <small><![CDATA[https://medias1.prestastore.com/942377-pprod/bs-payone-payment-official-.jpg]]></small>
-            <big><![CDATA[https://medias1.prestastore.com/942377-pbig/bs-payone-payment-official-.jpg]]></big>
+            <small><![CDATA[https://medias2.prestastore.com/942377-pprod/bs-payone-payment-official.jpg]]></small>
+            <big><![CDATA[https://medias1.prestastore.com/942377-pbig/bs-payone-payment-official.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -5235,7 +5240,7 @@
         <version><![CDATA[1.1.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5270,7 +5275,7 @@
         <version><![CDATA[1.3.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5305,7 +5310,7 @@
         <version><![CDATA[1.5.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5342,7 +5347,7 @@
         <version><![CDATA[1.1.93]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5379,7 +5384,7 @@
         <version><![CDATA[2.0.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.6.1.17]]></to>
+            <to><![CDATA[1.6.1.18]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5401,20 +5406,20 @@
         <displayName><![CDATA[DHL EXPRESS ® Official]]></displayName>
         <categoryName><![CDATA[Seguimiento de la entrega]]></categoryName>
         <description>
-            <![CDATA[Integrate the official DHL Express&reg; module for express delivery in France and internationnaly]]></description>
-        <author><![CDATA[PrestaShop Partners]]></author>
+            <![CDATA[Integrate the official DHL Express® module for express delivery in France and internationnaly]]></description>
+        <author><![CDATA[Community developer]]></author>
         <url>
             <![CDATA[https://addons.prestashop.com/es/seguimiento-entrega/27734-dhl-express-official.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
         <img><![CDATA[https://medias1.prestastore.com/img/pico/27734.jpg]]></img>
         <description_full>
-            <![CDATA[Integrate the official DHL Express&reg; module for express delivery in France and internationnaly.According to destination, provide 4 delivery modes : before 9am, before noon, end of day delivery &amp; economic offer within 48/96hours.]]></description_full>
+            <![CDATA[Integrate the official DHL Express® module for express delivery in France and internationnaly.According to destination, provide 4 delivery modes : before 9am, before noon, end of day delivery & economic offer within 48/96hours.]]></description_full>
         <additional_description>
-            <![CDATA[Enhance your international growth and in France in one click : no need of further development. All the services of the best logistician for international Express delivery door-to-door are included.&nbsp;Choose DHL Quality service:&nbsp;&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; preview your personnal quotation,&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; manage your shipments,&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; request for pickups,&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; manage return labels,&nbsp;&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; track your shipping&hellip;&nbsp;Within few clicks, configure your module &amp; take advantage of DHL innovative services for your online consumer everywhere in the world.&nbsp;]]></additional_description>
+            <![CDATA[Enhance your international growth and in France in one click : no need of further development. All the services of the best logistician for international Express delivery door-to-door are included. Choose DHL Quality service: ·        preview your personnal quotation,·        manage your shipments,·        request for pickups,·        manage return labels, ·        track your shipping… Within few clicks, configure your module & take advantage of DHL innovative services for your online consumer everywhere in the world. ]]></additional_description>
         <tab><![CDATA[shipping_logistics]]></tab>
-        <version><![CDATA[2.2.0]]></version>
+        <version><![CDATA[2.3.0]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5446,7 +5451,7 @@
         <additional_description>
             <![CDATA[Consolidar sus relaciones con los clientes y aumentar sus ventas con nuestra llave en mano soluci&oacute;n de SMS.&nbsp;Informa a tus clientes en tiempo real de la evoluci&oacute;n de su pedidoRecuerda a tus clientes las cestas de la compra olvidadasComunicar con eficacia todo tipo de eventos (rebajas, ventas privadas ...)Segmenta y sincroniza autom&aacute;ticamente tus contactos en nuestra plataformaRecibe una notificaci&oacute;n por SMS por cada nuevo registro, nuevo pedido o petici&oacute;n de devoluci&oacute;n de productosSigue y analiza los resultados de tus env&iacute;osControla tu presupuesto (sin cuotas mensuales, ni costes ocultos)Servicio de atenci&oacute;n al cliente y soporte en nuestra sede en FranciaPrecio de los m&aacute;s bajos del mercado]]></additional_description>
         <tab><![CDATA[emailing]]></tab>
-        <version><![CDATA[1.0.5]]></version>
+        <version><![CDATA[1.1.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.1.0]]></from>
             <to><![CDATA[1.7.2.4]]></to>
@@ -5484,7 +5489,7 @@
         <version><![CDATA[1.2.4]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5514,12 +5519,12 @@
         <description_full>
             <![CDATA[La personalizaci&oacute;n es imprescindible para todas las tiendas PrestaShop. &iexcl;Maximizar los ingresos y minimizar el esfuerzo es pan comido con Recolize!&nbsp;Inst&aacute;lelo de forma gratuita, no requiere tarjeta de cr&eacute;dito.]]></description_full>
         <additional_description>
-            <![CDATA[&iquest;Sab&iacute;a que la mayor parte de los usuarios que visitan su tienda online se van sin haber realizado ninguna acci&oacute;n?Optimice su tr&aacute;fico de usuarios con recomendaciones personalizadas de productos de forma completamente autom&aacute;tica e incite a sus clientes a comprar ofreciendo los productos adecuados en el momento adecuado.&nbsp;Sus clientes se lo agradecer&aacute;n con:&nbsp;tasas de conversi&oacute;n hasta 4 veces superioresingresos adicionales de hasta un 20&thinsp;%un aumento en el valor del pedido medio&nbsp;Ponga en marcha la soluci&oacute;n Recolize Plug &amp; Play de forma gratuita.Precios basados en el &eacute;xito: tras 1000 clics gratis al mes en las recomendaciones, solo pagar&aacute; 0,039&thinsp;&euro; por clic.]]></additional_description>
+            <![CDATA[&iquest;Sab&iacute;a que la mayor parte de los usuarios que visitan su tienda online se van sin haber realizado ninguna acci&oacute;n?Optimice su tr&aacute;fico de usuarios con recomendaciones personalizadas de productos de forma completamente autom&aacute;tica e incite a sus clientes a comprar ofreciendo los productos adecuados en el momento adecuado.&nbsp;Sus clientes se lo agradecer&aacute;n con:&nbsp;tasas de conversi&oacute;n hasta 4 veces superioresingresos adicionales de hasta un 20&thinsp;%un aumento en el valor del pedido medio&nbsp;Ponga en marcha la soluci&oacute;n Recolize Plug &amp; Play de forma gratuita.Precios basados en el &eacute;xito: tras 300 clics gratis al mes en las recomendaciones, solo pagar&aacute; 0,039&thinsp;&euro; por clic.]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
         <version><![CDATA[1.2.1]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5536,6 +5541,43 @@
             <small>
                 <![CDATA[https://medias2.prestastore.com/911321-pprod/recolize-la-personalizacion-plug-play.jpg]]></small>
             <big><![CDATA[https://medias3.prestastore.com/911321-pbig/recolize-la-personalizacion-plug-play.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[28374]]></id>
+        <name><![CDATA[glsitaly]]></name>
+        <displayName><![CDATA[GLS Corriere Espresso - Manage your shipments]]></displayName>
+        <categoryName><![CDATA[Transportistas]]></categoryName>
+        <description>
+            <![CDATA[Do you want to automate your shipments? This module do this for free.Exporting and updating orders, creating shipments and labels and tracking shipments won’t be an issue any more]]></description>
+        <author><![CDATA[PrestaShop Partners]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/transportistas/28374-gls-corriere-espresso-manage-your-shipments.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/28374.jpg]]></img>
+        <description_full>
+            <![CDATA[Do you want to automate your shipments? This module do this for free.Exporting and updating orders, creating shipments and labels and tracking shipments won’t be an issue any more.]]></description_full>
+        <additional_description>
+            <![CDATA[Thanks to the GLS module you can easily manage your shipments.With the module you can connect to the GLS tools, in particular to Sell&Send. Sell&Send has been created exactly for e-commerce sellers and with it you can:load orders in real time, including the ones coming from other e-commerce platformscreate shipments and printing labels with 3 clicks monitor deliveries thanks to a user-friendly control panelconfigure and customize emails to inform your customers on the shipment progress and, at the same time,  to send them promotional messagesupdate automatically the orders status on each e-commerce platform connected with Sell&Send Alternatively you can use Weblabeling to export Prestashop orders in a file and to load them creating shipments in a simple and error-proof manner. Both solutions automatically update the order status on Prestashop.]]></additional_description>
+        <tab><![CDATA[shipping_logistics]]></tab>
+        <version><![CDATA[0.1.9]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.4]]></from>
+            <to><![CDATA[1.7.2.5]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[https://medias1.prestastore.com/911759-pprod/gls-corriere-espresso-manage-your-shipments.jpg]]></small>
+            <big>
+                <![CDATA[https://medias3.prestastore.com/911759-pbig/gls-corriere-espresso-manage-your-shipments.jpg]]></big>
         </cover>
     </module>
     <module>
@@ -5557,7 +5599,7 @@
         <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5590,10 +5632,10 @@
         <additional_description>
             <![CDATA[By connecting Match2One to your website, the platform will automatically learn about your online audience - where to find new customers online, and target people who have visited your site. You can sit back and relax, Match2One&rsquo;s optimisation engine will automatically make intelligent choices for you.&nbsp;If you&rsquo;re looking for an advertising tool that will help you get more new customers, you&rsquo;ve come to the right place.&nbsp;Find new customers &rarr; A Prospecting campaign tracks, analyses data from your webshop and uses this to find similar customers online. This will help you drive more traffic and increase your sales.Convert more visitors &rarr; Retargeting converts visitors into buyers. Generally 2-3% of shoppers convert on the first visit to an online store. Retargeting brings back the other 97%. Retargeting works by tracking people who visit your site and showing your ads to them as they visit other sites online.]]></additional_description>
         <tab><![CDATA[advertising_marketing]]></tab>
-        <version><![CDATA[2.0.3]]></version>
+        <version><![CDATA[3.0.2]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5627,10 +5669,10 @@
         <additional_description>
             <![CDATA[eKomi, como proveedor externo del servicio de opiniones y valoraciones para negocios, es el l&iacute;der en este sector especializado en la recopilaci&oacute;n, gesti&oacute;n y publicaci&oacute;n tanto de opiniones de servicio como de producto. Gracias a nuestra constante innovaci&oacute;n y tecnolog&iacute;a l&iacute;der en el mercado, ofrecemos los m&eacute;todos m&aacute;s flexibles de recopilaci&oacute;n de opiniones los cuales te permiten llegar a todos tus clientes de manera online como offline, y preguntarles acerca de su opini&oacute;n.&nbsp; &nbsp;Recopila y muestra autom&aacute;ticamente opiniones y valoraciones tanto de servicio como de producto.Aumenta la confianza de tu negocio e impulsa la lealtad de tus clientes, logrando incrementar las ventas.Activa tu extensi&oacute;n Seller Rating y muestra estrellas en tus Anuncios (Google Adwords), llegando a aumentar tu ratio de clics (CTR) hasta en un 17%.Incentiva compras adicionales con nuestra funci&oacute;n integrada de cupones.Reduce las devoluciones al mostrar las valoraciones de los productos en las p&aacute;ginas de los productos a los que corresponden.&nbsp; En resumen, entre m&aacute;s valoraciones obtengas para tu negocio, conduces m&aacute;s tr&aacute;fico a tu p&aacute;gina web, generas m&aacute;s confianza en tus clientes existentes y en los potenciales, e impulsas tus ventas y tu ROI - as&iacute; que comienza hoy mismo!]]></additional_description>
         <tab><![CDATA[front_office_features]]></tab>
-        <version><![CDATA[1.0.1]]></version>
+        <version><![CDATA[1.3.0]]></version>
         <compatibility>
             <from><![CDATA[1.5.0.0]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.3.0]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5648,6 +5690,41 @@
         </cover>
     </module>
     <module>
+        <id><![CDATA[29122]]></id>
+        <name><![CDATA[snapcall]]></name>
+        <displayName><![CDATA[SnapCall, The digital call button]]></displayName>
+        <categoryName><![CDATA[Asistencia & Chat online]]></categoryName>
+        <description>
+            <![CDATA[SnapCall is a digital button that will allow your customers to call you directly from your site]]></description>
+        <author><![CDATA[Community developer]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/asistencia-chat-online/29122-snapcall-the-digital-call-button.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/29122.jpg]]></img>
+        <description_full>
+            <![CDATA[SnapCall is a digital button that will allow your customers to call you directly from your site. The call will arrive on an application (smartphone / tablet) by displaying the name, the first name and the detail of the basket of the customer.]]></description_full>
+        <additional_description>
+            <![CDATA[- Simplify the customer relationship: by allowing customers, in one click and without changing media, to contact the competent person to provide information -> Increase of the loyalty rate- Demultiply your qualified contacts: focus on the strategic points of the purchase tunnel and prospects with high potential -> Lower acquisition costs- Convert your prospects into customers: by responding to the users just when they have themneed to conclude a transaction -> Transformation rate development]]></additional_description>
+        <tab><![CDATA[front_office_features]]></tab>
+        <version><![CDATA[1.0.2]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.4]]></from>
+            <to><![CDATA[1.7.2.5]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
+            <small><![CDATA[https://medias2.prestastore.com/994344-pprod/snapcall-the-digital-call-button.jpg]]></small>
+            <big><![CDATA[https://medias2.prestastore.com/994344-pbig/snapcall-the-digital-call-button.jpg]]></big>
+        </cover>
+    </module>
+    <module>
         <id><![CDATA[29148]]></id>
         <name><![CDATA[rovercash]]></name>
         <displayName><![CDATA[RoverCash, NF525 Cash Register]]></displayName>
@@ -5660,10 +5737,10 @@
         <description_full><![CDATA[]]></description_full>
         <additional_description><![CDATA[]]></additional_description>
         <tab><![CDATA[payments_gateways]]></tab>
-        <version><![CDATA[1.0.3]]></version>
+        <version><![CDATA[1.0.4]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5674,6 +5751,74 @@
             <badge label="Socio Oficial de PrestaShop">
                 <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
         </badges>
+    </module>
+    <module>
+        <id><![CDATA[29150]]></id>
+        <name><![CDATA[steavisgarantis]]></name>
+        <displayName><![CDATA[Guaranteed Reviews Company, shop and product ratings]]></displayName>
+        <categoryName><![CDATA[Comentarios de clientes]]></categoryName>
+        <description>
+            <![CDATA[Shop and/or product reviews, Google stars, Trusted certificate, automatic validation (option), review files importation&hellip; Improve efficiently your e-reputation by highlighting your customer revi]]></description>
+        <author><![CDATA[Community developer]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/comentarios-clientes/29150-guaranteed-reviews-company-shop-and-product-ratings.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/29150.jpg]]></img>
+        <description_full>
+            <![CDATA[Shop and/or product reviews, Google stars, Trusted certificate, automatic validation (option), review files importation&hellip; Improve efficiently your e-reputation by highlighting your customer reviews.]]></description_full>
+        <additional_description>
+            <![CDATA[What do we do for you:Sending review requests to your customers through our server ( high deliverability)Collecting and attesting your customers reviews (delivered on our Trusted certificate)Highlighting your customers reviews on your online shop (several customizable widgets available)&nbsp;&nbsp;Impact on your sells:Increase your conversion rateGet more traffic on your rated product pages with Google Stars (applied automatically)Increase your average basket&nbsp;&nbsp;Not yet convinced ?Monitor your e-reputation (possibility to moderate your reviews)Reassure your customers thanks to the transparency indexPersonalize your widgets and review request emailsSave time managing your reviews thanks to our intuitive and performant platformPhone and email supportLess than 10 minutes to install and set up the moduleNo obligation]]></additional_description>
+        <tab><![CDATA[front_office_features]]></tab>
+        <version><![CDATA[5.1.1]]></version>
+        <compatibility>
+            <from><![CDATA[1.5.0.0]]></from>
+            <to><![CDATA[1.7.2.5]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+    </module>
+    <module>
+        <id><![CDATA[29441]]></id>
+        <name><![CDATA[divvit]]></name>
+        <displayName><![CDATA[Divvit - Intelligent Analytics for PrestaShop]]></displayName>
+        <categoryName><![CDATA[Informes y Estadísticas]]></categoryName>
+        <description>
+            <![CDATA[Divvit let&rsquo;s you easily compare all your marketing channels in one place and harness the power of order attribution to help you save time, money and increase revenue]]></description>
+        <author><![CDATA[Community developer]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/informes-estadisticas/29441-divvit-intelligent-analytics-for-prestashop.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/29441.jpg]]></img>
+        <description_full>
+            <![CDATA[Divvit let&rsquo;s you easily compare all your marketing channels in one place and harness the power of order attribution to help you save time, money and increase revenue.]]></description_full>
+        <additional_description>
+            <![CDATA[Divvit is the easiest way to harness the power of your data. With our analytics platform you&rsquo;ll be able to:Save Money - Track your marketing spend across all channels to ensure efficient spendingSave Time - Instantly get the most important metrics about your storeIncrease your Revenue - Make decisions based on data and not guesses...all the analytics you&rsquo;ll ever need in one solution!]]></additional_description>
+        <tab><![CDATA[analytics_stats]]></tab>
+        <version><![CDATA[1.2.0]]></version>
+        <compatibility>
+            <from><![CDATA[1.5.0.0]]></from>
+            <to><![CDATA[1.6.1.18]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[https://medias1.prestastore.com/988358-pprod/divvit-intelligent-analytics-for-prestashop.jpg]]></small>
+            <big>
+                <![CDATA[https://medias3.prestastore.com/988358-pbig/divvit-intelligent-analytics-for-prestashop.jpg]]></big>
+        </cover>
     </module>
     <module>
         <id><![CDATA[29551]]></id>
@@ -5691,10 +5836,10 @@
         <additional_description>
             <![CDATA[Una vez que te hayas conectado PrestaShop Addons con este m&oacute;dulo:Cada semana contar&aacute;s con un consejo de e-commerce, un truco relacionado con el calendario de e-commerce, al que podr&aacute;s acceder con un enlace que aparecer&aacute; directamente en tu panel de control (p.ej.: cu&aacute;ndo y c&oacute;mo prepararte para el Black Friday, para las promociones de la vuelta al cole...); &nbsp;Protege tu tienda gracias a los avisos de las &uacute;ltimas actualizaciones de seguridad para los m&oacute;dulos que te has descargado en PrestaShop Addons; &nbsp;Aprovecha las nuevas funcionalidades que van a&ntilde;adi&eacute;ndose a los m&oacute;dulos que te has descargado en PrestaShop Addons.]]></additional_description>
         <tab><![CDATA[administration]]></tab>
-        <version><![CDATA[1.0.0]]></version>
+        <version><![CDATA[1.0.1]]></version>
         <compatibility>
             <from><![CDATA[1.6.0.4]]></from>
-            <to><![CDATA[1.7.2.4]]></to>
+            <to><![CDATA[1.7.2.5]]></to>
         </compatibility>
         <price>
             <EUR><![CDATA[0]]></EUR>
@@ -5708,6 +5853,79 @@
         <cover>
             <small><![CDATA[https://medias2.prestastore.com/969423-pprod/actualizaciones-consejos.jpg]]></small>
             <big><![CDATA[https://medias2.prestastore.com/969423-pbig/actualizaciones-consejos.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[29700]]></id>
+        <name><![CDATA[coingate]]></name>
+        <displayName><![CDATA[Accept Payments in Bitcoin and other cryptocurrencies]]></displayName>
+        <categoryName><![CDATA[Otros métodos de pago]]></categoryName>
+        <description>
+            <![CDATA[Accept Bitcoin and other digital currencies (Altcoins) hassle-free with our automated cryptocurrency processing platform and invoice system. Get paid in Euros or U.S]]></description>
+        <author><![CDATA[PrestaShop Partners]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/otros-metodos-pago/29700-accept-payments-in-bitcoin-and-other-cryptocurrencies.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/29700.jpg]]></img>
+        <description_full>
+            <![CDATA[Accept Bitcoin and other digital currencies (Altcoins) hassle-free with our automated cryptocurrency processing platform and invoice system. Get paid in Euros or U.S. Dollars&nbsp;directly to your bank account or PayPal, or just keep the bitcoins!]]></description_full>
+        <additional_description>
+            <![CDATA[Start accepting Bitcoin and other cryptocurrencies in a matter of minutes!&nbsp;The extension allows PrestaShop stores to accept Bitcoin payments as well as Altcoins via the CoinGate API.&nbsp;Integration and configuration of our PrestaShop module is very straightforward, and the payment gateway is fully automated - you will receive automatic payment confirmations and order status updates.&nbsp;Accepting cryptocurrencies as a payment method&nbsp;Capture customers from an exciting new marketBitcoin price has been increasing steadily and, combined with altcoins, has already surpassed $100 bn market cap. People using Bitcoin are usually very supportive of companies accepting this kind of payments, which makes it easy to attract new Customers and to increase your sales.&nbsp;Accepting cryptocurrencies is cheapCredit card companies usually change up to 3% of the transaction amount and there are various additional fees. With CoinGate you can accept Bitcoin payments for only 1% from the transaction amount and there are no monthly, registration, or support fees.&nbsp;No risk of fraud and chargebacksBitcoin payments are irreversible by design. This means that you can accept payments from any country and be 100% guaranteed that the money you received will not be charged back.&nbsp;Protect customer privacyBitcoin payments do not rely on trusting the person making the payment, so there is no need to collect private information about your Customers to accept their payments. Bitcoin enables you to choose how little or how much you want to know about your Customers.]]></additional_description>
+        <tab><![CDATA[payments_gateways]]></tab>
+        <version><![CDATA[1.2.8]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.4]]></from>
+            <to><![CDATA[1.7.2.5]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[https://medias1.prestastore.com/965885-pprod/accept-payments-in-bitcoin-and-other-cryptocurrencies.jpg]]></small>
+            <big>
+                <![CDATA[https://medias2.prestastore.com/965885-pbig/accept-payments-in-bitcoin-and-other-cryptocurrencies.jpg]]></big>
+        </cover>
+    </module>
+    <module>
+        <id><![CDATA[30445]]></id>
+        <name><![CDATA[sisucheckout]]></name>
+        <displayName><![CDATA[Simplesurance cross-selling insurance]]></displayName>
+        <categoryName><![CDATA[Seguridad en los pagos ]]></categoryName>
+        <description>
+            <![CDATA[Increase your margins and your customer service. Offer your customers a fully digital customer journey by adding insurance service to the check out and increase customer satisfaction]]></description>
+        <author><![CDATA[PrestaShop Partners]]></author>
+        <url>
+            <![CDATA[https://addons.prestashop.com/es/seguridad-pagos-prestashop-modulos/30445-simplesurance-cross-selling-insurance.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download]]></url>
+        <img><![CDATA[https://medias1.prestastore.com/img/pico/30445.jpg]]></img>
+        <description_full>
+            <![CDATA[Increase your margins and your customer service. Offer your customers a fully digital customer journey by adding insurance service to the check out and increase customer satisfaction. Happy customers will always come back!]]></description_full>
+        <additional_description>
+            <![CDATA[Sell individual product insurances at the digital point of saleBoost profitRaise your marginIncrease customer serviceStand out from competition using a unique service add-onInsurance is added via Plugin to checkoutConversion Rate optimization through tests and measuresHelps customers make a quicker purchase decision]]></additional_description>
+        <tab><![CDATA[payment_security]]></tab>
+        <version><![CDATA[1.0.9]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.1.0]]></from>
+            <to><![CDATA[1.7.2.5]]></to>
+        </compatibility>
+        <price>
+            <EUR><![CDATA[0]]></EUR>
+            <USD><![CDATA[0]]></USD>
+            <GBP><![CDATA[0]]></GBP>
+        </price>
+        <badges>
+            <badge label="Socio Oficial de PrestaShop">
+                <![CDATA[https://medias2.prestastore.com/themes/prestastore/img/front/sprites/badges/ps-official-partner.png]]></badge>
+        </badges>
+        <cover>
+            <small>
+                <![CDATA[https://medias3.prestastore.com/986034-pprod/simplesurance-cross-selling-insurance.jpg]]></small>
+            <big><![CDATA[https://medias3.prestastore.com/986034-pbig/simplesurance-cross-selling-insurance.jpg]]></big>
         </cover>
     </module>
 </modules>

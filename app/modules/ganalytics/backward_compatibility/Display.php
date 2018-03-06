@@ -1,6 +1,6 @@
 <?php
 /*
-* 2007-2016 PrestaShop
+* 2007-2014 PrestaShop
 *
 * NOTICE OF LICENSE
 *
@@ -19,27 +19,30 @@
 * needs please refer to http://www.prestashop.com for more information.
 *
 *  @author PrestaShop SA <contact@prestashop.com>
-*  @copyright  2007-2016 PrestaShop SA
+*  @copyright  2007-2014 PrestaShop SA
 *  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 */
 
-class IndexControllerCore extends FrontController
+/**
+ * Class allow to display tpl on the FO
+ */
+class BWDisplay extends FrontController
 {
-    public $php_self = 'index';
+	// Assign template, on 1.4 create it else assign for 1.5
+	public function setTemplate($template)
+	{
+		if (_PS_VERSION_ >= '1.5')
+			parent::setTemplate($template);
+		else
+			$this->template = $template;
+	}
 
-    /**
-     * Assign template vars related to page content
-     * @see FrontController::initContent()
-     */
-    public function initContent()
-    {
-        parent::initContent();
-        $this->addJS(_THEME_JS_DIR_.'index.js');
-        $this->context->smarty->assign(array('HOOK_HOME' => Hook::exec('displayHome'),
-            'HOOK_HOME_TAB' => Hook::exec('displayHomeTab'),
-            'HOOK_HOME_TAB_CONTENT' => Hook::exec('displayHomeTabContent')
-        ));
-        $this->setTemplate(_PS_THEME_DIR_.'index.tpl');
-    }
+	// Overload displayContent for 1.4
+	public function displayContent()
+	{
+		parent::displayContent();
+
+		echo Context::getContext()->smarty->fetch($this->template);
+	}
 }
