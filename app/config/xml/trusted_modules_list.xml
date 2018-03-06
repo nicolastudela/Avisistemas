@@ -19,7 +19,7 @@
         <module name="pagseguro"/>
         <module name="sendinblue"/>
         <module name="payplug"/>
-        <module name="realexredirect"/>
+        <module name="realexpaymentshpp"/>
         <module name="bankwire"/>
         <module name="blockwishlist"/>
         <module name="carriercompare"/>
@@ -125,6 +125,7 @@
         <module name="mercadopagobr"/>
         <module name="chronopost"/>
         <module name="ewayrapid"/>
+        <module name="brainify"/>
         <module name="klarnaofficial"/>
         <module name="1and1hosting"/>
         <module name="payolution"/>
@@ -138,6 +139,7 @@
         <module name="cartsguru"/>
         <module name="cubyn"/>
         <module name="worldpay"/>
+        <module name="satispay"/>
         <module name="etranslation"/>
         <module name="correos"/>
         <module name="onehopsmsservice"/>
@@ -149,12 +151,10 @@
         <module name="sendcloud"/>
         <module name="ccbill"/>
         <module name="miwo"/>
-        <module name="lecabflash"/>
         <module name="xsellco"/>
         <module name="digitaleo"/>
         <module name="worldfirst"/>
         <module name="stripe_official"/>
-        <module name="salesmanago"/>
         <module name="trustedshopsintegration"/>
         <module name="comnpay"/>
         <module name="triggmine"/>
@@ -176,11 +176,17 @@
         <module name="mtarget"/>
         <module name="gestpay"/>
         <module name="recolize"/>
+        <module name="glsitaly"/>
         <module name="hermesc"/>
         <module name="match2one"/>
         <module name="ekomiratingsandreviews"/>
+        <module name="snapcall"/>
         <module name="rovercash"/>
+        <module name="steavisgarantis"/>
+        <module name="divvit"/>
         <module name="psaddonsconnect"/>
+        <module name="coingate"/>
+        <module name="sisucheckout"/>
         <module name="productmedia"/>
         <module name="pm_advancedpack"/>
         <module name="facebookpsshoptab"/>
@@ -189,6 +195,7 @@
         <module name="pm_advancedtopmenu"/>
         <module name="prestagiftvouchers"/>
         <module name="amazon"/>
+        <module name="protectmyshop"/>
         <module name="pm_advancedsearch4"/>
         <module name="dmuassocprodcat"/>
         <module name="blockyoutubevideos"/>
@@ -216,12 +223,14 @@
         <module name="freedeliverymanager"/>
         <module name="migrationpro"/>
         <module name="pushoncart"/>
+        <module name="lgbannerhost"/>
         <module name="hspointofsalepro"/>
         <module name="cartabandonmentpro"/>
         <module name="seoexpert"/>
         <module name="veplatform"/>
         <module name="totswitchattribute"/>
         <module name="supercheckout"/>
+        <module name="recaptcha"/>
         <module name="jmarketplace"/>
         <module name="orderedit"/>
         <module name="mailchimp"/>
@@ -274,8 +283,10 @@
         <module name="seoimg"/>
         <module name="pscookiebanner"/>
         <module name="psproductstats"/>
+        <module name="bmsprocurement"/>
         <module name="psgiftcards"/>
         <module name="totalsavings"/>
+        <module name="bmsorderpreparation"/>
         <module name="pssocialfeed"/>
     </modules>
 </modules_list>

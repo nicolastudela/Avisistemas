@@ -53,6 +53,9 @@
 				
 			</div><!-- .columns-container -->
 			{if isset($HOOK_FOOTER)}
+				<div style="display: none"/>
+					{$HOOK_FOOTER}
+				</div>
 				<!-- Footer -->
 				<div class="footer-container">
 					<footer id="footer">
