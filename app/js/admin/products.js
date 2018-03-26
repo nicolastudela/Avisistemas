@@ -198,7 +198,7 @@ function ProductTabsManager(){
 			});
 		}
 		/*In order to prevent mod_evasive DOSPageInterval (Default 1s)*/
-		var time = 0;
+		var time = 500;
 		if (mod_evasive) {
 			time = 1000;
 		}
